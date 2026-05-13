@@ -1,0 +1,17 @@
+[2026-05-05T08:29:46.666+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-05-05T08:29:46.701+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: movie_batch_pipeline_dag.extract_tmdb_trending manual__2026-05-05T08:29:43.702302+00:00 [queued]>
+[2026-05-05T08:29:46.711+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: movie_batch_pipeline_dag.extract_tmdb_trending manual__2026-05-05T08:29:43.702302+00:00 [queued]>
+[2026-05-05T08:29:46.711+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2026-05-05T08:29:46.726+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): extract_tmdb_trending> on 2026-05-05 08:29:43.702302+00:00
+[2026-05-05T08:29:46.733+0000] {standard_task_runner.py:63} INFO - Started process 60 to run task
+[2026-05-05T08:29:46.737+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'movie_batch_pipeline_dag', 'extract_tmdb_trending', 'manual__2026-05-05T08:29:43.702302+00:00', '--job-id', '13', '--raw', '--subdir', 'DAGS_FOLDER/movie_batch_pipeline_dag.py', '--cfg-path', '/tmp/tmp142hi5ir']
+[2026-05-05T08:29:46.739+0000] {standard_task_runner.py:91} INFO - Job 13: Subtask extract_tmdb_trending
+[2026-05-05T08:29:46.813+0000] {task_command.py:426} INFO - Running <TaskInstance: movie_batch_pipeline_dag.extract_tmdb_trending manual__2026-05-05T08:29:43.702302+00:00 [running]> on host 2d67c1afb5fc
+[2026-05-05T08:29:46.904+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='wendi' AIRFLOW_CTX_DAG_ID='movie_batch_pipeline_dag' AIRFLOW_CTX_TASK_ID='extract_tmdb_trending' AIRFLOW_CTX_EXECUTION_DATE='2026-05-05T08:29:43.702302+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-05-05T08:29:43.702302+00:00'
+[2026-05-05T08:29:46.905+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-05-05T08:29:47.130+0000] {python.py:237} INFO - Done. Returned value was: /opt/***/data/raw/movie/tmdb_trending/dateVersion=2026-05-05/run_id=20260505T082946/part-0001.json
+[2026-05-05T08:29:47.131+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-05-05T08:29:47.165+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=movie_batch_pipeline_dag, task_id=extract_tmdb_trending, run_id=manual__2026-05-05T08:29:43.702302+00:00, execution_date=20260505T082943, start_date=20260505T082946, end_date=20260505T082947
+[2026-05-05T08:29:47.192+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2026-05-05T08:29:47.215+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-05-05T08:29:47.218+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

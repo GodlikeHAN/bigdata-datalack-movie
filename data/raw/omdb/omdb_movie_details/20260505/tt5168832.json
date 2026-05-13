@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt5168832",
+  "ingestion_time_utc": "2026-05-05T09:25:18.295424+00:00",
+  "data": {
+    "Title": "After Porn Ends 2",
+    "Year": "2017",
+    "Rated": "TV-MA",
+    "Released": "28 Mar 2017",
+    "Runtime": "90 min",
+    "Genre": "Documentary",
+    "Director": "Bryce Wagoner",
+    "Writer": "N/A",
+    "Actors": "Lisa Ann, Georgina Spelvin, Darren James",
+    "Plot": "After Porn Ends 2 turns back the clock to meet the oldest living stars in adult film's history, but goes in depth with some of its most current retirees, and juxtaposes their experiences in a life after porn.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjgxNzUxMWMtMjM4MC00NjBiLTkxM2EtMWY5YzBhNDI2ZmY3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.5/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.5",
+    "imdbVotes": "2,886",
+    "imdbID": "tt5168832",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

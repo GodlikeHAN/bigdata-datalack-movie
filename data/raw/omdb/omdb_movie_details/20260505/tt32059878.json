@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt32059878",
+  "ingestion_time_utc": "2026-05-05T09:25:15.734891+00:00",
+  "data": {
+    "Title": "The Crucifix: Blood of the Exorcist",
+    "Year": "2025",
+    "Rated": "N/A",
+    "Released": "30 May 2025",
+    "Runtime": "94 min",
+    "Genre": "Horror",
+    "Director": "Stephen Roach",
+    "Writer": "Robert Howgate",
+    "Actors": "Hannaj Bang Bendz, Alex Walton, Nicholas Anscombe",
+    "Plot": "A gruesome discovery in the grounds of their new home plunges a young couple into a maelstrom of spiritual possession, pagan rituals, viking battles, and violent revenge.",
+    "Language": "English",
+    "Country": "United Kingdom",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDEzODdiY2EtYTVmOS00ODUxLTkzN2YtNjg0YzZkMzk5NDllXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "71",
+    "imdbID": "tt32059878",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

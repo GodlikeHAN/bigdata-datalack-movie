@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt26349732",
+  "ingestion_time_utc": "2026-05-05T09:25:13.126032+00:00",
+  "data": {
+    "Title": "Insidious Inferno",
+    "Year": "2023",
+    "Rated": "N/A",
+    "Released": "09 Sep 2023",
+    "Runtime": "97 min",
+    "Genre": "Horror",
+    "Director": "Calvin Morie McCarthy",
+    "Writer": "Calvin Morie McCarthy",
+    "Actors": "Stephanie Leet, Neil Green, Chynna Rae Shurts",
+    "Plot": "A secluded cottage is plagued by gruesome murders and unbeknownst to the inhabitants something other worldly lurks within the halls. Can the couple solve the mystery of the cursed grounds in time or will they open the door to the ...",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWQ4MDVhY2YtMWU1OC00YTQ4LTk4OTAtOThhZGE5YTNkNTg2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "2.5/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "2.5",
+    "imdbVotes": "232",
+    "imdbID": "tt26349732",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

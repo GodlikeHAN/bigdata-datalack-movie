@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 440249,
+  "ingestion_time_utc": "2026-05-05T09:25:08.059870+00:00",
+  "data": {
+    "id": 440249,
+    "imdb_id": "tt5168832",
+    "wikidata_id": "Q48013711",
+    "facebook_id": "afterpornends2",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

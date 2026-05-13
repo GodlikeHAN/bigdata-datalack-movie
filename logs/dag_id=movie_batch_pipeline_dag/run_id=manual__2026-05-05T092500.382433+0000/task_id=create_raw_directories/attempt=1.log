@@ -1,0 +1,17 @@
+[2026-05-05T09:25:01.811+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-05-05T09:25:01.834+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: movie_batch_pipeline_dag.create_raw_directories manual__2026-05-05T09:25:00.382433+00:00 [queued]>
+[2026-05-05T09:25:01.843+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: movie_batch_pipeline_dag.create_raw_directories manual__2026-05-05T09:25:00.382433+00:00 [queued]>
+[2026-05-05T09:25:01.844+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2026-05-05T09:25:01.858+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): create_raw_directories> on 2026-05-05 09:25:00.382433+00:00
+[2026-05-05T09:25:01.864+0000] {standard_task_runner.py:63} INFO - Started process 50 to run task
+[2026-05-05T09:25:01.867+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'movie_batch_pipeline_dag', 'create_raw_directories', 'manual__2026-05-05T09:25:00.382433+00:00', '--job-id', '23', '--raw', '--subdir', 'DAGS_FOLDER/movie_batch_pipeline_dag.py', '--cfg-path', '/tmp/tmp8ijrq4z6']
+[2026-05-05T09:25:01.869+0000] {standard_task_runner.py:91} INFO - Job 23: Subtask create_raw_directories
+[2026-05-05T09:25:01.932+0000] {task_command.py:426} INFO - Running <TaskInstance: movie_batch_pipeline_dag.create_raw_directories manual__2026-05-05T09:25:00.382433+00:00 [running]> on host 853620df130d
+[2026-05-05T09:25:02.023+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='wendi' AIRFLOW_CTX_DAG_ID='movie_batch_pipeline_dag' AIRFLOW_CTX_TASK_ID='create_raw_directories' AIRFLOW_CTX_EXECUTION_DATE='2026-05-05T09:25:00.382433+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-05-05T09:25:00.382433+00:00'
+[2026-05-05T09:25:02.025+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-05-05T09:25:02.078+0000] {python.py:237} INFO - Done. Returned value was: Raw directories created successfully
+[2026-05-05T09:25:02.079+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-05-05T09:25:02.098+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=movie_batch_pipeline_dag, task_id=create_raw_directories, run_id=manual__2026-05-05T09:25:00.382433+00:00, execution_date=20260505T092500, start_date=20260505T092501, end_date=20260505T092502
+[2026-05-05T09:25:02.121+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2026-05-05T09:25:02.140+0000] {taskinstance.py:3498} INFO - 2 downstream tasks scheduled from follow-on schedule check
+[2026-05-05T09:25:02.144+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

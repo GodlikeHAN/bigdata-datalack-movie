@@ -1,0 +1,42 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1292662,
+  "ingestion_time_utc": "2026-05-05T09:25:10.148323+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/8UP9H8x6CsSzRZ96Ajy5rEUxkqg.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "",
+    "id": 1292662,
+    "imdb_id": "tt31323350",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Slaughterhouse On The Hill",
+    "overview": "A night of terror ensues when a group of friends party at an abandoned slaughterhouse.",
+    "popularity": 76.4744,
+    "poster_path": "/f6C2ckdAXELXbzyY8AoH4lj6udg.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2024-05-03",
+    "revenue": 0,
+    "runtime": 72,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Slaughterhouse On The Hill",
+    "video": false,
+    "vote_average": 5.375,
+    "vote_count": 8
+  }
+}

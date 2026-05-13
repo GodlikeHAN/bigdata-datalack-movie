@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt12042730",
+  "ingestion_time_utc": "2026-05-05T09:25:18.509707+00:00",
+  "data": {
+    "Title": "Project Hail Mary",
+    "Year": "2026",
+    "Rated": "PG-13",
+    "Released": "20 Mar 2026",
+    "Runtime": "156 min",
+    "Genre": "Adventure, Comedy, Sci-Fi",
+    "Director": "Phil Lord, Christopher Miller",
+    "Writer": "Drew Goddard, Andy Weir",
+    "Actors": "Ryan Gosling, Sandra Hüller, James Ortiz",
+    "Plot": "A science teacher wakes up alone on a spaceship. As his memory returns, he uncovers a mission to stop a mysterious substance killing Earth's sun and that an unexpected friendship may be the key.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "94%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "77/100"
+      }
+    ],
+    "Metascore": "77",
+    "imdbRating": "8.4",
+    "imdbVotes": "207,175",
+    "imdbID": "tt12042730",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$260,744,752",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

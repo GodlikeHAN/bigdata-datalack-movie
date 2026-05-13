@@ -1,0 +1,90 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1292695,
+  "ingestion_time_utc": "2026-05-05T09:25:05.640507+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/they-will-kill-you",
+    "id": 1292695,
+    "imdb_id": "tt31728330",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "They Will Kill You",
+    "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+    "popularity": 219.2751,
+    "poster_path": "/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+    "production_companies": [
+      {
+        "id": 229398,
+        "logo_path": null,
+        "name": "Nocturna",
+        "origin_country": "US"
+      },
+      {
+        "id": 12,
+        "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 773,
+        "logo_path": "/qkcN6yZEyBw3cgO5DJu55LGEsf7.png",
+        "name": "Film Afrika",
+        "origin_country": "ZA"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "ZA",
+        "name": "South Africa"
+      }
+    ],
+    "release_date": "2026-03-25",
+    "revenue": 18982152,
+    "runtime": 95,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Let them try.",
+    "title": "They Will Kill You",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 343
+  }
+}

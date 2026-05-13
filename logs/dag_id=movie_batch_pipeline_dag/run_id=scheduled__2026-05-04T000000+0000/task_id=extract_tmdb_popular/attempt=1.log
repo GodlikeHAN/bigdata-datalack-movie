@@ -1,0 +1,17 @@
+[2026-05-05T08:29:46.665+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-05-05T08:29:46.698+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: movie_batch_pipeline_dag.extract_tmdb_popular scheduled__2026-05-04T00:00:00+00:00 [queued]>
+[2026-05-05T08:29:46.708+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: movie_batch_pipeline_dag.extract_tmdb_popular scheduled__2026-05-04T00:00:00+00:00 [queued]>
+[2026-05-05T08:29:46.710+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2026-05-05T08:29:46.728+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): extract_tmdb_popular> on 2026-05-04 00:00:00+00:00
+[2026-05-05T08:29:46.733+0000] {standard_task_runner.py:63} INFO - Started process 59 to run task
+[2026-05-05T08:29:46.738+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'movie_batch_pipeline_dag', 'extract_tmdb_popular', 'scheduled__2026-05-04T00:00:00+00:00', '--job-id', '14', '--raw', '--subdir', 'DAGS_FOLDER/movie_batch_pipeline_dag.py', '--cfg-path', '/tmp/tmp2ey8pg5a']
+[2026-05-05T08:29:46.740+0000] {standard_task_runner.py:91} INFO - Job 14: Subtask extract_tmdb_popular
+[2026-05-05T08:29:46.813+0000] {task_command.py:426} INFO - Running <TaskInstance: movie_batch_pipeline_dag.extract_tmdb_popular scheduled__2026-05-04T00:00:00+00:00 [running]> on host 2d67c1afb5fc
+[2026-05-05T08:29:46.905+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='wendi' AIRFLOW_CTX_DAG_ID='movie_batch_pipeline_dag' AIRFLOW_CTX_TASK_ID='extract_tmdb_popular' AIRFLOW_CTX_EXECUTION_DATE='2026-05-04T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2026-05-04T00:00:00+00:00'
+[2026-05-05T08:29:46.907+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2026-05-05T08:29:47.343+0000] {python.py:237} INFO - Done. Returned value was: ['/opt/***/data/raw/movie/tmdb_popular/dateVersion=2026-05-05/run_id=20260505T082946/page=1/part-0001.json', '/opt/***/data/raw/movie/tmdb_popular/dateVersion=2026-05-05/run_id=20260505T082946/page=2/part-0001.json']
+[2026-05-05T08:29:47.343+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2026-05-05T08:29:47.367+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=movie_batch_pipeline_dag, task_id=extract_tmdb_popular, run_id=scheduled__2026-05-04T00:00:00+00:00, execution_date=20260504T000000, start_date=20260505T082946, end_date=20260505T082947
+[2026-05-05T08:29:47.394+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2026-05-05T08:29:47.417+0000] {taskinstance.py:3498} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2026-05-05T08:29:47.420+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

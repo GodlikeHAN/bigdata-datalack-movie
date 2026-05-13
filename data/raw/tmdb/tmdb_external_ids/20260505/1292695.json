@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1292695,
+  "ingestion_time_utc": "2026-05-05T09:25:05.724431+00:00",
+  "data": {
+    "id": 1292695,
+    "imdb_id": "tt31728330",
+    "wikidata_id": "Q136522037",
+    "facebook_id": "Theywillkillyoumovie",
+    "instagram_id": "theywillkillyoumovie",
+    "twitter_id": "theywillkill"
+  }
+}

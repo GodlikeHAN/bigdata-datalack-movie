@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt27811009",
+  "ingestion_time_utc": "2026-05-05T09:25:14.061027+00:00",
+  "data": {
+    "Title": "Monster on a Plane",
+    "Year": "2024",
+    "Rated": "N/A",
+    "Released": "07 Nov 2024",
+    "Runtime": "88 min",
+    "Genre": "Comedy, Horror",
+    "Director": "Ezra Tsegaye",
+    "Writer": "Ezra Tsegaye",
+    "Actors": "Eva Habermann, Robin Czerny, Nicolás Artajo",
+    "Plot": "An exotic animal turns into a monster and becomes a deadly danger for all passengers.",
+    "Language": "English",
+    "Country": "Germany",
+    "Awards": "1 win total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjhjNmIyYzQtODY3Mi00NDE2LTgzMGYtMzU0N2NhZTZhMzg4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.6/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.6",
+    "imdbVotes": "2,362",
+    "imdbID": "tt27811009",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

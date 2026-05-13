@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt31323350",
+  "ingestion_time_utc": "2026-05-05T09:25:14.455147+00:00",
+  "data": {
+    "Title": "Slaughterhouse on the Hill",
+    "Year": "2024",
+    "Rated": "N/A",
+    "Released": "03 May 2024",
+    "Runtime": "72 min",
+    "Genre": "Horror",
+    "Director": "Tom Devlin",
+    "Writer": "Tom Devlin",
+    "Actors": "Kristy Adams, Amber Amlin, Chris Arredondo",
+    "Plot": "After attending the homecoming football game, a night of terror ensues when a group of friends party at an abandoned slaughterhouse.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ5NjBiOGMtZmYwOC00YTgyLTlkYWItN2QzMTM2MjgzM2ZlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "2.5/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "2.5",
+    "imdbVotes": "128",
+    "imdbID": "tt31323350",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

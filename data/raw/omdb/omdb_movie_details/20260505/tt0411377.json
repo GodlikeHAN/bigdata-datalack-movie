@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0411377",
+  "ingestion_time_utc": "2026-05-05T09:25:18.692056+00:00",
+  "data": {
+    "Title": "Man in the Mirror: The Michael Jackson Story",
+    "Year": "2004",
+    "Rated": "PG-13",
+    "Released": "06 Aug 2004",
+    "Runtime": "87 min",
+    "Genre": "Biography, Drama, Music",
+    "Director": "Allan Moyle",
+    "Writer": "Claudia Salter",
+    "Actors": "Flex Alexander, Eugene Clark, Amy Sloan",
+    "Plot": "Chronicles the rise and fall of pop king Michael Jackson.",
+    "Language": "English",
+    "Country": "Canada, United States",
+    "Awards": "1 nomination",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjQzNzNmNmItNDU2MC00ZjJmLWE1ZTctZTU5MTdhY2M4OGMyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "3.2/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "3.2",
+    "imdbVotes": "1,024",
+    "imdbID": "tt0411377",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

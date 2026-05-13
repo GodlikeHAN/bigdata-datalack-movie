@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt36332085",
+  "ingestion_time_utc": "2026-05-05T09:25:16.640526+00:00",
+  "data": {
+    "Title": "The Red Book Ritual: Gates of Hell",
+    "Year": "2025",
+    "Rated": "N/A",
+    "Released": "18 Sep 2025",
+    "Runtime": "N/A",
+    "Genre": "Horror",
+    "Director": "Carlos Baena, Hugo Cardozo, Nathan Crooker",
+    "Writer": "Hernán Moyano",
+    "Actors": "Mario González Martí, Lizzie Gómez, Matias Miranda",
+    "Plot": "Robbie embarks on a dangerous quest to contact his deceased girlfriend through a ritual that summons the dead. He heads to an abandoned house with a group of young people to perform the \"Red Book Ritual.\" But during the summoning,...",
+    "Language": "English",
+    "Country": "New Zealand, Paraguay",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q4ODU4OTktZGVlZC00MWFmLWE4NGMtZjdkNzJkODYwOGQyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt36332085",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

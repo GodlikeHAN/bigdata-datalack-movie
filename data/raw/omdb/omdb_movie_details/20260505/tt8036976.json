@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt8036976",
+  "ingestion_time_utc": "2026-05-05T09:25:13.305582+00:00",
+  "data": {
+    "Title": "Send Help",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "30 Jan 2026",
+    "Runtime": "113 min",
+    "Genre": "Adventure, Horror, Thriller",
+    "Director": "Sam Raimi",
+    "Writer": "Damian Shannon, Mark Swift",
+    "Actors": "Rachel McAdams, Dylan O'Brien, Edyll Ismail",
+    "Plot": "When an employee and her insufferable boss become stranded on a deserted island, the only survivors of a plane crash, they must overcome past grievances and work together to make it out alive.",
+    "Language": "English",
+    "Country": "United States, Canada, United Kingdom, Australia, Thailand",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTgxOWY5NTMtYjdiNi00NTIyLTkwMTQtMWNjM2IzYTU0ODgyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "93%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ],
+    "Metascore": "75",
+    "imdbRating": "6.9",
+    "imdbVotes": "71,618",
+    "imdbID": "tt8036976",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$64,734,795",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

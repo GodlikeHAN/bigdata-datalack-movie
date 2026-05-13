@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt4382552",
+  "ingestion_time_utc": "2026-05-05T09:25:17.939090+00:00",
+  "data": {
+    "Title": "Hot Girls Wanted",
+    "Year": "2015",
+    "Rated": "TV-MA",
+    "Released": "29 May 2015",
+    "Runtime": "84 min",
+    "Genre": "Documentary, Crime",
+    "Director": "Jill Bauer, Ronna Gradus",
+    "Writer": "Brittany Huckabee",
+    "Actors": "Stella May, Riley Reynolds, Rachel Bernard",
+    "Plot": "A documentary about young women who have been drawn into the sex trade - and how easy it is for a web-savvy generation to end up making porn.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 1 Primetime Emmy. 2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDYxZmZhMmUtNTY3YS00YmQyLWI3ODctMWI2ZTEwMWRmYTJlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "83%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.1",
+    "imdbVotes": "18,873",
+    "imdbID": "tt4382552",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

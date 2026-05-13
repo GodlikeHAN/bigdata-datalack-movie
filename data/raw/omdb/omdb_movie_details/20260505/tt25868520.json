@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt25868520",
+  "ingestion_time_utc": "2026-05-05T09:25:13.484993+00:00",
+  "data": {
+    "Title": "Tamerlane: Rise of the Last Conqueror",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "N/A",
+    "Runtime": "N/A",
+    "Genre": "Action, Biography, History",
+    "Director": "Jacob Schwarz",
+    "Writer": "Matthew Greene",
+    "Actors": "Christian Mortensen, Mahesh Jadu, Yulduz Rajabova",
+    "Plot": "As the Mongol Empire crumbles, a battle-scarred Timur Barlas must confront a haunting destiny and renounce his loyalties to protect the fate of the Silk Road.",
+    "Language": "N/A",
+    "Country": "Uzbekistan, United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTE4NTMxZmItMDQyYy00MTcwLWFjNGEtMWRhYjg5NWVjZjdkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt25868520",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}
