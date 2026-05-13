@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt33978029",
+  "ingestion_time_utc": "2026-05-13T22:05:31.578957+00:00",
+  "data": {
+    "Title": "Ready or Not 2: Here I Come",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "20 Mar 2026",
+    "Runtime": "108 min",
+    "Genre": "Comedy, Horror, Thriller",
+    "Director": "Matt Bettinelli-Olpin, Tyler Gillett",
+    "Writer": "Guy Busick, R. Christopher Murphy",
+    "Actors": "Samara Weaving, Kathryn Newton, Elijah Wood",
+    "Plot": "After surviving one deadly game, Grace and her sister Faith must now outrun four rival families competing for a powerful throne - winner takes all.",
+    "Language": "English",
+    "Country": "United States, Canada",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTM3N2EyMTEtNDhkMi00ZjNiLWI0MWUtOGViMjExODY3YTJhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.6/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "58/100"
+      }
+    ],
+    "Metascore": "58",
+    "imdbRating": "6.6",
+    "imdbVotes": "30,168",
+    "imdbID": "tt33978029",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$22,986,054",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

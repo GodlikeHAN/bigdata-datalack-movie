@@ -1,0 +1,78 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1414413,
+  "ingestion_time_utc": "2026-05-13T22:05:24.295026+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/6D2NsU3FIQVthPgjT6RAsX58qZ6.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1414413,
+    "imdb_id": "tt32394984",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Brothers Under Fire",
+    "overview": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
+    "popularity": 77.2571,
+    "poster_path": "/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
+    "production_companies": [
+      {
+        "id": 76991,
+        "logo_path": "/pQjdvbv4y9yuIDSHDEHc9ijJKaS.png",
+        "name": "Highland Film Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 144803,
+        "logo_path": "/yXwiJ1poBK106mUDBLNfIWcaeQg.png",
+        "name": "Align",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-04-15",
+    "revenue": 0,
+    "runtime": 99,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "He never planned to fight. But he refuses to fall.",
+    "title": "Brothers Under Fire",
+    "video": false,
+    "vote_average": 6.237,
+    "vote_count": 19
+  }
+}

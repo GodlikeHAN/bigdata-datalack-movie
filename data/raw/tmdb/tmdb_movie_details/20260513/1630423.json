@@ -1,0 +1,68 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1630423,
+  "ingestion_time_utc": "2026-05-13T22:05:24.057059+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/d1TupF3vMdQ6BhnADkFiNf0ZBOo.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/81775348",
+    "id": 1630423,
+    "imdb_id": "tt39749979",
+    "origin_country": [
+      "TH"
+    ],
+    "original_language": "th",
+    "original_title": "เลือดรัก นักฆ่า",
+    "overview": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces.",
+    "popularity": 222.8938,
+    "poster_path": "/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
+    "production_companies": [
+      {
+        "id": 289025,
+        "logo_path": null,
+        "name": "Sunwrite Moonact",
+        "origin_country": "TH"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "TH",
+        "name": "Thailand"
+      }
+    ],
+    "release_date": "2026-05-06",
+    "revenue": 0,
+    "runtime": 128,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Thai",
+        "iso_639_1": "th",
+        "name": "ภาษาไทย"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Love, Sacrifice and Vengeance.",
+    "title": "My Dearest Assassin",
+    "video": false,
+    "vote_average": 8.459,
+    "vote_count": 110
+  }
+}

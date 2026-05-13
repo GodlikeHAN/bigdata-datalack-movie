@@ -7,3 +7,7 @@ def utc_now_iso() -> str:
 
 def current_date_yyyymmdd() -> str:
     return datetime.now(timezone.utc).strftime("%Y%m%d")
+
+
+def parse_yyyymmdd(value: str) -> datetime:
+    return datetime.strptime(value, "%Y%m%d").replace(tzinfo=timezone.utc)

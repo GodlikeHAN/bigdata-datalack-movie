@@ -1,0 +1,64 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1620034,
+  "ingestion_time_utc": "2026-05-13T22:05:23.983864+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/cSjhFNOmjYSH5n0JrirtvD95wVS.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/82128115",
+    "id": 1620034,
+    "imdb_id": "tt39382052",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Marty, Life Is Short",
+    "overview": "Martin Short looks back on a life fueled by joy in this documentary with classic clips, fresh interviews and star-studded, never-before-seen home movies.",
+    "popularity": 10.138,
+    "poster_path": "/z4QdUukg4FnbcwM6qeP6ZCoQZhf.jpg",
+    "production_companies": [
+      {
+        "id": 121427,
+        "logo_path": "/rOvuUb2UaKDahx7OqQ1hD4B8Ljk.png",
+        "name": "Imagine Documentaries",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2026-05-11",
+    "revenue": 0,
+    "runtime": 102,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Marty, Life Is Short",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 2
+  }
+}

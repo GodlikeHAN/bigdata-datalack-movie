@@ -14,13 +14,14 @@ class ApiClient:
         self.timeout = timeout
         self.max_retries = max_retries
         self.sleep_seconds = sleep_seconds
+        self.session = requests.Session()
 
     def get(self, url: str, params: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
         last_exception = None
 
         for attempt in range(1, self.max_retries + 1):
             try:
-                response = requests.get(
+                response = self.session.get(
                     url,
                     params=params,
                     timeout=self.timeout,

@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt39382052",
+  "ingestion_time_utc": "2026-05-13T22:05:35.600874+00:00",
+  "data": {
+    "Title": "Marty, Life Is Short",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "12 May 2026",
+    "Runtime": "N/A",
+    "Genre": "Documentary",
+    "Director": "Lawrence Kasdan",
+    "Writer": "N/A",
+    "Actors": "Martin Short",
+    "Plot": "Follows the definitive documentary on comedian Martin Short, exploring his career across film, television, theater and comedy.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "N/A",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt39382052",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

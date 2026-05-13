@@ -1,0 +1,77 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 855435,
+  "ingestion_time_utc": "2026-05-13T22:05:23.805640+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/r7AKQ0OB69JOPskeTWL3U206ehY.jpg",
+    "belongs_to_collection": {
+      "id": 97237,
+      "name": "Faces of Death Collection",
+      "poster_path": "/mrEunOnAEQSG4UJA3YRIqQqC2eS.jpg",
+      "backdrop_path": "/gQSFvsuHd2Lj5qEgsOvNMDEaF6Z.jpg"
+    },
+    "budget": 7400000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "https://www.facesofdeathmovie.com",
+    "id": 855435,
+    "imdb_id": "tt14619456",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Faces of Death",
+    "overview": "A moderator on an internet video-sharing platform stumbles across a potential snuff film ring hidden in the depths of the site's content.",
+    "popularity": 34.925,
+    "poster_path": "/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg",
+    "production_companies": [
+      {
+        "id": 923,
+        "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+        "name": "Legendary Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 12087,
+        "logo_path": "/v4slnCQ0ICN69s1ihRR1WqjGjhd.png",
+        "name": "Angry Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 89115,
+        "logo_path": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
+        "name": "Divide / Conquer",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-04-10",
+    "revenue": 1647717,
+    "runtime": 97,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "You can't unsee it.",
+    "title": "Faces of Death",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 18
+  }
+}

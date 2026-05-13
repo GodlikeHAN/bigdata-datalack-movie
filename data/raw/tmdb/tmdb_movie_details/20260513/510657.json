@@ -1,0 +1,78 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 510657,
+  "ingestion_time_utc": "2026-05-13T22:05:24.318345+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/903T5F2DUV2ve6YIkP92y9gKy95.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 510657,
+    "imdb_id": "tt7945270",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Wellwood",
+    "overview": "Nick makes an extraterrestrial discovery that he decides will cure his wife of her terminal illness.",
+    "popularity": 69.5878,
+    "poster_path": "/vRwzVKNHeeQ9srX6u2qsuflBozb.jpg",
+    "production_companies": [
+      {
+        "id": 101969,
+        "logo_path": null,
+        "name": "Amalgamated Dynamics",
+        "origin_country": ""
+      },
+      {
+        "id": 55132,
+        "logo_path": null,
+        "name": "Studio ADI",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-03-24",
+    "revenue": 0,
+    "runtime": 89,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "In the end, what would you believe?",
+    "title": "Wellwood",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 9
+  }
+}

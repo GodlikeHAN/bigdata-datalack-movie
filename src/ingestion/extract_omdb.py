@@ -10,6 +10,7 @@ from src.config.settings import (
 from src.ingestion.api_client import ApiClient
 from src.utils.date_utils import utc_now_iso
 from src.utils.file_utils import write_json
+from src.utils.s3_utils import upload_json_to_s3
 
 
 client = ApiClient(sleep_seconds=1.0)
@@ -65,6 +66,7 @@ def extract_omdb_movie_details() -> List[str]:
         }
 
         write_json(output_path, payload)
+        upload_json_to_s3(output_path, payload)
         output_paths.append(str(output_path))
 
     return output_paths

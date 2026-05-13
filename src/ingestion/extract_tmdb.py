@@ -11,6 +11,7 @@ from src.config.settings import (
 from src.ingestion.api_client import ApiClient
 from src.utils.date_utils import utc_now_iso
 from src.utils.file_utils import ensure_dir, write_json
+from src.utils.s3_utils import upload_json_to_s3
 
 
 client = ApiClient()
@@ -43,6 +44,11 @@ def create_raw_directories() -> str:
     return "Raw directories created successfully"
 
 
+def _persist_payload(output_path, payload):
+    write_json(output_path, payload)
+    upload_json_to_s3(output_path, payload)
+
+
 def extract_tmdb_trending() -> str:
     url = f"{TMDB_BASE_URL}/trending/movie/day"
     data = client.get(url, params=_tmdb_params())
@@ -59,7 +65,7 @@ def extract_tmdb_trending() -> str:
         "data": data,
     }
 
-    write_json(output_path, payload)
+    _persist_payload(output_path, payload)
     return str(output_path)
 
 
@@ -83,10 +89,31 @@ def extract_tmdb_popular() -> List[str]:
             "data": data,
         }
 
-        write_json(output_path, payload)
+        _persist_payload(output_path, payload)
         output_paths.append(str(output_path))
 
     return output_paths
+
+
+def collect_movie_ids_from_raw_trending() -> List[int]:
+    trending_root = build_path("raw", "tmdb", "tmdb_trending")
+    movie_ids = []
+
+    if not trending_root.exists():
+        return movie_ids
+
+    for json_file in trending_root.rglob("*.json"):
+        with json_file.open("r", encoding="utf-8") as file:
+            payload = json.load(file)
+
+        results = payload.get("data", {}).get("results", [])
+
+        for movie in results:
+            movie_id = movie.get("id")
+            if movie_id:
+                movie_ids.append(movie_id)
+
+    return list(dict.fromkeys(movie_ids))
 
 
 def collect_movie_ids_from_raw_popular() -> List[int]:
@@ -113,8 +140,14 @@ def collect_movie_ids_from_raw_popular() -> List[int]:
     return unique_ids[:MAX_MOVIES_FOR_DETAILS]
 
 
+def collect_candidate_movie_ids() -> List[int]:
+    merged_ids = collect_movie_ids_from_raw_trending() + collect_movie_ids_from_raw_popular()
+    unique_ids = list(dict.fromkeys(merged_ids))
+    return unique_ids[:MAX_MOVIES_FOR_DETAILS]
+
+
 def extract_tmdb_movie_details() -> List[str]:
-    movie_ids = collect_movie_ids_from_raw_popular()
+    movie_ids = collect_candidate_movie_ids()
     output_paths = []
 
     for movie_id in movie_ids:
@@ -134,14 +167,14 @@ def extract_tmdb_movie_details() -> List[str]:
             "data": data,
         }
 
-        write_json(output_path, payload)
+        _persist_payload(output_path, payload)
         output_paths.append(str(output_path))
 
     return output_paths
 
 
 def extract_tmdb_external_ids() -> List[str]:
-    movie_ids = collect_movie_ids_from_raw_popular()
+    movie_ids = collect_candidate_movie_ids()
     output_paths = []
 
     for movie_id in movie_ids:
@@ -161,7 +194,7 @@ def extract_tmdb_external_ids() -> List[str]:
             "data": data,
         }
 
-        write_json(output_path, payload)
+        _persist_payload(output_path, payload)
         output_paths.append(str(output_path))
 
     return output_paths

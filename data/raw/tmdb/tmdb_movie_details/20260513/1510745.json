@@ -1,0 +1,66 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1510745,
+  "ingestion_time_utc": "2026-05-13T22:05:24.260083+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/qmWypRw88VYp35oTQn0a1sqdZRs.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "",
+    "id": 1510745,
+    "imdb_id": "tt37538172",
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "en",
+    "original_title": "Bodycam",
+    "overview": "A call to a quiet suburban home unleashes unthinkable carnage when two officers mistakenly shoot a man and his infant child, spiraling the tragedy into a fierce, unrelenting fall into the unknown.",
+    "popularity": 89.9528,
+    "poster_path": "/xFpBNcG3Dlr8mYF5Kz9Tizs3Pxn.jpg",
+    "production_companies": [
+      {
+        "id": 176562,
+        "logo_path": null,
+        "name": "Superchill",
+        "origin_country": ""
+      },
+      {
+        "id": 285635,
+        "logo_path": null,
+        "name": "Essential Film Group",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2026-03-12",
+    "revenue": 0,
+    "runtime": 75,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Bodycam",
+    "video": false,
+    "vote_average": 5.337,
+    "vote_count": 43
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1455079,
+  "ingestion_time_utc": "2026-05-13T22:05:23.873077+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/2TWIlmhE06ghspeQLEX1VmnEBiE.jpg",
+    "belongs_to_collection": null,
+    "budget": 18000000,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "https://www.universalpictures.com/movies/you-me-tuscany",
+    "id": 1455079,
+    "imdb_id": "tt36352591",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "You, Me & Tuscany",
+    "overview": "When a woman crashes at an empty Italian villa, posing as the owner's fiancée, she discovers an unexpected romance that could transform her life.",
+    "popularity": 9.6961,
+    "poster_path": "/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
+    "production_companies": [
+      {
+        "id": 49968,
+        "logo_path": "/d74xevT5HfJN1TODKbtm6vNW1wK.png",
+        "name": "Will Packer Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "2026-04-09",
+    "revenue": 21739390,
+    "runtime": 105,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "She came for the pasta and got lost in the sauce.",
+    "title": "You, Me & Tuscany",
+    "video": false,
+    "vote_average": 4.9,
+    "vote_count": 15
+  }
+}

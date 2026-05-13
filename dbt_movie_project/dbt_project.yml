@@ -1,0 +1,17 @@
+name: movie_dbt_project
+version: "1.0.0"
+config-version: 2
+
+profile: movie_dbt_project
+
+model-paths: ["models"]
+macro-paths: ["macros"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+models:
+  movie_dbt_project:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table

@@ -1,0 +1,29 @@
+version: 2
+
+models:
+  - name: stg_tmdb_movies
+    columns:
+      - name: tmdb_id
+        tests:
+          - not_null
+          - unique
+
+  - name: stg_omdb_ratings
+    columns:
+      - name: imdb_id
+        tests:
+          - not_null
+          - unique
+
+  - name: fct_movie_performance
+    columns:
+      - name: rating_consensus_score
+        tests:
+          - accepted_range:
+              min_value: 0
+              max_value: 100
+      - name: commercial_score
+        tests:
+          - accepted_range:
+              min_value: 0
+              max_value: 100
