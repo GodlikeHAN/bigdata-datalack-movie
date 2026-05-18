@@ -1,0 +1,64 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1426822,
+  "ingestion_time_utc": "2026-05-18T18:33:51.065219+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/hdLsZ3dCjKt5A6xDpoo3UFgcTSm.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "homepage": "",
+    "id": 1426822,
+    "imdb_id": "tt28134792",
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "en",
+    "original_title": "Mortal Game",
+    "overview": "A group of hunters travel to a mysterious island to track down a legendary forest creature. They soon realize their guide has set them up as bait, forcing them to confront a highly intelligent predator that terrorizes them one by one.",
+    "popularity": 159.6725,
+    "poster_path": "/iCvucorbs3hFqWshDbLe0fHzB71.jpg",
+    "production_companies": [
+      {
+        "id": 252014,
+        "logo_path": null,
+        "name": "Scary Pictures",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2025-02-03",
+    "revenue": 0,
+    "runtime": 85,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mortal Game",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 5
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt31728330",
+  "ingestion_time_utc": "2026-05-18T18:34:04.311028+00:00",
+  "data": {
+    "Title": "They Will Kill You",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "27 Mar 2026",
+    "Runtime": "94 min",
+    "Genre": "Action, Comedy, Horror",
+    "Director": "Kirill Sokolov",
+    "Writer": "Alex Litvak, Kirill Sokolov",
+    "Actors": "Zazie Beetz, Patricia Arquette, Myha&apos;la",
+    "Plot": "A woman takes a job as a housekeeper in a NYC high-rise, unaware of the building's history of disappearances. She soon realizes the community is shrouded in mystery.",
+    "Language": "English",
+    "Country": "South Africa, United States, Canada",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjg5ZjQ0ZGQtMmY1NS00NTgyLTlkZWYtMDhlNzE3ZGY5ZDdmXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "50/100"
+      }
+    ],
+    "Metascore": "50",
+    "imdbRating": "6.5",
+    "imdbVotes": "8,025",
+    "imdbID": "tt31728330",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$10,527,870",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}
