@@ -10,8 +10,5 @@ run-realtime:
 run-airbyte:
 	docker compose exec airflow-webserver airflow dags trigger movie_airbyte_sync_dag
 
-dbt:
-	docker compose exec airflow-webserver bash -lc "cd /opt/airflow/dbt_movie_project && export DBT_PROFILES_DIR=/opt/airflow/dbt_movie_project && dbt deps && dbt run && dbt test"
-
 down:
 	docker compose down -v

@@ -1,0 +1,72 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1235192,
+  "ingestion_time_utc": "2026-05-19T20:18:30.696855+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/wfGDy0KVZsiQpGgYoxObUGgccwk.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "homepage": "http://www.crankedupfilms.com",
+    "id": 1235192,
+    "imdb_id": "tt27040807",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Wormtown",
+    "overview": "One year into a plague of flesh-eating, mind-altering worms, the nocturnal town of Ashland, Ohio, has embraced the parasites’ rule. Under cult-like Mayor Joshua, zealous Ranchers spread their gospel—by persuasion or by force. A trio of uninfected women cling to survival through scavenging, extreme hygiene, and evasion. But everyone breaks eventually, unleashing betrayal, sacrilege, and body horror.",
+    "popularity": 75.4576,
+    "poster_path": "/lE10ww38b7XA5LIagIsVQj9a8Hn.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2025-09-27",
+    "revenue": 0,
+    "runtime": 107,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Let them in.",
+    "title": "Wormtown",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 13,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Wormtown | Official Trailer 4K | Sci Fi Horror Movie",
+          "key": "-a-KHbdQUF4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6921e36c7f1ec49a56a3ae5f",
+          "published_at": "2025-10-30T22:01:25.000Z"
+        }
+      ]
+    }
+  }
+}

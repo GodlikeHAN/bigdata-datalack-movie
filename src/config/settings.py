@@ -15,7 +15,6 @@ DATA_ROOT = Path(os.getenv("DATA_ROOT", PROJECT_ROOT / "data"))
 ARTIFACTS_ROOT = Path(os.getenv("ARTIFACTS_ROOT", PROJECT_ROOT / "artifacts"))
 REPORTS_ROOT = Path(os.getenv("REPORTS_ROOT", PROJECT_ROOT / "reports"))
 DOCS_ROOT = Path(os.getenv("DOCS_ROOT", PROJECT_ROOT / "docs"))
-DBT_PROJECT_ROOT = Path(os.getenv("DBT_PROJECT_ROOT", PROJECT_ROOT / "dbt_movie_project"))
 
 TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 OMDB_API_KEY = os.getenv("OMDB_API_KEY")
@@ -25,13 +24,6 @@ OMDB_BASE_URL = "https://www.omdbapi.com/"
 
 MAX_TMDB_PAGES = int(os.getenv("MAX_TMDB_PAGES", "2"))
 MAX_MOVIES_FOR_DETAILS = int(os.getenv("MAX_MOVIES_FOR_DETAILS", "50"))
-
-AWS_ACCESS_KEY_ID = os.getenv("AWS_ACCESS_KEY_ID", "test")
-AWS_SECRET_ACCESS_KEY = os.getenv("AWS_SECRET_ACCESS_KEY", "test")
-AWS_DEFAULT_REGION = os.getenv("AWS_DEFAULT_REGION", "eu-west-3")
-S3_ENDPOINT_URL = os.getenv("S3_ENDPOINT_URL", "http://localstack:4566")
-S3_BUCKET_NAME = os.getenv("S3_BUCKET_NAME", "movie-datalake")
-ENABLE_S3_MIRROR = os.getenv("ENABLE_S3_MIRROR", "true").lower() == "true"
 
 ELASTICSEARCH_HOST = os.getenv("ELASTICSEARCH_HOST", "http://elasticsearch:9200")
 ELASTICSEARCH_USERNAME = os.getenv("ELASTICSEARCH_USERNAME", "")
@@ -49,7 +41,6 @@ AIRBYTE_POLL_SECONDS = int(os.getenv("AIRBYTE_POLL_SECONDS", "10"))
 AIRBYTE_TIMEOUT_SECONDS = int(os.getenv("AIRBYTE_TIMEOUT_SECONDS", "1800"))
 
 MOVIE_PERFORMANCE_INDEX = os.getenv("MOVIE_PERFORMANCE_INDEX", "movie_performance_gap_v1")
-GENRE_YEAR_INDEX = os.getenv("GENRE_YEAR_INDEX", "movie_genre_year_performance_v1")
 REALTIME_TRENDING_INDEX = os.getenv("REALTIME_TRENDING_INDEX", "movie_trending_realtime_v1")
 
 

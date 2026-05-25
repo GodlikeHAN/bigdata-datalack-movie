@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt6997574",
+  "ingestion_time_utc": "2026-05-19T20:18:41.417677+00:00",
+  "data": {
+    "Title": "My Teacher, My Obsession",
+    "Year": "2018",
+    "Rated": "TV-14",
+    "Released": "12 Jun 2018",
+    "Runtime": "90 min",
+    "Genre": "Drama, Thriller",
+    "Director": "Damián Romay",
+    "Writer": "Patrick Robert Young",
+    "Actors": "Rusty Joiner, Lucy Loken, Laura Bilgeri",
+    "Plot": "Riley struggles to make friends after transferring to a new high school where her father is an English teacher. When she meets fellow loner Kyla, they become close friends--until Riley learns that Kyla is obsessed with her father.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTZhOTEyMzQtNWU3Yy00ODQzLWI0ZmYtZTQyYjUxNjBmOTk4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.4/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.4",
+    "imdbVotes": "3,027",
+    "imdbID": "tt6997574",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

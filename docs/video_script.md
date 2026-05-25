@@ -12,6 +12,7 @@ Show the end-to-end architecture:
 - Airflow
 - raw / formatted / usage / realtime
 - Spark
+- Spark ML
 - Kafka
 - Elasticsearch
 - Kibana
@@ -45,9 +46,10 @@ Show joined results in `data/usage/ratings_boxoffice_analysis/movie_performance_
 Explain:
 
 - `rating_consensus_score`
-- `commercial_score`
-- `performance_gap`
-- ML revenue expectation
+- `actual_final_revenue`
+- `predicted_final_revenue`
+- `ml_gap_ratio`
+- `performance_category`
 
 ## 07:30 - 08:30
 
@@ -65,9 +67,9 @@ Show the realtime pipeline:
 
 Run:
 
-- `dbt run`
-- `dbt test`
-- Airbyte DAG trigger
+- batch DAG
+- realtime DAG
+- Elasticsearch incremental indexing result
 
 ## 09:45 - 10:00
 

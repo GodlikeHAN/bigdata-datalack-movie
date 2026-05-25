@@ -11,7 +11,7 @@ Movie quality and movie business success are often treated as the same story, bu
 
 ## Data Lake Architecture
 
-The pipeline follows a datalake structure with `raw`, `formatted`, `usage`, and `realtime` layers. Data is stored locally for simplicity and mirrored to LocalStack S3 for the distributed filesystem bonus.
+The pipeline follows a datalake structure with `raw`, `formatted`, `usage`, and `realtime` layers. Data is stored locally in the current version; distributed storage will be added later.
 
 ## Airflow Orchestration
 
@@ -27,16 +27,17 @@ Spark formatting jobs normalize dates, currencies, runtimes, nested arrays, and 
 
 ## Rating and Commercial Scores
 
-The project builds two core metrics:
+The project builds a movie-level ML comparison:
 
-- `rating_consensus_score`
-- `commercial_score`
+- `actual_final_revenue`
+- `predicted_final_revenue`
+- `ml_gap_ratio`
 
-The difference becomes the `performance_gap`.
+The output label is generated only from the ML revenue gap.
 
 ## Machine Learning Layer
 
-A regression model predicts expected revenue using budget, runtime, popularity, genre, and external ratings. Comparing expected and actual revenue highlights commercial overperformers and underperformers.
+A Spark ML regression model is trained only on historical movies, then predicts final revenue for active movies. Comparing expected and actual revenue highlights commercial overperformers, underperformers, and movies that perform as expected.
 
 ## Elasticsearch and Kibana
 
@@ -44,10 +45,9 @@ The final usage tables are indexed into Elasticsearch and visualized in Kibana u
 
 ## Main Insights
 
-- Hidden Gems: strong rating consensus, weak commercial score
-- Blockbuster Paradox: weak rating consensus, strong commercial score
-- Commercial Overperformer: revenue far above model expectation
-- Commercial Underperformer: revenue far below model expectation
+- Commercial Overperformer: revenue is more than 20% above model expectation
+- Commercial Underperformer: revenue is more than 20% below model expectation
+- As Expected: revenue is within plus or minus 20% of model expectation
 
 ## Difficulties and Improvements
 

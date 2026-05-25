@@ -22,7 +22,6 @@ x-airflow-common:
     - ./src:/opt/airflow/src
     - ./spark_jobs:/opt/airflow/spark_jobs
     - ./streaming:/opt/airflow/streaming
-    - ./dbt_movie_project:/opt/airflow/dbt_movie_project
     - ./logs:/opt/airflow/logs
     - ./plugins:/opt/airflow/plugins
     - ./data:/opt/airflow/data
@@ -141,21 +140,6 @@ services:
       _AIRFLOW_WWW_USER_PASSWORD: admin
     user: "0:0"
 
-  localstack:
-    image: localstack/localstack:latest
-    container_name: movie_localstack
-    ports:
-      - "4566:4566"
-    environment:
-      SERVICES: s3
-      DEBUG: 1
-      AWS_DEFAULT_REGION: eu-west-3
-      AWS_ACCESS_KEY_ID: test
-      AWS_SECRET_ACCESS_KEY: test
-    volumes:
-      - localstack-volume:/var/lib/localstack
-      - /var/run/docker.sock:/var/run/docker.sock
-
   elasticsearch:
     image: docker.elastic.co/elasticsearch/elasticsearch:8.13.4
     container_name: movie_elasticsearch
@@ -173,6 +157,7 @@ services:
     container_name: movie_kibana
     environment:
       ELASTICSEARCH_HOSTS: http://elasticsearch:9200
+      VIS_TYPE_VEGA_ENABLEEXTERNALURLS: "true"
     ports:
       - "5601:5601"
     depends_on:
@@ -199,5 +184,4 @@ services:
 
 volumes:
   postgres-db-volume:
-  localstack-volume:
   elasticsearch-volume:

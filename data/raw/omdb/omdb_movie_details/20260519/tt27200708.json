@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt27200708",
+  "ingestion_time_utc": "2026-05-19T20:18:36.185971+00:00",
+  "data": {
+    "Title": "Mother Mary",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "17 Apr 2026",
+    "Runtime": "112 min",
+    "Genre": "Drama, Music, Thriller",
+    "Director": "David Lowery",
+    "Writer": "David Lowery",
+    "Actors": "Anne Hathaway, Michaela Coel, Hunter Schafer",
+    "Plot": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer, Sam Anselm, on the eve of her comeback performance.",
+    "Language": "English",
+    "Country": "United Kingdom, Finland, Germany, United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWM0NTIzMWEtOWU1ZC00OTEyLThmNTItYjM1N2Y1MDllMGYzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.0/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "60/100"
+      }
+    ],
+    "Metascore": "60",
+    "imdbRating": "4.0",
+    "imdbVotes": "563",
+    "imdbID": "tt27200708",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

@@ -10,7 +10,6 @@ FORMATTED_TABLES = [
     ("formatted", "tmdb", "tmdb_movie_details"),
     ("formatted", "omdb", "omdb_movie_ratings"),
     ("usage", "ratings_boxoffice_analysis", "movie_performance_gap"),
-    ("usage", "ratings_boxoffice_analysis", "genre_year_performance"),
 ]
 
 

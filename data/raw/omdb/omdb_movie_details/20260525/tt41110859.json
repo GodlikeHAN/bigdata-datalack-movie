@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt41110859",
+  "ingestion_time_utc": "2026-05-25T20:37:18.333017+00:00",
+  "data": {
+    "Title": "Aakhri Sawal",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "15 May 2026",
+    "Runtime": "150 min",
+    "Genre": "Drama, History, Thriller",
+    "Director": "Abhijeet Warang",
+    "Writer": "Utkarsh Naithani",
+    "Actors": "Deepak Antani, Mayur Bansiwal, Namashi Chakraborthy",
+    "Plot": "Brilliant but erratic scholar Vicky publicly accuses his esteemed mentor, Professor Gopal Nadkarni, of institutional bias, igniting national controversy. Their academic dispute escalates into a televised debate fueled by media and...",
+    "Language": "Hindi, Telugu, Kannada, Malayalam",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2VlMTM0OTEtYmU1My00ODBhLTk2MzItMDlkMDRiZjcwYWQ1XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.5",
+    "imdbVotes": "10,192",
+    "imdbID": "tt41110859",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

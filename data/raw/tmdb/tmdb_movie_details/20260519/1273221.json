@@ -1,0 +1,511 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1273221,
+  "ingestion_time_utc": "2026-05-19T20:18:30.133522+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/pO7XVtgA6t5JbxY1S8Y4cQEFarR.jpg",
+    "belongs_to_collection": {
+      "id": 4246,
+      "name": "Scary Movie Collection",
+      "poster_path": "/8ds74cRhyAza3WcDVT8rZycwSC9.jpg",
+      "backdrop_path": "/4YFCPV5KXWgIfQ8oTEeIJvtuxVj.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "https://www.scarymovie.film",
+    "id": 1273221,
+    "imdb_id": "tt32093575",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Scary Movie",
+    "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+    "popularity": 17.2285,
+    "poster_path": "/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg",
+    "production_companies": [
+      {
+        "id": 14,
+        "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+        "name": "Miramax",
+        "origin_country": "US"
+      },
+      {
+        "id": 157300,
+        "logo_path": "/yzZpFqfovEIH7ST0JCSpThJFrYy.png",
+        "name": "Ugly Baby Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-06-03",
+    "revenue": 0,
+    "runtime": 95,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Post Production",
+    "tagline": "Every line will be crossed.",
+    "title": "Scary Movie",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Every line will be crossed.",
+          "key": "qcT16a_Rdpc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0c2f59ba55a3bdfd8fae1f",
+          "published_at": "2026-05-19T08:00:10.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas June 11",
+          "key": "BUYn-MVG0So",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0c3085b07632cd9b68d73f",
+          "published_at": "2026-05-19T03:39:42.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "we bumpin ts all day.",
+          "key": "B6ZriCPEeSE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a0bc5439414842b238b1f9c",
+          "published_at": "2026-05-18T22:30:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Wayans Family Featurette",
+          "key": "S5EezbY-pwc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a0b534502f7b38568a010cb",
+          "published_at": "2026-05-18T17:01:54.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "and that’s bible.",
+          "key": "b5ltHS4Ute4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a0adcc8a086d27f16024bd9",
+          "published_at": "2026-05-18T06:30:15.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "If you think they’re holding back, you’re dead wrong.",
+          "key": "VvohSJnU1f8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0bc7116de5bc7b3ecd1050",
+          "published_at": "2026-05-18T03:19:55.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "They're in safe hands.",
+          "key": "SxoLHRe5gFM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a08b1b291834e1ebf658e08",
+          "published_at": "2026-05-16T11:30:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ghostface VS Nun",
+          "key": "OsWXqkZBi4k",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a084a6212207452cc6356b1",
+          "published_at": "2026-05-16T10:00:43.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "WAZZUP DOWNING STREET",
+          "key": "3QUNzmUgeEw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a08499ae75eeac09b3b7566",
+          "published_at": "2026-05-15T19:14:18.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "we bumpin ts all day. Bigger Than Ever (We Back) by Chris Patrick from Scary Movie is out now!",
+          "key": "1-lZrCQjF_k",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a0b53a9378301bd88c40627",
+          "published_at": "2026-05-15T17:14:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Get Tickets Now",
+          "key": "FOrBVsj6nbQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a084c971a30a13b6c5a7dcc",
+          "published_at": "2026-05-15T10:08:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Cindy's Got Moves",
+          "key": "rFy0uEC5_Wg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a060a69d8bd7da6815809d9",
+          "published_at": "2026-05-14T17:30:21.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Mexico City",
+          "key": "XPAT-bk5jiQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a060a937c6d8885e5292253",
+          "published_at": "2026-05-14T17:00:48.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Call Us Mommy",
+          "key": "DsnF2DhqLoM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a05fd0ad7dc5dcbd6e3c5ae",
+          "published_at": "2026-05-14T16:38:25.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Pass the Phone",
+          "key": "p7GU3_Gmxi0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a0592149d8cdef5c58481f6",
+          "published_at": "2026-05-14T09:05:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Who's Back",
+          "key": "TX8D8Kz7tLs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0b60f9f26ab02be8248d19",
+          "published_at": "2026-05-12T00:32:48.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Brenda And Shorty",
+          "key": "iokx60i_wUc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "69fcbfff1088c569101b0f2e",
+          "published_at": "2026-05-07T16:01:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Dead Wrong\"",
+          "key": "bF2yS7EPD-o",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69f473aac52b67772cd58af0",
+          "published_at": "2026-05-01T01:15:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "get ready to scream on June 5",
+          "key": "r-k2wfvoa5E",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69ebce8e12c59d03ff6b1021",
+          "published_at": "2026-04-24T19:26:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Anna Faris, Marlon & Shawn Wayans Get Crazy Talking About the New 'Scary Movie'",
+          "key": "AdZ9KDwCF_A",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": false,
+          "id": "69ea25307e1d5214a26b2320",
+          "published_at": "2026-04-22T23:31:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Michael",
+          "key": "z_R9eaDLZLo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69e8f597fcfe6c4e2239dc0a",
+          "published_at": "2026-04-22T16:00:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Cinema Con",
+          "key": "L6iLiYunvY0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69e908c3f1a3b185f76b1b52",
+          "published_at": "2026-04-19T11:00:28.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "WAZZZUP Cinema Con",
+          "key": "qQ-tw0lSMPw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69e908d3d8b8b77a5ac615b1",
+          "published_at": "2026-04-18T10:01:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "That’s one way to get high. A big welcome back to Artemis II (and Scary Movie).",
+          "key": "LuGafz_5VZs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69dbcc3f09f41bc7229b82f8",
+          "published_at": "2026-04-11T17:27:25.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Coachella",
+          "key": "oYqQF5eSthE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69dbcc538334d7060c0273e5",
+          "published_at": "2026-04-10T11:01:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Wireless",
+          "key": "jH56ebS0gak",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69dbcc738e0c2d69289b85a9",
+          "published_at": "2026-04-09T15:10:36.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Then VS Now",
+          "key": "gN_fFXemwGY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69dbcc868e0c2d69289b85ab",
+          "published_at": "2026-04-09T11:01:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "How Many Movies",
+          "key": "obe2w0KwtqA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69c527feb44c01d3c3420b32",
+          "published_at": "2026-03-26T12:01:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Congrats Sinners cast & crew on all your wins at this years Oscars!",
+          "key": "yNSoQgVyCwg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69b8b840d0e49c21eb0203c5",
+          "published_at": "2026-03-17T02:01:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Guess Who's Back",
+          "key": "KmbIMdIMY9Y",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69afe402e37647254ec1cfef",
+          "published_at": "2026-03-08T14:00:28.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Marlon Wayans",
+          "key": "5HKrULhusrw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69aabaa94126a5e72c151920",
+          "published_at": "2026-03-05T18:00:09.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "They don’t even need a ball to throw down.",
+          "key": "gghF5h9l09A",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69a88705201af9f97eb6d8cb",
+          "published_at": "2026-03-04T17:58:07.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Not sure how this sh*t got cleared.",
+          "key": "XjURIdIcDgk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69a78067422df0ab0c3d14dd",
+          "published_at": "2026-03-03T23:35:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "We coming early! I’m bringing Scary Movie to theatres one week sooner. See you June 5th!",
+          "key": "CglmD13LW8E",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69a77cf5217e16095bdb19c2",
+          "published_at": "2026-03-03T23:01:56.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "International Trailer",
+          "key": "2aMPPfmP5cY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69a5c96baac6e74d7de2c0ab",
+          "published_at": "2026-03-02T14:03:46.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "0fZ58S-7QP0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69a5991d98d670e5d1418c9a",
+          "published_at": "2026-03-02T14:00:21.000Z"
+        }
+      ]
+    }
+  }
+}

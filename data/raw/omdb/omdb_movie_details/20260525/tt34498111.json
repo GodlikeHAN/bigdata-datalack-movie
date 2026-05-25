@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt34498111",
+  "ingestion_time_utc": "2026-05-25T20:37:17.270034+00:00",
+  "data": {
+    "Title": "Chand Mera Dil",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "22 May 2026",
+    "Runtime": "135 min",
+    "Genre": "Drama, Music, Romance",
+    "Director": "Vivek Soni",
+    "Writer": "Amitabh Bhattacharya, Akshat Ghildial, Tushar Paranjape",
+    "Actors": "Ananya Panday, Lakshya, Aastha Singh",
+    "Plot": "Chronicles the intertwined lives of engineering students as they navigate academic challenges, forge friendships, and discover themselves in university.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGNkZmVlOGItNTE5OS00NGYzLTk1MmUtZGQzNjQxNjlmMjhlXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt34498111",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

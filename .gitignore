@@ -5,5 +5,3 @@ artifacts/
 data/formatted/
 data/usage/
 data/realtime/
-dbt_movie_project/target/
-dbt_movie_project/dbt_packages/

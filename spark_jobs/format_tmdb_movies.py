@@ -2,9 +2,35 @@ from __future__ import annotations
 
 from pyspark.sql import functions as F
 from pyspark.sql import Window
+from pyspark.sql.types import (
+    ArrayType,
+    DoubleType,
+    LongType,
+    StringType,
+    StructField,
+    StructType,
+)
 
 from spark_jobs.common import create_spark_session, load_json_payloads, resolve_partition, write_parquet
 from src.config.settings import build_path
+
+
+POSTER_BASE_URL = "https://image.tmdb.org/t/p/w500"
+YOUTUBE_BASE_URL = "https://www.youtube.com/watch?v="
+
+
+def _youtube_trailer_key(movie: dict) -> str | None:
+    videos = movie.get("videos", {}).get("results", []) or []
+    youtube_videos = [video for video in videos if video.get("site") == "YouTube" and video.get("key")]
+
+    official_trailers = [
+        video for video in youtube_videos
+        if video.get("type") == "Trailer" and video.get("official") is True
+    ]
+    trailers = [video for video in youtube_videos if video.get("type") == "Trailer"]
+
+    selected = (official_trailers or trailers or youtube_videos)
+    return selected[0].get("key") if selected else None
 
 
 def run(run_date: str | None = None) -> str:
@@ -14,12 +40,18 @@ def run(run_date: str | None = None) -> str:
     records = []
     for payload in payloads:
         movie = payload.get("data", {})
+        poster_path = movie.get("poster_path")
+        youtube_trailer_key = _youtube_trailer_key(movie)
         records.append(
             {
                 "tmdb_id": movie.get("id") or payload.get("tmdb_id"),
                 "title": movie.get("title"),
                 "original_title": movie.get("original_title"),
                 "release_date": movie.get("release_date"),
+                "poster_path": poster_path,
+                "poster_url": f"{POSTER_BASE_URL}{poster_path}" if poster_path else None,
+                "youtube_trailer_key": youtube_trailer_key,
+                "youtube_trailer_url": f"{YOUTUBE_BASE_URL}{youtube_trailer_key}" if youtube_trailer_key else None,
                 "genres": [genre.get("name") for genre in movie.get("genres", []) if genre.get("name")],
                 "runtime": movie.get("runtime"),
                 "budget": movie.get("budget"),
@@ -42,7 +74,33 @@ def run(run_date: str | None = None) -> str:
         )
 
     spark = create_spark_session("format_tmdb_movies")
-    dataframe = spark.createDataFrame(records)
+    schema = StructType(
+        [
+            StructField("tmdb_id", LongType(), True),
+            StructField("title", StringType(), True),
+            StructField("original_title", StringType(), True),
+            StructField("release_date", StringType(), True),
+            StructField("poster_path", StringType(), True),
+            StructField("poster_url", StringType(), True),
+            StructField("youtube_trailer_key", StringType(), True),
+            StructField("youtube_trailer_url", StringType(), True),
+            StructField("genres", ArrayType(StringType()), True),
+            StructField("runtime", LongType(), True),
+            StructField("budget", LongType(), True),
+            StructField("revenue", LongType(), True),
+            StructField("vote_average", DoubleType(), True),
+            StructField("vote_count", LongType(), True),
+            StructField("popularity", DoubleType(), True),
+            StructField("production_countries", ArrayType(StringType()), True),
+            StructField("production_companies", ArrayType(StringType()), True),
+            StructField("original_language", StringType(), True),
+            StructField("imdb_id", StringType(), True),
+            StructField("status", StringType(), True),
+            StructField("source", StringType(), True),
+            StructField("ingestion_time_utc", StringType(), True),
+        ]
+    )
+    dataframe = spark.createDataFrame(records, schema=schema)
 
     formatted = (
         dataframe.filter(F.col("tmdb_id").isNotNull())

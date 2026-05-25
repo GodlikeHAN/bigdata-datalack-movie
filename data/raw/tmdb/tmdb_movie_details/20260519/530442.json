@@ -1,0 +1,90 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 530442,
+  "ingestion_time_utc": "2026-05-19T20:01:34.740297+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/9tI2BBfTPK4pbYxaQZ16Thca9L9.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 10770,
+        "name": "TV Movie"
+      }
+    ],
+    "homepage": "",
+    "id": 530442,
+    "imdb_id": "tt6997574",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "My Teacher, My Obsession",
+    "overview": "Riley is struggling to make friends after transferring to a new high school where her father, Chris, is an English teacher. When she meets Kyla, they quickly becomes close friends. However, the friendship takes a strange turn when Riley learns that Kyla is obsessed with her dad. Will Kyla successfully seduce Chris and start a twisted new life with him by removing everyone in her path, or will Riley be able to save her father from Kyla’s treacherous plot before it’s too late?",
+    "popularity": 54.3495,
+    "poster_path": "/yh06bjJTNu45xyVgpv0wXuWvkgN.jpg",
+    "production_companies": [
+      {
+        "id": 109014,
+        "logo_path": "/vm7S29lX7zNSM4DxTeduJCtAUxa.png",
+        "name": "Sunshine Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 3431,
+        "logo_path": "/6LVLYfZAEQfhJey0MGvhFXdDEK1.png",
+        "name": "Lifetime",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2018-06-12",
+    "revenue": 0,
+    "runtime": 86,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "An innocent crush turned deadly.",
+    "title": "My Teacher, My Obsession",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 105,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Dad Crush - Official Trailer - MarVista Entertainment",
+          "key": "8PWMTSHc8qg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "5ba84e6b0e0a2635e1040955",
+          "published_at": "2018-06-12T18:00:04.000Z"
+        }
+      ]
+    }
+  }
+}

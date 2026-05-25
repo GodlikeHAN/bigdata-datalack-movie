@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt32093575",
+  "ingestion_time_utc": "2026-05-25T20:37:15.131069+00:00",
+  "data": {
+    "Title": "Scary Movie",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "12 Jun 2026",
+    "Runtime": "N/A",
+    "Genre": "Comedy, Horror",
+    "Director": "Michael Tiddes",
+    "Writer": "Rick Alvarez, Phil Beauman, Jason Friedberg",
+    "Actors": "Anna Faris, Damon Wayans Jr., Regina Hall",
+    "Plot": "Two friends find themselves caught up in mayhem involving killers, monsters and supernatural creatures once again.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjdkYjUyNmEtNTgzMy00OGNhLThiYWUtZWQ3YmFjM2QwMWY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt32093575",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

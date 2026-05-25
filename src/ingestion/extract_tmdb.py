@@ -11,7 +11,6 @@ from src.config.settings import (
 from src.ingestion.api_client import ApiClient
 from src.utils.date_utils import utc_now_iso
 from src.utils.file_utils import ensure_dir, write_json
-from src.utils.s3_utils import upload_json_to_s3
 
 
 client = ApiClient()
@@ -46,7 +45,6 @@ def create_raw_directories() -> str:
 
 def _persist_payload(output_path, payload):
     write_json(output_path, payload)
-    upload_json_to_s3(output_path, payload)
 
 
 def extract_tmdb_trending() -> str:
@@ -152,7 +150,7 @@ def extract_tmdb_movie_details() -> List[str]:
 
     for movie_id in movie_ids:
         url = f"{TMDB_BASE_URL}/movie/{movie_id}"
-        data = client.get(url, params=_tmdb_params())
+        data = client.get(url, params=_tmdb_params({"append_to_response": "videos"}))
 
         output_path = (
             build_path("raw", "tmdb", "tmdb_movie_details")

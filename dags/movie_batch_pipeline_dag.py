@@ -1,5 +1,4 @@
 from datetime import datetime, timedelta
-import logging
 
 from airflow import DAG
 from airflow.operators.empty import EmptyOperator
@@ -15,16 +14,11 @@ from src.ingestion.extract_tmdb import (
 from src.indexing.index_to_elastic import index_usage_to_elasticsearch
 from src.quality.data_quality_report import generate_data_quality_report
 from src.quality.validate_raw import validate_raw_data
-from src.utils.dbt_runner import run_dbt_bonus_models
-from src.utils.s3_utils import ensure_data_lake_bucket
 from src.ingestion.extract_omdb import extract_omdb_movie_details
 from spark_jobs.combine_ratings_boxoffice import run as spark_combine_sources
-from spark_jobs.compute_kpis import run as spark_compute_kpis
 from spark_jobs.format_omdb_movies import run as spark_format_omdb
 from spark_jobs.format_tmdb_movies import run as spark_format_tmdb
 from spark_jobs.train_ml_revenue_gap import run as spark_train_ml_model
-
-logger = logging.getLogger(__name__)
 
 default_args = {
     "owner": "wendi",
@@ -34,15 +28,6 @@ default_args = {
     "retries": 1,
     "retry_delay": timedelta(minutes=2),
 }
-
-
-def bootstrap_storage() -> str:
-    try:
-        ensure_data_lake_bucket()
-    except Exception as exc:
-        logger.warning("S3 mirror bootstrap skipped: %s", exc)
-    create_raw_directories()
-    return "Storage initialized"
 
 
 with DAG(
@@ -57,9 +42,9 @@ with DAG(
 
     start = EmptyOperator(task_id="start")
 
-    create_s3_buckets_task = PythonOperator(
-        task_id="create_s3_buckets",
-        python_callable=bootstrap_storage,
+    create_raw_directories_task = PythonOperator(
+        task_id="create_raw_directories",
+        python_callable=create_raw_directories,
     )
 
     extract_tmdb_trending_task = PythonOperator(
@@ -111,21 +96,9 @@ with DAG(
         op_kwargs={"run_date": "{{ ds_nodash }}"},
     )
 
-    spark_compute_kpis_task = PythonOperator(
-        task_id="spark_compute_kpis",
-        python_callable=spark_compute_kpis,
-        op_kwargs={"run_date": "{{ ds_nodash }}"},
-    )
-
     spark_train_ml_model_task = PythonOperator(
         task_id="spark_train_ml_model",
         python_callable=spark_train_ml_model,
-        op_kwargs={"run_date": "{{ ds_nodash }}"},
-    )
-
-    dbt_run_bonus_models_task = PythonOperator(
-        task_id="dbt_run_bonus_models",
-        python_callable=run_dbt_bonus_models,
         op_kwargs={"run_date": "{{ ds_nodash }}"},
     )
 
@@ -143,12 +116,11 @@ with DAG(
 
     end = EmptyOperator(task_id="end")
 
-    start >> create_s3_buckets_task
-    create_s3_buckets_task >> extract_tmdb_trending_task >> extract_tmdb_popular_task >> extract_tmdb_movie_details_task
+    start >> create_raw_directories_task
+    create_raw_directories_task >> extract_tmdb_trending_task >> extract_tmdb_popular_task >> extract_tmdb_movie_details_task
     extract_tmdb_movie_details_task >> extract_tmdb_external_ids_task >> extract_omdb_movie_details_task
     extract_omdb_movie_details_task >> validate_raw_data_task
     validate_raw_data_task >> spark_format_tmdb_task
     spark_format_tmdb_task >> spark_format_omdb_task >> spark_combine_sources_task
-    spark_combine_sources_task >> spark_compute_kpis_task >> spark_train_ml_model_task
-    spark_train_ml_model_task >> dbt_run_bonus_models_task >> index_usage_to_elasticsearch_task
+    spark_combine_sources_task >> spark_train_ml_model_task >> index_usage_to_elasticsearch_task
     index_usage_to_elasticsearch_task >> generate_data_quality_report_task >> end

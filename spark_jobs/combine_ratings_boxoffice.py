@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 from pyspark.sql import functions as F
-from pyspark.sql import Window
 
 from spark_jobs.common import create_spark_session, resolve_partition, write_parquet
 from src.config.settings import build_path
@@ -38,15 +37,21 @@ def run(run_date: str | None = None) -> str:
         + F.coalesce(F.col("omdb_metacritic_score_100") * 0.10, F.lit(0.0))
     )
 
-    revenue_window = Window.orderBy(F.coalesce(F.col("revenue"), F.lit(0)))
-    roi_window = Window.orderBy(F.coalesce(F.when(F.col("budget") > 0, (F.col("revenue") - F.col("budget")) / F.col("budget")), F.lit(0.0)))
-    popularity_window = Window.orderBy(F.coalesce(F.col("popularity"), F.lit(0.0)))
+    release_age_months = F.months_between(F.current_date(), F.col("release_date"))
+    actual_final_revenue = F.when(F.col("revenue") > 0, F.col("revenue")).otherwise(F.col("omdb_omdb_boxoffice_usd"))
 
     enriched = (
-        joined.withColumn("release_year", F.year(F.col("release_date")))
+        joined.withColumn("document_id", F.concat(F.lit("tmdb-"), F.col("tmdb_id").cast("string")))
+        .withColumn("release_year", F.year(F.col("release_date")))
+        .withColumn("release_age_months", F.round(release_age_months, 2))
+        .withColumn(
+            "movie_lifecycle",
+            F.when(F.col("release_date").isNotNull() & (release_age_months >= 12), F.lit("historical")).otherwise(F.lit("active")),
+        )
         .withColumn("main_genre", F.element_at(F.col("genres"), 1))
         .withColumn("main_production_country", F.element_at(F.col("production_countries"), 1))
-        .withColumn("profit", F.col("revenue") - F.col("budget"))
+        .withColumn("actual_final_revenue", actual_final_revenue.cast("double"))
+        .withColumn("profit", F.col("actual_final_revenue") - F.col("budget"))
         .withColumn("roi", F.when(F.col("budget") > 0, F.col("profit") / F.col("budget")))
         .withColumn("tmdb_vote_average", F.col("vote_average"))
         .withColumn("tmdb_score_100", F.col("vote_average") * 10)
@@ -56,63 +61,76 @@ def run(run_date: str | None = None) -> str:
         .withColumn("metacritic_score_100", F.col("omdb_metacritic_score_100"))
         .withColumn("box_office_omdb", F.col("omdb_omdb_boxoffice_usd"))
         .withColumn("rating_consensus_score", F.when(rating_weight_sum > 0, rating_numerator / rating_weight_sum))
-        .withColumn("revenue_percentile", F.percent_rank().over(revenue_window) * 100)
-        .withColumn("roi_percentile", F.percent_rank().over(roi_window) * 100)
-        .withColumn("popularity_percentile", F.percent_rank().over(popularity_window) * 100)
-        .withColumn(
-            "commercial_score",
-            (F.col("revenue_percentile") * 0.45) + (F.col("roi_percentile") * 0.35) + (F.col("popularity_percentile") * 0.20),
-        )
-        .withColumn("performance_gap", F.col("commercial_score") - F.col("rating_consensus_score"))
-        .withColumn(
-            "performance_category",
-            F.when((F.col("rating_consensus_score") >= 60) & (F.col("commercial_score") >= 60), F.lit("Balanced Success"))
-            .when((F.col("rating_consensus_score") >= 60) & (F.col("commercial_score") < 60), F.lit("Hidden Gem"))
-            .when((F.col("rating_consensus_score") < 60) & (F.col("commercial_score") >= 60), F.lit("Blockbuster Paradox"))
-            .otherwise(F.lit("Weak Performer")),
-        )
-        .withColumn("is_hidden_gem", F.col("performance_category") == "Hidden Gem")
-        .withColumn("is_blockbuster_paradox", F.col("performance_category") == "Blockbuster Paradox")
-        .withColumn("ml_expected_revenue", F.lit(None).cast("double"))
+        .withColumn("predicted_final_revenue", F.lit(None).cast("double"))
         .withColumn("ml_revenue_gap", F.lit(None).cast("double"))
         .withColumn("ml_gap_ratio", F.lit(None).cast("double"))
-        .withColumn("is_commercial_overperformer", F.lit(False))
-        .withColumn("is_commercial_underperformer", F.lit(False))
-        .withColumnRenamed("ingestion_time_utc", "ingestion_time_utc")
+        .withColumn("performance_category", F.lit(None).cast("string"))
+        .withColumn(
+            "source_data_hash",
+            F.sha2(
+                F.to_json(
+                    F.struct(
+                        "tmdb_id",
+                        "imdb_id",
+                        "title",
+                        "release_date",
+                        "genres",
+                        "runtime",
+                        "budget",
+                        "revenue",
+                        "actual_final_revenue",
+                        "vote_average",
+                        "vote_count",
+                        "popularity",
+                        "poster_url",
+                        "youtube_trailer_url",
+                        "imdb_score_100",
+                        "rt_score_100",
+                        "metacritic_score_100",
+                    )
+                ),
+                256,
+            ),
+        )
     )
 
     final_dataframe = enriched.select(
+        "document_id",
         "tmdb_id",
         "imdb_id",
         "title",
+        "original_title",
         "release_year",
         "release_date",
+        "release_age_months",
+        "movie_lifecycle",
         "genres",
         "main_genre",
         "main_production_country",
         "runtime",
         "budget",
         "revenue",
+        "actual_final_revenue",
         "profit",
         "roi",
         "tmdb_vote_average",
         "tmdb_score_100",
+        "vote_count",
         "imdb_rating",
         "imdb_score_100",
         "rt_score_100",
         "metacritic_score_100",
         "rating_consensus_score",
         "popularity",
-        "commercial_score",
-        "performance_gap",
-        "ml_expected_revenue",
+        "poster_path",
+        "poster_url",
+        "youtube_trailer_key",
+        "youtube_trailer_url",
+        "predicted_final_revenue",
         "ml_revenue_gap",
         "ml_gap_ratio",
         "performance_category",
-        "is_hidden_gem",
-        "is_blockbuster_paradox",
-        "is_commercial_overperformer",
-        "is_commercial_underperformer",
+        "source_data_hash",
         "ingestion_time_utc",
     )
 

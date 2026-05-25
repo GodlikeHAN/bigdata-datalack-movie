@@ -1,7 +1,0 @@
-movie_dbt_project:
-  target: dev
-  outputs:
-    dev:
-      type: duckdb
-      path: /opt/airflow/data/warehouse/movie_analytics.duckdb
-      threads: 4

@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1325734,
+  "ingestion_time_utc": "2026-05-25T20:37:10.929192+00:00",
+  "data": {
+    "id": 1325734,
+    "imdb_id": "tt33071426",
+    "wikidata_id": "Q130590402",
+    "facebook_id": null,
+    "instagram_id": "thedrama",
+    "twitter_id": null
+  }
+}
