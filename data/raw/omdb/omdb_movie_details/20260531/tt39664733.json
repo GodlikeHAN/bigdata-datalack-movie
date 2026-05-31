@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt39664733",
+  "ingestion_time_utc": "2026-05-31T13:34:22.247072+00:00",
+  "data": {
+    "Title": "Kartavya",
+    "Year": "2026",
+    "Rated": "TV-MA",
+    "Released": "15 May 2026",
+    "Runtime": "108 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Pulkit",
+    "Writer": "Pulkit",
+    "Actors": "Saif Ali Khan, Rasika Dugal, Zakir Hussain",
+    "Plot": "A police officer faces a moral dilemma when threats endanger his family, forcing him to choose between protecting his loved ones and honoring his oath to serve justice.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDg2MzhlN2YtYzU5ZC00OTZlLTgwNzctMjJmMzQ1ODQ1NDY2XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.4/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.4",
+    "imdbVotes": "1,932",
+    "imdbID": "tt39664733",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

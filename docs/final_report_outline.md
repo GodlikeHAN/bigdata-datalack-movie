@@ -8,5 +8,5 @@
 6. Combination logic and KPI calculation
 7. Machine learning model
 8. Elasticsearch and Kibana
-9. Realtime Kafka pipeline and Airbyte / cloud bonus path
+9. Realtime Kafka pipeline and cloud bonus path
 10. Scoring coverage and conclusion

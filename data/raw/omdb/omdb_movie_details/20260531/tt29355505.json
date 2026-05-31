@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt29355505",
+  "ingestion_time_utc": "2026-05-31T13:34:18.170744+00:00",
+  "data": {
+    "Title": "Toy Story 5",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "19 Jun 2026",
+    "Runtime": "90 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "McKenna Harris, Andrew Stanton",
+    "Writer": "Andrew Stanton, McKenna Harris",
+    "Actors": "Keanu Reeves, Tom Hanks, Annie Potts",
+    "Plot": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt29355505",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

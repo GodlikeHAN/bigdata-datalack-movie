@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt31189814",
+  "ingestion_time_utc": "2026-05-31T13:34:18.962020+00:00",
+  "data": {
+    "Title": "Fuze",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "24 Apr 2026",
+    "Runtime": "98 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "David Mackenzie",
+    "Writer": "Ben Hopkins",
+    "Actors": "Aaron Taylor-Johnson, Theo James, Sam Worthington",
+    "Plot": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
+    "Language": "English",
+    "Country": "United Kingdom",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2FlZWFjNTItMDk2MS00Mjg5LWJkYWEtY2I3Yjc0NjI1MTE5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "72%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "58/100"
+      }
+    ],
+    "Metascore": "58",
+    "imdbRating": "6.4",
+    "imdbVotes": "1,075",
+    "imdbID": "tt31189814",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

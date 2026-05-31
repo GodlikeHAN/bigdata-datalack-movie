@@ -1,0 +1,198 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1275779,
+  "ingestion_time_utc": "2026-05-31T13:34:04.960848+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/gVczdWWAkBCuwEV1v9cg7ELfdhT.jpg",
+    "belongs_to_collection": null,
+    "budget": 115000000,
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.disclosuredaymovie.com",
+    "id": 1275779,
+    "imdb_id": "tt15047880",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Disclosure Day",
+    "overview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
+    "popularity": 49.7004,
+    "poster_path": "/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-06-10",
+    "revenue": 0,
+    "runtime": 145,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "We deserve to know.",
+    "title": "Disclosure Day",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Full Disclosure",
+          "key": "jIvRblu2OD4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a19b57016dd692a6f744ed0",
+          "published_at": "2026-05-29T15:00:14.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Final Trailer",
+          "key": "icDuEHSxE-w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6a1709907d7e85625c27b484",
+          "published_at": "2026-05-27T15:00:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Emily Blunt on Disclosure Day",
+          "key": "1NsS9DslLq0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a15d61bfa7d4405162f5d61",
+          "published_at": "2026-05-26T15:07:48.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Everything",
+          "key": "8z0liKIe4Cc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a11e1e7be93cb3708876bd0",
+          "published_at": "2026-05-21T14:05:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In cinemas June 10",
+          "key": "0xrZML_MYSY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0d9691262d5cc505a681cf",
+          "published_at": "2026-05-19T19:05:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Only in UK cinemas June 10",
+          "key": "hMgWqy3bvCQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a00707ce737490cc9ce35ef",
+          "published_at": "2026-05-10T08:05:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "SCYT8vb2siQ",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "69b2dfe5291efafa9c21d463",
+          "published_at": "2026-03-12T15:00:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "A First Look with Steven Spielberg",
+          "key": "cYXOEjB85HQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "698a2b4af5ab7195748f14d4",
+          "published_at": "2026-02-09T17:00:33.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Big Game Spot",
+          "key": "N32YL6wV2j0",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Teaser",
+          "official": true,
+          "id": "6989216e55db640edff811e4",
+          "published_at": "2026-02-08T23:37:53.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser",
+          "key": "UFe6NRgoXCM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "694188616e99f33080c01b83",
+          "published_at": "2025-12-16T15:59:57.000Z"
+        }
+      ]
+    }
+  }
+}

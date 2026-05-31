@@ -24,7 +24,6 @@ TMDB trending/day
 
 ## Pipeline Rules
 
-- No S3/LocalStack step in the current version. Distributed filesystem ingestion will be added later.
 - No dbt step in the current version. dbt models will be added later.
 - No movie grouping or genre/year aggregate output. The usage layer is one document per movie.
 - Stable Elasticsearch `_id` is `document_id = tmdb-{tmdb_id}`.

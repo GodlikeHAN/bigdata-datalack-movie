@@ -1,0 +1,77 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1433117,
+  "ingestion_time_utc": "2026-05-31T13:34:06.299316+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/82057588",
+    "id": 1433117,
+    "imdb_id": "tt37458112",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "ta",
+    "original_title": "கர",
+    "overview": "A thief tries to go straight, but when predatory banks trap his father in debt, he returns to crime — with a determined cop closing in on his trail.",
+    "popularity": 268.8318,
+    "poster_path": "/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
+    "production_companies": [
+      {
+        "id": 104937,
+        "logo_path": "/2Uu3slWWG2T42xglgh6xIo3jvmt.png",
+        "name": "Vels Film International",
+        "origin_country": "IN"
+      },
+      {
+        "id": 164726,
+        "logo_path": null,
+        "name": "Think Studios",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-04-30",
+    "revenue": 0,
+    "runtime": 161,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Tamil",
+        "iso_639_1": "ta",
+        "name": "தமிழ்"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Sometimes, staying dangerous is the only way to stay alive.",
+    "title": "Kara",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 8,
+    "videos": {
+      "results": []
+    }
+  }
+}

@@ -31,8 +31,15 @@ def get_elasticsearch_client() -> Elasticsearch:
 
 def ensure_index(index_name: str) -> None:
     client = get_elasticsearch_client()
+    mapping = INDEX_MAPPINGS[index_name]
+
     if not client.indices.exists(index=index_name):
-        client.indices.create(index=index_name, body=INDEX_MAPPINGS[index_name])
+        client.indices.create(index=index_name, body=mapping)
+        return
+
+    properties = mapping.get("mappings", {}).get("properties")
+    if properties:
+        client.indices.put_mapping(index=index_name, properties=properties)
 
 
 def _normalize_value(value):

@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt16431404",
+  "ingestion_time_utc": "2026-05-31T13:34:20.154996+00:00",
+  "data": {
+    "Title": "Apex",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "24 Apr 2026",
+    "Runtime": "N/A",
+    "Genre": "Action, Thriller",
+    "Director": "Baltasar Kormákur",
+    "Writer": "Jeremy Robbins",
+    "Actors": "Charlize Theron, Taron Egerton, Eric Bana",
+    "Plot": "When an adrenaline junkie sets out to conquer a menacing river, she discovers that nature isn't the only thing out for blood.",
+    "Language": "English",
+    "Country": "Canada, Australia, United States, Iceland",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjUzODE2ZWYtMDdiMS00ZTA0LWI4MzEtNDkyODNiNmIwMWY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt16431404",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

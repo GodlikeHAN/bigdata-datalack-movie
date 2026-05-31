@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt13069986",
+  "ingestion_time_utc": "2026-05-29T13:22:16.304722+00:00",
+  "data": {
+    "Title": "After We Fell",
+    "Year": "2021",
+    "Rated": "R",
+    "Released": "22 Oct 2021",
+    "Runtime": "98 min",
+    "Genre": "Drama, Romance",
+    "Director": "Castille Landon",
+    "Writer": "Anna Todd, Sharon Soboil",
+    "Actors": "Josephine Langford, Hero Fiennes Tiffin, Louise Lombard",
+    "Plot": "Just as Tessa makes the biggest decision of her life, everything changes. Revelations about her family, and then Hardin's, throw everything they knew before in doubt and makes their hard-won future together more difficult to claim.",
+    "Language": "English",
+    "Country": "United States, Bulgaria",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmM0MTZhOGItZDQ3OC00MDhjLThiZjEtMWJkNjUxNzk1MGJhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "8%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.8",
+    "imdbVotes": "24,384",
+    "imdbID": "tt13069986",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$2,170,750",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

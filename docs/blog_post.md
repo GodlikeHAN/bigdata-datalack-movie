@@ -19,7 +19,6 @@ Three DAGs are used:
 
 - `movie_batch_pipeline_dag`
 - `movie_realtime_pipeline_dag`
-- `movie_airbyte_sync_dag`
 
 ## Spark Transformation
 
@@ -54,6 +53,4 @@ The final usage tables are indexed into Elasticsearch and visualized in Kibana u
 - Missing or delayed IMDb IDs
 - OMDb responses with `Response=False`
 - Movies with zero or missing financial fields
-- Airbyte environment variability
-
 Future improvements could include title-year fuzzy matching, richer features, and cloud deployment with a public read-only Kibana link.

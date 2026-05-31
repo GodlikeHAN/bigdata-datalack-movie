@@ -1,0 +1,73 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1252051,
+  "ingestion_time_utc": "2026-05-31T13:34:08.149261+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/gYumbUCWyUI6Mutgd7oILOCunk8.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 1252051,
+    "imdb_id": "tt32601650",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Disforia",
+    "overview": "Set in the near future against the backdrop of widespread looting and societal collapse, the couple formed by Esther and Tomás and their daughter Say move to their summer house so they can promptly sell it and then flee from their country to France, drawing attention from a ring of voyeurs of real-life torture streamed on the dark web.",
+    "popularity": 100.1487,
+    "poster_path": "/49pzxbf1Eftz7wQZdVDVl8OM9bg.jpg",
+    "production_companies": [
+      {
+        "id": 231248,
+        "logo_path": null,
+        "name": "Robot Productions",
+        "origin_country": "ES"
+      },
+      {
+        "id": 33803,
+        "logo_path": null,
+        "name": "Aliwood Mediterráneo Producciones",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2025-09-20",
+    "revenue": 0,
+    "runtime": 82,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "DEATH WILL COME BY THOSE WHO LOVE YOU",
+    "title": "Disforia",
+    "video": false,
+    "vote_average": 4.25,
+    "vote_count": 4,
+    "videos": {
+      "results": []
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt32612507",
+  "ingestion_time_utc": "2026-05-30T20:33:39.508271+00:00",
+  "data": {
+    "Title": "Lee Cronin's the Mummy",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "17 Apr 2026",
+    "Runtime": "133 min",
+    "Genre": "Horror",
+    "Director": "Lee Cronin",
+    "Writer": "Lee Cronin",
+    "Actors": "Jack Reynor, Laia Costa, May Calamawy",
+    "Plot": "The young daughter of a journalist disappears into the desert without a trace. Eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+    "Language": "English, Spanish, Arabic",
+    "Country": "Ireland, United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWQ1NzI2YTUtN2E0ZS00YzVmLTkxNjktMWIzNTYwMzkyOTU0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "48/100"
+      }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.5",
+    "imdbVotes": "804",
+    "imdbID": "tt32612507",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

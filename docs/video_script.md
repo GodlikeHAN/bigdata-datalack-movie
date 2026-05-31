@@ -27,7 +27,6 @@ Open Airflow and show:
 
 - `movie_batch_pipeline_dag`
 - `movie_realtime_pipeline_dag`
-- `movie_airbyte_sync_dag`
 
 ## 03:30 - 04:30
 

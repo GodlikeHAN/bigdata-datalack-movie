@@ -1,0 +1,76 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1431071,
+  "ingestion_time_utc": "2026-05-30T20:33:32.897987+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/7f9ZaTwyqQOJtNWUS7xZgWQOzSt.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 1431071,
+    "imdb_id": "tt36201830",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_title": "सिस्टम",
+    "overview": "When Neha Rajvansh, a privileged public prosecutor, meets Sarika Rawat, a courtroom stenographer from a humble background, their lives are thrown into upheaval where power defines truth, blurring the system and raising a question of what justice truly means to them.",
+    "popularity": 137.9909,
+    "poster_path": "/8qrddM5BRcTuqjc9crJY6e3gyE6.jpg",
+    "production_companies": [
+      {
+        "id": 199125,
+        "logo_path": "/fJJZLnOmXWdsi1vflvEi2kC5iBc.png",
+        "name": "Baweja Studios",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-05-22",
+    "revenue": 0,
+    "runtime": 124,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "System",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 2,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "System Trailer Drops Ahead of Prime Video Premiere",
+          "key": "AdZ_I4ySZoI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "6a0f9e9e0bd7ec34c6825527",
+          "published_at": "2026-05-14T19:53:08.000Z"
+        }
+      ]
+    }
+  }
+}

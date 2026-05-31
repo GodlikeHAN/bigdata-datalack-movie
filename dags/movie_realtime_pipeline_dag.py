@@ -25,6 +25,7 @@ with DAG(
     start_date=datetime(2026, 1, 1),
     schedule="*/1 * * * *",
     catchup=False,
+    max_active_runs=1,
     tags=["big-data", "movies", "realtime", "kafka"],
 ) as dag:
     start = EmptyOperator(task_id="start")
@@ -38,7 +39,7 @@ with DAG(
     consume_events = PythonOperator(
         task_id="consume_and_index_trending_events",
         python_callable=consume_trending_events,
-        op_kwargs={"max_messages": 100, "timeout_ms": 10000},
+        op_kwargs={"timeout_ms": 5000},
     )
 
     end = EmptyOperator(task_id="end")

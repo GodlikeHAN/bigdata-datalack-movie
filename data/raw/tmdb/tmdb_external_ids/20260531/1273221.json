@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1273221,
+  "ingestion_time_utc": "2026-05-31T13:34:12.258907+00:00",
+  "data": {
+    "id": 1273221,
+    "imdb_id": "tt32093575",
+    "wikidata_id": "Q131927942",
+    "facebook_id": "ScaryMovie",
+    "instagram_id": "scarymovie",
+    "twitter_id": "ScaryMovie"
+  }
+}
