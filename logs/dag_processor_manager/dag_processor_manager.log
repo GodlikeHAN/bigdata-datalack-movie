@@ -26586,3 +26586,1273 @@ File Path                                         PID    Runtime      # DAGs    
 /opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.84s           2026-05-31T19:35:53
 /opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.68s           2026-05-31T19:35:52
 ================================================================================
+[2026-05-31T19:36:38.362+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.83s           2026-05-31T19:36:24
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.68s           2026-05-31T19:36:23
+================================================================================
+[2026-05-31T19:37:08.795+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.87s           2026-05-31T19:36:55
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.70s           2026-05-31T19:36:54
+================================================================================
+[2026-05-31T19:37:39.329+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.85s           2026-05-31T19:37:26
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.71s           2026-05-31T19:37:25
+================================================================================
+[2026-05-31T19:38:09.727+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.86s           2026-05-31T19:37:57
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T19:37:56
+================================================================================
+[2026-05-31T19:38:40.266+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.89s           2026-05-31T19:38:28
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.71s           2026-05-31T19:38:27
+================================================================================
+[2026-05-31T19:39:10.660+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.85s           2026-05-31T19:38:59
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.71s           2026-05-31T19:38:58
+================================================================================
+[2026-05-31T19:39:14.227+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-31T19:39:14.248+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-31T19:39:41.248+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.88s           2026-05-31T19:39:30
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T19:39:29
+================================================================================
+[2026-05-31T19:40:11.366+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.82s           2026-05-31T19:40:01
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T19:40:00
+================================================================================
+[2026-05-31T19:40:42.020+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.83s           2026-05-31T19:40:32
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T19:40:30
+================================================================================
+[2026-05-31T19:41:12.240+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.84s           2026-05-31T19:41:03
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.66s           2026-05-31T19:41:01
+================================================================================
+[2026-05-31T19:41:42.581+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.85s           2026-05-31T19:41:34
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T19:41:32
+================================================================================
+[2026-05-31T19:42:13.145+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.82s           2026-05-31T19:42:05
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T19:42:03
+================================================================================
+[2026-05-31T19:42:43.329+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.86s           2026-05-31T19:42:36
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.65s           2026-05-31T19:42:34
+================================================================================
+[2026-05-31T19:43:13.930+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.89s           2026-05-31T19:43:07
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.68s           2026-05-31T19:43:04
+================================================================================
+[2026-05-31T19:43:44.324+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.88s           2026-05-31T19:43:38
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.68s           2026-05-31T19:43:35
+================================================================================
+[2026-05-31T19:44:14.320+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-31T19:44:14.341+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-31T19:44:14.349+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.88s           2026-05-31T19:44:09
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T19:44:06
+================================================================================
+[2026-05-31T19:44:44.504+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.89s           2026-05-31T19:44:40
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.66s           2026-05-31T19:44:37
+================================================================================
+[2026-05-31T19:45:15.104+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.88s           2026-05-31T19:45:11
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.70s           2026-05-31T19:45:08
+================================================================================
+[2026-05-31T19:45:45.487+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.89s           2026-05-31T19:45:42
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.66s           2026-05-31T19:45:38
+================================================================================
+[2026-05-31T19:46:15.654+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.87s           2026-05-31T19:46:13
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.66s           2026-05-31T19:46:09
+================================================================================
+[2026-05-31T19:46:45.664+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.90s           2026-05-31T19:46:44
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.69s           2026-05-31T19:46:40
+================================================================================
+[2026-05-31T19:47:16.280+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.88s           2026-05-31T19:47:15
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.70s           2026-05-31T19:47:11
+================================================================================
+[2026-05-31T19:47:46.614+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.85s           2026-05-31T19:47:46
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.66s           2026-05-31T19:47:42
+================================================================================
+[2026-05-31T19:48:16.736+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py      2953  0.00s             1           0  0.85s           2026-05-31T19:47:46
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.66s           2026-05-31T19:48:12
+================================================================================
+[2026-05-31T19:48:46.942+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.87s           2026-05-31T19:48:17
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.68s           2026-05-31T19:48:43
+================================================================================
+[2026-05-31T19:49:15.040+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-31T19:49:15.064+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-31T19:49:17.080+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.90s           2026-05-31T19:48:48
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.66s           2026-05-31T19:49:14
+================================================================================
+[2026-05-31T19:49:47.090+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.88s           2026-05-31T19:49:19
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.69s           2026-05-31T19:49:45
+================================================================================
+[2026-05-31T19:50:17.215+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.95s           2026-05-31T19:49:51
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T19:50:15
+================================================================================
+[2026-05-31T19:50:47.675+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.86s           2026-05-31T19:50:22
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.70s           2026-05-31T19:50:46
+================================================================================
+[2026-05-31T19:51:18.170+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.88s           2026-05-31T19:50:53
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T19:51:17
+================================================================================
+[2026-05-31T19:51:48.232+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.87s           2026-05-31T19:51:24
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.66s           2026-05-31T19:51:48
+================================================================================
+[2026-05-31T19:52:18.346+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.87s           2026-05-31T19:51:55
+/opt/airflow/dags/movie_realtime_pipeline_dag.py   2983  0.00s             1           0  0.66s           2026-05-31T19:51:48
+================================================================================
+[2026-05-31T19:52:48.453+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.89s           2026-05-31T19:52:25
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.70s           2026-05-31T19:52:19
+================================================================================
+[2026-05-31T19:53:18.828+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.87s           2026-05-31T19:52:57
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T19:52:49
+================================================================================
+[2026-05-31T19:53:49.586+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  1.01s           2026-05-31T19:53:28
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.88s           2026-05-31T19:53:20
+================================================================================
+[2026-05-31T19:54:15.345+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-31T19:54:15.367+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-31T19:54:20.395+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.85s           2026-05-31T19:53:59
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.65s           2026-05-31T19:53:52
+================================================================================
+[2026-05-31T19:54:50.516+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.85s           2026-05-31T19:54:30
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.64s           2026-05-31T19:54:23
+================================================================================
+[2026-05-31T19:55:20.529+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.89s           2026-05-31T19:55:01
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T19:54:53
+================================================================================
+[2026-05-31T19:55:50.547+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.89s           2026-05-31T19:55:32
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.66s           2026-05-31T19:55:24
+================================================================================
+[2026-05-31T19:56:20.747+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.94s           2026-05-31T19:56:03
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.69s           2026-05-31T19:55:55
+================================================================================
+[2026-05-31T19:56:50.791+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.92s           2026-05-31T19:56:34
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.70s           2026-05-31T19:56:26
+================================================================================
+[2026-05-31T19:57:21.188+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  1.28s           2026-05-31T19:57:06
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.73s           2026-05-31T19:56:57
+================================================================================
+[2026-05-31T19:57:51.221+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.90s           2026-05-31T19:57:37
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.71s           2026-05-31T19:57:27
+================================================================================
+[2026-05-31T19:58:21.253+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.91s           2026-05-31T19:58:08
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.73s           2026-05-31T19:57:58
+================================================================================
+[2026-05-31T19:58:51.323+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.94s           2026-05-31T19:58:39
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.71s           2026-05-31T19:58:29
+================================================================================
+[2026-05-31T19:59:15.366+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-31T19:59:15.391+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-31T19:59:21.425+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.94s           2026-05-31T19:59:10
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.72s           2026-05-31T19:59:00
+================================================================================
+[2026-05-31T19:59:51.598+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.92s           2026-05-31T19:59:41
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.70s           2026-05-31T19:59:31
+================================================================================
+[2026-05-31T20:00:21.729+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  1.24s           2026-05-31T20:00:12
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.68s           2026-05-31T20:00:02
+================================================================================
+[2026-05-31T20:00:51.969+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.90s           2026-05-31T20:00:43
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.75s           2026-05-31T20:00:33
+================================================================================
+[2026-05-31T20:01:22.012+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.92s           2026-05-31T20:01:14
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.72s           2026-05-31T20:01:04
+================================================================================
+[2026-05-31T20:01:52.080+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.93s           2026-05-31T20:01:46
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.75s           2026-05-31T20:01:35
+================================================================================
+[2026-05-31T20:02:22.102+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.91s           2026-05-31T20:02:17
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.75s           2026-05-31T20:02:06
+================================================================================
+[2026-05-31T20:02:52.141+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  1.10s           2026-05-31T20:02:48
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.90s           2026-05-31T20:02:37
+================================================================================
+[2026-05-31T20:03:22.329+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.98s           2026-05-31T20:03:19
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.71s           2026-05-31T20:03:07
+================================================================================
+[2026-05-31T20:03:53.140+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  1.16s           2026-05-31T20:03:39
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  1.09s           2026-05-31T20:03:51
+================================================================================
+[2026-05-31T20:04:16.004+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-31T20:04:16.028+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-31T20:04:23.294+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.96s           2026-05-31T20:04:22
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.70s           2026-05-31T20:04:09
+================================================================================
+[2026-05-31T20:04:53.422+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.99s           2026-05-31T20:04:41
+/opt/airflow/dags/movie_batch_pipeline_dag.py      3081  1.01s             1           0  0.96s           2026-05-31T20:04:22
+================================================================================
+[2026-05-31T20:05:23.706+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py      3085  0.00s             1           0  1.17s           2026-05-31T20:04:53
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.69s           2026-05-31T20:05:12
+================================================================================
+[2026-05-31T20:05:53.749+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.94s           2026-05-31T20:05:24
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.69s           2026-05-31T20:05:43
+================================================================================
+[2026-05-31T20:06:23.778+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.91s           2026-05-31T20:05:55
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.70s           2026-05-31T20:06:13
+================================================================================
+[2026-05-31T20:06:53.984+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.89s           2026-05-31T20:06:26
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.68s           2026-05-31T20:06:44
+================================================================================
+[2026-05-31T20:07:23.988+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.89s           2026-05-31T20:06:57
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.68s           2026-05-31T20:07:15
+================================================================================
+[2026-05-31T20:07:53.999+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.89s           2026-05-31T20:07:28
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.68s           2026-05-31T20:07:46
+================================================================================
+[2026-05-31T20:08:24.082+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.95s           2026-05-31T20:07:59
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.71s           2026-05-31T20:08:17
+================================================================================
+[2026-05-31T20:08:54.207+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.90s           2026-05-31T20:08:31
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.70s           2026-05-31T20:08:47
+================================================================================
+[2026-05-31T20:09:16.259+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-31T20:09:16.282+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-31T20:09:24.323+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.97s           2026-05-31T20:09:02
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.71s           2026-05-31T20:09:18
+================================================================================
+[2026-05-31T20:09:54.343+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.90s           2026-05-31T20:09:33
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.71s           2026-05-31T20:09:49
+================================================================================
+[2026-05-31T20:10:24.592+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.92s           2026-05-31T20:10:04
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T20:10:20
+================================================================================
+[2026-05-31T20:10:54.619+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.91s           2026-05-31T20:10:35
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.69s           2026-05-31T20:10:51
+================================================================================
+[2026-05-31T20:11:24.660+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.93s           2026-05-31T20:11:06
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.73s           2026-05-31T20:11:21
+================================================================================
+[2026-05-31T20:11:54.686+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.90s           2026-05-31T20:11:37
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.72s           2026-05-31T20:11:52
+================================================================================
+[2026-05-31T20:12:24.874+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.92s           2026-05-31T20:12:08
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T20:12:23
+================================================================================
+[2026-05-31T20:12:54.924+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.93s           2026-05-31T20:12:39
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.69s           2026-05-31T20:12:54
+================================================================================
+[2026-05-31T20:13:24.988+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.94s           2026-05-31T20:13:10
+/opt/airflow/dags/movie_realtime_pipeline_dag.py   3147  0.51s             1           0  0.69s           2026-05-31T20:12:54
+================================================================================
+[2026-05-31T20:13:55.344+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  1.33s           2026-05-31T20:13:42
+/opt/airflow/dags/movie_realtime_pipeline_dag.py   3151  0.00s             1           0  0.73s           2026-05-31T20:13:25
+================================================================================
+[2026-05-31T20:14:16.428+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-31T20:14:16.453+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-31T20:14:25.492+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.89s           2026-05-31T20:14:13
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.79s           2026-05-31T20:13:56
+================================================================================
+[2026-05-31T20:14:55.621+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  1.17s           2026-05-31T20:14:44
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.65s           2026-05-31T20:14:26
+================================================================================
+[2026-05-31T20:15:25.747+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.86s           2026-05-31T20:15:15
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.69s           2026-05-31T20:14:58
+================================================================================
+[2026-05-31T20:15:55.748+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.88s           2026-05-31T20:15:46
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.71s           2026-05-31T20:15:29
+================================================================================
+[2026-05-31T20:16:25.772+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.90s           2026-05-31T20:16:17
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.72s           2026-05-31T20:16:00
+================================================================================
+[2026-05-31T20:16:55.863+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.98s           2026-05-31T20:16:48
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.65s           2026-05-31T20:16:30
+================================================================================
+[2026-05-31T20:17:26.343+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  1.25s           2026-05-31T20:17:20
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.69s           2026-05-31T20:17:01
+================================================================================
+[2026-05-31T20:17:56.393+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.89s           2026-05-31T20:17:51
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.69s           2026-05-31T20:17:32
+================================================================================
+[2026-05-31T20:18:26.635+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.93s           2026-05-31T20:18:22
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.70s           2026-05-31T20:18:03
+================================================================================
+[2026-05-31T20:18:56.661+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.90s           2026-05-31T20:18:53
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.72s           2026-05-31T20:18:33
+================================================================================
+[2026-05-31T20:19:16.742+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-31T20:19:16.765+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-31T20:19:26.682+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.87s           2026-05-31T20:19:24
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.66s           2026-05-31T20:19:04
+================================================================================
+[2026-05-31T20:19:56.861+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.92s           2026-05-31T20:19:55
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.66s           2026-05-31T20:19:35
+================================================================================
+[2026-05-31T20:20:26.889+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.91s           2026-05-31T20:20:26
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.71s           2026-05-31T20:20:06
+================================================================================
+[2026-05-31T20:20:57.022+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py      3205  0.00s             1           0  0.91s           2026-05-31T20:20:26
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.70s           2026-05-31T20:20:37
+================================================================================
+[2026-05-31T20:21:27.051+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.92s           2026-05-31T20:20:57
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.68s           2026-05-31T20:21:07
+================================================================================
+[2026-05-31T20:21:57.482+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.89s           2026-05-31T20:21:28
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T20:21:38
+================================================================================
+[2026-05-31T20:22:27.515+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.92s           2026-05-31T20:22:00
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.66s           2026-05-31T20:22:09
+================================================================================
+[2026-05-31T20:22:57.626+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.87s           2026-05-31T20:22:31
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.68s           2026-05-31T20:22:40
+================================================================================
+[2026-05-31T20:23:27.740+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.90s           2026-05-31T20:23:02
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.69s           2026-05-31T20:23:11
+================================================================================
+[2026-05-31T20:23:58.419+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.85s           2026-05-31T20:23:33
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.69s           2026-05-31T20:23:42
+================================================================================
+[2026-05-31T20:24:17.279+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-31T20:24:17.301+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-31T20:24:28.658+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.85s           2026-05-31T20:24:04
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.66s           2026-05-31T20:24:13
+================================================================================
+[2026-05-31T20:24:58.775+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.87s           2026-05-31T20:24:35
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.64s           2026-05-31T20:24:43
+================================================================================
+[2026-05-31T20:25:29.094+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.86s           2026-05-31T20:25:06
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.66s           2026-05-31T20:25:14
+================================================================================
+[2026-05-31T20:25:59.754+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.87s           2026-05-31T20:25:37
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.65s           2026-05-31T20:25:45
+================================================================================
+[2026-05-31T20:26:29.957+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.90s           2026-05-31T20:26:08
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T20:26:16
+================================================================================
+[2026-05-31T20:26:59.977+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.90s           2026-05-31T20:26:39
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T20:26:47
+================================================================================
+[2026-05-31T20:27:30.190+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.86s           2026-05-31T20:27:10
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.66s           2026-05-31T20:27:18
+================================================================================
+[2026-05-31T20:28:00.305+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.89s           2026-05-31T20:27:41
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T20:27:48
+================================================================================
+[2026-05-31T20:28:30.414+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.90s           2026-05-31T20:28:12
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.71s           2026-05-31T20:28:19
+================================================================================
+[2026-05-31T20:29:00.440+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.90s           2026-05-31T20:28:44
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.69s           2026-05-31T20:28:50
+================================================================================
+[2026-05-31T20:29:17.377+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-31T20:29:17.399+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-31T20:29:30.637+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.86s           2026-05-31T20:29:15
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.68s           2026-05-31T20:29:21
+================================================================================
+[2026-05-31T20:30:01.134+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.87s           2026-05-31T20:29:46
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.70s           2026-05-31T20:29:52
+================================================================================
+[2026-05-31T20:30:31.583+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.85s           2026-05-31T20:30:17
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.68s           2026-05-31T20:30:22
+================================================================================
+[2026-05-31T20:31:01.708+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.86s           2026-05-31T20:30:48
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T20:30:53
+================================================================================
+[2026-05-31T20:31:31.820+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.93s           2026-05-31T20:31:19
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.64s           2026-05-31T20:31:24
+================================================================================
+[2026-05-31T20:32:01.863+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.93s           2026-05-31T20:31:50
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.68s           2026-05-31T20:31:55
+================================================================================
+[2026-05-31T20:32:31.886+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.90s           2026-05-31T20:32:21
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.69s           2026-05-31T20:32:26
+================================================================================
+[2026-05-31T20:33:01.893+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.94s           2026-05-31T20:32:52
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.71s           2026-05-31T20:32:56
+================================================================================
+[2026-05-31T20:33:32.297+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.88s           2026-05-31T20:33:23
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.71s           2026-05-31T20:33:27
+================================================================================
+[2026-05-31T20:34:02.557+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  1.14s           2026-05-31T20:33:55
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.68s           2026-05-31T20:33:59
+================================================================================
+[2026-05-31T20:34:17.604+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-31T20:34:17.626+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-31T20:34:32.559+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.87s           2026-05-31T20:34:26
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.69s           2026-05-31T20:34:29
+================================================================================
+[2026-05-31T20:35:02.562+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.88s           2026-05-31T20:34:57
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.74s           2026-05-31T20:35:00
+================================================================================
+[2026-05-31T20:35:32.631+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.85s           2026-05-31T20:35:28
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.76s           2026-05-31T20:35:31
+================================================================================
+[2026-05-31T20:36:02.736+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.85s           2026-05-31T20:35:59
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.69s           2026-05-31T20:36:02
+================================================================================
+[2026-05-31T20:36:32.841+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.91s           2026-05-31T20:36:30
+/opt/airflow/dags/movie_realtime_pipeline_dag.py   3327  0.37s             1           0  0.69s           2026-05-31T20:36:02
+================================================================================
+[2026-05-31T20:37:03.241+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.87s           2026-05-31T20:37:01
+/opt/airflow/dags/movie_realtime_pipeline_dag.py   3331  0.00s             1           0  0.66s           2026-05-31T20:36:33
+================================================================================
+[2026-05-31T20:37:33.861+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.90s           2026-05-31T20:37:32
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T20:37:03
+================================================================================
+[2026-05-31T20:38:03.996+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.88s           2026-05-31T20:38:03
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.64s           2026-05-31T20:37:34
+================================================================================
+[2026-05-31T20:38:34.119+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                           PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py      3341  0.00s             1           0  0.88s           2026-05-31T20:38:03
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.69s           2026-05-31T20:38:05
+================================================================================
+[2026-05-31T20:39:04.405+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.88s           2026-05-31T20:38:34
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.72s           2026-05-31T20:38:36
+================================================================================
+[2026-05-31T20:39:18.044+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-31T20:39:18.066+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-31T20:39:35.145+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.88s           2026-05-31T20:39:05
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.62s           2026-05-31T20:39:07
+================================================================================
+[2026-05-31T20:40:05.268+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.88s           2026-05-31T20:39:37
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.65s           2026-05-31T20:39:37
+================================================================================
+[2026-05-31T20:40:35.601+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  1.21s           2026-05-31T20:40:08
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.74s           2026-05-31T20:40:08
+================================================================================
+[2026-05-31T20:41:05.616+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.89s           2026-05-31T20:40:39
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.70s           2026-05-31T20:40:39
+================================================================================
+[2026-05-31T20:41:35.634+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.91s           2026-05-31T20:41:10
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.69s           2026-05-31T20:41:10
+================================================================================
+[2026-05-31T20:42:05.662+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.91s           2026-05-31T20:41:41
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.70s           2026-05-31T20:41:41
+================================================================================
+[2026-05-31T20:42:36.083+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.88s           2026-05-31T20:42:12
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.70s           2026-05-31T20:42:11
+================================================================================
+[2026-05-31T20:43:06.770+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.98s           2026-05-31T20:42:43
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.86s           2026-05-31T20:42:42
+================================================================================
+[2026-05-31T20:43:37.155+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.83s           2026-05-31T20:43:14
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.68s           2026-05-31T20:43:13
+================================================================================
+[2026-05-31T20:44:07.637+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.83s           2026-05-31T20:43:45
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.65s           2026-05-31T20:43:44
+================================================================================
+[2026-05-31T20:44:18.467+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2026-05-31T20:44:18.489+0000] {manager.py:740} INFO - There are 2 files in /opt/airflow/dags
+[2026-05-31T20:44:38.023+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.85s           2026-05-31T20:44:16
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T20:44:15
+================================================================================
+[2026-05-31T20:45:08.543+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.85s           2026-05-31T20:44:47
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.69s           2026-05-31T20:44:46
+================================================================================
+[2026-05-31T20:45:38.930+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/movie_batch_pipeline_dag.py                              1           0  0.87s           2026-05-31T20:45:18
+/opt/airflow/dags/movie_realtime_pipeline_dag.py                           1           0  0.67s           2026-05-31T20:45:17
+================================================================================
