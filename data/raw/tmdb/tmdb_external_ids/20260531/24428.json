@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 24428,
+  "ingestion_time_utc": "2026-05-31T17:24:41.121451+00:00",
+  "data": {
+    "id": 24428,
+    "imdb_id": "tt0848228",
+    "wikidata_id": "Q182218",
+    "facebook_id": "avengers",
+    "instagram_id": "avengers",
+    "twitter_id": "Avengers"
+  }
+}

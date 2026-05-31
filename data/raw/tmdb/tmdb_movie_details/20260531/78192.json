@@ -1,0 +1,67 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 78192,
+  "ingestion_time_utc": "2026-05-31T17:24:33.727148+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/wz1eLrNxK77xAY7JYi4iYrtiMEd.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      },
+      {
+        "id": 10402,
+        "name": "Music"
+      }
+    ],
+    "homepage": "",
+    "id": 78192,
+    "imdb_id": "tt2113007",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Michael Jackson: The Life of an Icon",
+    "overview": "See Michael Jackson, one of the most recognizable and popular entertainers of all time, like never before in the feature-length tribute Michael Jackson: The Life of an Icon. Known to millions of fans worldwide for his record-breaking albums, groundbreaking music videos, mesmerizing dance moves and humanitarian efforts, his true story has never really been told...until now. This unprecedented look into the King of Pop's fascinating life includes all-new interviews with his mother Katherine Jackson as well as siblings Tito and Rebbie Jackson,  his nephew  Jaafar Jackson and niece Tahkyah brings plenty Jackson and Friends ends and music legends such as Smokey Robinson, Dionne Warwick and  his 3 children and many more.",
+    "popularity": 66.1778,
+    "poster_path": "/tOCYV9JCXXFtb7YehKXJBMKI4aD.jpg",
+    "production_companies": [
+      {
+        "id": 24571,
+        "logo_path": null,
+        "name": "David Gest Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2011-11-02",
+    "revenue": 0,
+    "runtime": 149,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Michael Jackson: The Life of an Icon",
+    "video": false,
+    "vote_average": 8.127,
+    "vote_count": 181,
+    "videos": {
+      "results": []
+    }
+  }
+}

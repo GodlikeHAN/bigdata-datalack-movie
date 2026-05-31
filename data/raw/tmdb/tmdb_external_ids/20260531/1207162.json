@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1207162,
+  "ingestion_time_utc": "2026-05-31T17:24:42.331735+00:00",
+  "data": {
+    "id": 1207162,
+    "imdb_id": "tt25868520",
+    "wikidata_id": "Q137686639",
+    "facebook_id": null,
+    "instagram_id": "riseoftheconqueror",
+    "twitter_id": "Timurid_Mughal"
+  }
+}

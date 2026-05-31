@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt34471850",
+  "ingestion_time_utc": "2026-05-31T17:24:57.779022+00:00",
+  "data": {
+    "Title": "Protector",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "06 Mar 2026",
+    "Runtime": "91 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Adrian Grunberg",
+    "Writer": "Bong-Seob Mun",
+    "Actors": "Milla Jovovich, Matthew Modine, D.B. Sweeney",
+    "Plot": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
+    "Language": "N/A",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q0NzkzNmEtN2M5My00NjBjLWIyNDQtMDZmMzAyMTg0MjdkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.3/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "41/100"
+      }
+    ],
+    "Metascore": "41",
+    "imdbRating": "5.3",
+    "imdbVotes": "807",
+    "imdbID": "tt34471850",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$1,290,170",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

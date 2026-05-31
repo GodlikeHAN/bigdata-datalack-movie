@@ -13,7 +13,7 @@ TMDB API + OMDb API
         -> Spark formatting -> formatted parquet
         -> Spark combination -> movie-level usage parquet
         -> Spark ML revenue model
-        -> Elasticsearch incremental upsert
+        -> Elasticsearch full refresh per batch run
         -> Kibana
 
 TMDB trending/day
@@ -27,7 +27,7 @@ TMDB trending/day
 - No dbt step in the current version. dbt models will be added later.
 - No movie grouping or genre/year aggregate output. The usage layer is one document per movie.
 - Stable Elasticsearch `_id` is `document_id = tmdb-{tmdb_id}`.
-- Incremental indexing uses `data_hash`: new movie inserts, changed movie updates, unchanged movie skips.
+- Each batch run fully replaces the `movie_performance_gap_v1` Elasticsearch index with that run's final movie dataset.
 - TMDB poster and YouTube trailer fields are nullable fallbacks: missing poster or trailer does not fail the pipeline.
 
 ## Spark ML Logic
@@ -79,7 +79,7 @@ data/
 - `spark_jobs/format_omdb_movies.py`: OMDb rating and box office normalization
 - `spark_jobs/combine_ratings_boxoffice.py`: movie-level TMDB/OMDb join
 - `spark_jobs/train_ml_revenue_gap.py`: Spark ML revenue prediction and final labels
-- `src/indexing/index_to_elastic.py`: movie-level incremental Elasticsearch indexing
+- `src/indexing/index_to_elastic.py`: movie-level Elasticsearch full refresh indexing
 
 ## Run
 

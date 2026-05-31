@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt41367695",
-  "ingestion_time_utc": "2026-05-31T13:34:22.375711+00:00",
+  "ingestion_time_utc": "2026-05-31T17:25:01.556024+00:00",
   "data": {
     "Title": "Propeller One-Way Night Coach",
     "Year": "2026",

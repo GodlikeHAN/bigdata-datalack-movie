@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt35512499",
+  "ingestion_time_utc": "2026-05-31T17:24:55.696418+00:00",
+  "data": {
+    "Title": "7 Dogs",
+    "Year": "2025",
+    "Rated": "N/A",
+    "Released": "N/A",
+    "Runtime": "N/A",
+    "Genre": "Action, Comedy",
+    "Director": "Adil El Arbi, Bilall Fallah",
+    "Writer": "Turki Al Alshikh, Mohamed el-Dabah",
+    "Actors": "Karim Abdel Aziz, Ahmed Ezz, Tara Emad",
+    "Plot": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
+    "Language": "Arabic, English",
+    "Country": "Saudi Arabia, Egypt",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDIwZGM4N2ItZTYzOC00ZTc5LWE2NzgtNGQyYmQ4OGQwYzI3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt35512499",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

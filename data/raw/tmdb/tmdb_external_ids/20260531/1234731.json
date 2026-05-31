@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1234731,
+  "ingestion_time_utc": "2026-05-31T17:24:38.792917+00:00",
+  "data": {
+    "id": 1234731,
+    "imdb_id": "tt33244668",
+    "wikidata_id": "Q131549006",
+    "facebook_id": "AnacondaMovie",
+    "instagram_id": "theanacondamovie",
+    "twitter_id": "Anaconda_Movie"
+  }
+}

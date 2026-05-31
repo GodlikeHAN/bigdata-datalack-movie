@@ -5,15 +5,11 @@ from airflow.operators.empty import EmptyOperator
 from airflow.operators.python import PythonOperator
 
 from src.ingestion.extract_tmdb import (
-    create_raw_directories,
-    extract_tmdb_trending,
     extract_tmdb_popular,
     extract_tmdb_movie_details,
     extract_tmdb_external_ids,
 )
 from src.indexing.index_to_elastic import index_usage_to_elasticsearch
-from src.quality.data_quality_report import generate_data_quality_report
-from src.quality.validate_raw import validate_raw_data
 from src.ingestion.extract_omdb import extract_omdb_movie_details
 from spark_jobs.combine_ratings_boxoffice import run as spark_combine_sources
 from spark_jobs.format_omdb_movies import run as spark_format_omdb
@@ -42,16 +38,6 @@ with DAG(
 
     start = EmptyOperator(task_id="start")
 
-    create_raw_directories_task = PythonOperator(
-        task_id="create_raw_directories",
-        python_callable=create_raw_directories,
-    )
-
-    extract_tmdb_trending_task = PythonOperator(
-        task_id="extract_tmdb_trending",
-        python_callable=extract_tmdb_trending,
-    )
-
     extract_tmdb_popular_task = PythonOperator(
         task_id="extract_tmdb_popular",
         python_callable=extract_tmdb_popular,
@@ -70,12 +56,6 @@ with DAG(
     extract_omdb_movie_details_task = PythonOperator(
         task_id="extract_omdb_movie_details",
         python_callable=extract_omdb_movie_details,
-    )
-
-    validate_raw_data_task = PythonOperator(
-        task_id="validate_raw_data",
-        python_callable=validate_raw_data,
-        op_kwargs={"run_date": "{{ ds_nodash }}"},
     )
 
     spark_format_tmdb_task = PythonOperator(
@@ -108,19 +88,11 @@ with DAG(
         op_kwargs={"run_date": "{{ ds_nodash }}"},
     )
 
-    generate_data_quality_report_task = PythonOperator(
-        task_id="generate_data_quality_report",
-        python_callable=generate_data_quality_report,
-        op_kwargs={"run_date": "{{ ds_nodash }}"},
-    )
-
     end = EmptyOperator(task_id="end")
 
-    start >> create_raw_directories_task
-    create_raw_directories_task >> extract_tmdb_trending_task >> extract_tmdb_popular_task >> extract_tmdb_movie_details_task
+    start >> extract_tmdb_popular_task >> extract_tmdb_movie_details_task
     extract_tmdb_movie_details_task >> extract_tmdb_external_ids_task >> extract_omdb_movie_details_task
-    extract_omdb_movie_details_task >> validate_raw_data_task
-    validate_raw_data_task >> spark_format_tmdb_task
+    extract_omdb_movie_details_task >> spark_format_tmdb_task
     spark_format_tmdb_task >> spark_format_omdb_task >> spark_combine_sources_task
     spark_combine_sources_task >> spark_train_ml_model_task >> index_usage_to_elasticsearch_task
-    index_usage_to_elasticsearch_task >> generate_data_quality_report_task >> end
+    index_usage_to_elasticsearch_task >> end

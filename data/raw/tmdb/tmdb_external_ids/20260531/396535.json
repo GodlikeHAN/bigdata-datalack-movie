@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 396535,
+  "ingestion_time_utc": "2026-05-31T17:24:43.447585+00:00",
+  "data": {
+    "id": 396535,
+    "imdb_id": "tt5700672",
+    "wikidata_id": "Q20948236",
+    "facebook_id": "traintobusan.de",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

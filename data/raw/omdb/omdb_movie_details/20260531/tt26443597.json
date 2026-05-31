@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt26443597",
+  "ingestion_time_utc": "2026-05-31T17:24:48.106895+00:00",
+  "data": {
+    "Title": "Zootopia 2",
+    "Year": "2025",
+    "Rated": "PG",
+    "Released": "26 Nov 2025",
+    "Runtime": "108 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Jared Bush, Byron Howard",
+    "Writer": "Jared Bush",
+    "Actors": "Ginnifer Goodwin, Jason Bateman, Ke Huy Quan",
+    "Plot": "Brave rabbit cop Judy Hopps and her friend, the fox Nick Wilde, team up again to crack a new case, the most perilous and intricate of their careers.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 1 Oscar. 20 wins & 90 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "91%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "73/100"
+      }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.4",
+    "imdbVotes": "134,332",
+    "imdbID": "tt26443597",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$428,130,160",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

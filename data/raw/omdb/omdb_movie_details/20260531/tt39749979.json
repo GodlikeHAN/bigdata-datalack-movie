@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt39749979",
+  "ingestion_time_utc": "2026-05-31T17:25:01.035607+00:00",
+  "data": {
+    "Title": "My Dearest Assassin",
+    "Year": "2026",
+    "Rated": "TV-MA",
+    "Released": "N/A",
+    "Runtime": "N/A",
+    "Genre": "Action, Drama, Romance",
+    "Director": "Taweewat Wantha",
+    "Writer": "N/A",
+    "Actors": "Pimchanok Luevisadpaibul, Tor Thanapob Leeratanakachorn, Sivakorn Adulsuttikul",
+    "Plot": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces.",
+    "Language": "Thai",
+    "Country": "Thailand",
+    "Awards": "N/A",
+    "Poster": "N/A",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt39749979",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1207162,
+  "ingestion_time_utc": "2026-05-31T17:24:34.672534+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/9gWrxuOJeArUbvnqrZALSjhPv9Y.jpg",
+    "belongs_to_collection": null,
+    "budget": 30000000,
+    "genres": [
+      {
+        "id": 36,
+        "name": "History"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 10752,
+        "name": "War"
+      }
+    ],
+    "homepage": "https://wellgousa.com/films/rise-conqueror",
+    "id": 1207162,
+    "imdb_id": "tt25868520",
+    "origin_country": [
+      "KZ",
+      "US",
+      "UZ"
+    ],
+    "original_language": "en",
+    "original_title": "Rise of the Conqueror",
+    "overview": "In the 14th-century, as the Silk Road crumbles and rival factions tear the land apart, fearless warrior Timur emerges from exile. Stripped of everything, he fights to unite the fractured kingdoms, using strategy and sheer will to carve an empire from chaos. Undefeated in battle and widely regarded as one of history’s greatest military leaders and tacticians, not to mention one of its most brutal, Timur would found the Timurid Empire, which ruled over modern-day Afghanistan, Iran and Central Asia.",
+    "popularity": 36.3191,
+    "poster_path": "/9cRE0DsM6CNIiY9Ah3cd8oc3n1Y.jpg",
+    "production_companies": [
+      {
+        "id": 213859,
+        "logo_path": "/lc3sHLuxiCZ377N904A1KwcrZGv.png",
+        "name": "Mystery Box",
+        "origin_country": "US"
+      },
+      {
+        "id": 20555,
+        "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+        "name": "Taurus Film",
+        "origin_country": "DE"
+      },
+      {
+        "id": 206783,
+        "logo_path": "/mVo5Ir4gatRa1U94v4p9Mr15OPJ.png",
+        "name": "Signature Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 122034,
+        "logo_path": "/kmZNR0LSuhSkEAje0v20Tn6WOt9.png",
+        "name": "Signature Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 114874,
+        "logo_path": "/lfk5FKLlTBaWqYHLeJs7J9atmNr.png",
+        "name": "Signature Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 74435,
+        "logo_path": "/jZYDf9z2fjjXlZkwfwR4QPwMNtm.png",
+        "name": "Capture",
+        "origin_country": "GB"
+      },
+      {
+        "id": 92394,
+        "logo_path": "/xnsTWHinFaR4oQuHFdxe6JNhfrI.png",
+        "name": "Well Go USA Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "UZ",
+        "name": "Uzbekistan"
+      },
+      {
+        "iso_3166_1": "KZ",
+        "name": "Kazakhstan"
+      }
+    ],
+    "release_date": "2026-04-09",
+    "revenue": 0,
+    "runtime": 119,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "His legacy will be written in fire and blood.",
+    "title": "Rise of the Conqueror",
+    "video": false,
+    "vote_average": 6.214,
+    "vote_count": 14,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Skirmish on the Steppes\" Clip",
+          "key": "Q8gy85ZY-ws",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69f8f8bef3f3845a48d2c782",
+          "published_at": "2026-04-14T15:00:54.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Ready, Aim, Fire!\" Clip",
+          "key": "Q8vahw68FSY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69de08e2023d85ef129b8da3",
+          "published_at": "2026-04-09T17:20:26.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The legend of Timur begins.",
+          "key": "jISoJBMGTKA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69d3ddd026ca4124fcedef3d",
+          "published_at": "2026-04-04T18:35:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "a1xSbllpMDE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69b2eda009c81903778178db",
+          "published_at": "2026-03-12T15:08:07.000Z"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 226674,
+  "ingestion_time_utc": "2026-05-31T17:24:35.442007+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/dqmeFUrf6Hs2ejcGGGfv69vtbbR.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 226674,
+    "imdb_id": "tt0077123",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "L'Adolescente",
+    "overview": "In the summer of 1939, 13-year-old Marie goes with her parents to visit her grandparents in a small town near Avignon. Marie discovers her femininity and falls for a young Jewish doctor, but he prefers Eva, Marie's mother.",
+    "popularity": 32.1028,
+    "poster_path": "/v7yCEzF9BCF82lbp42X5ZLjIieo.jpg",
+    "production_companies": [
+      {
+        "id": 63487,
+        "logo_path": null,
+        "name": "Carthago Coop. Cinematográfica",
+        "origin_country": "ES"
+      },
+      {
+        "id": 13983,
+        "logo_path": "/wTYO3w8PawspS95VYwsHcajmI0t.png",
+        "name": "Südwestfunk",
+        "origin_country": "DE"
+      },
+      {
+        "id": 30277,
+        "logo_path": null,
+        "name": "Janus Filmproduktion GmbH",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "1979-01-24",
+    "revenue": 0,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Adolescent",
+    "video": false,
+    "vote_average": 4.5,
+    "vote_count": 15,
+    "videos": {
+      "results": []
+    }
+  }
+}

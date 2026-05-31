@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt29552248",
-  "ingestion_time_utc": "2026-05-31T13:34:17.907257+00:00",
+  "ingestion_time_utc": "2026-05-31T17:24:47.064112+00:00",
   "data": {
     "Title": "Swapped",
     "Year": "2026",

@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt33244668",
+  "ingestion_time_utc": "2026-05-31T17:24:51.127486+00:00",
+  "data": {
+    "Title": "Anaconda",
+    "Year": "2025",
+    "Rated": "PG-13",
+    "Released": "25 Dec 2025",
+    "Runtime": "99 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Tom Gormican",
+    "Writer": "Tom Gormican, Kevin Etten, Hans Bauer",
+    "Actors": "Jack Black, Paul Rudd, Steve Zahn",
+    "Plot": "A group of friends are going through a mid-life crisis. They decide to remake a favorite movie from their youth but encounter unexpected events when they enter the jungle.",
+    "Language": "English, Portuguese",
+    "Country": "United States",
+    "Awards": "1 win total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTNlMTk1YTItOWYxNi00ZWIzLTkyOWEtNTJmMzk4NmIyN2NmXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "47%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "43/100"
+      }
+    ],
+    "Metascore": "43",
+    "imdbRating": "5.6",
+    "imdbVotes": "55,645",
+    "imdbID": "tt33244668",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$65,098,148",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

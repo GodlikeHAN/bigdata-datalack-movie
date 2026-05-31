@@ -65,33 +65,6 @@ def run(run_date: str | None = None) -> str:
         .withColumn("ml_revenue_gap", F.lit(None).cast("double"))
         .withColumn("ml_gap_ratio", F.lit(None).cast("double"))
         .withColumn("performance_category", F.lit(None).cast("string"))
-        .withColumn(
-            "source_data_hash",
-            F.sha2(
-                F.to_json(
-                    F.struct(
-                        "tmdb_id",
-                        "imdb_id",
-                        "title",
-                        "release_date",
-                        "genres",
-                        "runtime",
-                        "budget",
-                        "revenue",
-                        "actual_final_revenue",
-                        "vote_average",
-                        "vote_count",
-                        "popularity",
-                        "poster_url",
-                        "youtube_trailer_url",
-                        "imdb_score_100",
-                        "rt_score_100",
-                        "metacritic_score_100",
-                    )
-                ),
-                256,
-            ),
-        )
     )
 
     final_dataframe = enriched.select(
@@ -130,7 +103,6 @@ def run(run_date: str | None = None) -> str:
         "ml_revenue_gap",
         "ml_gap_ratio",
         "performance_category",
-        "source_data_hash",
         "ingestion_time_utc",
     )
 

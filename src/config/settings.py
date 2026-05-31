@@ -22,8 +22,7 @@ OMDB_API_KEY = os.getenv("OMDB_API_KEY")
 TMDB_BASE_URL = "https://api.themoviedb.org/3"
 OMDB_BASE_URL = "https://www.omdbapi.com/"
 
-MAX_TMDB_PAGES = int(os.getenv("MAX_TMDB_PAGES", "2"))
-MAX_MOVIES_FOR_DETAILS = int(os.getenv("MAX_MOVIES_FOR_DETAILS", "50"))
+MAX_MOVIES_FOR_DETAILS = int(os.getenv("MAX_MOVIES_FOR_DETAILS", "200"))
 
 ELASTICSEARCH_HOST = os.getenv("ELASTICSEARCH_HOST", "http://elasticsearch:9200")
 ELASTICSEARCH_USERNAME = os.getenv("ELASTICSEARCH_USERNAME", "")

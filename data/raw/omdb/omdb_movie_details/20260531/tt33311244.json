@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt33311244",
+  "ingestion_time_utc": "2026-05-31T17:24:49.279857+00:00",
+  "data": {
+    "Title": "Culpa Nuestra",
+    "Year": "2025",
+    "Rated": "N/A",
+    "Released": "16 Oct 2025",
+    "Runtime": "112 min",
+    "Genre": "Drama, Romance",
+    "Director": "Domingo González",
+    "Writer": "Sofía Cuenca, Domingo González, Mercedes Ron",
+    "Actors": "Nicole Wallace, Gabriel Guevara, Marta Hazas",
+    "Plot": "Nick and Noah's relationship peaks before facing events testing if they're meant to be together or should part ways. Can they overcome their past despite strong feelings, or are love and forgiveness not enough?",
+    "Language": "Spanish, English",
+    "Country": "Spain",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzUyNmUwODItZmZjZi00YWY0LTlhZWYtYTYxMjFjOGJhMzM2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.3/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.3",
+    "imdbVotes": "6,626",
+    "imdbID": "tt33311244",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

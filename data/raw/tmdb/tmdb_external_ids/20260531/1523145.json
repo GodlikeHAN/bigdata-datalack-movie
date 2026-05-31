@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_external_ids",
   "tmdb_id": 1523145,
-  "ingestion_time_utc": "2026-05-31T13:34:13.087506+00:00",
+  "ingestion_time_utc": "2026-05-31T17:24:38.537231+00:00",
   "data": {
     "id": 1523145,
     "imdb_id": "tt38190257",

@@ -40,20 +40,8 @@ def safe_float(value: Any) -> float | None:
 def parse_currency(value: Any) -> int | None:
     return safe_int(value)
 
-
-def parse_runtime_minutes(value: Any) -> int | None:
-    return safe_int(value)
-
-
 def parse_percentage(value: Any) -> float | None:
     return safe_float(value)
-
-
-def split_csv_text(value: Any) -> list[str]:
-    text = _clean_string(value)
-    if text is None:
-        return []
-    return [item.strip() for item in text.split(",") if item.strip()]
 
 
 def parse_omdb_date(value: Any) -> str | None:

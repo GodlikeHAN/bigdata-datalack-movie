@@ -1,0 +1,177 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 862,
+  "ingestion_time_utc": "2026-05-31T17:24:31.846319+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+    "belongs_to_collection": {
+      "id": 10194,
+      "name": "Toy Story Collection",
+      "poster_path": "/rki5qLuwb0xnnE9seehxO9TlLhW.jpg",
+      "backdrop_path": "/hApclyB9NEZEQujAVajzi5iWE4a.jpg"
+    },
+    "budget": 30000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "homepage": "http://toystory.disney.com/toy-story",
+    "id": 862,
+    "imdb_id": "tt0114709",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Toy Story",
+    "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+    "popularity": 28.3701,
+    "poster_path": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+    "production_companies": [
+      {
+        "id": 3,
+        "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+        "name": "Pixar",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1995-11-22",
+    "revenue": 401157969,
+    "runtime": 81,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "The adventure takes off when toys come to life!",
+    "title": "Toy Story",
+    "video": false,
+    "vote_average": 7.975,
+    "vote_count": 19880,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Story Before Toy Story | Pixar Archives",
+          "key": "fjbwYttZYiY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69831c9546482181fa3014f3",
+          "published_at": "2026-02-03T18:00:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Brad Garrett on why TOY STORY still reigns as one of the greatest animated films of all time.",
+          "key": "_hIfuYVgBrY",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Featurette",
+          "official": true,
+          "id": "6928807f85fe4502b3eaa07d",
+          "published_at": "2025-11-26T15:11:43.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Toy Story Side by Side | \"Falling with Style\" Scene | Storyboards vs Film",
+          "key": "TZOCUtoygtc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68e4202a0d591d58eef81cec",
+          "published_at": "2025-10-06T17:00:41.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Original Trailer",
+          "key": "CxwTLktovTU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "61c2834a3fe797006112683e",
+          "published_at": "2019-11-08T18:00:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "John Lasseter receiving a Special Achievement Award",
+          "key": "dmnyMuKmLTI",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "692880c20cc54f1d51d9d837",
+          "published_at": "2011-09-28T00:47:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "John Lasseter On The Heart Of TOY STORY",
+          "key": "eS192sE4wLY",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "69288056d98716c412eaa882",
+          "published_at": "2010-12-04T01:12:46.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "John Lasseter On The Supporting Characters Of TOY STORY",
+          "key": "xMBT_Cy5F_w",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "692880467b8d3fb1a5c12748",
+          "published_at": "2010-12-02T23:57:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Tim Allen On NOT Working With Tom Hanks In TOY STORY",
+          "key": "dQOEFxKwelk",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "6686dc182ababd39e75ebe05",
+          "published_at": "2009-04-20T18:18:01.000Z"
+        }
+      ]
+    }
+  }
+}

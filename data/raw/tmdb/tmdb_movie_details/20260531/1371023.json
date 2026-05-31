@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1371023,
-  "ingestion_time_utc": "2026-05-31T13:34:06.198017+00:00",
+  "ingestion_time_utc": "2026-05-31T17:24:31.023964+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/kkRpcauZoBFKnH0Qsy7J5qtwBF5.jpg",
@@ -58,8 +58,8 @@
     "tagline": "When love grows faster than life",
     "title": "Chand Mera Dil",
     "video": false,
-    "vote_average": 1.0,
-    "vote_count": 1,
+    "vote_average": 5.5,
+    "vote_count": 2,
     "videos": {
       "results": []
     }

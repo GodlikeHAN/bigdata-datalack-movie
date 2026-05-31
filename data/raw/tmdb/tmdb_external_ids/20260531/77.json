@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 77,
+  "ingestion_time_utc": "2026-05-31T17:24:42.944138+00:00",
+  "data": {
+    "id": 77,
+    "imdb_id": "tt0209144",
+    "wikidata_id": "Q190525",
+    "facebook_id": "MementoOfficial",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

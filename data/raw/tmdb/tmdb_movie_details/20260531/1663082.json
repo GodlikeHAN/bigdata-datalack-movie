@@ -1,0 +1,64 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1663082,
+  "ingestion_time_utc": "2026-05-31T17:24:33.702203+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "https://red-owl-films.com/film/the-last-supper/",
+    "id": 1663082,
+    "imdb_id": "tt38782528",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Last Supper",
+    "overview": "In a deserted house, a mysterious man savors an exquisite menu in the company of an unseen guest. From this eerie dinner table, a succession of terrifying stories is revealed-each probing primal fears of hunger, flesh, and survival.",
+    "popularity": 66.7728,
+    "poster_path": "/6rGa9huzhmG1i2iu2Vcyv5HI02t.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2025-10-23",
+    "revenue": 0,
+    "runtime": 87,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Some Debts Can Only Be Eaten Away",
+    "title": "The Last Supper",
+    "video": false,
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "THE LAST SUPPER 🎬 Official Trailer 🎬 Horror Movie 🎬 English HD 2025",
+          "key": "paPp5F_TNGA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69cff4d43ad39e52999a339f",
+          "published_at": "2025-10-06T15:01:36.000Z"
+        }
+      ]
+    }
+  }
+}

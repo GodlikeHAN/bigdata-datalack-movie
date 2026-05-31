@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1228710,
-  "ingestion_time_utc": "2026-05-31T13:34:04.857769+00:00",
+  "ingestion_time_utc": "2026-05-31T17:24:31.050423+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/4VrLojD6Gl1HQkcDHAoHQjSDPh9.jpg",
@@ -59,7 +59,7 @@
       }
     ],
     "release_date": "2026-05-20",
-    "revenue": 181407933,
+    "revenue": 246600000,
     "runtime": 132,
     "softcore": false,
     "spoken_languages": [
@@ -73,8 +73,8 @@
     "tagline": "If you're searching for new adventure, \"this is the way.\"",
     "title": "The Mandalorian and Grogu",
     "video": false,
-    "vote_average": 6.826,
-    "vote_count": 325,
+    "vote_average": 6.829,
+    "vote_count": 331,
     "videos": {
       "results": [
         {

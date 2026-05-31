@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt14113634",
+  "ingestion_time_utc": "2026-05-31T17:25:10.680095+00:00",
+  "data": {
+    "Title": "Drishyam 3",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "N/A",
+    "Runtime": "N/A",
+    "Genre": "Thriller",
+    "Director": "Jeethu Joseph",
+    "Writer": "N/A",
+    "Actors": "Mohanlal, Asha Sharath, Siddique",
+    "Plot": "N/A",
+    "Language": "Malayalam",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ0MmVmODYtODNjMy00MWNiLWI4YWQtNzQxYzU2NjEwMGRmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt14113634",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

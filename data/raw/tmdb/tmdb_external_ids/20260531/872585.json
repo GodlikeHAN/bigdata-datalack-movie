@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 872585,
+  "ingestion_time_utc": "2026-05-31T17:24:38.897322+00:00",
+  "data": {
+    "id": 872585,
+    "imdb_id": "tt15398776",
+    "wikidata_id": "Q108839994",
+    "facebook_id": "OppenheimerMovie",
+    "instagram_id": "oppenheimermovie",
+    "twitter_id": "OppenheimerFilm"
+  }
+}

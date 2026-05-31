@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt32897959",
+  "ingestion_time_utc": "2026-05-31T17:24:55.565044+00:00",
+  "data": {
+    "Title": "Wuthering Heights",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "13 Feb 2026",
+    "Runtime": "136 min",
+    "Genre": "Drama, Romance",
+    "Director": "Emerald Fennell",
+    "Writer": "Emily Brontë, Emerald Fennell",
+    "Actors": "Margot Robbie, Jacob Elordi, Hong Chau",
+    "Plot": "A passionate and tumultuous love story set against the backdrop of the Yorkshire moors, exploring the intense and destructive relationship between Heathcliff and Catherine Earnshaw.",
+    "Language": "English",
+    "Country": "United Kingdom, United States",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGFlMTVkMDktZGMzMC00Yjk4LWFmNzEtNTFmMzM2YzM3MWFkXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "57%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "55/100"
+      }
+    ],
+    "Metascore": "55",
+    "imdbRating": "6.2",
+    "imdbVotes": "57,394",
+    "imdbID": "tt32897959",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$84,001,072",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

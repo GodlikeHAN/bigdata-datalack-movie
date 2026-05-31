@@ -1,0 +1,412 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1290821,
+  "ingestion_time_utc": "2026-05-31T17:24:33.537769+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+    "belongs_to_collection": null,
+    "budget": 50000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://blackbearpictures.com/film-and-tv/shelter",
+    "id": 1290821,
+    "imdb_id": "tt32357218",
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Shelter",
+    "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+    "popularity": 68.2101,
+    "poster_path": "/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+    "production_companies": [
+      {
+        "id": 22146,
+        "logo_path": "/v37N1mFeXNQfvPankg3feBhVvM7.png",
+        "name": "Black Bear Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 218150,
+        "logo_path": null,
+        "name": "Punch Palace Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 253186,
+        "logo_path": null,
+        "name": "CineMachine",
+        "origin_country": "US"
+      },
+      {
+        "id": 118472,
+        "logo_path": "/vafYjvjZwK4JaV5Hcm9vSzw6f9G.png",
+        "name": "Stampede Ventures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2026-01-28",
+    "revenue": 53914725,
+    "runtime": 107,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Occitan",
+        "iso_639_1": "oc",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "Her safety. His mission.",
+    "title": "Shelter",
+    "video": false,
+    "vote_average": 7.617,
+    "vote_count": 1071,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"the first great action film of the year\"",
+          "key": "kdcxogb4leQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "697ce993fa186c66515d9f3c",
+          "published_at": "2026-01-28T18:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "shelter | fortnite tournament",
+          "key": "c_n1oBADaiU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "697950b8dfeb89540e14e57a",
+          "published_at": "2026-01-27T23:30:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Shed Fight Scene",
+          "key": "X3RfKTNo95E",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6979467a030dd85ff106a4f8",
+          "published_at": "2026-01-27T19:32:40.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Hold On",
+          "key": "kCY4Y3Y8UpA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6975f7aa4837467d6c10620c",
+          "published_at": "2026-01-25T03:49:43.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "shelter x fortnite",
+          "key": "_5PdP2E_1fo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69756c012495071dfd106369",
+          "published_at": "2026-01-24T21:56:26.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "This is Michael Mason",
+          "key": "Bvrbi8fZb7g",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69751839de9bfb62a1a37ad2",
+          "published_at": "2026-01-23T19:40:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "one week out",
+          "key": "3KcD7A9Pzgc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69725c472e8e6428e3093e7a",
+          "published_at": "2026-01-22T17:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Outrun",
+          "key": "k60_82uoPiE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69725cb20445e25873820845",
+          "published_at": "2026-01-22T15:25:37.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Featurette",
+          "key": "8vWhn31RXzk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69715d2709b79fc22a94da7e",
+          "published_at": "2026-01-21T18:59:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "“Become The Shelter” Fortnite Promo",
+          "key": "SQGFoxWBr6k",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "697653558f929b7eef088b5e",
+          "published_at": "2026-01-21T15:59:38.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "“Become The Shelter” Fortnite Gameplay Trailer",
+          "key": "PzgFLpIIVYU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69715d586cc8bcf3fe774534",
+          "published_at": "2026-01-21T15:59:33.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "only in theaters january 30",
+          "key": "fymv4fn7frw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "696d17926e9bb185a936af58",
+          "published_at": "2026-01-18T17:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "two weeks",
+          "key": "sopqeqjGEfU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6969385bdefb8166bd078f98",
+          "published_at": "2026-01-15T17:01:29.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Mission",
+          "key": "-dXj_jk-QSc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6969392229b38a76c5079073",
+          "published_at": "2026-01-15T09:36:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Unshackled",
+          "key": "ioT_i-Iq7u4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "696938dd5619d84343e56f70",
+          "published_at": "2026-01-15T09:29:39.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Protect",
+          "key": "jn3fADS3dNI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "696938a1b3da159d24e56db5",
+          "published_at": "2026-01-15T09:21:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "only in theaters january 30",
+          "key": "9hvNKrPIVOk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "696938400731f28e70dbd3ff",
+          "published_at": "2026-01-14T17:00:28.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Weapon",
+          "key": "GI5T1g6Fv0s",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69693766f46ad238d5f40e0f",
+          "published_at": "2026-01-12T10:19:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Precision",
+          "key": "WaojMZ9woMI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6969374a2e4a45b24001a98a",
+          "published_at": "2026-01-12T10:18:56.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Elite Operative",
+          "key": "Xbvti75Sdsk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "696936fadb1163ce87079040",
+          "published_at": "2026-01-12T10:18:39.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "in theaters january 30",
+          "key": "awWkqBGieDg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69693823bed2f6fc59e56e0d",
+          "published_at": "2026-01-09T17:00:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "in theaters january 30",
+          "key": "jZfyVnWmc8U",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "696937ee71ca24f358dbd44c",
+          "published_at": "2026-01-08T20:17:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "in theaters january 30",
+          "key": "QNeXSac6Y1E",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "696937b98abbad7651f40d54",
+          "published_at": "2026-01-05T20:27:15.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "one month",
+          "key": "ZRaJdEqt2X8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6969377f6ac4314e28e714a7",
+          "published_at": "2025-12-30T16:05:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Shelter | Official Trailer | Only In Theaters January 30",
+          "key": "auHiLFjaIc0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "699c2e97b1e6355f82b2940f",
+          "published_at": "2025-12-02T16:17:56.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "PPMawzJxKF4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "692f6a6de8e785d06d114850",
+          "published_at": "2025-12-02T16:15:20.000Z"
+        }
+      ]
+    }
+  }
+}

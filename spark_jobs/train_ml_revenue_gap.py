@@ -62,8 +62,6 @@ FINAL_COLUMNS = [
     "poster_url",
     "youtube_trailer_key",
     "youtube_trailer_url",
-    "source_data_hash",
-    "data_hash",
     "ingestion_time_utc",
 ]
 
@@ -119,35 +117,19 @@ def _apply_business_labels(dataframe: DataFrame) -> DataFrame:
     gap = F.col("actual_final_revenue") - F.col("predicted_final_revenue")
     ratio = F.when(F.col("predicted_final_revenue") > 0, gap / F.col("predicted_final_revenue"))
 
-    labeled = (
+    return (
         dataframe.withColumn("predicted_final_revenue", predicted)
         .withColumn("ml_revenue_gap", gap)
         .withColumn("ml_gap_ratio", ratio)
         .withColumn(
             "performance_category",
-            F.when(F.col("ml_gap_ratio") > 0.20, F.lit("Commercial Overperformer"))
-            .when(F.col("ml_gap_ratio") < -0.20, F.lit("Commercial Underperformer"))
-            .otherwise(F.lit("As Expected")),
+            F.when(
+                F.col("movie_lifecycle") == "active",
+                F.when(F.col("ml_gap_ratio") > 0.20, F.lit("Commercial Overperformer"))
+                .when(F.col("ml_gap_ratio") < -0.20, F.lit("Commercial Underperformer"))
+                .otherwise(F.lit("As Expected")),
+            ).otherwise(F.lit(None).cast("string")),
         )
-    )
-
-    return labeled.withColumn(
-        "data_hash",
-        F.sha2(
-            F.to_json(
-                F.struct(
-                    "source_data_hash",
-                    "movie_lifecycle",
-                    "actual_final_revenue",
-                    "predicted_final_revenue",
-                    "ml_gap_ratio",
-                    "performance_category",
-                    "poster_url",
-                    "youtube_trailer_url",
-                )
-            ),
-            256,
-        ),
     )
 
 
@@ -168,16 +150,16 @@ def run(run_date: str | None = None) -> str:
         raise ValueError("Spark ML training requires at least one historical movie with actual_final_revenue > 0.")
 
     active_movies = prepared.filter(F.col("movie_lifecycle") == "active")
-    historical_for_scoring = prepared.filter(F.col("movie_lifecycle") == "historical")
     active_count = active_movies.count()
-    historical_scoring_count = historical_for_scoring.count()
+    historical_output = prepared.filter(F.col("movie_lifecycle") == "historical")
+    historical_output_count = historical_output.count()
 
     model = _build_pipeline().fit(historical_movies)
     active_predictions = model.transform(active_movies)
-    historical_predictions = model.transform(historical_for_scoring)
-    all_predictions = historical_predictions.unionByName(active_predictions, allowMissingColumns=True)
+    active_output = _apply_business_labels(active_predictions).select(*FINAL_COLUMNS)
+    historical_output = historical_output.select(*FINAL_COLUMNS)
 
-    final_dataframe = _apply_business_labels(all_predictions).select(*FINAL_COLUMNS)
+    final_dataframe = historical_output.unionByName(active_output, allowMissingColumns=True)
 
     output_path = build_path("usage", "ratings_boxoffice_analysis", "movie_performance_gap", usage_partition.name)
     result = write_parquet(final_dataframe, output_path)
@@ -191,9 +173,9 @@ def run(run_date: str | None = None) -> str:
             {
                 "training_rows": int(historical_count),
                 "active_prediction_rows": int(active_count),
-                "historical_scoring_rows": int(historical_scoring_count),
+                "historical_output_rows": int(historical_output_count),
                 "model_type": "Spark ML RandomForestRegressor",
-                "label_rule": "Overperformer > 20%, Underperformer < -20%, otherwise As Expected",
+                "label_rule": "Active movies only: Overperformer > 20%, Underperformer < -20%, otherwise As Expected",
             },
             indent=2,
         ),

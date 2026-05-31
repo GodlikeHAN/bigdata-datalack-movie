@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt5700672",
+  "ingestion_time_utc": "2026-05-31T17:25:05.342633+00:00",
+  "data": {
+    "Title": "Train to Busan",
+    "Year": "2016",
+    "Rated": "Not Rated",
+    "Released": "20 Jul 2016",
+    "Runtime": "118 min",
+    "Genre": "Action, Horror, Thriller",
+    "Director": "Yeon Sang-ho",
+    "Writer": "Park Joo-suk, Yeon Sang-ho",
+    "Actors": "Gong Yoo, Jung Yu-mi, Ma Dong-seok",
+    "Plot": "While a zombie virus breaks out in South Korea, passengers struggle to survive on the train from Seoul to Busan.",
+    "Language": "Korean, English, Hawaiian",
+    "Country": "South Korea",
+    "Awards": "36 wins & 42 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "95%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "73/100"
+      }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.6",
+    "imdbVotes": "300,921",
+    "imdbID": "tt5700672",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$2,129,768",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

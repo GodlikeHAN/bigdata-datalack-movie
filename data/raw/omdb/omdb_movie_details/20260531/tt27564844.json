@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt27564844",
-  "ingestion_time_utc": "2026-05-31T13:34:18.434952+00:00",
+  "ingestion_time_utc": "2026-05-31T17:24:49.015641+00:00",
   "data": {
     "Title": "Iron Lung",
     "Year": "2026",

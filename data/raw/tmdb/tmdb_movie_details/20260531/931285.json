@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 931285,
-  "ingestion_time_utc": "2026-05-31T13:34:04.643669+00:00",
+  "ingestion_time_utc": "2026-05-31T17:24:31.151438+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
@@ -91,8 +91,8 @@
     "tagline": "Finish the fight.",
     "title": "Mortal Kombat II",
     "video": false,
-    "vote_average": 6.783,
-    "vote_count": 339,
+    "vote_average": 6.798,
+    "vote_count": 344,
     "videos": {
       "results": [
         {

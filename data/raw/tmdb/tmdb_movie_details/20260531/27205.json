@@ -1,0 +1,356 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 27205,
+  "ingestion_time_utc": "2026-05-31T17:24:35.062638+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+    "belongs_to_collection": null,
+    "budget": 160000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/inception",
+    "id": 27205,
+    "imdb_id": "tt1375666",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Inception",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "popularity": 35.5274,
+    "poster_path": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+    "production_companies": [
+      {
+        "id": 923,
+        "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+        "name": "Legendary Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 9996,
+        "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+        "name": "Syncopy",
+        "origin_country": "GB"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2010-07-15",
+    "revenue": 839030630,
+    "runtime": 148,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "english_name": "Swahili",
+        "iso_639_1": "sw",
+        "name": "Kiswahili"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Your mind is the scene of the crime.",
+    "title": "Inception",
+    "video": false,
+    "vote_average": 8.372,
+    "vote_count": 39278,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Dream Sequence",
+          "key": "mpj9dL7swwk",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Clip",
+          "official": true,
+          "id": "622d5cc322931a00454e588c",
+          "published_at": "2022-03-09T01:00:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "35mm Theatrical Trailer #3 [5.1] [4K] [FTD-0706]",
+          "key": "cdx31ak4KbQ",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": false,
+          "id": "653c6111c8a5ac00e3a09f82",
+          "published_at": "2022-03-07T06:00:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Final Scene",
+          "key": "k5DTbekB86s",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Clip",
+          "official": true,
+          "id": "622c37f7a579f90046e2824e",
+          "published_at": "2022-03-06T16:00:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Christopher Nolan & Leonardo DiCaprio on Inception | Film4 Interview Special Archives",
+          "key": "SBmxYERafeU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "623305b4109cd0001bc00bf7",
+          "published_at": "2020-02-07T10:45:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Michael Caine explains the ending of Inception at Film4 Summer Screen",
+          "key": "Ms56yWZak9w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "62331e4e53866e00485113e3",
+          "published_at": "2018-08-17T11:43:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "An Extended Special Look",
+          "key": "Fl7KyyKqqhE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "622c387fd363e50070d0d2c7",
+          "published_at": "2011-02-08T17:47:26.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "8 Academy Award® Nominations",
+          "key": "Cc8p-dqF1LU",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "622c39c70cb3350070a18891",
+          "published_at": "2011-01-28T02:06:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot #9",
+          "key": "HO5v3RhO8ek",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Teaser",
+          "official": true,
+          "id": "622c3a1d069f0e00463cde5d",
+          "published_at": "2010-06-29T23:22:58.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot #8",
+          "key": "CJXn7hNtblE",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Teaser",
+          "official": true,
+          "id": "622c3a4d9a3c49001d1aa427",
+          "published_at": "2010-06-29T23:20:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot #7",
+          "key": "niw40pVKctc",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Teaser",
+          "official": true,
+          "id": "622c3a41532acb001b36d16f",
+          "published_at": "2010-06-29T23:17:14.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot #6",
+          "key": "8XjKtoTFuLo",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Teaser",
+          "official": true,
+          "id": "622c39ff63aad2004596595f",
+          "published_at": "2010-06-25T23:40:40.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot #5",
+          "key": "8jRd8qRcaLI",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Teaser",
+          "official": true,
+          "id": "622c3a3484591c006e7e8a89",
+          "published_at": "2010-06-25T23:07:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Characters",
+          "key": "hW0M4xXxqpw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "622c398fa579f90046e285b3",
+          "published_at": "2010-06-25T22:10:29.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot #4",
+          "key": "sn8JQgjSr7k",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Teaser",
+          "official": true,
+          "id": "622c3a0ea579f90046e286a0",
+          "published_at": "2010-06-25T01:41:42.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot #3",
+          "key": "RDgRNxSm53o",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Teaser",
+          "official": true,
+          "id": "622c3a77069f0e001daa8899",
+          "published_at": "2010-06-09T00:09:34.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot #2",
+          "key": "J4BnDN7A-pk",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Teaser",
+          "official": true,
+          "id": "622c39e1d363e50047399fd8",
+          "published_at": "2010-06-09T00:07:58.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot #1",
+          "key": "7aED7XBmbyQ",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Teaser",
+          "official": true,
+          "id": "622c39f3025764001b3bdb94",
+          "published_at": "2010-06-09T00:04:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot",
+          "key": "cG_i7xnkMu8",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Teaser",
+          "official": true,
+          "id": "622c3c210cb33500485638a1",
+          "published_at": "2010-06-04T01:11:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official New UK Trailer",
+          "key": "JE9z-gy4De4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "638cadf5c3aa3f0084cd2074",
+          "published_at": "2010-05-11T15:00:54.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official UK Teaser Trailer",
+          "key": "hstBN0Qkqhc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "638cae37ab5e3400cf5fe5d4",
+          "published_at": "2010-05-11T11:29:13.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "Jvurpf91omw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "574bc2099251417fc0000c4d",
+          "published_at": "2010-01-09T00:34:42.000Z"
+        }
+      ]
+    }
+  }
+}

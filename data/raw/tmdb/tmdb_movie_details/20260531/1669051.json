@@ -1,0 +1,76 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1669051,
+  "ingestion_time_utc": "2026-05-31T17:24:34.412944+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/a2PyqyjREwjnrjdJyJtHfSQOxyf.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1669051,
+    "imdb_id": "tt40705143",
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_title": "Kesong Puti",
+    "overview": "Have a taste of VMX Newest Temptation Apphle Celso. Lena, a Kesong Puti vendor, meets a charming dairy supplier Manny. Their chemistry sparks a daring secret that transforms her humble cheese into their town’s obsession.",
+    "popularity": 45.2926,
+    "poster_path": "/8zYU8hlKR5111IToxXvv5575tZG.jpg",
+    "production_companies": [
+      {
+        "id": 149142,
+        "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+        "name": "Vivamax",
+        "origin_country": "PH"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PH",
+        "name": "Philippines"
+      }
+    ],
+    "release_date": "2026-04-24",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Tagalog",
+        "iso_639_1": "tl",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Kesong Puti",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 2,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "KESONG PUTI Official Trailer | Apphle Celso & Rinoa Halili | VMX",
+          "key": "DDW1sMYwhTo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69dbf6fe1437b7a145d93659",
+          "published_at": "2026-04-01T10:44:00.000Z"
+        }
+      ]
+    }
+  }
+}

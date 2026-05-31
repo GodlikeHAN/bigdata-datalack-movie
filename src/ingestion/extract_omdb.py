@@ -9,7 +9,7 @@ from src.config.settings import (
 )
 from src.ingestion.api_client import ApiClient
 from src.utils.date_utils import utc_now_iso
-from src.utils.file_utils import write_json
+from src.utils.file_utils import clear_directory, write_json
 
 
 client = ApiClient(sleep_seconds=1.0)
@@ -38,6 +38,7 @@ def collect_imdb_ids_from_tmdb_external_ids() -> List[str]:
 
 def extract_omdb_movie_details() -> List[str]:
     imdb_ids = collect_imdb_ids_from_tmdb_external_ids()
+    clear_directory(build_path("raw", "omdb", "omdb_movie_details"))
     output_paths = []
 
     for imdb_id in imdb_ids:

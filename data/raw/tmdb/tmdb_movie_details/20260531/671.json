@@ -1,0 +1,485 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 671,
+  "ingestion_time_utc": "2026-05-31T17:24:34.660529+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg",
+    "belongs_to_collection": {
+      "id": 1241,
+      "name": "Harry Potter Collection",
+      "poster_path": "/eVPs2Y0LyvTLZn6AP5Z6O2rtiGB.jpg",
+      "backdrop_path": "/kmEsQL2vOTA0jnM28fXS45Ky8kX.jpg"
+    },
+    "budget": 125000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/harry-potter-and-sorcerers-stone",
+    "id": 671,
+    "imdb_id": "tt0241527",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Harry Potter and the Philosopher's Stone",
+    "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+    "popularity": 41.8068,
+    "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 437,
+        "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+        "name": "Heyday Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 436,
+        "logo_path": "/A7WCkG3F0NFvjGCwUnclpGdIu9E.png",
+        "name": "1492 Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2001-11-16",
+    "revenue": 976475550,
+    "runtime": 152,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Let the magic begin.",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "video": false,
+    "vote_average": 7.899,
+    "vote_count": 29568,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Harry, Ron and Hermione Look for the Philosopher's Stone - Full Scene",
+          "key": "4gClAi8FS0A",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a1847acae6a19745f506409",
+          "published_at": "2026-04-18T14:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Troll in the Dungeon! | Full Scene | Harry Potter and the Philosopher's Stone",
+          "key": "xyQnjnzSgSE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "693c650e634a79607383e114",
+          "published_at": "2025-10-05T14:03:10.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Archival interview with the cast of Harry Potter",
+          "key": "HnqbOKakYGo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "67c6d9ba51cd5e32f1c08954",
+          "published_at": "2025-02-11T07:00:09.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "l91Km49W9qI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "65dd59522ac499017dcafc34",
+          "published_at": "2023-09-24T19:00:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Harry “Catches” the Golden Snitch",
+          "key": "d8ofKZC4Gd4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "61cb8f910cb335001c2d8e38",
+          "published_at": "2021-12-27T17:00:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Magical Movie Mode - Hogwarts Letters",
+          "key": "uTwSuwVT2yY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "63afa5825ad76b00ae9042b2",
+          "published_at": "2021-11-16T18:59:49.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Magical Movie Mode - Wingardium Leviosa",
+          "key": "qWkKxbmWsIk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "63afa35057530e00c481896f",
+          "published_at": "2021-11-15T18:59:50.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Magical Movie Mode - Potions Class",
+          "key": "hMIN4wmHuiA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "63afa32d27d9cc008a2ed161",
+          "published_at": "2021-11-13T18:59:46.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Full Movie Preview",
+          "key": "NBClQpIsEXk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "615f9d0c6350130043d761ba",
+          "published_at": "2020-04-26T17:59:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Harry Sneaks into the Restricted Section",
+          "key": "HxXaGPwI-DQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65dd5947a894d601870cab09",
+          "published_at": "2019-08-07T16:00:26.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Harry, Ron and Hermione Play Wizard Chess",
+          "key": "tgBgHWyA4ZY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65dd593f3ff2df01870ac78c",
+          "published_at": "2019-06-12T16:16:09.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Draco Malfoy Introduces Himself To Harry",
+          "key": "x8kshJO2PG0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65dd59392ac499017dcafc15",
+          "published_at": "2019-06-05T16:33:26.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Neville Stands Up to His Classmates",
+          "key": "rqz4dO2LEdc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65dd593439549a01644ebf47",
+          "published_at": "2019-05-29T16:00:10.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Platform 9¾",
+          "key": "x4hyAAV1kwQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65dd592e5c564e017c797912",
+          "published_at": "2018-09-01T14:57:49.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Happy Christmas, Harry and Ron",
+          "key": "GoNQmdjAV9k",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65dd5925a894d601870caae2",
+          "published_at": "2017-12-19T14:02:25.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Christmas Preparations at Hogwarts",
+          "key": "nwujZ8M_tDo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65dd591f5ed8e9016335329e",
+          "published_at": "2017-12-18T16:56:45.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Harry and the Snake",
+          "key": "p2oIXSgqUjk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65dd59193ff2df01870ac75c",
+          "published_at": "2017-11-13T18:49:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nearly Headless Nick",
+          "key": "siMnJYHrrSs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65dd5913eea34d017db1c449",
+          "published_at": "2017-10-26T21:43:21.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Teaser",
+          "key": "ue-RthZ6WWk",
+          "site": "YouTube",
+          "size": 360,
+          "type": "Teaser",
+          "official": false,
+          "id": "59da9dfb92514124eb049cab",
+          "published_at": "2017-10-08T21:50:50.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Yer a wizard, Harry\"",
+          "key": "nnD8FKXzIGs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65dd590e9ae613018674a214",
+          "published_at": "2017-08-04T17:07:37.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "A visit from Rubeus Hagrid | Harry Potter and the Philosopher's Stone",
+          "key": "XXvlqsSeJ7Q",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69d8ba34c762d73cc1bff22a",
+          "published_at": "2017-08-04T17:04:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Harry Catches the Snitch",
+          "key": "ANiBeWRwIG8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65dd59093ff2df01870ac744",
+          "published_at": "2017-07-13T16:25:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "A First Encounter",
+          "key": "lqSSqVLjvUg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65dd5902eea34d017db1c42b",
+          "published_at": "2017-07-06T22:06:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "A Lesson In Quidditch",
+          "key": "thL8QAsPhK0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65dd58fbdcb6a3018585cb05",
+          "published_at": "2017-07-04T16:07:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Sorting Ceremony",
+          "key": "z4K2F_OALPQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65dd58f55c564e017c79789c",
+          "published_at": "2017-06-27T16:34:43.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Harry's First Flying Lesson",
+          "key": "JhvaJa47FHY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65dd58ef5c564e017c797893",
+          "published_at": "2017-06-22T17:56:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Harry, Ron & Hermione Run Scared of Fluffy",
+          "key": "8FKrPepGk8A",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65dd58d7c433ea01863c856c",
+          "published_at": "2016-08-04T22:23:50.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Harry's First Quidditch Match Against Slytherin",
+          "key": "OiRMhtbscww",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65dd58d0dcb6a3018585caca",
+          "published_at": "2016-08-04T22:23:43.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Harry & Professor Snape's First Argument",
+          "key": "49o5QSVRtfg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65dd58ca7776f00163107547",
+          "published_at": "2016-08-04T22:23:33.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Oculus Reparo\" Hermione Fixes Harry's Glasses",
+          "key": "u5H1DIjAq0I",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65dd58c3dcb6a3018585cab0",
+          "published_at": "2016-08-04T22:23:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Harry's Jinxed Broom",
+          "key": "TXWk-LteMCo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "63afa54fc56d2d00d8427131",
+          "published_at": "2014-02-19T18:08:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Harry Potter and the Sorcerer's Stone (2001) Official Trailer - Daniel Radcliffe Movie HD",
+          "key": "VyHV0BRtdxo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "6958f37071d609b5a7d79878",
+          "published_at": "2014-02-10T19:11:46.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer",
+          "key": "PbdM1db3JbY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "58f5250dc3a3680e9800281e",
+          "published_at": "2012-04-12T06:53:53.000Z"
+        }
+      ]
+    }
+  }
+}

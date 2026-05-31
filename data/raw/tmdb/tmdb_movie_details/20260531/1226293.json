@@ -1,0 +1,80 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1226293,
+  "ingestion_time_utc": "2026-05-31T17:24:34.709778+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/emK2hOB6ACiExT0lNLog9lAmMFL.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 1226293,
+    "imdb_id": "tt31240702",
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_title": "Salitan",
+    "overview": "A suspicious wife follows her husband in Bali. She meets a dashing man who captures her heart. She soon wants her husband to really have an affair to alleviate the guilt she is feeling.",
+    "popularity": 39.8676,
+    "poster_path": "/rMgG7cWuq9O6zhhLs2CbqIKVA8V.jpg",
+    "production_companies": [
+      {
+        "id": 149142,
+        "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+        "name": "Vivamax",
+        "origin_country": "PH"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PH",
+        "name": "Philippines"
+      }
+    ],
+    "release_date": "2024-02-16",
+    "revenue": 0,
+    "runtime": 105,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Tagalog",
+        "iso_639_1": "tl",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Salitan",
+    "video": false,
+    "vote_average": 4.714,
+    "vote_count": 7,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "SALITAN | Official Trailer | World Premiere this FEBRUARY 23 only on Vivamax!",
+          "key": "-1VNotWjMRI",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "65baa204da9ef2017ca81e85",
+          "published_at": "2024-01-31T11:00:11.000Z"
+        }
+      ]
+    }
+  }
+}

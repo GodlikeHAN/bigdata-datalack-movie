@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1368314,
+  "ingestion_time_utc": "2026-05-31T17:24:43.460931+00:00",
+  "data": {
+    "id": 1368314,
+    "imdb_id": "tt33763941",
+    "wikidata_id": "Q137708152",
+    "facebook_id": "PassengerMovie",
+    "instagram_id": "passengermovie",
+    "twitter_id": "PassengerMovie"
+  }
+}

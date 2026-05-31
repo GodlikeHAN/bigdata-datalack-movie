@@ -62,13 +62,7 @@ def run(run_date: str | None = None) -> str:
                 "production_countries": [
                     country.get("name") for country in movie.get("production_countries", []) if country.get("name")
                 ],
-                "production_companies": [
-                    company.get("name") for company in movie.get("production_companies", []) if company.get("name")
-                ],
-                "original_language": movie.get("original_language"),
                 "imdb_id": movie.get("imdb_id"),
-                "status": movie.get("status"),
-                "source": "tmdb",
                 "ingestion_time_utc": payload.get("ingestion_time_utc"),
             }
         )
@@ -92,11 +86,7 @@ def run(run_date: str | None = None) -> str:
             StructField("vote_count", LongType(), True),
             StructField("popularity", DoubleType(), True),
             StructField("production_countries", ArrayType(StringType()), True),
-            StructField("production_companies", ArrayType(StringType()), True),
-            StructField("original_language", StringType(), True),
             StructField("imdb_id", StringType(), True),
-            StructField("status", StringType(), True),
-            StructField("source", StringType(), True),
             StructField("ingestion_time_utc", StringType(), True),
         ]
     )
@@ -112,9 +102,6 @@ def run(run_date: str | None = None) -> str:
         .withColumn("vote_count", F.col("vote_count").cast("int"))
         .withColumn("popularity", F.col("popularity").cast("double"))
         .withColumn("ingestion_time_utc", F.to_timestamp("ingestion_time_utc"))
-        .withColumn("has_budget", F.col("budget") > 0)
-        .withColumn("has_revenue", F.col("revenue") > 0)
-        .withColumn("has_financial_data", (F.col("budget") > 0) | (F.col("revenue") > 0))
     )
 
     window = Window.partitionBy("tmdb_id").orderBy(F.col("ingestion_time_utc").desc())

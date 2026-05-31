@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt36201830",
-  "ingestion_time_utc": "2026-05-31T13:34:21.596659+00:00",
+  "ingestion_time_utc": "2026-05-31T17:24:58.434359+00:00",
   "data": {
     "Title": "System",
     "Year": "2026",

@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt1937390",
+  "ingestion_time_utc": "2026-05-31T17:25:03.390392+00:00",
+  "data": {
+    "Title": "Nymphomaniac: Vol. I",
+    "Year": "2013",
+    "Rated": "Not Rated",
+    "Released": "06 Mar 2014",
+    "Runtime": "117 min",
+    "Genre": "Drama",
+    "Director": "Lars von Trier",
+    "Writer": "Lars von Trier",
+    "Actors": "Charlotte Gainsbourg, Stellan Skarsgård, Stacy Martin",
+    "Plot": "A self-diagnosed nymphomaniac recounts her erotic experiences to the man who saved her after a beating.",
+    "Language": "English",
+    "Country": "Denmark, Germany, Belgium, United Kingdom, France, Sweden, United States",
+    "Awards": "17 wins & 30 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA3Njc5MjI5Ml5BMl5BanBnXkFtZTgwNTY3Mjg3MDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "77%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "64/100"
+      }
+    ],
+    "Metascore": "64",
+    "imdbRating": "6.9",
+    "imdbVotes": "138,016",
+    "imdbID": "tt1937390",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$785,896",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

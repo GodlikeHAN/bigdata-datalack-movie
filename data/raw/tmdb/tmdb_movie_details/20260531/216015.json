@@ -1,0 +1,227 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 216015,
+  "ingestion_time_utc": "2026-05-31T17:24:35.178087+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/7IGKrY1f1KfwMipx9wZC4NRgIdF.jpg",
+    "belongs_to_collection": {
+      "id": 344830,
+      "name": "Fifty Shades Collection",
+      "poster_path": "/29sMhnMJPHsbO2XHu35iQjk4eFR.jpg",
+      "backdrop_path": "/f7F56YyMX9G6L4ffqNpA9zlG6fm.jpg"
+    },
+    "budget": 40000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.facebook.com/fiftyshadesofgreymovie",
+    "id": 216015,
+    "imdb_id": "tt2322441",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Fifty Shades of Grey",
+    "overview": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
+    "popularity": 33.6029,
+    "poster_path": "/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10146,
+        "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+        "name": "Focus Features",
+        "origin_country": "US"
+      },
+      {
+        "id": 11370,
+        "logo_path": null,
+        "name": "Michael De Luca Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 7626,
+        "logo_path": "/4839MGss4pPAalhqqYH1AD1CnEj.png",
+        "name": "Trigger Street Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2015-02-11",
+    "revenue": 569651467,
+    "runtime": 125,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Mr. Grey will see you now.",
+    "title": "Fifty Shades of Grey",
+    "video": false,
+    "vote_average": 5.869,
+    "vote_count": 12385,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Lust Contract",
+          "key": "NTkdjnMrkfc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65e7b2386840cc0186769d6b",
+          "published_at": "2024-03-05T20:00:07.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Elevator Scene",
+          "key": "ETSj1vUYgek",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65639ca6fb5299010350b07f",
+          "published_at": "2023-11-20T00:00:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ana Interviews Christian Grey",
+          "key": "r2djVwuRqdQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65d385448de0ae017cd96cc3",
+          "published_at": "2019-11-12T17:00:13.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Featurette: \"Christian Grey And Anastasia Steele\"",
+          "key": "hGvD1CubwNY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "58f67eabc3a368415e00265d",
+          "published_at": "2015-02-12T15:25:45.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Featurette: \"The World Of Christian Grey\"",
+          "key": "gmGbhDb2B6A",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "58f67e599251415df80027f7",
+          "published_at": "2015-02-11T16:15:36.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Featurette: \"A Look Inside",
+          "key": "fkiWDRiwUt8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "58f67ed6c3a368413b0029c1",
+          "published_at": "2015-02-10T16:29:43.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Super Bowl Spot",
+          "key": "ey7joQ10fZk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "58f67e28c3a368417d0026c2",
+          "published_at": "2015-02-02T02:36:21.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Valentine's Day (TV Spot 7)",
+          "key": "APBZu2z1AAc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "58f67e059251415df00026e6",
+          "published_at": "2015-01-11T18:06:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "6FDTMRK7-24",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "58f67dc79251415de80028ad",
+          "published_at": "2014-11-14T02:09:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer Tease",
+          "key": "wJJqd20KK5w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "58f67d77c3a36841b0002652",
+          "published_at": "2014-11-06T17:00:55.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser Trailer",
+          "key": "z4nJX8snP4s",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "58f67d409251415df8002742",
+          "published_at": "2014-07-24T12:17:54.000Z"
+        }
+      ]
+    }
+  }
+}

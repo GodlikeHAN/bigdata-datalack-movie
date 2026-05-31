@@ -1,0 +1,96 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1630423,
+  "ingestion_time_utc": "2026-05-31T17:24:33.789644+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/xA6AM5MvEkieZKlv1Tn3sN23I7i.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/81775348",
+    "id": 1630423,
+    "imdb_id": "tt39749979",
+    "origin_country": [
+      "TH"
+    ],
+    "original_language": "th",
+    "original_title": "Lueat Rak Nakkha",
+    "overview": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces.",
+    "popularity": 62.411,
+    "poster_path": "/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
+    "production_companies": [
+      {
+        "id": 289025,
+        "logo_path": null,
+        "name": "Sunwrite Moonact",
+        "origin_country": "TH"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "TH",
+        "name": "Thailand"
+      }
+    ],
+    "release_date": "2026-05-06",
+    "revenue": 0,
+    "runtime": 128,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Thai",
+        "iso_639_1": "th",
+        "name": "ภาษาไทย"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Love, Sacrifice and Vengeance.",
+    "title": "My Dearest Assassin",
+    "video": false,
+    "vote_average": 8.644,
+    "vote_count": 215,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer [Subtitled]",
+          "key": "M7--LSAvW48",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "6a0bb10452a092d42d467948",
+          "published_at": "2026-05-08T18:49:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "ตัวอย่างอย่างเป็นทางการ",
+          "key": "y1Qq_kPL5UU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69d763b00c6bbc0aaed4b4c8",
+          "published_at": "2026-04-09T05:00:00.000Z"
+        }
+      ]
+    }
+  }
+}

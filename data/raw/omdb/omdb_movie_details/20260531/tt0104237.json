@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0104237",
-  "ingestion_time_utc": "2026-05-31T13:34:18.303956+00:00",
+  "ingestion_time_utc": "2026-05-31T17:24:48.624900+00:00",
   "data": {
     "Title": "Damage",
     "Year": "1992",

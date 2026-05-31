@@ -6,8 +6,6 @@ INDEX_MAPPINGS = {
         "mappings": {
             "properties": {
                 "document_id": {"type": "keyword"},
-                "data_hash": {"type": "keyword"},
-                "source_data_hash": {"type": "keyword"},
                 "tmdb_id": {"type": "keyword"},
                 "imdb_id": {"type": "keyword"},
                 "title": {"type": "text", "fields": {"keyword": {"type": "keyword"}}},

@@ -1,10 +1,20 @@
 import json
+import shutil
 from pathlib import Path
 from typing import Any
 
 
 def ensure_dir(path: Path) -> None:
     path.mkdir(parents=True, exist_ok=True)
+
+
+def clear_directory(path: Path) -> None:
+    ensure_dir(path)
+    for child in path.iterdir():
+        if child.is_dir():
+            shutil.rmtree(child)
+        else:
+            child.unlink()
 
 
 def write_json(path: Path, data: Any) -> None:

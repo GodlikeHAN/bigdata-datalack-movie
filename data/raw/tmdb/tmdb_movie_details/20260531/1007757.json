@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1007757,
-  "ingestion_time_utc": "2026-05-31T13:34:05.776940+00:00",
+  "ingestion_time_utc": "2026-05-31T17:24:30.858853+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
@@ -77,7 +77,7 @@
     "title": "Swapped",
     "video": false,
     "vote_average": 8.986,
-    "vote_count": 1483,
+    "vote_count": 1487,
     "videos": {
       "results": [
         {

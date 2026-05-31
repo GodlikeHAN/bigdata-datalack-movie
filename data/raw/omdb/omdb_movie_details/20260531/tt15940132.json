@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt15940132",
+  "ingestion_time_utc": "2026-05-31T17:24:52.698645+00:00",
+  "data": {
+    "Title": "War Machine",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "06 Mar 2026",
+    "Runtime": "106 min",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Director": "Patrick Hughes",
+    "Writer": "Patrick Hughes, James Beaufort",
+    "Actors": "Alan Ritchson, Stephan James, Blake Richardson",
+    "Plot": "Follow the final recruits of a grueling special ops boot camp who encounter a mysterious deadly force.",
+    "Language": "English",
+    "Country": "United Kingdom, Australia, New Zealand, United States",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmM1ZTc5ZTYtOTM2My00MjBmLWE5NzktYzkyYzdlYWE3ZDAzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.3/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "54/100"
+      }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.3",
+    "imdbVotes": "86,956",
+    "imdbID": "tt15940132",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

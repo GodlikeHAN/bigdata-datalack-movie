@@ -1,0 +1,90 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1235877,
+  "ingestion_time_utc": "2026-05-31T17:24:34.527101+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "homepage": "",
+    "id": 1235877,
+    "imdb_id": "tt33379543",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "ta",
+    "original_title": "ஜன நாயகன்",
+    "overview": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+    "popularity": 36.1488,
+    "poster_path": "/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+    "production_companies": [
+      {
+        "id": 176175,
+        "logo_path": null,
+        "name": "KVN Productions",
+        "origin_country": "IN"
+      },
+      {
+        "id": 182074,
+        "logo_path": null,
+        "name": "The Route",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 183,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Tamil",
+        "iso_639_1": "ta",
+        "name": "தமிழ்"
+      }
+    ],
+    "status": "Post Production",
+    "tagline": "The Torch Bearer of Democracy",
+    "title": "Jana Nayagan",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "L81nWRwRmnI",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "69e8d9913378bd2637e44221",
+          "published_at": "2026-01-03T13:15:04.000Z"
+        }
+      ]
+    }
+  }
+}

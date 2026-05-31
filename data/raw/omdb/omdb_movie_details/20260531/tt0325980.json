@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0325980",
+  "ingestion_time_utc": "2026-05-31T17:25:02.473826+00:00",
+  "data": {
+    "Title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "Year": "2003",
+    "Rated": "PG-13",
+    "Released": "09 Jul 2003",
+    "Runtime": "143 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "Gore Verbinski",
+    "Writer": "Ted Elliott, Terry Rossio, Stuart Beattie",
+    "Actors": "Johnny Depp, Geoffrey Rush, Orlando Bloom",
+    "Plot": "An intrepid blacksmith teams up with an eccentric pirate captain to save his love from an undead pirate crew.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 5 Oscars. 38 wins & 104 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDhlMzEyNzItMTA5Mi00YWRhLThlNTktYTQyMTA0MDIyNDEyXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "79%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "63/100"
+      }
+    ],
+    "Metascore": "63",
+    "imdbRating": "8.1",
+    "imdbVotes": "1,323,403",
+    "imdbID": "tt0325980",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$305,413,918",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt15295368",
+  "ingestion_time_utc": "2026-05-31T17:24:48.755428+00:00",
+  "data": {
+    "Title": "KD: The Devil",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "30 Apr 2026",
+    "Runtime": "140 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Manjunath BS, Prem, Ravi Saranga",
+    "Writer": "Vijay Eshwar, Kraanti Kumar, Prem",
+    "Actors": "Dhruva Sarja, Sanjay Dutt, Shilpa Shetty Kundra",
+    "Plot": "In the early 1970s. Petty criminal Kaali unwittingly involves himself with underworld thugs, catalyzing events beyond his control. Will their destiny allow it?",
+    "Language": "Kannada, Hindi, Telugu, Tamil, Malayalam",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjY4ZWQxMzYtYTVjYi00ZWJkLWI2MjktYzQ0MGQ4YTZlNmEzXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.6/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.6",
+    "imdbVotes": "1,922",
+    "imdbID": "tt15295368",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

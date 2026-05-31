@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0133093",
-  "ingestion_time_utc": "2026-05-31T13:34:23.161286+00:00",
+  "ingestion_time_utc": "2026-05-31T17:25:08.068813+00:00",
   "data": {
     "Title": "The Matrix",
     "Year": "1999",
