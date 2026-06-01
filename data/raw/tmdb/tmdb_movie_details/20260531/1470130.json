@@ -1,0 +1,138 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1470130,
+  "ingestion_time_utc": "2026-05-31T20:50:04.891336+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      }
+    ],
+    "homepage": "https://watch.shudder.com/interstitial/925329",
+    "id": 1470130,
+    "imdb_id": "tt36647890",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Mortuary Assistant",
+    "overview": "Rebecca Owens, a recent mortuary science graduate takes a night shift job at River Fields Mortuary. Initially, the job seems straightforward — embalming bodies, completing paperwork, and keeping things tidy. But once Rebecca starts working the night shift, things take a dark turn.",
+    "popularity": 38.1057,
+    "poster_path": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
+    "production_companies": [
+      {
+        "id": 7662,
+        "logo_path": "/uGLpMN6r5MyFosNTgP9PKU48CHp.png",
+        "name": "Epic Pictures Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 31787,
+        "logo_path": "/dWkJVibgXMBhPathe3rn7raMcta.png",
+        "name": "Creativity Capital",
+        "origin_country": "GB"
+      },
+      {
+        "id": 153351,
+        "logo_path": "/dMusWUKSqpqXQOh0WiXHSmRBTci.png",
+        "name": "Dread",
+        "origin_country": "US"
+      },
+      {
+        "id": 138068,
+        "logo_path": null,
+        "name": "Traverse Terror",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2026-02-13",
+    "revenue": 1300011,
+    "runtime": 91,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Alone with the dead.",
+    "title": "The Mortuary Assistant",
+    "video": false,
+    "vote_average": 5.524,
+    "vote_count": 106,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip - One Little Cut",
+          "key": "Gdx1iQhjgBU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6995f25871f4fbe38b1b0463",
+          "published_at": "2026-02-12T15:44:42.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip - Lights Out",
+          "key": "4a-FYOXyVYQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6995f264125bd1e854851aa2",
+          "published_at": "2026-02-11T22:44:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip - You Startled Me",
+          "key": "ajeZv0qawzg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6995f271037515daa5288b67",
+          "published_at": "2026-02-10T20:04:40.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "YtY6JoPX5MU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "696a905b91464734fdad21cc",
+          "published_at": "2026-01-16T18:29:16.000Z"
+        }
+      ]
+    }
+  }
+}

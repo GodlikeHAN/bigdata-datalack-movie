@@ -1,0 +1,220 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1083381,
+  "ingestion_time_utc": "2026-05-30T20:33:32.315741+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+    "belongs_to_collection": null,
+    "budget": 10000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "homepage": "https://backrooms.mov",
+    "id": 1083381,
+    "imdb_id": "tt26657236",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Backrooms",
+    "overview": "A strange doorway appears in the basement of a furniture showroom.",
+    "popularity": 187.0112,
+    "poster_path": "/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
+    "production_companies": [
+      {
+        "id": 76907,
+        "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+        "name": "Atomic Monster",
+        "origin_country": "US"
+      },
+      {
+        "id": 2575,
+        "logo_path": "/9YJrHYlcfHtwtulkFMAies3aFEl.png",
+        "name": "21 Laps Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 41077,
+        "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+        "name": "A24",
+        "origin_country": "US"
+      },
+      {
+        "id": 262307,
+        "logo_path": "/Yt9QqQjZzvdZCRLN5vGoi3dc8n.png",
+        "name": "Phobos",
+        "origin_country": "CA"
+      },
+      {
+        "id": 251729,
+        "logo_path": "/lKT1JrDNMwC9M3HvQQCofbiYtRr.png",
+        "name": "The North Road Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2026-05-27",
+    "revenue": 38412634,
+    "runtime": 110,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Backrooms",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 96,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Kane Parsons Breaks Down a Scene from ‘Backrooms’",
+          "key": "8DePR0N84iM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": false,
+          "id": "6a18e49673faf2cac232807e",
+          "published_at": "2026-05-26T14:00:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Backrooms Director Kane Parsons Breaks Down His Inspirations",
+          "key": "t3GPr1z0plI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": false,
+          "id": "6a14546d2c0b09b75659d8d1",
+          "published_at": "2026-05-25T11:00:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Cast Maps the Backrooms Set",
+          "key": "VNjMLkzLxTo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a070348650ee978a673498b",
+          "published_at": "2026-05-14T15:33:26.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Promo",
+          "key": "2z6a6NUFlsU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0489695a8cb313fba60990",
+          "published_at": "2026-05-13T13:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Instupendo - Live From The Backrooms",
+          "key": "jGnhVhBuu74",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a0446f51bbb89aa3069b7e8",
+          "published_at": "2026-05-13T05:07:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Kane Parsons & James Wan - Origins of the Backrooms - The A24 Podcast",
+          "key": "A4eGlqRk_HA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69fdecf89b2ab65154347de7",
+          "published_at": "2026-05-07T15:21:25.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Kane Parsons & James Wan - What's Scary About the Backrooms - The A24 Podcast",
+          "key": "Bm__0kg1g_U",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69fded215272a26ee24c6f6b",
+          "published_at": "2026-05-07T15:19:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Kane Parsons & James Wan - The A24 Podcast",
+          "key": "UCK6KI7yQ10",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69fb5aa57270bc9771ec844b",
+          "published_at": "2026-05-06T11:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "0HjdiohVOik",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69cbef8c5fabdff4e14c027c",
+          "published_at": "2026-03-31T15:59:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser",
+          "key": "tKGhxMi50y8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "699daef31005ca8cd4375079",
+          "published_at": "2026-02-24T14:00:00.000Z"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1103473,
+  "ingestion_time_utc": "2026-05-31T20:50:02.056234+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/l1nekhf05HS5OpBr0vRqcD3NxoS.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 36,
+        "name": "History"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "homepage": "",
+    "id": 1103473,
+    "imdb_id": "tt15295368",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "kn",
+    "original_title": "ಕೆಡಿ - ದಿ ಡೆವಿಲ್",
+    "overview": "In the early 1970s, a petty criminal Kaali unwittingly involves himself with underworld thugs, catalyzing events beyond his control.",
+    "popularity": 53.6771,
+    "poster_path": "/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
+    "production_companies": [
+      {
+        "id": 176175,
+        "logo_path": null,
+        "name": "KVN Productions",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-04-30",
+    "revenue": 0,
+    "runtime": 141,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Kannada",
+        "iso_639_1": "kn",
+        "name": "?????"
+      }
+    ],
+    "status": "Released",
+    "tagline": "I MEAN IT'S BETTER THAN MARTIN",
+    "title": "KD – The Devil",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 1,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "KD Official Trailer | KVN | Prems | Dhruva Sarja | Reeshma | Sanjay Dutt | Arjun Janya | Suprith",
+          "key": "yQLKrS5N4KU",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "69f83836bd61edf5b23b350e",
+          "published_at": "2026-04-24T21:34:04.000Z"
+        }
+      ]
+    }
+  }
+}

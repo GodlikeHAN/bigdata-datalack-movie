@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt41367695",
+  "ingestion_time_utc": "2026-05-30T20:33:41.996441+00:00",
+  "data": {
+    "Title": "Propeller One-Way Night Coach",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "29 May 2026",
+    "Runtime": "61 min",
+    "Genre": "Adventure, Drama, Family",
+    "Director": "John Travolta",
+    "Writer": "John Travolta",
+    "Actors": "Kelly Eviston-Quinnett, Kelly B. Eviston, C. Andrew Garrison",
+    "Plot": "Based on Travolta's 1997 book. Follows young aviation enthusiast Jeff and his mother on a cross-country flight to Hollywood that transforms into a life-changing journey filled with unexpected moments.",
+    "Language": "N/A",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2NmNWQyYWQtZjk5MC00NGNjLTgyZTUtMGE4ZDYxZTE2NTg2XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.7/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "42/100"
+      }
+    ],
+    "Metascore": "42",
+    "imdbRating": "5.7",
+    "imdbVotes": "41",
+    "imdbID": "tt41367695",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

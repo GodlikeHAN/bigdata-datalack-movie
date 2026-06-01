@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt37287335",
+  "ingestion_time_utc": "2026-05-25T20:37:16.872947+00:00",
+  "data": {
+    "Title": "Obsession",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "15 May 2026",
+    "Runtime": "108 min",
+    "Genre": "Horror, Thriller",
+    "Director": "Curry Barker",
+    "Writer": "Curry Barker",
+    "Actors": "Michael Johnston, Inde Navarrette, Cooper Tomlinson",
+    "Plot": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "3 wins & 4 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "95%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "78/100"
+      }
+    ],
+    "Metascore": "78",
+    "imdbRating": "7.6",
+    "imdbVotes": "694",
+    "imdbID": "tt37287335",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

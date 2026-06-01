@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1122573,
+  "ingestion_time_utc": "2026-05-13T22:05:27.034604+00:00",
+  "data": {
+    "id": 1122573,
+    "imdb_id": "tt27681354",
+    "wikidata_id": "Q123172835",
+    "facebook_id": "InTheGreyFilm",
+    "instagram_id": "inthegreyfilm",
+    "twitter_id": "InTheGreyFilm"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1065834,
+  "ingestion_time_utc": "2026-06-01T08:18:54.981076+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/wvmfToHjflWab2PHKG1vCqg2Asx.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 1065834,
+    "imdb_id": "tt35668756",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "ml",
+    "original_title": "കാട്ടാളൻ",
+    "overview": "Power-hungry forces clash in the Ivory cartel war-a fierce story of control, vengeance, and survival where compassion vanishes and only the ruthless endure.",
+    "popularity": 151.4169,
+    "poster_path": "/53FATyQirV8BuBcrsQMGPvGKgCu.jpg",
+    "production_companies": [
+      {
+        "id": 210027,
+        "logo_path": null,
+        "name": "Cubes Entertainments",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-05-14",
+    "revenue": 0,
+    "runtime": 119,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Malayalam",
+        "iso_639_1": "ml",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "THE HUNTER",
+    "title": "Kattalan",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "videos": {
+      "results": []
+    }
+  }
+}

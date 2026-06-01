@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt28650488",
+  "ingestion_time_utc": "2026-06-01T08:19:11.573853+00:00",
+  "data": {
+    "Title": "The Super Mario Galaxy Movie",
+    "Year": "2026",
+    "Rated": "PG",
+    "Released": "01 Apr 2026",
+    "Runtime": "98 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Aaron Horvath, Michael Jelenic, Pierre Leduc",
+    "Writer": "Matthew Fogel",
+    "Actors": "Brie Larson, Virginia Dare Jelenic, Benny Safdie",
+    "Plot": "Mario ventures into space, exploring cosmic worlds and tackling galactic challenges far from the familiar Mushroom Kingdom.",
+    "Language": "English",
+    "Country": "Japan, United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWYxYWRkMTUtMGMwZC00MzYyLThlNjEtNDcwMDYyMTQ4ZjJlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.3/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "37/100"
+      }
+    ],
+    "Metascore": "37",
+    "imdbRating": "6.3",
+    "imdbVotes": "55,972",
+    "imdbID": "tt28650488",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$427,096,185",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

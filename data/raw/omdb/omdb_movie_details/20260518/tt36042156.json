@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt36042156",
+  "ingestion_time_utc": "2026-05-18T18:34:06.039302+00:00",
+  "data": {
+    "Title": "The Punisher: One Last Kill",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "12 May 2026",
+    "Runtime": "60 min",
+    "Genre": "Action, Adventure, Crime",
+    "Director": "Reinaldo Marcus Green",
+    "Writer": "Jon Bernthal, Reinaldo Marcus Green",
+    "Actors": "Jon Bernthal, Chelsea Brea, Colton Hill",
+    "Plot": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzdhZTI5YWQtOTE5ZS00YmE1LTgxOWUtN2ZiMzYwOGU5OWNhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt36042156",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 539745,
+  "ingestion_time_utc": "2026-06-01T08:18:57.266460+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/1yl7xmTN2iEyiD3gF8M68lBhR39.jpg",
+    "belongs_to_collection": null,
+    "budget": 35000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "homepage": "https://www.angel.com/movies/animal-farm",
+    "id": 539745,
+    "imdb_id": "tt2467700",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Animal Farm",
+    "overview": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
+    "popularity": 33.8526,
+    "poster_path": "/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
+    "production_companies": [
+      {
+        "id": 142311,
+        "logo_path": "/aexrPIItAbXLEUGB9Dp1Kqwhhwc.png",
+        "name": "Aniventure",
+        "origin_country": "GB"
+      },
+      {
+        "id": 85284,
+        "logo_path": "/7RvgzApnxYrdy9sqIAn1axTKuxu.png",
+        "name": "The Imaginarium",
+        "origin_country": "GB"
+      },
+      {
+        "id": 75234,
+        "logo_path": "/u7LNZRgcXH5plshrVQM9qXnlDMZ.png",
+        "name": "Cinesite Animation",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2026-04-30",
+    "revenue": 5354047,
+    "runtime": 96,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "It's time for these animals to stand and fight.",
+    "title": "Animal Farm",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 47,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Final Trailer",
+          "key": "NN6J7l6ulYk",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "69d3f69193f62afa56070e1d",
+          "published_at": "2026-04-06T15:00:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "g8wLmj9SiKM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "693c34ced0eb59e4136ec4ce",
+          "published_at": "2025-12-11T22:58:38.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Exclusive First Look",
+          "key": "LLt5WVayz5Q",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": false,
+          "id": "68436410c0533d958c1e9dae",
+          "published_at": "2025-06-06T15:44:06.000Z"
+        }
+      ]
+    }
+  }
+}

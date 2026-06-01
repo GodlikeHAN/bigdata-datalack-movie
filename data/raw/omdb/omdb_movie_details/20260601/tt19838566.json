@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt19838566",
+  "ingestion_time_utc": "2026-06-01T08:19:09.601304+00:00",
+  "data": {
+    "Title": "Kraken",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "01 May 2026",
+    "Runtime": "100 min",
+    "Genre": "Action, Drama, Fantasy",
+    "Director": "Pål Øie",
+    "Writer": "Vilde Eide, Kjersti Helen Rasmussen, Natasha Arthur",
+    "Actors": "Sara Khorami, Mikkel Bratt Silset, Ingvild Holthe Bygdnes",
+    "Plot": "A marine biologist is doing research on a fish farm when she encounters several strange occurrences. Along with the brutal deaths of two teenagers, all signs point to the deep fjord; can there be more to the depths than the eye ca...",
+    "Language": "Norwegian",
+    "Country": "Norway",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGU1YzUwMzktMzgxYy00ZGEwLTg1ZjgtZTNhZjk3MjZiM2M5XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.0",
+    "imdbVotes": "1,710",
+    "imdbID": "tt19838566",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

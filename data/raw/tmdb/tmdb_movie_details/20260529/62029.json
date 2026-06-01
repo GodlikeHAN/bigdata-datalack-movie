@@ -1,0 +1,81 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 62029,
+  "ingestion_time_utc": "2026-05-29T13:22:07.090996+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/mFDQ8f2lPHorGwtuE0fjnUIbKLF.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 62029,
+    "imdb_id": "tt0083655",
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Bingo Bongo",
+    "overview": "The ape-man, found somewhere in the jungles of Congo, transferred to Milan and named Bingo Bongo. The only one who believes in the human qualities of him is Laura, a woman anthropologist , so their affection for each other even grows to love.",
+    "popularity": 68.2996,
+    "poster_path": "/5ve4VuCwi7Xas5s50ynEB7uFjM2.jpg",
+    "production_companies": [
+      {
+        "id": 4986,
+        "logo_path": null,
+        "name": "Intercapital",
+        "origin_country": "IT"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "1982-12-23",
+    "revenue": 0,
+    "runtime": 102,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Bingo Bongo",
+    "video": false,
+    "vote_average": 5.731,
+    "vote_count": 175,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Bingo Bongo (1982) DEUTSCH TRAILER [HD 1080p]",
+          "key": "Z3aVa2a-la4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "62e8a1fe6d9fe800597568f5",
+          "published_at": "2018-10-04T12:31:18.000Z"
+        }
+      ]
+    }
+  }
+}

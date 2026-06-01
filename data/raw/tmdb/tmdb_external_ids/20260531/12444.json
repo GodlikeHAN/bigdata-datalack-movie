@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 12444,
+  "ingestion_time_utc": "2026-05-31T20:50:13.863864+00:00",
+  "data": {
+    "id": 12444,
+    "imdb_id": "tt0926084",
+    "wikidata_id": "Q161678",
+    "facebook_id": "harrypottermovie",
+    "instagram_id": "harrypotterfilm",
+    "twitter_id": "HarryPotterFilm"
+  }
+}

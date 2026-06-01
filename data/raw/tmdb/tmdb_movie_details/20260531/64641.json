@@ -1,0 +1,79 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 64641,
+  "ingestion_time_utc": "2026-05-31T20:50:01.080469+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/tbbyUOh6Jd45hDun3kLyZkCttkI.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 64641,
+    "imdb_id": "tt0072062",
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "La ragazzina",
+    "overview": "Monika is young, beautiful and a virgin. She is only 16 years old, and, beside getting the attention of all her classmates, she also attracts older men. She has a relationship with a boy, Leo, but she doesn't know that he uses to pimp the girls he seduces to rich businessmen. One of Leo's client befriends Monika and becomes so obsessed that he pays Leo to get her. But Monika turns her attention to her art professor, unknowing that he too has his secrets.",
+    "popularity": 64.144,
+    "poster_path": "/y8Byo8Mwd1a9JwISWLYR0zVxA5.jpg",
+    "production_companies": [
+      {
+        "id": 33834,
+        "logo_path": null,
+        "name": "Seven Stars Cinematografica",
+        "origin_country": ""
+      },
+      {
+        "id": 24244,
+        "logo_path": null,
+        "name": "Roma International Film",
+        "origin_country": ""
+      },
+      {
+        "id": 33835,
+        "logo_path": null,
+        "name": "Screen Film",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "1974-02-28",
+    "revenue": 0,
+    "runtime": 93,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Monika",
+    "video": false,
+    "vote_average": 4.7,
+    "vote_count": 20,
+    "videos": {
+      "results": []
+    }
+  }
+}

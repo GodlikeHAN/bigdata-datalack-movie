@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1159559,
+  "ingestion_time_utc": "2026-05-31T20:50:20.515202+00:00",
+  "data": {
+    "id": 1159559,
+    "imdb_id": "tt27047903",
+    "wikidata_id": "Q124758309",
+    "facebook_id": "ScreamMovies",
+    "instagram_id": "screammovies",
+    "twitter_id": "ScreamMovies"
+  }
+}

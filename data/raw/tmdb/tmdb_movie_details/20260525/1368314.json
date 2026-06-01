@@ -1,0 +1,566 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1368314,
+  "ingestion_time_utc": "2026-05-25T20:37:08.591377+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/hl7FEzMqgpsD0RfwMzskzQoiD1M.jpg",
+    "belongs_to_collection": null,
+    "budget": 15000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.passengermovie.com",
+    "id": 1368314,
+    "imdb_id": "tt33763941",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Passenger",
+    "overview": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
+    "popularity": 46.243,
+    "poster_path": "/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+    "production_companies": [
+      {
+        "id": 225897,
+        "logo_path": null,
+        "name": "18Hz Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 149696,
+        "logo_path": "/w0ARek3q2bIKGfoM2WRsFOqyYCB.png",
+        "name": "Coin Operated",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-05-20",
+    "revenue": 15300000,
+    "runtime": 94,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "130 million people take road trips every year. 15,400 of them are never seen again.",
+    "title": "Passenger",
+    "video": false,
+    "vote_average": 5.938,
+    "vote_count": 32,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "High Beams",
+          "key": "vmSNUDU8skI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a14490fe760e3d7c69ff7ed",
+          "published_at": "2026-05-25T13:00:57.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Burning Van",
+          "key": "WLx6sDkf_U8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a134414a980613571bf49e5",
+          "published_at": "2026-05-24T16:00:26.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Country Road",
+          "key": "zqpD0-GuEYA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a12c18efc6c26427dce4b06",
+          "published_at": "2026-05-23T16:01:09.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "See It",
+          "key": "9qEC6DMH69o",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a12bf105b3dbd0314ce4af2",
+          "published_at": "2026-05-23T09:00:15.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "You'll never drive at night the same way again.",
+          "key": "LTqqJPf0cbM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a1168a87b27c3969eb98e7b",
+          "published_at": "2026-05-22T17:51:14.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Seeing red? Stop driving.",
+          "key": "LneHsgghnrM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a1168e6f83449cccd4025f3",
+          "published_at": "2026-05-22T17:36:58.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Passenger Princess",
+          "key": "YsJbAXF-Uxc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a116ac01f245d9a684b49ce",
+          "published_at": "2026-05-22T13:00:49.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Van Life Essentials",
+          "key": "yMn0Ery8m30",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a116ad4158d78852208207d",
+          "published_at": "2026-05-22T11:01:29.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Paranormal Experience",
+          "key": "Kkc5Hc1rTp8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a116b0ed82df068676b5a84",
+          "published_at": "2026-05-22T11:00:33.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Drive carefully. There's danger on the road.",
+          "key": "8_bV_RLwOSw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0f857445e91d696ea3429c",
+          "published_at": "2026-05-21T22:06:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "UK Gala Audience Reactions",
+          "key": "wghxnibdYcs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a0f41ea987937f85fdae41c",
+          "published_at": "2026-05-21T17:30:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "London Gala",
+          "key": "IzVcIfi0jUs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a0f41cf2456368c32303198",
+          "published_at": "2026-05-21T17:16:27.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Get Tickets Now",
+          "key": "_WMI1FuSJR0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0f420b18114e8936426795",
+          "published_at": "2026-05-21T17:00:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Get Tickets Now",
+          "key": "IxBsBB6AkZ8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0f421f79b658741bdae3f7",
+          "published_at": "2026-05-21T16:00:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Get Tickets Now",
+          "key": "D-b8XArSO-0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0dfc095760cfda41f8e6f6",
+          "published_at": "2026-05-20T17:00:13.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Only Move When The Lights Are Off",
+          "key": "wEFd6otIlRk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a0e1cf558898719dce189c9",
+          "published_at": "2026-05-20T12:16:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "May The Devil Take Me Away",
+          "key": "guIZ-08Rm7Y",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a0e1da97e4b36e50de2530e",
+          "published_at": "2026-05-20T11:39:55.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Tire Jack Scene",
+          "key": "wPDR7vjE4yY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0dfc414a18d589d3d0c196",
+          "published_at": "2026-05-19T18:18:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Check your tires before you hit the road.",
+          "key": "kv5SDLpHg3o",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0cd8295733468f4aa2aa9c",
+          "published_at": "2026-05-19T18:15:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Billboard",
+          "key": "ygBGyBuVTF4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a0c817fa55c488a81cd1652",
+          "published_at": "2026-05-19T13:52:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Did you break the rules?",
+          "key": "Htd_QFC3fP4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0bc6e0b07632cd9b68d270",
+          "published_at": "2026-05-19T01:00:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Looks like you’re learning the rules the hard way.",
+          "key": "W0anqOm7aSI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0bc779cfe5dae4e04ace53",
+          "published_at": "2026-05-18T01:00:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "You've been marked.",
+          "key": "PLnYZrsKG6o",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0bc7b0f44df38af5c27663",
+          "published_at": "2026-05-17T12:30:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "No one outruns the Passenger.",
+          "key": "hGBcOMNEScY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0bc7d1ba55a3bdfd8fab6b",
+          "published_at": "2026-05-16T22:08:23.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Stay off the quieter roads.",
+          "key": "vLVs2-9fUFo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0b53ddc326719cd564d00b",
+          "published_at": "2026-05-14T18:10:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "GET /// TICKETS ⍉ NOW 𖨆. Before it's too late.",
+          "key": "_P4F4aQcBKs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0b54076580ce1fe664d062",
+          "published_at": "2026-05-14T18:09:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Always check the backseat.",
+          "key": "_G-k1x6Js58",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0b543c63da427081a01007",
+          "published_at": "2026-05-14T18:09:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "No one outruns the Passenger.",
+          "key": "nM9NvGxQfVE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0b54ebf90ac945c2c40674",
+          "published_at": "2026-05-14T18:09:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "No one outruns the Passenger.",
+          "key": "HdMtgc_sMWg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0d75692deeedcc0a0c160e",
+          "published_at": "2026-05-14T18:08:46.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Every road is a dead end.",
+          "key": "EmGtL2gpRkc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0b546e44b571901c248c8a",
+          "published_at": "2026-05-14T18:08:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Don’t drive at night and don’t ever stop.",
+          "key": "_2iQ4LUoNfk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0b548672b02f968033a75b",
+          "published_at": "2026-05-14T18:07:41.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "No one outruns the Passenger.",
+          "key": "Yey7O5wyoYo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0b54bc385ddad2b0a010cf",
+          "published_at": "2026-05-14T18:00:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Always be aware of your surroundings, you’re never truly alone.",
+          "key": "b6Tp-YRIo3U",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0625125896e980f8202115",
+          "published_at": "2026-05-14T00:00:36.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Van Tour",
+          "key": "gmNWR5AZXTI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a04b725572aeb6a60f9edb9",
+          "published_at": "2026-05-13T15:01:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "You’re not alone out there.",
+          "key": "Wg9k39NLoqw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0bc815793e937c1e8b1fa2",
+          "published_at": "2026-05-13T02:20:15.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "You've been warned.",
+          "key": "X5TCRSUxdI4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0bc82a6b18e02309c2766b",
+          "published_at": "2026-05-11T03:03:10.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Home",
+          "key": "4mHPvLmJFIc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0bc6a2835bfe3628f0c645",
+          "published_at": "2026-05-08T01:29:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Set of Passenger was Haunted",
+          "key": "X-IedTnw_48",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "69fa1e9c23891d02a19a29b9",
+          "published_at": "2026-05-05T15:05:07.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "You Have Been Marked",
+          "key": "fRvqMRjHtes",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69f9151a3ef625fac0d2c7e8",
+          "published_at": "2026-04-24T11:01:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "eNIn8kW1kyE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69de45c60f9b641c3b1da5ea",
+          "published_at": "2026-04-14T13:00:07.000Z"
+        }
+      ]
+    }
+  }
+}

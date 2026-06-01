@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt32642706",
+  "ingestion_time_utc": "2026-06-01T08:19:15.805843+00:00",
+  "data": {
+    "Title": "The Rip",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "16 Jan 2026",
+    "Runtime": "113 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Joe Carnahan",
+    "Writer": "Joe Carnahan, Michael McGrale",
+    "Actors": "Matt Damon, Ben Affleck, Steven Yeun",
+    "Plot": "A group of Miami cops discovers a stash of millions in cash, leading to distrust as outsiders learn about the huge seizure, making them question who to rely on.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjIzMGY3MzMtNDVlMS00MGU1LTkyNTItMmI4Mzk0Mjg3OTBkXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "78%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "63/100"
+      }
+    ],
+    "Metascore": "63",
+    "imdbRating": "6.8",
+    "imdbVotes": "123,010",
+    "imdbID": "tt32642706",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

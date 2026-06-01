@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 318256,
+  "ingestion_time_utc": "2026-05-13T22:05:27.189862+00:00",
+  "data": {
+    "id": 318256,
+    "imdb_id": "tt4382552",
+    "wikidata_id": "Q19263684",
+    "facebook_id": "hotgirlswanted",
+    "instagram_id": null,
+    "twitter_id": "hotgirlswanted"
+  }
+}

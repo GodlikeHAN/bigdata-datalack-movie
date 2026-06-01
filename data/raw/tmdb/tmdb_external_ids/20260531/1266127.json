@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1266127,
+  "ingestion_time_utc": "2026-05-31T20:50:17.605002+00:00",
+  "data": {
+    "id": 1266127,
+    "imdb_id": "tt33978029",
+    "wikidata_id": "Q134054683",
+    "facebook_id": null,
+    "instagram_id": "readyornotfilm",
+    "twitter_id": "Readyornotfilm"
+  }
+}

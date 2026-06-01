@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt32394984",
+  "ingestion_time_utc": "2026-05-13T22:05:34.547168+00:00",
+  "data": {
+    "Title": "Brothers Under Fire",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "13 Mar 2026",
+    "Runtime": "99 min",
+    "Genre": "Action, Drama, Mystery",
+    "Director": "Justin Chadwick",
+    "Writer": "Ian Mackenzie Jeffers, Delbert Hancock",
+    "Actors": "Kiefer Sutherland, Ashton Sanders, Solly McLeod",
+    "Plot": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
+    "Language": "English",
+    "Country": "Colombia, United States, United Kingdom",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDJiNWQ3NzgtODZlZC00YjljLWJmYWYtMTA4YzExYTcwMGFlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.0",
+    "imdbVotes": "181",
+    "imdbID": "tt32394984",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

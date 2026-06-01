@@ -1,0 +1,407 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1010581,
+  "ingestion_time_utc": "2026-05-31T20:50:02.281900+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/oz4U9eA6ilYf1tyiVuGmkftdLac.jpg",
+    "belongs_to_collection": {
+      "id": 1156666,
+      "name": "Fault Collection",
+      "poster_path": "/fR3AsfNeAmgGCy2CMFaOjIaIuA7.jpg",
+      "backdrop_path": "/7N9p8D39MXJDfm14zlBwW7mBh7g.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.amazon.com/gp/video/detail/B0B683GY1G",
+    "id": 1010581,
+    "imdb_id": "tt21909764",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Culpa mía",
+    "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+    "popularity": 52.214,
+    "poster_path": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+    "production_companies": [
+      {
+        "id": 32485,
+        "logo_path": "/fVXreZkiJTOq1cCi6htSQlPSy7R.png",
+        "name": "Pokeepsie Films",
+        "origin_country": "ES"
+      },
+      {
+        "id": 208240,
+        "logo_path": "/hYREaYiVyoGVP26CbDpAWD3wDRD.png",
+        "name": "Amazon Studios",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2023-06-08",
+    "revenue": 0,
+    "runtime": 116,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Love can only survive in the shadow of secrets.",
+    "title": "My Fault",
+    "video": false,
+    "vote_average": 7.736,
+    "vote_count": 4071,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Culpa Mía Pool Kiss - Clip [Subtitled]",
+          "key": "6xOWqyEubu4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6911723deb63fcbbcfd25b83",
+          "published_at": "2025-11-09T18:00:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick Leaves Noah Stranded [Subtitled]",
+          "key": "bp8o0VYHMSo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6887520450eaf66252247121",
+          "published_at": "2025-07-27T17:00:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Official Culpa Mía Recap - PV Recaps",
+          "key": "N8BV-oHcFHg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "676a42f0f68dc118f77ec19a",
+          "published_at": "2024-12-23T20:00:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick & Noah's Story So Far As Told By You",
+          "key": "xYsNJl8rh28",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "677993356d7ca00e7872926c",
+          "published_at": "2024-12-21T15:01:14.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick Promises Noah He'll Stop Fighting [Subtitled]",
+          "key": "nJPjGpYjWUA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6760e8ecd4a10233b1bb0091",
+          "published_at": "2024-12-15T18:00:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Noah Races Nick's Car [Subtitled]",
+          "key": "LlTEqjSZOfY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6744be0ba7d2393708d7faef",
+          "published_at": "2024-11-23T18:00:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Noah Tries to Stop Nick from Fighting [Subtitled]",
+          "key": "v35BYOmHkU8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67393de3c6412b366964ff5e",
+          "published_at": "2024-11-15T20:00:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick Asks Noah to Run Away with Him [Subtitled]",
+          "key": "c6C_OfuA0o4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "672d94e09b7e09cfdcc44848",
+          "published_at": "2024-11-07T20:00:18.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick Saves Noah from her Past [Subtitled]",
+          "key": "Iyymy4tBO9A",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "66e9f58e5168a896e11f175b",
+          "published_at": "2024-09-17T17:00:18.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick Saves Noah From A Spiked Drink [Subtitled]",
+          "key": "q8-JQvYepaE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "66d8fa6d2e4b6922eebf5dcb",
+          "published_at": "2024-09-03T17:00:41.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick and Noah's Meet Cute [Subtitled]",
+          "key": "deDLGJtrkyI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "66b9aeca7d739ff29e9f2646",
+          "published_at": "2024-08-11T19:00:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick Finally Says “I Love You\" To Noah [Subtitled]",
+          "key": "8xqJKfDbB2s",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "664f237aaf62098431bb36fb",
+          "published_at": "2024-05-20T15:34:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick and Noah Kiss on the Couch [Subtitled]",
+          "key": "uPBm9ctHZZU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "661b1ce193db9201640b6b3c",
+          "published_at": "2024-04-13T17:00:28.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick and Noah's Pool Kiss [Subtitled]",
+          "key": "SFeW7st6puM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "660cbc5e9c97bd017ca60891",
+          "published_at": "2024-03-30T17:00:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick & Noah Almost Get Caught Kissing  (Subtitled)",
+          "key": "W4o-PzRskcY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65fd79c060620a016327a412",
+          "published_at": "2024-03-21T12:11:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick & Noah’s Steamy First Kiss (Subtitled)",
+          "key": "Yi7wF3_mfxI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65d4ecb7967cc7016362a108",
+          "published_at": "2024-02-11T15:00:34.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick & Noah Meet For The First Time (Subtitled)",
+          "key": "T0m4drH8H1w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65b3ab015541fa014ab147b3",
+          "published_at": "2024-01-13T15:00:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick Rescues Noah From A Nasty Prank (Subtitled)",
+          "key": "-SexabFiliM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65b3abe4a0f1a20161be5cf3",
+          "published_at": "2023-12-11T15:17:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick & Noah Team Up To Take Down Her Dad (Subtitled)",
+          "key": "FHRehCBO3_c",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65b3aacd00213401857c0e81",
+          "published_at": "2023-11-26T15:00:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "My Fault’s Brilliant Bloopers!",
+          "key": "ZvIsUXOXjyo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Bloopers",
+          "official": true,
+          "id": "65b3ab50594c94017c3dcff0",
+          "published_at": "2023-10-22T16:00:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick & Noah Share An Intimate Moment By The Pool (Subtitled)",
+          "key": "jdYWO381Vr0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65b3ac189ba86a01622febfa",
+          "published_at": "2023-08-09T13:36:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick and Noah's Car Chase (Dubbed)",
+          "key": "tJVDqfqyQIo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65b3aa69002134014b7bd39b",
+          "published_at": "2023-08-03T18:00:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick Scares Noah When She Finds Out He Participates In Fights (Subtitled)",
+          "key": "sqzrVQAqWiQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65b3abff57530e0161d98d1e",
+          "published_at": "2023-08-01T16:03:10.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick and Noah's First Kiss (Dubbed)",
+          "key": "VPpmk5F6Sr0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65b3aa579ba86a01622fea8b",
+          "published_at": "2023-07-30T21:00:13.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nicole Wallace & Gabriel Guevara Play Who Knows Who Better?",
+          "key": "jE3VjE7oYCU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "65b3aba8d236e60149bff0cd",
+          "published_at": "2023-07-08T14:00:26.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer (English Dub)",
+          "key": "xY-qRGC6Yu0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6490203cc2ff3d0139af3aac",
+          "published_at": "2023-06-15T17:20:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick Protects Noah When Her Drink Gets Spiked (Subtitled)",
+          "key": "iTIrZBxjx1g",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65b3ad0e5541fa0164b16969",
+          "published_at": "2023-06-14T14:01:27.000Z"
+        }
+      ]
+    }
+  }
+}

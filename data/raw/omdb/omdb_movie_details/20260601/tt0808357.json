@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0808357",
+  "ingestion_time_utc": "2026-06-01T08:19:26.988380+00:00",
+  "data": {
+    "Title": "Lust, Caution",
+    "Year": "2007",
+    "Rated": "NC-17",
+    "Released": "26 Oct 2007",
+    "Runtime": "157 min",
+    "Genre": "Drama, History, Romance",
+    "Director": "Ang Lee",
+    "Writer": "Eileen Chang, James Schamus, Hui-Ling Wang",
+    "Actors": "Tony Leung Chiu-wai, Tang Wei, Joan Chen",
+    "Plot": "During World War II era, a young woman, Wang Jiazhi, gets swept up in a dangerous game of emotional intrigue with a powerful political figure, Mr. Yee.",
+    "Language": "Mandarin, Japanese, English, Shanghainese, Hindi, Cantonese",
+    "Country": "Taiwan, United States, Hong Kong, China",
+    "Awards": "Nominated for 2 BAFTA 28 wins & 56 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzc4Mzc4NTQtMzkwZS00ZWUzLTk1YWUtNDVlY2U1YTMzMTg2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "73%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "61/100"
+      }
+    ],
+    "Metascore": "61",
+    "imdbRating": "7.5",
+    "imdbVotes": "48,088",
+    "imdbID": "tt0808357",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$4,604,982",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

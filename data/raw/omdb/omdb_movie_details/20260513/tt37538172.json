@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt37538172",
+  "ingestion_time_utc": "2026-05-13T22:05:35.205662+00:00",
+  "data": {
+    "Title": "Bodycam",
+    "Year": "2025",
+    "Rated": "N/A",
+    "Released": "25 Sep 2025",
+    "Runtime": "N/A",
+    "Genre": "Horror",
+    "Director": "Brandon Christensen",
+    "Writer": "Brandon Christensen, Ryan Christensen",
+    "Actors": "Jaime M. Callica, Sean Rogerson, Catherine Lough Haggquist",
+    "Plot": "N/A",
+    "Language": "English",
+    "Country": "Canada",
+    "Awards": "N/A",
+    "Poster": "N/A",
+    "Ratings": [
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt37538172",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

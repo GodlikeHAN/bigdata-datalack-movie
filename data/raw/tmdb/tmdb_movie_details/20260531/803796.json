@@ -1,0 +1,465 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 803796,
+  "ingestion_time_utc": "2026-05-31T20:50:04.655213+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+    "belongs_to_collection": null,
+    "budget": 100000000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 10402,
+        "name": "Music"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/81498621",
+    "id": 803796,
+    "imdb_id": "tt14205554",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "KPop Demon Hunters",
+    "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+    "popularity": 39.6949,
+    "poster_path": "/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
+    "production_companies": [
+      {
+        "id": 2251,
+        "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+        "name": "Sony Pictures Animation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-06-20",
+    "revenue": 24619953,
+    "runtime": 96,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Released",
+    "tagline": "They sing. They dance. They battle demons.",
+    "title": "KPop Demon Hunters",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 2823,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Golden from Kpop Demon Hunters Best Original Song Press Room Speech | 98th Oscars (2026)",
+          "key": "0w5z80KcPJA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69b7d73332f077a950a63a53",
+          "published_at": "2026-03-16T05:35:34.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "KPop Demon Hunters Best Animated Feature Film Press Room Speech | 98th Oscars (2026)",
+          "key": "X5AqywbwReM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69b7d7218e81e5b2d508f1d1",
+          "published_at": "2026-03-16T00:48:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "5 Questions From The Hideout",
+          "key": "s-BurazGkYE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a00717d4013000369790291",
+          "published_at": "2026-03-11T16:01:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "'KPop Demon Hunters' VFX Breakdown",
+          "key": "XlJ4MYGjR8g",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": false,
+          "id": "69aa7299df2a9cc4e3878475",
+          "published_at": "2026-03-06T03:57:46.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "'KPop Demon Hunters' Rumi Character Design Breakdown",
+          "key": "lW1t1fRqatE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": false,
+          "id": "69aa72f04f5157207c9984ab",
+          "published_at": "2026-03-06T03:57:42.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "'KPop Demon Hunters' Seoul Environment - Exclusive",
+          "key": "Tyd_Z936PXg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": false,
+          "id": "69aa72fbb3bff12f6f9984be",
+          "published_at": "2026-03-06T03:57:37.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Writing and Directing KPOP DEMON HUNTERS | IN PROX S3E22",
+          "key": "pVyBcE5L0RY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69aa1ae84c6fa8a3470c01a6",
+          "published_at": "2026-02-16T15:01:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Animators React to KPop Demon Hunters - ft. The Directors",
+          "key": "e7L-ka-MsEE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": false,
+          "id": "697e872ea3afc3d25b6f7006",
+          "published_at": "2026-01-31T17:00:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Scene at the Academy (Feat. Directors Maggie Kang and Chris Applehans)",
+          "key": "iyDTqbuvqlw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6968c24c50280a1d7d078b8f",
+          "published_at": "2026-01-09T19:00:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "How “Golden” Was Born - EJAE, Mark & the Directors on KPop Demon Hunters",
+          "key": "tQHPBq4RjYk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "694d9e80ce8fe9bee32fb648",
+          "published_at": "2025-12-23T16:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Creative Force Behind the Film",
+          "key": "C2SHW86SWog",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6955e84edaa832d5c5d7a760",
+          "published_at": "2025-12-15T20:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Two Voices, One Rumi with EJAE and Arden Cho",
+          "key": "kp4WUIwo_38",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6955e8204f27feed6f88ecf3",
+          "published_at": "2025-12-15T19:00:40.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Birth of \"Golden\"",
+          "key": "cgZOrlMku0c",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6955e5993f5867198a7c6c19",
+          "published_at": "2025-12-11T18:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Meet the Hunters",
+          "key": "3qw7q42DZ9c",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68b0bb0c270dcb59c75ed702",
+          "published_at": "2025-08-28T19:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "KPop Demon Hunters",
+          "key": "m3YL062XLw4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68ac3d1ed92415a50da9a568",
+          "published_at": "2025-08-25T07:01:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "ZOEYYYYYY",
+          "key": "xpStOSTC9RE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68ac3cfd976c4e89831e5f36",
+          "published_at": "2025-08-24T12:01:36.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "This whole scene is straight out of the k-drama bible",
+          "key": "3imYHCa400Y",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "68ac3ce0d92415a50da9a558",
+          "published_at": "2025-08-23T16:00:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In the Booth with Arden Cho, Ji-young Yoo & May Hong",
+          "key": "OhkG1sSilxE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "68a63dfa0ad4be95fba819ca",
+          "published_at": "2025-08-19T19:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Behind the Scenes: What It Takes to Animate a K-Pop Battle",
+          "key": "GCFYRps1xmA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": false,
+          "id": "68b09d43f807e5c9f379c190",
+          "published_at": "2025-07-15T18:15:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ending Scene | KPOP DEMON HUNTERS (2025) Movie CLIP HD",
+          "key": "C2wRepL5c78",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": false,
+          "id": "68f9e92eed41d7f1615365f0",
+          "published_at": "2025-07-15T13:15:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Behind the Lore, Songs & K-Culture",
+          "key": "qD9QZLnDlSc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "687094a1327a052ea45414c8",
+          "published_at": "2025-07-10T23:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "“What It Sounds Like” Song Clip",
+          "key": "Ug_pv5-r1js",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "688ee084d120386f8911d6e6",
+          "published_at": "2025-07-10T13:00:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Saja Boys CRASH Huntrix's Meet & Greet",
+          "key": "5ZRsEnn2Wxw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "688ee058f7452194f911d788",
+          "published_at": "2025-07-02T13:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Cast Takes on the SPICY Ramen Challenge",
+          "key": "qRl1BdinoHw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "689fcdeacb54041f52339060",
+          "published_at": "2025-06-29T20:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TWICE Rates Huntrix’s Looks [Subtitled]",
+          "key": "CDcEf3bGfcs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "686207594a9baffed77edc84",
+          "published_at": "2025-06-28T22:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Your Idol\" - Official Song Clip",
+          "key": "cWppAbqm9I8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6872d3175cfab44819ed7b8e",
+          "published_at": "2025-06-25T20:45:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "“Your Idol” Saja Boys’ HYPNOTIC Performance - Song Clip",
+          "key": "1xhi2mi5cfk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "688ee0e7dd4a3e108df3e0fa",
+          "published_at": "2025-06-25T13:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Demon Idols Debut “Soda Pop” - Song Clip",
+          "key": "tWWlEOF-Ye4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "688ee09dca4fecfe53b22b6e",
+          "published_at": "2025-06-22T13:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Huntrix Show Demons How It’s DONE -Song Clip",
+          "key": "7kJ24UaDtmQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "688ee089afff2c8f37a4643d",
+          "published_at": "2025-06-21T13:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Sneak Peek: New Song",
+          "key": "qmp06qOM9lQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6852e36820f62816e25b77f7",
+          "published_at": "2025-06-18T16:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Cast Tries Korean Snacks",
+          "key": "CwdRP1mStPM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "684c769fc073160f78b0db2d",
+          "published_at": "2025-06-13T18:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "AzCAwdp1uIQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "682f4a27d531e4b94168496a",
+          "published_at": "2025-05-22T16:00:00.000Z"
+        }
+      ]
+    }
+  }
+}

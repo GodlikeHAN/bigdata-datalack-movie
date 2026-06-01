@@ -1,0 +1,74 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 967998,
+  "ingestion_time_utc": "2026-06-01T08:18:57.461759+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/yQUTEvEb5pJi0BH3b1biQRpGvEx.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "",
+    "id": 967998,
+    "imdb_id": "tt18305922",
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_title": "Conspiração Fatal",
+    "overview": "Davi Martins, a commercial director of a financial institution, and Juliana Martins, a personal trainer, are a couple trying to recover from a crisis. At work, Davi ends up getting involved in the investigation of a financial scandal, putting himself in the crosshairs of dangerous people. Little by little, Juliana discovers that her new home may not be a new beginning, but the stage for a real nightmare. Some secrets may end her life.",
+    "popularity": 31.719,
+    "poster_path": "/zpj3nNoc5xaUZTIdnuhwXwUcRag.jpg",
+    "production_companies": [
+      {
+        "id": 79880,
+        "logo_path": null,
+        "name": "Perocini Filmes",
+        "origin_country": "BR"
+      },
+      {
+        "id": 170077,
+        "logo_path": null,
+        "name": "Encripta",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BR",
+        "name": "Brazil"
+      }
+    ],
+    "release_date": "2022-05-26",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Fatal Conspiracy",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 3,
+    "videos": {
+      "results": []
+    }
+  }
+}

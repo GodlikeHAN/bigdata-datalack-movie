@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt39715014",
+  "ingestion_time_utc": "2026-06-01T08:19:22.183128+00:00",
+  "data": {
+    "Title": "Sundutan",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "06 Mar 2026",
+    "Runtime": "N/A",
+    "Genre": "Drama",
+    "Director": "Roe Pajemna",
+    "Writer": "N/A",
+    "Actors": "Allison Ross, Jade Viray, Zia Zamora",
+    "Plot": "N/A",
+    "Language": "Filipino, Tagalog",
+    "Country": "Philippines",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTgzZjY5NDEtNTJkNy00M2M2LWExZjktNjgzMDY3OTg1ZmM4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt39715014",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

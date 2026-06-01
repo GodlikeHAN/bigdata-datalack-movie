@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 862,
+  "ingestion_time_utc": "2026-05-31T20:50:12.900630+00:00",
+  "data": {
+    "id": 862,
+    "imdb_id": "tt0114709",
+    "wikidata_id": "Q171048",
+    "facebook_id": "pixartoystory",
+    "instagram_id": "toystory",
+    "twitter_id": "toystory"
+  }
+}

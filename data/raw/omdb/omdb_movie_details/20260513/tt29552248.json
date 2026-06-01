@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt29552248",
+  "ingestion_time_utc": "2026-05-13T22:05:30.130147+00:00",
+  "data": {
+    "Title": "Pookoo",
+    "Year": "2025",
+    "Rated": "N/A",
+    "Released": "14 Feb 2025",
+    "Runtime": "N/A",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Nathan Greno",
+    "Writer": "Nathan Greno",
+    "Actors": "N/A",
+    "Plot": "A small woodland creature and a majestic bird, two natural sworn enemies of The Valley, that magically trade places and set off on an adventure of a lifetime.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGUwYTljMzAtZmI3Yi00ODEzLWJkM2MtZGI0OTE3NThhZDA3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt29552248",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

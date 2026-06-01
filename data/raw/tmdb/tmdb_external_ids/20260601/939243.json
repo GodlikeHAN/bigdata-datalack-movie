@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 939243,
+  "ingestion_time_utc": "2026-06-01T08:19:01.176802+00:00",
+  "data": {
+    "id": 939243,
+    "imdb_id": "tt18259086",
+    "wikidata_id": "Q115859490",
+    "facebook_id": "sonicmovie",
+    "instagram_id": "sonicmovie",
+    "twitter_id": "SonicMovie"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1102883,
+  "ingestion_time_utc": "2026-05-19T20:18:30.020767+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/4R47iCjnTgwICFPxAJOxzE99Wzj.jpg",
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 10402,
+        "name": "Music"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://a24films.com/films/mother-mary",
+    "id": 1102883,
+    "imdb_id": "tt27200708",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Mother Mary",
+    "overview": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.",
+    "popularity": 7.7804,
+    "poster_path": "/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
+    "production_companies": [
+      {
+        "id": 41077,
+        "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+        "name": "A24",
+        "origin_country": "US"
+      },
+      {
+        "id": 20037,
+        "logo_path": "/6W92BtQOutAi9KFp0aeb41RBH95.png",
+        "name": "Augenschein Filmproduktion",
+        "origin_country": "DE"
+      },
+      {
+        "id": 99366,
+        "logo_path": "/r5UIazzNzEOUSEbxOfwWzEOBe5F.png",
+        "name": "Topic Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 14634,
+        "logo_path": "/bAhlRdNpjgsloPOH5mhZiX85gMZ.png",
+        "name": "Sailor Bear",
+        "origin_country": "US"
+      },
+      {
+        "id": 142269,
+        "logo_path": "/ggrWFqk5mPMks0vE3aCy3l9e0dv.png",
+        "name": "IPR.VC",
+        "origin_country": "FI"
+      },
+      {
+        "id": 282920,
+        "logo_path": null,
+        "name": "Homebird Productions",
+        "origin_country": "IE"
+      },
+      {
+        "id": 103376,
+        "logo_path": "/zAyfGEx1LJOkwNTrHugnWHzLRE.png",
+        "name": "Access Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "IE",
+        "name": "Ireland"
+      },
+      {
+        "iso_3166_1": "FI",
+        "name": "Finland"
+      }
+    ],
+    "release_date": "2026-04-16",
+    "revenue": 2628866,
+    "runtime": 112,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "This is not a ghost story.",
+    "title": "Mother Mary",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 30,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Mother Mary | Making Of A Popstar with Anne Hathaway | A24",
+          "key": "Orv0YKUi3XU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a0b0c6d56db75ba1ca15ce8",
+          "published_at": "2026-05-02T15:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip",
+          "key": "DN1_6nJKCuE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69f1058d00fd5ab2d11340fe",
+          "published_at": "2026-04-27T15:22:58.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Final Trailer",
+          "key": "aqYHOsuje1E",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69e8b196437d46df55e440e1",
+          "published_at": "2026-04-21T13:03:09.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official First Look",
+          "key": "LP-N5kp07gs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "69d7b7f34112a2c070d4b678",
+          "published_at": "2026-04-09T13:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer 2",
+          "key": "EE3KU_YT3_c",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69cd467b3aafc3e53548f2de",
+          "published_at": "2026-04-01T12:59:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "GREATEST HITS (Official Album Teaser)",
+          "key": "NWzkypKucMw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69aa1800f438725fb054b2b4",
+          "published_at": "2026-03-05T14:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer",
+          "key": "6VLbjGVXMYI",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "692fe1585df7f8b7ae76dbfc",
+          "published_at": "2025-12-02T21:36:57.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "ATGaqU6Srcc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "692ef4f079f5659a82286c5e",
+          "published_at": "2025-12-02T14:00:30.000Z"
+        }
+      ]
+    }
+  }
+}

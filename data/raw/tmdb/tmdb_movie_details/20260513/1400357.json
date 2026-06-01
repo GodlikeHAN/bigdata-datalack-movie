@@ -1,0 +1,74 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1400357,
+  "ingestion_time_utc": "2026-05-13T22:05:23.909617+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/mWRjVb2Lj9pjOlNcDP7lNvrvSo8.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 1400357,
+    "imdb_id": "tt34966562",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Christophers",
+    "overview": "The estranged children of a once-famous artist hire a forger to complete his unfinished works so they can be \"discovered\" and sold after his death.",
+    "popularity": 16.316,
+    "poster_path": "/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
+    "production_companies": [
+      {
+        "id": 240139,
+        "logo_path": null,
+        "name": "Department M",
+        "origin_country": "US"
+      },
+      {
+        "id": 273562,
+        "logo_path": null,
+        "name": "Butler & Sklar Productions",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-04-10",
+    "revenue": 0,
+    "runtime": 100,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Art can be copied. Artists cannot.",
+    "title": "The Christophers",
+    "video": false,
+    "vote_average": 6.417,
+    "vote_count": 6
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1281425,
+  "ingestion_time_utc": "2026-06-01T08:18:55.437381+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/1Xi0FNU0uj82GfUw2vWHsVCiRv5.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      }
+    ],
+    "homepage": "https://latidofilms.com/films/night-silence/",
+    "id": 1281425,
+    "imdb_id": "tt33029349",
+    "origin_country": [
+      "PL"
+    ],
+    "original_language": "pl",
+    "original_title": "Cisza nocna",
+    "overview": "A theatre actor whose health is failing gets admitted to a nursing home. Soon, he starts having nightmares that seemingly become deceptively real. The so-called nightmares were able to make him live in two parallel dimensions.",
+    "popularity": 65.1181,
+    "poster_path": "/gBYhjuq0ZEDN710C5sKVq45y1pA.jpg",
+    "production_companies": [
+      {
+        "id": 76035,
+        "logo_path": "/4vsIMYcrlPDGP6tTmm5Rm7SzL1G.png",
+        "name": "Film it",
+        "origin_country": "PL"
+      },
+      {
+        "id": 130189,
+        "logo_path": null,
+        "name": "Plan Zet",
+        "origin_country": "PL"
+      },
+      {
+        "id": 6480,
+        "logo_path": "/qJUUNzFYXNUDaisssBTV3Zdki9R.png",
+        "name": "Telewizja Polska",
+        "origin_country": "PL"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PL",
+        "name": "Poland"
+      }
+    ],
+    "release_date": "2024-10-31",
+    "revenue": 0,
+    "runtime": 87,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Polish",
+        "iso_639_1": "pl",
+        "name": "Polski"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Don't let them enter your dreams.",
+    "title": "Night Silence",
+    "video": false,
+    "vote_average": 4.667,
+    "vote_count": 6,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "NightSilence Trailer V1 3",
+          "key": "1FhNq_v3iF4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "668d5b661f11861a2832a43b",
+          "published_at": "2024-05-29T13:44:01.000Z"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0213847",
+  "ingestion_time_utc": "2026-05-13T22:05:30.395875+00:00",
+  "data": {
+    "Title": "Malena",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "02 Feb 2001",
+    "Runtime": "108 min",
+    "Genre": "Drama, Romance, War",
+    "Director": "Giuseppe Tornatore",
+    "Writer": "Giuseppe Tornatore, Luciano Vincenzoni",
+    "Actors": "Monica Bellucci, Giuseppe Sulfaro, Luciano Federico",
+    "Plot": "As Italy enters WWII, a teenage boy in a small, narrow-minded Sicilian town becomes obsessed with a young woman.",
+    "Language": "Italian, English, Latin, Greek, Ancient (to 1453)",
+    "Country": "Italy, United States",
+    "Awards": "Nominated for 2 Oscars. 7 wins & 21 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjA4MTEyY2YtYjgxYi00ZDkzLTkyZGQtZmRkOGI4M2ZhM2EzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "54%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "54/100"
+      }
+    ],
+    "Metascore": "54",
+    "imdbRating": "7.4",
+    "imdbVotes": "123,235",
+    "imdbID": "tt0213847",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$3,448,233",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

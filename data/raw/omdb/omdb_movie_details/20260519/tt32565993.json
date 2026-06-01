@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt32565993",
+  "ingestion_time_utc": "2026-05-19T20:18:38.208316+00:00",
+  "data": {
+    "Title": "The Sheep Detectives",
+    "Year": "2026",
+    "Rated": "PG",
+    "Released": "08 May 2026",
+    "Runtime": "109 min",
+    "Genre": "Action, Comedy, Family",
+    "Director": "Kyle Balda",
+    "Writer": "Craig Mazin, Leonie Swann",
+    "Actors": "Bryan Cranston, Nicholas Galitzine, Hugh Jackman",
+    "Plot": "Every night a shepherd reads aloud a murder mystery, pretending his sheep can understand. When he is found dead, the sheep realize at once that it was a murder and think they know everything about how to go about solving it.",
+    "Language": "English",
+    "Country": "Ireland, United Kingdom, Germany, United States",
+    "Awards": "1 win total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTFmZWI4YmMtNmQ0ZC00ZGQwLTk1OWEtZjAyZmIzOGY0MGFiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Metacritic",
+        "Value": "66/100"
+      }
+    ],
+    "Metascore": "66",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt32565993",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 758308,
+  "ingestion_time_utc": "2026-05-31T20:49:58.434530+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/dMX6RR0SHgI43r2CsDkF5wzozOw.jpg",
+    "belongs_to_collection": null,
+    "budget": 150000,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 758308,
+    "imdb_id": "tt7852780",
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_title": "Red Latex",
+    "overview": "Eric lives with his pregnant wife in his in-laws' house because they have no money to become independent. Eric is very docile and the people around him: his wife, his father, his father-in-law, and his boss have always told him what he has to do with his life. But everything has a limit. Fed of with this situation, Eric leaves his family and escapes to the mansion of the dominatrix Mistress Gise to become her slave. Eric hopes to achieve liberation by submitting to Mistress Gise. When his family finds out, they do what they can to get him back. Meanwhile, Mistress Gise is a twisted Domina who takes Eric's slavery beyond any expected limit.",
+    "popularity": 95.9452,
+    "poster_path": "/hP1o5waM6ohMTKr4QcOtyOP1oiu.jpg",
+    "production_companies": [
+      {
+        "id": 157024,
+        "logo_path": null,
+        "name": "Sewati Audiovisual",
+        "origin_country": "AR"
+      },
+      {
+        "id": 202582,
+        "logo_path": null,
+        "name": "Gaucho Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      }
+    ],
+    "release_date": "2020-02-22",
+    "revenue": 0,
+    "runtime": 88,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Slavery will set you free",
+    "title": "Red Latex",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 36,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Látex Rojo (International Trailer)",
+          "key": "W5GVJFJmbug",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "6000a5896a3448003d456a1e",
+          "published_at": "2020-02-27T13:00:13.000Z"
+        }
+      ]
+    }
+  }
+}

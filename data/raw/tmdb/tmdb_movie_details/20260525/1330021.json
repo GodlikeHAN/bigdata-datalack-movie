@@ -1,0 +1,110 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1330021,
+  "ingestion_time_utc": "2026-05-25T20:37:08.962117+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/81911351",
+    "id": 1330021,
+    "imdb_id": "tt33100314",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Remarkably Bright Creatures",
+    "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+    "popularity": 105.1342,
+    "poster_path": "/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+    "production_companies": [
+      {
+        "id": 10039,
+        "logo_path": "/b8w4LldQolMKiLZw4FQJBcXSDGI.png",
+        "name": "Anonymous Content",
+        "origin_country": "US"
+      },
+      {
+        "id": 256258,
+        "logo_path": null,
+        "name": "Night Owl Stories",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-05-07",
+    "revenue": 0,
+    "runtime": 114,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Brighter together.",
+    "title": "Remarkably Bright Creatures",
+    "video": false,
+    "vote_average": 8.513,
+    "vote_count": 416,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "b14IFe4an5k",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69dae9de09f41bc7229b7d45",
+          "published_at": "2026-04-08T14:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser",
+          "key": "4bsjRq8kasA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69b042442419a16750451038",
+          "published_at": "2026-03-10T14:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "that's a wrap on Remarkably Bright Creatures",
+          "key": "PafnQJksbXs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "681c320c25e95536e5c1d9ae",
+          "published_at": "2025-05-06T13:30:21.000Z"
+        }
+      ]
+    }
+  }
+}

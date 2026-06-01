@@ -1,0 +1,163 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 258216,
+  "ingestion_time_utc": "2026-05-31T20:49:56.467063+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/5GfUh2UNYlvvHUBQWx5XiHvwx1E.jpg",
+    "belongs_to_collection": {
+      "id": 258664,
+      "name": "Nymphomaniac Collection",
+      "poster_path": "/g2uLtco3A70qpK54der7va79F0R.jpg",
+      "backdrop_path": "/pUswifNwnQ5beSsqbAj1585ugIa.jpg"
+    },
+    "budget": 2350000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "http://www.magpictures.com/nymphomaniac",
+    "id": 258216,
+    "imdb_id": "tt1937390",
+    "origin_country": [
+      "DK"
+    ],
+    "original_language": "en",
+    "original_title": "Nymphomaniac: Vol. I",
+    "overview": "A man named Seligman finds a fainted wounded woman in an alley and he brings her home. She tells him that her name is Joe and that she is nymphomaniac. Joe tells her life and sexual experiences with hundreds of men since she was a young teenager while Seligman tells about his hobbies, such as fly fishing, reading about Fibonacci numbers or listening to organ music.",
+    "popularity": 26.468,
+    "poster_path": "/piikL8vRh3s1ysHGTIqaZpdjfNU.jpg",
+    "production_companies": [
+      {
+        "id": 76,
+        "logo_path": "/nebkQYtQKhZyHJfh5v0oGpNbPzu.png",
+        "name": "Zentropa Entertainments",
+        "origin_country": "DK"
+      },
+      {
+        "id": 8289,
+        "logo_path": null,
+        "name": "Zentropa International Köln",
+        "origin_country": "DE"
+      },
+      {
+        "id": 7777,
+        "logo_path": "/vd6oWpxQXyaeWGfm0A5SnJi8pyo.png",
+        "name": "Slot Machine",
+        "origin_country": "FR"
+      },
+      {
+        "id": 8556,
+        "logo_path": null,
+        "name": "Zentropa International France",
+        "origin_country": "FR"
+      },
+      {
+        "id": 2699,
+        "logo_path": "/c0vZ3qicUq3z8WD5EF1oleLtNMf.png",
+        "name": "Caviar",
+        "origin_country": "BE"
+      },
+      {
+        "id": 148015,
+        "logo_path": null,
+        "name": "Zenbelgie BVBA",
+        "origin_country": "BE"
+      },
+      {
+        "id": 94,
+        "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+        "name": "ARTE France Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 8288,
+        "logo_path": "/5THcBZP0ad7hXPjtPTxld5sVJQp.png",
+        "name": "Zentropa International Sweden",
+        "origin_country": "SE"
+      },
+      {
+        "id": 2801,
+        "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+        "name": "Film i Väst",
+        "origin_country": "SE"
+      },
+      {
+        "id": 148016,
+        "logo_path": null,
+        "name": "Groupe Grand Accord",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      },
+      {
+        "iso_3166_1": "DK",
+        "name": "Denmark"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "SE",
+        "name": "Sweden"
+      }
+    ],
+    "release_date": "2013-12-25",
+    "revenue": 13545832,
+    "runtime": 118,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Forget about love.",
+    "title": "Nymphomaniac: Vol. I",
+    "video": false,
+    "vote_average": 6.851,
+    "vote_count": 3654,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nymphomaniac Volume I - Featurette",
+          "key": "Ov1OoalGoyM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "600e08cbb5bc21003d910825",
+          "published_at": "2014-03-07T23:32:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official U.S. Trailer",
+          "key": "w7-UH6d_Oyo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "5943dfb29251417f5b024aeb",
+          "published_at": "2014-02-14T21:11:56.000Z"
+        }
+      ]
+    }
+  }
+}

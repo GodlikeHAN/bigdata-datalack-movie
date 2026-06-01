@@ -1,0 +1,10 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt41087705",
+  "ingestion_time_utc": "2026-05-25T20:37:18.862796+00:00",
+  "data": {
+    "Response": "False",
+    "Error": "Error getting data."
+  }
+}

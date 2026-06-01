@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt34966562",
+  "ingestion_time_utc": "2026-05-13T22:05:34.416417+00:00",
+  "data": {
+    "Title": "The Christophers",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "15 May 2026",
+    "Runtime": "100 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Steven Soderbergh",
+    "Writer": "Ed Solomon",
+    "Actors": "Michaela Coel, Ian McKellen, Jessica Gunning",
+    "Plot": "The children of a once famous artist hire a forger to complete some unfinished, long ago abandoned canvases so they'll have an inheritance when he dies.",
+    "Language": "English",
+    "Country": "United Kingdom, United States",
+    "Awards": "1 win & 1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDY1YjgyOTAtYjRlNS00NmE4LWE2YTgtZDcxNTBhZGVmMGVlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "78/100"
+      }
+    ],
+    "Metascore": "78",
+    "imdbRating": "6.8",
+    "imdbVotes": "321",
+    "imdbID": "tt34966562",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$80,672",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

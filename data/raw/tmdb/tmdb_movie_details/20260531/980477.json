@@ -1,0 +1,261 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 980477,
+  "ingestion_time_utc": "2026-05-31T20:50:01.095139+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/zxi6WQPVc0uQAG5TtLsKvxYHApC.jpg",
+    "belongs_to_collection": {
+      "id": 1449595,
+      "name": "Ne Zha Collection",
+      "poster_path": "/uY4ICaCkGIbDgiu7quRz5kfZXda.jpg",
+      "backdrop_path": "/kazABXcuhF5AdpdjlWQQCH8iUyR.jpg"
+    },
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "homepage": "https://a24films.com/films/ne-zha-2",
+    "id": 980477,
+    "imdb_id": "tt34956443",
+    "origin_country": [
+      "CN"
+    ],
+    "original_language": "zh",
+    "original_title": "哪吒之魔童闹海",
+    "overview": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
+    "popularity": 63.6222,
+    "poster_path": "/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",
+    "production_companies": [
+      {
+        "id": 167789,
+        "logo_path": null,
+        "name": "Chengdu Coco Cartoon",
+        "origin_country": "CN"
+      },
+      {
+        "id": 17818,
+        "logo_path": "/tqImejhMUsOuuKCX2cySzaO7QTj.png",
+        "name": "Beijing Enlight Pictures",
+        "origin_country": "CN"
+      },
+      {
+        "id": 161769,
+        "logo_path": null,
+        "name": "Beijing Enlight Media",
+        "origin_country": "CN"
+      },
+      {
+        "id": 273292,
+        "logo_path": null,
+        "name": "Chengdu Zizai Jingjie Culture Media",
+        "origin_country": "CN"
+      },
+      {
+        "id": 273293,
+        "logo_path": null,
+        "name": "Beijing Coloroom Technology",
+        "origin_country": "CN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      }
+    ],
+    "release_date": "2025-01-29",
+    "revenue": 2259822417,
+    "runtime": 144,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Witness a hero reborn.",
+    "title": "Ne Zha 2",
+    "video": false,
+    "vote_average": 8.171,
+    "vote_count": 695,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "queueing up all these movies for our queen",
+          "key": "_DGH8H8eHQ0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68c6851220e3ae8a47ca6d9e",
+          "published_at": "2025-08-23T19:00:18.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "feeling inspired, thank you Michelle",
+          "key": "KmNvO52SgfI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68c684c7d9306cf49a230bc9",
+          "published_at": "2025-08-22T16:00:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"it all just comes to you in IMAX\"",
+          "key": "Djndo0O53qA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68c68555dc79ae1203f21b9c",
+          "published_at": "2025-08-20T19:00:28.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "the kindest \"no\"",
+          "key": "nMCTUrhKrhI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68c684d9d70093032d230bd0",
+          "published_at": "2025-08-17T19:00:25.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "battle scenes and dragons, perfect for IMAX screens",
+          "key": "Q6dsLXQmIGw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68c684eee1b591b0bbe2fc44",
+          "published_at": "2025-08-14T19:00:28.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "ETlOSBR92Fs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "687f94331d76c9aaa9f76ff8",
+          "published_at": "2025-07-22T12:08:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Industry Panel @London: Reimaging Chinese Myth in NE ZHA 2",
+          "key": "XavU67Ao0Zw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "684abc34046760db8a9f5e63",
+          "published_at": "2025-05-09T13:36:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Voice acting & Original Score Making-of",
+          "key": "PhBn2zng2So",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "684abc5eb2c4b2a3ca294095",
+          "published_at": "2025-03-27T16:35:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Animation Making Of: crafting our story with imagination",
+          "key": "GmI9I12vtMw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "684abc7469c9feb7829f5eca",
+          "published_at": "2025-03-27T14:30:38.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Previously on NE ZHA",
+          "key": "ZvtuR8yP9B4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "684abd10d87a151c53343564",
+          "published_at": "2025-03-25T17:30:44.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Coming to Europe",
+          "key": "SpSricKXpU4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "684abcf01bc1d2e03db0d463",
+          "published_at": "2025-03-25T17:29:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "London Special Screening + Panel @ Regent Street Cinema",
+          "key": "70GGjOz3TQ4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "684abc928c72ca56d31eb948",
+          "published_at": "2025-03-25T14:06:55.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "International Trailer [ENG SUB]",
+          "key": "nsXQijb0F4I",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "67a775631c0f3abf87e06f9c",
+          "published_at": "2025-01-29T21:08:05.000Z"
+        }
+      ]
+    }
+  }
+}

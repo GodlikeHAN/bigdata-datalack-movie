@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 22,
+  "ingestion_time_utc": "2026-05-31T20:50:12.165824+00:00",
+  "data": {
+    "id": 22,
+    "imdb_id": "tt0325980",
+    "wikidata_id": "Q46717",
+    "facebook_id": "PiratesoftheCaribbean",
+    "instagram_id": "disneypirates",
+    "twitter_id": "disneypirates"
+  }
+}

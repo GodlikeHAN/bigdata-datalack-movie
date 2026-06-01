@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 931285,
+  "ingestion_time_utc": "2026-05-29T13:22:08.645865+00:00",
+  "data": {
+    "id": 931285,
+    "imdb_id": "tt17490712",
+    "wikidata_id": "Q117830073",
+    "facebook_id": "MortalKombatMovie",
+    "instagram_id": "mortalkombatmovie",
+    "twitter_id": "MKMovie"
+  }
+}

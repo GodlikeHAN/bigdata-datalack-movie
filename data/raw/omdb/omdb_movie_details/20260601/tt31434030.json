@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt31434030",
+  "ingestion_time_utc": "2026-06-01T08:19:13.171079+00:00",
+  "data": {
+    "Title": "Dracula",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "06 Feb 2026",
+    "Runtime": "129 min",
+    "Genre": "Fantasy, Horror, Romance",
+    "Director": "Luc Besson",
+    "Writer": "Luc Besson, Bram Stoker",
+    "Actors": "Caleb Landry Jones, Christoph Waltz, Zoë Bleu",
+    "Plot": "When a 15th-century prince denounces God after the loss of his wife he inherits an eternal curse: he becomes Dracula. Condemned to wander the centuries, he defies fate and death, guided by a single hope - to be reunited with his l...",
+    "Language": "English",
+    "Country": "France",
+    "Awards": "4 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2IyZTVkOWMtOTJjZS00NzM2LWFmYTgtM2NlMjhkY2E5NWZjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "54%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "44/100"
+      }
+    ],
+    "Metascore": "44",
+    "imdbRating": "6.2",
+    "imdbVotes": "34,913",
+    "imdbID": "tt31434030",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$13,053,400",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

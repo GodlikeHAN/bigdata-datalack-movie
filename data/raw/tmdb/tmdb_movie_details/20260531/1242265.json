@@ -1,0 +1,148 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1242265,
+  "ingestion_time_utc": "2026-05-31T20:49:59.988899+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
+    "belongs_to_collection": null,
+    "budget": 45000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.fuzefilm.co.uk/",
+    "id": 1242265,
+    "imdb_id": "tt31189814",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Fuze",
+    "overview": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
+    "popularity": 69.3315,
+    "poster_path": "/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
+    "production_companies": [
+      {
+        "id": 138743,
+        "logo_path": "/abFJGmtPFs6Bq5cBavmrnXDcpf8.png",
+        "name": "Anton",
+        "origin_country": "GB"
+      },
+      {
+        "id": 53874,
+        "logo_path": "/mZJMAPElHQBIuWWXSyHtyaMf26C.png",
+        "name": "Sigma Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 181068,
+        "logo_path": "/8XjNmpBDZrMOoKRhA14wp1FLuvN.png",
+        "name": "Sky",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2026-03-23",
+    "revenue": 2890908,
+    "runtime": 96,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Down to the wire.",
+    "title": "Fuze",
+    "video": false,
+    "vote_average": 6.439,
+    "vote_count": 74,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Aaron Taylor-Johnson and David Mackenzie answer your \"Ask Me Anything\" questions",
+          "key": "ryeQ5rJT4v4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69cff1f60d08906ce62f78d9",
+          "published_at": "2026-04-03T12:02:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Take The Biscuit with Theo James, Aaron Taylor-Johnson, and Gugu Mbatha-Raw",
+          "key": "skSnOapBuD4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69cff1db54c96034e24b5c21",
+          "published_at": "2026-04-01T12:02:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Canadian Trailer",
+          "key": "1aNywiElPSY",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "69d8b8dfa83a7000fa123613",
+          "published_at": "2026-03-17T21:31:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official US Trailer",
+          "key": "vh9FR7R9QCo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69b1d7ebd1774107b54ef87c",
+          "published_at": "2026-03-11T15:02:49.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "UK Trailer",
+          "key": "aiw0dYdl_Is",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6984bbd80986ab4e0e6e767a",
+          "published_at": "2026-02-05T14:02:09.000Z"
+        }
+      ]
+    }
+  }
+}

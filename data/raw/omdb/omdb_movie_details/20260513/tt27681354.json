@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt27681354",
+  "ingestion_time_utc": "2026-05-13T22:05:30.528708+00:00",
+  "data": {
+    "Title": "In the Grey",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "15 May 2026",
+    "Runtime": "98 min",
+    "Genre": "Action, Drama, Thriller",
+    "Director": "Guy Ritchie",
+    "Writer": "Guy Ritchie",
+    "Actors": "Jake Gyllenhaal, Henry Cavill, Eiza González",
+    "Plot": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back-an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+    "Language": "English",
+    "Country": "United Kingdom, United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTZkMTIzMTItMTQwZS00MTg4LWE0MTEtM2NiNmUzYjRmMGUxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.3/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.3",
+    "imdbVotes": "129",
+    "imdbID": "tt27681354",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1198994,
+  "ingestion_time_utc": "2026-05-18T18:33:49.054422+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/fBh0OlTY5XSHuFrQ7ylXHniwg9s.jpg",
+    "belongs_to_collection": null,
+    "budget": 40000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "https://www.20thcenturystudios.com/movies/send-help",
+    "id": 1198994,
+    "imdb_id": "tt8036976",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Send Help",
+    "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+    "popularity": 93.2284,
+    "poster_path": "/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
+    "production_companies": [
+      {
+        "id": 122323,
+        "logo_path": "/gWiaDcDxt0AkSE9hxsUn5naFGRT.png",
+        "name": "Raimi Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 127928,
+        "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+        "name": "20th Century Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 22213,
+        "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+        "name": "TSG Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      },
+      {
+        "iso_3166_1": "TH",
+        "name": "Thailand"
+      }
+    ],
+    "release_date": "2026-01-22",
+    "revenue": 94041481,
+    "runtime": 113,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Meet Linda Liddle... She's from strategy and planning. She's the boss now.",
+    "title": "Send Help",
+    "video": false,
+    "vote_average": 7.032,
+    "vote_count": 1473
+  }
+}

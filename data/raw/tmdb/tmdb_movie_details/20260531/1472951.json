@@ -1,0 +1,85 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1472951,
+  "ingestion_time_utc": "2026-05-31T20:49:58.640556+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/cfDHxkco8RrslL0Vk2XPTwTVFCe.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 1472951,
+    "imdb_id": "tt29218808",
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "en",
+    "original_title": "Infiltrate",
+    "overview": "In a city overrun by crime, government Agent Lily Chen is forced to choose between her duty and her family when her husband is kidnapped, and she’s blackmailed into assassinating high-level criminals to save him. As she delves deeper into the criminal underworld, Lily’s relentless pursuit of justice unravels a web of corruption, leading to a final, life-altering decision that will change her world forever.",
+    "popularity": 86.3687,
+    "poster_path": "/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
+    "production_companies": [
+      {
+        "id": 197962,
+        "logo_path": "/2Uv1Pj28zVg2LWKw6ScQ0tPwLoI.png",
+        "name": "Kemodo Entertainment",
+        "origin_country": "CA"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2026-04-10",
+    "revenue": 0,
+    "runtime": 93,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Infiltrate",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 15,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Infiltrate | Official Trailer",
+          "key": "dzVz0KqqwGE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69c591b9ec09b6c42e8ac068",
+          "published_at": "2026-03-26T16:36:57.000Z"
+        }
+      ]
+    }
+  }
+}

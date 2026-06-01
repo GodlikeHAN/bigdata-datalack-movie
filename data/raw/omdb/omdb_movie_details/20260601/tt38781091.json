@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt38781091",
+  "ingestion_time_utc": "2026-06-01T08:19:20.592646+00:00",
+  "data": {
+    "Title": "Madhuvidhu",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "01 May 2026",
+    "Runtime": "N/A",
+    "Genre": "Comedy, Family",
+    "Director": "Vishnu Aravind",
+    "Writer": "Bibin Mohan, Jai Vishnu",
+    "Actors": "Sharafudheen, Jagadish, Azees Nedumangad",
+    "Plot": "N/A",
+    "Language": "Malayalam",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGNkMmQ2ZGYtMDllZi00MTVlLThjMmItYzM5OTIwMTFjZjliXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt38781091",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

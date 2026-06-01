@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1579,
+  "ingestion_time_utc": "2026-06-01T08:19:02.887822+00:00",
+  "data": {
+    "id": 1579,
+    "imdb_id": "tt0472043",
+    "wikidata_id": "Q188035",
+    "facebook_id": "ApocalyptoMovie",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

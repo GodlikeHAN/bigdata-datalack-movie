@@ -1,0 +1,117 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1291608,
+  "ingestion_time_utc": "2026-05-29T13:22:07.066224+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
+    "belongs_to_collection": {
+      "id": 1628043,
+      "name": "Dhurandhar Collection",
+      "poster_path": "/r4w2Ps0QN9wzMHDepRoj4H7tAM.jpg",
+      "backdrop_path": "/4Xv36ZwubtUn6JlIKoKDdhZj565.jpg"
+    },
+    "budget": 14330000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 1291608,
+    "imdb_id": "tt33014583",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_title": "धुरंधर",
+    "overview": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
+    "popularity": 99.0108,
+    "poster_path": "/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
+    "production_companies": [
+      {
+        "id": 212774,
+        "logo_path": null,
+        "name": "B62 Studios",
+        "origin_country": "IN"
+      },
+      {
+        "id": 115477,
+        "logo_path": "/6CkBjiSlfAJFaMjwB44ILbOhFuV.png",
+        "name": "Jio Studios",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2025-12-05",
+    "revenue": 170000000,
+    "runtime": 212,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      },
+      {
+        "english_name": "Punjabi",
+        "iso_639_1": "pa",
+        "name": "ਪੰਜਾਬੀ"
+      },
+      {
+        "english_name": "Urdu",
+        "iso_639_1": "ur",
+        "name": "اردو"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dhurandhar",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 283,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Dhurandhar: The Revenge Official Hindi Teaser | Ranveer S | Aditya D | In Cinemas 19 March 2026",
+          "key": "CN0lNff-zm0",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Teaser",
+          "official": true,
+          "id": "6995358b13dcb4a9582b0294",
+          "published_at": "2026-02-03T06:42:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Watch Now",
+          "key": "o--C7AH5SuI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "697c49e61ea8cf0dee26acfa",
+          "published_at": "2026-01-30T05:00:00.000Z"
+        }
+      ]
+    }
+  }
+}

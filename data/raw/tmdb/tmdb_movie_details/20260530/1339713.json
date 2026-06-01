@@ -1,0 +1,187 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1339713,
+  "ingestion_time_utc": "2026-05-30T20:33:32.330358+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+    "belongs_to_collection": {
+      "id": 1704738,
+      "name": "Obsession Collection",
+      "poster_path": null,
+      "backdrop_path": null
+    },
+    "budget": 750000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "http://www.focusfeatures.com/obsession",
+    "id": 1339713,
+    "imdb_id": "tt37287335",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Obsession",
+    "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+    "popularity": 399.8813,
+    "poster_path": "/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
+    "production_companies": [
+      {
+        "id": 155758,
+        "logo_path": "/iZi0zd9ijrcWR9zlEUUthG8d600.png",
+        "name": "Tea Shop Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 273145,
+        "logo_path": null,
+        "name": "Under the Shell",
+        "origin_country": "US"
+      },
+      {
+        "id": 154063,
+        "logo_path": "/r4anaxYa8OL5KaUbU35VkrIe88L.png",
+        "name": "Capstone Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2026-05-13",
+    "revenue": 100642650,
+    "runtime": 108,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Be careful who you wish for…",
+    "title": "Obsession",
+    "video": false,
+    "vote_average": 7.945,
+    "vote_count": 345,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Built Different: Curry Barker on Supernatural Horror",
+          "key": "ZpeiXao2MS4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a15fc05385a719f1490ec51",
+          "published_at": "2026-05-26T18:01:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Curry Barker, Inde Navarrette, Michael Johnston and More Read Your Letterboxd Reviews of Obsession",
+          "key": "SWk93t-DEwA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": false,
+          "id": "6a11c5fc6626768ebe6ef34b",
+          "published_at": "2026-05-15T12:00:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "OBSESSION Filmmaker Curry Barker: HEREDITARY Changed the Way I Looked at Horror",
+          "key": "KMVFpeSSZS0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a10e345d47279cba1b988f1",
+          "published_at": "2026-05-14T19:38:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Freaky Nikki\" Official Clip",
+          "key": "HaZsOipO-xE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69fa30144f2828a90d9a2a5d",
+          "published_at": "2026-05-05T17:00:21.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Nice Date\" Official Clip",
+          "key": "UWVznyWUS-E",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69f97738b4253bef1be9c179",
+          "published_at": "2026-05-04T17:00:39.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "gMC8kkwbIQQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69b18efdf3d3f83178372c0a",
+          "published_at": "2026-03-11T15:00:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser Trailer 2",
+          "key": "yybtztMB-Ww",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "698e01bc42b5c01b58f25c45",
+          "published_at": "2026-02-12T16:00:56.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser Trailer",
+          "key": "0G5CjgPw1x4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "692f1ede5f88f7847d512751",
+          "published_at": "2025-12-02T16:00:01.000Z"
+        }
+      ]
+    }
+  }
+}

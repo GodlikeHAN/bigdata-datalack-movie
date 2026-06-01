@@ -1,0 +1,76 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1302007,
+  "ingestion_time_utc": "2026-06-01T08:18:55.326271+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/aJxmgoNtP2BH7mRYvuf7AHB0VC3.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1302007,
+    "imdb_id": "tt32408435",
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_title": "Kaulayaw",
+    "overview": "Two college schoolmates venture into the world of cybersex to support their needs. They fulfill their fans' sexual fantasy only to realized that they too, are falling for each other.",
+    "popularity": 86.6028,
+    "poster_path": "/qifjfp5a2gHQ0WsGhTvlamPshnH.jpg",
+    "production_companies": [
+      {
+        "id": 149142,
+        "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+        "name": "Vivamax",
+        "origin_country": "PH"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PH",
+        "name": "Philippines"
+      }
+    ],
+    "release_date": "2024-07-18",
+    "revenue": 0,
+    "runtime": 48,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Tagalog",
+        "iso_639_1": "tl",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Kaulayaw",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 6,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "KAULAYAW Official Trailer | World Premiere this JULY 16 Exclusively on Vivamax",
+          "key": "c5sZwCDcsGk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6698f9961f03c53f74bfd39d",
+          "published_at": "2024-07-14T11:39:57.000Z"
+        }
+      ]
+    }
+  }
+}

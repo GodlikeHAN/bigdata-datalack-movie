@@ -1,0 +1,192 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1156594,
+  "ingestion_time_utc": "2026-05-31T20:50:06.398885+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/7QirCB1o80NEFpQGlQRZerZbQEp.jpg",
+    "belongs_to_collection": {
+      "id": 1156666,
+      "name": "Fault Collection",
+      "poster_path": "/fR3AsfNeAmgGCy2CMFaOjIaIuA7.jpg",
+      "backdrop_path": "/7N9p8D39MXJDfm14zlBwW7mBh7g.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "https://www.amazon.com/gp/video/detail/B0DZF95RTJ",
+    "id": 1156594,
+    "imdb_id": "tt33311244",
+    "origin_country": [
+      "ES",
+      "US"
+    ],
+    "original_language": "es",
+    "original_title": "Culpa nuestra",
+    "overview": "Jenna and Lion's wedding brings about the long-awaited reunion between Noah and Nick after their breakup. Nick's inability to forgive Noah stands as an insurmountable barrier. He, heir to his grandfather's businesses, and she, starting her professional life, resist fueling a flame that's still alive. But now that their paths have crossed again, will love be stronger than resentment?",
+    "popularity": 34.4308,
+    "poster_path": "/yzqHt4m1SeY9FbPrfZ0C2Hi9x1s.jpg",
+    "production_companies": [
+      {
+        "id": 32485,
+        "logo_path": "/fVXreZkiJTOq1cCi6htSQlPSy7R.png",
+        "name": "Pokeepsie Films",
+        "origin_country": "ES"
+      },
+      {
+        "id": 210099,
+        "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+        "name": "Amazon MGM Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-10-15",
+    "revenue": 0,
+    "runtime": 110,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Our Fault",
+    "video": false,
+    "vote_average": 7.366,
+    "vote_count": 670,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "She Confronts Him About His Past - Clip [Subtitled]",
+          "key": "ayN1TC0ZXeo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "690a9f8918040934656137f5",
+          "published_at": "2025-11-04T18:00:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Noah Finds Out She’s Pregnant - Clip [Subtitled]",
+          "key": "GskFJRrm4Ws",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "690944e348d7d3d53ff5fc4c",
+          "published_at": "2025-11-02T18:00:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick & Noah Kiss at the Club - Clip [Subtitled]",
+          "key": "LxDD30_8sEg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "690944d97398cb4987c96445",
+          "published_at": "2025-11-01T19:00:15.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick & Noah Rebound - Clip [Subtitled]",
+          "key": "SRAI131F-Fc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "68f7b681e3fc8cdf95ada39a",
+          "published_at": "2025-10-20T17:00:39.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick Still Can't Let Noah Go - Clip [Subtitled]",
+          "key": "VTRkFdjqdUs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "68f51ecd8adf64960a8e75bc",
+          "published_at": "2025-10-17T17:00:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Running Into Your Ex at Work - Clip [Subtitled]",
+          "key": "GjuyYkCbJGE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "68f151b459ee4c520f503289",
+          "published_at": "2025-10-16T19:00:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick & Noah Are Back - Sneak Peek [Subtitled]",
+          "key": "gOTcd3pPCkw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "68ef343e48f2d47f31f0a0f3",
+          "published_at": "2025-10-14T19:00:54.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer [Subtitled]",
+          "key": "4ZDvKct1U4s",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "68c1c877538501451b4e7239",
+          "published_at": "2025-09-10T14:00:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser",
+          "key": "vC4kyq9l1C4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "67f69ba1ddf9194387da6445",
+          "published_at": "2025-04-09T14:05:00.000Z"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt39139925",
+  "ingestion_time_utc": "2026-05-29T13:22:14.731356+00:00",
+  "data": {
+    "Title": "Dhurandhar The Revenge",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "19 Mar 2026",
+    "Runtime": "230 min",
+    "Genre": "Action, Crime, Thriller",
+    "Director": "Aditya Dhar",
+    "Writer": "Aditya Dhar",
+    "Actors": "Ranveer Singh, Akshaye Khanna, Sanjay Dutt",
+    "Plot": "Jaskirat Singh Rangi descends deeper into his alias as Hamza Ali Mazari, rising through Karachi's criminal hierarchy to claim the feared title \"Sher-e-Baloch\" while balancing loyalty, betrayal, and survival in a ruthless underworld.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzdkNjAxNWMtNWY3My00NTI1LTg2YWQtOGI3MDA0NzdhMjEyXkEyXkFqcGc@._V1_QL75_UY562_CR24,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.5/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.5",
+    "imdbVotes": "45,701",
+    "imdbID": "tt39139925",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$27,415,192",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

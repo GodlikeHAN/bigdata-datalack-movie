@@ -1,0 +1,339 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1419406,
+  "ingestion_time_utc": "2026-05-19T20:18:30.465866+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 1419406,
+    "imdb_id": "tt34610311",
+    "origin_country": [
+      "CN",
+      "HK"
+    ],
+    "original_language": "zh",
+    "original_title": "捕风追影",
+    "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
+    "popularity": 107.8564,
+    "poster_path": "/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg",
+    "production_companies": [
+      {
+        "id": 122699,
+        "logo_path": "/rNuZaO3S54yNb2inykTHBg8meCe.png",
+        "name": "iQIYI Pictures （重复 同 iQiyi Motion Pictures）",
+        "origin_country": "CN"
+      },
+      {
+        "id": 197030,
+        "logo_path": "/z9xtT1e3HunOnZUm3uGYb59eL7v.png",
+        "name": "Tao Piao Piao 淘票票",
+        "origin_country": "CN"
+      },
+      {
+        "id": 25657,
+        "logo_path": "/nR1OM1kwQ1ZrtbUb6sSfV0Ldynk.png",
+        "name": "Hairun Pictures Company",
+        "origin_country": "CN"
+      },
+      {
+        "id": 250765,
+        "logo_path": "/pl14N2WxiYBDNUrPaFBhzyKoO8Z.png",
+        "name": "Dong Fang Chen Xiang",
+        "origin_country": "CN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      },
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      }
+    ],
+    "release_date": "2025-08-16",
+    "revenue": 174400000,
+    "runtime": 142,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "He's training a new generation of law enforcers for a dangerous mission to save the world from ruthless criminals.",
+    "title": "The Shadow's Edge",
+    "video": false,
+    "vote_average": 7.343,
+    "vote_count": 654,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Laundromat Fight",
+          "key": "bwEQ20rN42s",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "69792f0b475d7cf89d130889",
+          "published_at": "2026-01-22T13:11:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Pursuit of Wolf Packs",
+          "key": "eBAgd2pXcBA",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "69698a2f77e1f6de61279830",
+          "published_at": "2026-01-15T15:17:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "On UK 4K, Blu-ray, DVD & Digital on Feb 2026! [Subtitled]",
+          "key": "5QQMY8-n8sY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6949ebd477daef1d782fc5d5",
+          "published_at": "2025-12-09T06:52:29.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "UK audiences! Feeling inspired to visit Macau after watching The Shadow's Edge?",
+          "key": "7cFIe_Zsxuk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68fdfd72239f36974eeaacd1",
+          "published_at": "2025-10-17T14:55:23.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Zhang Yuan - Relentless Spirit (from THE SHADOW'S EDGE) | Official Music Video",
+          "key": "ck7stsA4sEw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68f20bfd5070f0b5a8ec58d1",
+          "published_at": "2025-10-16T16:55:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Tony Leung Ka-Fai stuns UK audiences with chilling portrayal of \"The Shadow\" in The Shadow's Edge!",
+          "key": "n7qWXa10kY4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68fdfde02f70d4064ca30be4",
+          "published_at": "2025-10-15T16:53:26.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Zifeng Zhang's portrayal of He Qiuguo in The Shadow’s Edge has amazed UK audiences!",
+          "key": "vZJChRuc48w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68f560342f9e797a7597f614",
+          "published_at": "2025-10-14T16:59:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Action Featurette",
+          "key": "1LemRIiqpJA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "68ed53b40a40e73bfda219a6",
+          "published_at": "2025-10-13T11:31:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "UK Premiere Recap | 29 Sep @ London Courthouse Hotel",
+          "key": "v8_MxYjKloI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68eac6219a69249c2c6459d5",
+          "published_at": "2025-10-07T17:57:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Alpaca\" Zhou Zhengjie invites you to watch The Shadow's Edge",
+          "key": "iCwyD7kc3Fk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68eac66e0f75edc0b4786b7e",
+          "published_at": "2025-10-07T16:58:33.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "KeyNG - Rules of the Pack (from THE SHADOW'S EDGE) | Official Music Video",
+          "key": "W76__cNAtKw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68eac63522c209798ac3df36",
+          "published_at": "2025-10-06T20:55:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "A warm welcome from Jackie Chan to his UK & Irish fans!",
+          "key": "QMOJJ6tNpsc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68dd6596569cc1dd02b42b14",
+          "published_at": "2025-10-01T16:24:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Action Highlights [Subtitled]",
+          "key": "gREBnHgRRCs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68dd15c0fed97aaddb2df973",
+          "published_at": "2025-09-30T17:53:37.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "'The Wolf King' Leung Ka-Fai invites you to watch THE SHADOW'S EDGE in UK & Ireland next Friday!",
+          "key": "hDxH-xOYQJY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68d6e9fa1da2a01b69b9924f",
+          "published_at": "2025-09-26T13:47:43.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Shadow's Edge is coming to UK & Irish cinemas from 3rd October! [Subtitled]",
+          "key": "iHcwAoMwKn8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68d46b7b25c4f7a228936363",
+          "published_at": "2025-09-24T16:06:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "UK Carats, Jun (Wen Junhui) invites you to watch The Shadow's Edge!",
+          "key": "qRf8DkYgXVg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68d4047f65c97e8a366d5324",
+          "published_at": "2025-09-22T19:35:53.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "UK Trailer 2 [Subtitled]",
+          "key": "-XiwDPiIoZQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68cfbaf62c2637d317cec0c3",
+          "published_at": "2025-09-20T22:41:26.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Larry Yang invites you to watch The Shadow's Edge in UK!",
+          "key": "oHAkVDAphKQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68cae14da055be67821f07ce",
+          "published_at": "2025-09-17T11:42:36.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "UK Trailer [Subtitled]",
+          "key": "xvmADAJOoCg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "68cadebb7e28eb4f60de85d5",
+          "published_at": "2025-09-14T16:24:53.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer [Subtitled]",
+          "key": "dDuzTlur3NU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "68a59f3032cda8f0affd261c",
+          "published_at": "2025-08-13T04:43:59.000Z"
+        }
+      ]
+    }
+  }
+}

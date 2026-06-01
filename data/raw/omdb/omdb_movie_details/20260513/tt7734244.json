@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt7734244",
+  "ingestion_time_utc": "2026-05-13T22:05:30.657675+00:00",
+  "data": {
+    "Title": "The Magic Faraway Tree",
+    "Year": "2026",
+    "Rated": "PG",
+    "Released": "21 Aug 2026",
+    "Runtime": "110 min",
+    "Genre": "Adventure, Family, Fantasy",
+    "Director": "Ben Gregor",
+    "Writer": "Enid Blyton, Simon Farnaby",
+    "Actors": "Andrew Garfield, Claire Foy, Nicola Coughlan",
+    "Plot": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.",
+    "Language": "English",
+    "Country": "United Kingdom, United States, France",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGUzNzQzNWQtZTI2My00YmE2LTkyYzItNzFhMTM3OTVkYmNlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.8",
+    "imdbVotes": "1,797",
+    "imdbID": "tt7734244",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

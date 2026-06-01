@@ -1,0 +1,90 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1613798,
+  "ingestion_time_utc": "2026-05-31T20:50:03.102874+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/xyW8rJO3rwG2EGcTO6eaUEa8b9d.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.amazon.com/gp/video/detail/B0GS6Y7QCD",
+    "id": 1613798,
+    "imdb_id": "tt37989803",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Venganza",
+    "overview": "The brutal murder of the wife of “Toro,” a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible.",
+    "popularity": 47.5602,
+    "poster_path": "/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
+    "production_companies": [
+      {
+        "id": 94730,
+        "logo_path": "/1fwoMRV4eUpdosHjiveHV91LaXJ.png",
+        "name": "El Estudio",
+        "origin_country": "ES"
+      },
+      {
+        "id": 210099,
+        "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+        "name": "Amazon MGM Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2026-02-26",
+    "revenue": 0,
+    "runtime": 103,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Vengeance",
+    "video": false,
+    "vote_average": 7.456,
+    "vote_count": 225,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "w5ImAc3jMsE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "696bd921ea5b2019278fc5ba",
+          "published_at": "2026-01-08T01:00:01.000Z"
+        }
+      ]
+    }
+  }
+}

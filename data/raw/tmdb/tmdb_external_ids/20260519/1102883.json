@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1102883,
+  "ingestion_time_utc": "2026-05-19T20:18:32.888592+00:00",
+  "data": {
+    "id": 1102883,
+    "imdb_id": "tt27200708",
+    "wikidata_id": "Q120735817",
+    "facebook_id": "mothermarymovie",
+    "instagram_id": "mothermarymovie",
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1140521,
+  "ingestion_time_utc": "2026-05-19T20:18:30.248598+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
+    "belongs_to_collection": {
+      "id": 1694688,
+      "name": "The Magic Faraway Tree Collection",
+      "poster_path": "/7EFtoHCQfYuovDxeCgAChPwL6GG.jpg",
+      "backdrop_path": "/ld2qVwIGYDG0uCJVy3vKCCQMHyJ.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "homepage": "http://themagicfarawaytreefilm.co.uk",
+    "id": 1140521,
+    "imdb_id": "tt7734244",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The Magic Faraway Tree",
+    "overview": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.",
+    "popularity": 29.9019,
+    "poster_path": "/udXvLxC5gAqN8SinemyFBEcHpTf.jpg",
+    "production_companies": [
+      {
+        "id": 1522,
+        "logo_path": "/8uaoEVgNxFH0R94O53gUiByahVr.png",
+        "name": "Neal Street Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 189103,
+        "logo_path": "/hu0qcD4k7kfWpdAewqmJSUyZPa7.png",
+        "name": "Ashland Hill Media Finance",
+        "origin_country": "US"
+      },
+      {
+        "id": 199856,
+        "logo_path": "/nCFvSYBD4UTSZvvVmEOLFGqKKdW.png",
+        "name": "Palisades Park Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 210835,
+        "logo_path": "/sVHTeLGqzIsljtlKpJRDfPZ3Lhg.png",
+        "name": "Elysian Film Group",
+        "origin_country": "GB"
+      },
+      {
+        "id": 113521,
+        "logo_path": "/fWQ9uEqIKuPukxrbZEUIrkPRrjs.png",
+        "name": "StudioCanal UK",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-03-26",
+    "revenue": 27165071,
+    "runtime": 110,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Magic Faraway Tree",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 26,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas Everywhere NOW",
+          "key": "bxWxrEsdWqQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69ce4aaab0c9d1d17f2f6e18",
+          "published_at": "2026-04-02T09:27:14.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas Everywhere NOW",
+          "key": "3vvek1-qIvo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69cb8eafcb2b4a3099ca3e56",
+          "published_at": "2026-03-30T10:00:56.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas Everywhere 27 March",
+          "key": "JwFY341uTpE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69c3eb6d48fae06e24b60dee",
+          "published_at": "2026-03-25T11:10:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas Everywhere Friday",
+          "key": "wGGuodWFIxU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "69c3eb3993666ad5daaabcc1",
+          "published_at": "2026-03-25T11:10:25.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas Everywhere 27 March",
+          "key": "PneOcY86ww0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69c11835d126666d5013c441",
+          "published_at": "2026-03-19T16:51:34.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas Everywhere 27 March",
+          "key": "ujP6Z8Oour4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69c117dc9930ae09a8b33c8e",
+          "published_at": "2026-03-19T16:51:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Adventure awaits!",
+          "key": "xKHdnMOWerQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a024b840e9bb47fc2cac0d8",
+          "published_at": "2026-03-12T14:57:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas March 26",
+          "key": "wSaCp5UTGl8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a024b9d8181e6913e1334db",
+          "published_at": "2026-03-12T14:55:54.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas Everywhere 27 March",
+          "key": "ZmDC371U_oI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "69ac34de3a6225480979f5f8",
+          "published_at": "2026-03-06T18:32:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas Everywhere 27 March",
+          "key": "b9qyzVCW9sc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69a8014d6ab3ba491f0806c9",
+          "published_at": "2026-03-03T15:46:57.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas Everywhere 27 March",
+          "key": "v2V3C08O6Iw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69a41f169eb51793d0187a53",
+          "published_at": "2026-02-27T18:06:25.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "PAUEwUhAjzg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "698d09e5cb09ac456ddf690f",
+          "published_at": "2026-02-11T17:25:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer",
+          "key": "cTKFa2dAiuA",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "693076cbad8cf3dec50d080e",
+          "published_at": "2025-12-03T17:40:58.000Z"
+        }
+      ]
+    }
+  }
+}

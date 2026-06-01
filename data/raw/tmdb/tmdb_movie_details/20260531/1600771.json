@@ -1,0 +1,98 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1600771,
+  "ingestion_time_utc": "2026-05-31T20:50:02.728929+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/akZ9jTTzvBOx3CeTVCo9WyhxL5q.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 1600771,
+    "imdb_id": "tt41110859",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_title": "आखरी सवाल",
+    "overview": "Vicky, a brilliant but volatile scholar who ignites a national firestorm when he publicly accuses his legendary mentor, Professor Gopal Nadkarni, of institutional bias. What begins as a faculty dispute is quickly hijacked by a sensationalist news anchor and an ambitious political activist, turning a private disagreement into a televised \"intellectual trial\" watched by millions.",
+    "popularity": 48.5666,
+    "poster_path": "/9CXBZH6sRJpFTMSaY3wj1jx98F4.jpg",
+    "production_companies": [
+      {
+        "id": 283668,
+        "logo_path": null,
+        "name": "Nikhil Nanda Motion Pictures",
+        "origin_country": "IN"
+      },
+      {
+        "id": 291624,
+        "logo_path": null,
+        "name": "NeemTree Entertainment",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-05-15",
+    "revenue": 0,
+    "runtime": 150,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Aakhri Sawal",
+    "video": false,
+    "vote_average": 1.0,
+    "vote_count": 1,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Aakhri Sawal Official Trailer | Sanjay Dutt | Namashi | Amit Sadh | Sameera Reddy | 15 May Release",
+          "key": "8jbOt2bOUtM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "6a0d1bdea4d5e72a47833556",
+          "published_at": "2026-05-08T09:00:22.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Aakhri Sawal Teaser | Releasing at PVR INOX on 8th May",
+          "key": "TgzwjeEcDMs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": false,
+          "id": "69f9a719c1004e314b55f31e",
+          "published_at": "2026-04-02T09:51:31.000Z"
+        }
+      ]
+    }
+  }
+}

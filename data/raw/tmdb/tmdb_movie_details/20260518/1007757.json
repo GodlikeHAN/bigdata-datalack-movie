@@ -1,0 +1,82 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1007757,
+  "ingestion_time_utc": "2026-05-18T18:33:50.259564+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/81749852",
+    "id": 1007757,
+    "imdb_id": "tt29552248",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Swapped",
+    "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
+    "popularity": 396.2282,
+    "poster_path": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+    "production_companies": [
+      {
+        "id": 115416,
+        "logo_path": "/eP0uhxcvAl91Xfw5SBSGuCY6GVU.png",
+        "name": "Skydance Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 179999,
+        "logo_path": "/eP0uhxcvAl91Xfw5SBSGuCY6GVU.png",
+        "name": "Skydance Animation",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2026-05-01",
+    "revenue": 0,
+    "runtime": 102,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Transform your destiny.",
+    "title": "Swapped",
+    "video": false,
+    "vote_average": 8.995,
+    "vote_count": 1135
+  }
+}

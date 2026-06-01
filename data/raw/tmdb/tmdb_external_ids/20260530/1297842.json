@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1297842,
+  "ingestion_time_utc": "2026-05-30T20:33:35.291673+00:00",
+  "data": {
+    "id": 1297842,
+    "imdb_id": "tt27613895",
+    "wikidata_id": "Q132456673",
+    "facebook_id": "GoatMovieOfficial",
+    "instagram_id": "goatmovieofficial",
+    "twitter_id": "The_Goat_Movie"
+  }
+}

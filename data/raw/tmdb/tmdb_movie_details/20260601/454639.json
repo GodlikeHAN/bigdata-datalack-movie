@@ -1,0 +1,660 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 454639,
+  "ingestion_time_utc": "2026-06-01T08:18:56.697918+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+    "belongs_to_collection": null,
+    "budget": 200000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "homepage": "https://www.amazon.com/salp/motu?hhf=",
+    "id": 454639,
+    "imdb_id": "tt0427340",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Masters of the Universe",
+    "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+    "popularity": 38.8965,
+    "poster_path": "/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+    "production_companies": [
+      {
+        "id": 1423,
+        "logo_path": "/gzvsPHV9WqcQMrvI8pq5hbuvEZ5.png",
+        "name": "Escape Artists",
+        "origin_country": "US"
+      },
+      {
+        "id": 168848,
+        "logo_path": "/omEguKifcJixMvKWq85sUp4lFdT.png",
+        "name": "Mattel Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 210099,
+        "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+        "name": "Amazon MGM Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-06-03",
+    "revenue": 0,
+    "runtime": 141,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Witness how he became He-Man.",
+    "title": "Masters of the Universe",
+    "video": false,
+    "vote_average": 9.2,
+    "vote_count": 5,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas and IMAX 4 June",
+          "key": "9r7KLxcALA0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a1ad07c0eb74fa94a19e4aa",
+          "published_at": "2026-05-30T11:00:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The hype is real for Masters Of The Universe",
+          "key": "W6eENs5Mjro",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a1a0b8effdb9b6159c6f1ee",
+          "published_at": "2026-05-29T15:56:54.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "UK Premiere Sizzle",
+          "key": "5-j0WQZYxso",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a184720162190b051eadb17",
+          "published_at": "2026-05-28T13:39:23.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "One Week Countdown",
+          "key": "kcOuuV-Ptwc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a18b3c69c02611307f5e051",
+          "published_at": "2026-05-28T09:18:41.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Champion",
+          "key": "iMVc_NYdFRY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a18b32d13cbbb77b40be314",
+          "published_at": "2026-05-28T08:23:42.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Rebirth of a Franchise Featurette",
+          "key": "sKppQXcD94s",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a175f534348a2a9d51dbf29",
+          "published_at": "2026-05-27T21:00:15.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "They have the power!",
+          "key": "bHkXJKYNI68",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a17fa645585a335c7156e34",
+          "published_at": "2026-05-27T13:30:28.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Forging The Sword of Power – Featurette",
+          "key": "3W0qDV7Y_Sk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a175f7893627af2715dd5ac",
+          "published_at": "2026-05-26T20:30:36.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Becoming He Man Featurette",
+          "key": "nv1gc04NDnM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a175f984f98af6a0215d3c8",
+          "published_at": "2026-05-26T17:33:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas and IMAX 4 June",
+          "key": "6gH1cQoW3dQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a15b61bccf4d8ee3835aa7d",
+          "published_at": "2026-05-26T09:47:22.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "By the power of Grayskull… the world premiere of Masters Of The Universe",
+          "key": "0CbiXN9C80M",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a155f55e7971b34417fd368",
+          "published_at": "2026-05-26T08:17:33.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Sword",
+          "key": "jre-ZyGH8DI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a155d739ec5a364e98ec5cc",
+          "published_at": "2026-05-26T04:00:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Remember",
+          "key": "gseuKMIzoZM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a12f9e6e599c9eef553400a",
+          "published_at": "2026-05-24T13:00:39.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Everything Changed",
+          "key": "n9A6HMl-WuU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a11e16d4e0e305472b98ec3",
+          "published_at": "2026-05-23T12:00:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Only one will wield the Power.",
+          "key": "fmFQk_8V6dI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a1167d0a4d59b14e3fcd45e",
+          "published_at": "2026-05-23T01:30:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Travis Knight: The Master of MOTU - Featurette",
+          "key": "ai3N1HJqXHU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a0f439b821460773f4267d9",
+          "published_at": "2026-05-21T17:15:13.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "He-Man",
+          "key": "j_7jjBFLCWs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0f0126d310d05e738dd8a9",
+          "published_at": "2026-05-21T09:57:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Los Angeles Drone Show",
+          "key": "aWyr14bGMzk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a0e48a3520a6a65a6461a56",
+          "published_at": "2026-05-20T22:45:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Final Trailer Online Now",
+          "key": "awctPWzClW4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a0f0054abdf7bf2bd38d92a",
+          "published_at": "2026-05-20T19:46:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Exclusive Clip",
+          "key": "wC1druwezF4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a0df85b6d33c6b710df5574",
+          "published_at": "2026-05-20T17:00:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Final Trailer",
+          "key": "rJSmz-zhDxE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6a0de3d3b44a1342adb81eda",
+          "published_at": "2026-05-20T16:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas June 3",
+          "key": "vVF1wJQDiIA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0d772a5760cfda41f8df4f",
+          "published_at": "2026-05-19T09:01:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas June 3",
+          "key": "xGHb8QIynec",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0c2324b44972ba2668d679",
+          "published_at": "2026-05-19T06:30:22.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas June 3",
+          "key": "zVhXmvZeV8A",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0c2370c82dcdea6c68d695",
+          "published_at": "2026-05-19T01:00:56.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Exclusive Clip",
+          "key": "fYbxYTsUuYM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a0b929a50a5330f4b7a3136",
+          "published_at": "2026-05-18T22:15:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas June 3",
+          "key": "44D9ekh2yV4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0ad286b93df60685095f90",
+          "published_at": "2026-05-18T03:27:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas June 3",
+          "key": "m1XgJ7__M3U",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0ad2e493ffc79af0024b8f",
+          "published_at": "2026-05-18T03:25:56.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas June 3",
+          "key": "r7acv5-e548",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0ad346708c6ff5e4477684",
+          "published_at": "2026-05-18T03:24:46.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas June 3",
+          "key": "EqSUNVFODwE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0ad391a2d79d2bf9a15ad9",
+          "published_at": "2026-05-18T03:22:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas June 3",
+          "key": "gWAfSkRUlCM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0ad3cb94bc3e48595fbb17",
+          "published_at": "2026-05-18T03:20:33.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas June 3",
+          "key": "Yyw5fP-2lrU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0ad430529cabd29e5fbb93",
+          "published_at": "2026-05-18T03:19:23.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas June 3",
+          "key": "QXXMXFtXNjc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0ad4811deff89e514e62c6",
+          "published_at": "2026-05-18T03:18:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Memory Fight",
+          "key": "AxsBIJZh4LQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0a4f0bef20571631dfb11f",
+          "published_at": "2026-05-17T06:30:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas June 3",
+          "key": "mZF9GobJ45w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a08fc329332c4ff075a02b0",
+          "published_at": "2026-05-16T06:30:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas June 3",
+          "key": "ur2W448RMHI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a08fc72eea700916368ffcc",
+          "published_at": "2026-05-15T09:01:26.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Sword of Power – Featurette",
+          "key": "7N3SfOq5aHU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a03611aafec692024d3c176",
+          "published_at": "2026-05-12T15:00:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Constructing Eternia – Featurette",
+          "key": "YlefLk6v77g",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a025944cc44bbd88dcfccbf",
+          "published_at": "2026-05-11T17:14:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Popcorn.✅ Drink. ✅ Power of Grayskull?✅",
+          "key": "Zcg21pV2iMo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69ff7531ce5819ea6079d662",
+          "published_at": "2026-05-09T12:30:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Master of the Screen – Featurette",
+          "key": "rYRwG-_wrjQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69fe3fa46203bf913b50e718",
+          "published_at": "2026-05-08T19:00:49.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Who is He-Man? – Featurette",
+          "key": "zZSdoKn3sOE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69fcb4d9150ab98ad8ed2e9c",
+          "published_at": "2026-05-07T15:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Forces of Evil – Featurette",
+          "key": "Rb8oPCxu3hU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69f111209d78d293cebb887a",
+          "published_at": "2026-04-28T18:01:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Heroes of Eternia - Featurette",
+          "key": "999tIKA25zM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69f0e89dacd50ef9bfbb86a8",
+          "published_at": "2026-04-28T17:00:10.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "First Look Vignette",
+          "key": "PA57suopSWQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69f09d8ce423d33dd3dd062d",
+          "published_at": "2026-04-27T11:01:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "International Trailer",
+          "key": "RZ4dblwZ2TY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69ea2332f214b2dcdecd32f3",
+          "published_at": "2026-04-23T13:06:23.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "X21JsHLHnY8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69cbc5b5d334c4a809c35655",
+          "published_at": "2026-03-31T12:59:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser Trailer",
+          "key": "ZmEx7wQI6RY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "697239520b612ba5afd1d5e1",
+          "published_at": "2026-01-22T14:00:27.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "When times were simpler… Teaser Trailer Tomorrow",
+          "key": "3Qy3AqQK-3E",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6970ff68e3dd0b06a9de5002",
+          "published_at": "2026-01-21T15:00:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Title Reveal",
+          "key": "iObyWkaHtM4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "688105480e4818a999529c60",
+          "published_at": "2025-07-23T15:01:24.000Z"
+        }
+      ]
+    }
+  }
+}

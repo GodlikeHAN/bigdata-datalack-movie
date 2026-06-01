@@ -1,0 +1,73 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1306293,
+  "ingestion_time_utc": "2026-06-01T08:18:54.856237+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/55SgWijKbM9GkoVuiW8MtW4qaly.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 1306293,
+    "imdb_id": "tt33305346",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Aimons-nous vivants",
+    "overview": "Antoine Toussaint is a famous, disillusioned 70 year-old crooner. On a train to Geneva where he plans to end his life, Antoine meets Victoire, a good-natured fan with a few loose wires. This unlikely encounter thwarts all Antoine’s plans, for better or worse!",
+    "popularity": 26.4481,
+    "poster_path": "/gBT1mJ2E7K8QqOM0HVtStlBElvV.jpg",
+    "production_companies": [
+      {
+        "id": 14026,
+        "logo_path": "/8yZvjKBIoOpcR6TiELlwVMoIJHN.png",
+        "name": "Escazal Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 109756,
+        "logo_path": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+        "name": "Auvergne-Rhône-Alpes Cinéma",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2025-04-16",
+    "revenue": 0,
+    "runtime": 89,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Two strangers. A train. A chance to love again.",
+    "title": "It Takes Two To Tango",
+    "video": false,
+    "vote_average": 5.527,
+    "vote_count": 55,
+    "videos": {
+      "results": []
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1542995,
+  "ingestion_time_utc": "2026-05-31T20:49:53.878501+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/wUlvM4v5FUjM2omyld9ULVHONZA.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      }
+    ],
+    "homepage": "",
+    "id": 1542995,
+    "imdb_id": "tt38792109",
+    "origin_country": [
+      "BD"
+    ],
+    "original_language": "bn",
+    "original_title": "বনলতা এক্সপ্রেস",
+    "overview": "On a foggy winter journey, the Bonolota Express carries strangers burdened by secrets whose lives begin to collide within the train’s confined corridors. As the night unfolds, personal and political crises erupt, exposing hidden grief, moral decay, and moments of unexpected compassion amid chaos and revolt. By dawn, the train moves on, leaving its passengers irrevocably changed by a single journey where illusions collapse and human truths emerge.",
+    "popularity": 30.5409,
+    "poster_path": "/h6nITbbSobZ0EwU6Dcw6LGZOZYA.jpg",
+    "production_companies": [
+      {
+        "id": 277318,
+        "logo_path": null,
+        "name": "Buriganga Talkies",
+        "origin_country": ""
+      },
+      {
+        "id": 200270,
+        "logo_path": null,
+        "name": "Hoichoi Studios",
+        "origin_country": "IN"
+      },
+      {
+        "id": 131163,
+        "logo_path": "/9Ro9nFRu94ubRd07lRaN86pzrx.png",
+        "name": "Dope Productions",
+        "origin_country": "BD"
+      },
+      {
+        "id": 299838,
+        "logo_path": null,
+        "name": "Hoichoi (BD)",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "BD",
+        "name": "Bangladesh"
+      },
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-03-21",
+    "revenue": 0,
+    "runtime": 153,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Bengali",
+        "iso_639_1": "bn",
+        "name": "বাংলা"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Bonolota Express",
+    "video": false,
+    "vote_average": 8.6,
+    "vote_count": 7,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Bonolota Express | Official Trailer",
+          "key": "ZTZUaHsfR8o",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": false,
+          "id": "69f98a4031088aa66f6465fb",
+          "published_at": "2026-03-12T14:00:58.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Bonolota Express | First Look",
+          "key": "CEAZeaShSGQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": false,
+          "id": "69f98a22640f5d3405bf15b5",
+          "published_at": "2026-03-04T14:17:04.000Z"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1304313,
+  "ingestion_time_utc": "2026-05-18T18:33:48.246521+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/wMrV8SLne1jHLeYS0lLrA1Tf86P.jpg",
+    "belongs_to_collection": null,
+    "budget": 22000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/lee-cronins-mummy",
+    "id": 1304313,
+    "imdb_id": "tt32612507",
+    "origin_country": [
+      "IE",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Lee Cronin's The Mummy",
+    "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+    "popularity": 32.2564,
+    "poster_path": "/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg",
+    "production_companies": [
+      {
+        "id": 76907,
+        "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+        "name": "Atomic Monster",
+        "origin_country": "US"
+      },
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 12,
+        "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 285968,
+        "logo_path": null,
+        "name": "Wicked/Good",
+        "origin_country": "IE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "IE",
+        "name": "Ireland"
+      }
+    ],
+    "release_date": "2026-04-15",
+    "revenue": 88959655,
+    "runtime": 133,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "What happened to Katie?",
+    "title": "Lee Cronin's The Mummy",
+    "video": false,
+    "vote_average": 6.73,
+    "vote_count": 209
+  }
+}

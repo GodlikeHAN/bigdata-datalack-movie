@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt33988385",
+  "ingestion_time_utc": "2026-06-01T08:19:17.403183+00:00",
+  "data": {
+    "Title": "Karuppu",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "N/A",
+    "Runtime": "N/A",
+    "Genre": "Action, Drama",
+    "Director": "RJ Balaji",
+    "Writer": "RJ Balaji, T S Gopi Krishnan, Karan Aravind Kumar",
+    "Actors": "Suriya, Trisha Krishnan, Prakash Raj",
+    "Plot": "",
+    "Language": "Tamil",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjIwNjY5OTItMmM5Yi00MjM3LTliMzgtNTA0MzRlMDkzZDQ3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt33988385",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

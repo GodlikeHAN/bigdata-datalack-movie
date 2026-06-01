@@ -1,0 +1,71 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 28322,
+  "ingestion_time_utc": "2026-05-31T20:49:57.961578+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/7TJjD2X9GTEqyLVIJKLS85J2V47.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "homepage": "",
+    "id": 28322,
+    "imdb_id": "tt0080075",
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Vacanze per un massacro",
+    "overview": "An escaped convicted murderer invades the cottage of a man, his wife and the wife's sister, whereupon he proceeds to torment this already dysfunctional trio with rape and violence.",
+    "popularity": 98.5661,
+    "poster_path": "/gV0J0Fqw2mYMtQbzb0ruxv9MAeZ.jpg",
+    "production_companies": [
+      {
+        "id": 4786,
+        "logo_path": null,
+        "name": "Midia Cinematografica",
+        "origin_country": "IT"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "1980-03-20",
+    "revenue": 0,
+    "runtime": 89,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Madness",
+    "video": false,
+    "vote_average": 4.969,
+    "vote_count": 32,
+    "videos": {
+      "results": []
+    }
+  }
+}

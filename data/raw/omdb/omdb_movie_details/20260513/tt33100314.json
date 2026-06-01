@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt33100314",
+  "ingestion_time_utc": "2026-05-13T22:05:34.148325+00:00",
+  "data": {
+    "Title": "Remarkably Bright Creatures",
+    "Year": "2026",
+    "Rated": "PG-13",
+    "Released": "08 May 2026",
+    "Runtime": "N/A",
+    "Genre": "Drama",
+    "Director": "Olivia Newman",
+    "Writer": "Olivia Newman, John Whittington, Shelby Van Pelt",
+    "Actors": "Dan Payne, Lewis Pullman, Sally Field",
+    "Plot": "Through unlikely bonds formed during overnight shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "N/A",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt33100314",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

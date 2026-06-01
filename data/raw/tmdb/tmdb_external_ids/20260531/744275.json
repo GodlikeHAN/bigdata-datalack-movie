@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 744275,
+  "ingestion_time_utc": "2026-05-31T20:50:16.196337+00:00",
+  "data": {
+    "id": 744275,
+    "imdb_id": "tt13069986",
+    "wikidata_id": "Q105807015",
+    "facebook_id": "AfterSeriesMovies",
+    "instagram_id": "aftermovie",
+    "twitter_id": "aftermovie"
+  }
+}

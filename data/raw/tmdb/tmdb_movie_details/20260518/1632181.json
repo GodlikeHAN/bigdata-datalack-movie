@@ -1,0 +1,80 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1632181,
+  "ingestion_time_utc": "2026-05-18T18:33:52.781902+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/iCML6fBe3X0y06P33bM7dyYXPKZ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      }
+    ],
+    "homepage": "",
+    "id": 1632181,
+    "imdb_id": "tt40187050",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Socias por accidente",
+    "overview": "Two women discover they were both scammed by the same man (who also got them pregnant). They form an alliance to take revenge.",
+    "popularity": 90.2707,
+    "poster_path": "/sr1Yoj6XLPTWYcbDoBy67xivW4I.jpg",
+    "production_companies": [
+      {
+        "id": 7570,
+        "logo_path": "/gW8dfVtl1JsGIiLnvglea1OHHVr.png",
+        "name": "Videocine",
+        "origin_country": "MX"
+      },
+      {
+        "id": 210842,
+        "logo_path": "/osAelnShU5bBUCd2Od0L6ExSuv4.png",
+        "name": "ViX",
+        "origin_country": "US"
+      },
+      {
+        "id": 192443,
+        "logo_path": "/l5JPZK6eFLsrDi41I4Jg5jnnAc4.png",
+        "name": "TelevisaUnivision Mexico",
+        "origin_country": "MX"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2026-03-12",
+    "revenue": 0,
+    "runtime": 110,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Accidental Partners",
+    "video": false,
+    "vote_average": 9.213,
+    "vote_count": 89
+  }
+}

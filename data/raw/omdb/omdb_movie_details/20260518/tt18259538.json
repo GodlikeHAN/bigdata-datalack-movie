@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt18259538",
+  "ingestion_time_utc": "2026-05-18T18:34:08.567471+00:00",
+  "data": {
+    "Title": "The Legend of Aang: The Last Airbender",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "09 Oct 2026",
+    "Runtime": "99 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Steve Ahn, William Mata, Lauren Montgomery",
+    "Writer": "Kenneth Lin, Michael Dante DiMartino, Bryan Konietzko",
+    "Actors": "Eric Nam, Dave Bautista, Jessica Matten",
+    "Plot": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjI3Y2Q0ZjgtNWM3Ny00OWQ2LWE2MjMtN2VhMjQ2MzljYzdkXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt18259538",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

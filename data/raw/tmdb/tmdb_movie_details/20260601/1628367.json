@@ -1,0 +1,84 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1628367,
+  "ingestion_time_utc": "2026-06-01T08:18:55.286748+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/mHm73HhpvGWfRkXNErcwc15Czrv.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/82698051",
+    "id": 1628367,
+    "imdb_id": "tt39664733",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_title": "कर्त्तव्य",
+    "overview": "With his family's safety at stake and menacing threats closing in, a police officer must decide how far he'll go to uphold his duty.",
+    "popularity": 71.8725,
+    "poster_path": "/doTwMyAphlDL5Z8WqE3elWWvj8M.jpg",
+    "production_companies": [
+      {
+        "id": 2343,
+        "logo_path": "/fkrlAFxgAtIHgYJGIQcDggeucKV.png",
+        "name": "Red Chillies Entertainment",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-05-15",
+    "revenue": 0,
+    "runtime": 109,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Kartavya",
+    "video": false,
+    "vote_average": 6.438,
+    "vote_count": 16,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "WnoY3M1eaeE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6a015094099599b6f5a644d1",
+          "published_at": "2026-05-07T08:54:15.000Z"
+        }
+      ]
+    }
+  }
+}

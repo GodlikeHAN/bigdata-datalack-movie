@@ -1,0 +1,74 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1698856,
+  "ingestion_time_utc": "2026-05-25T20:37:08.603818+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/ehozSQRKL0g0xU8NsiR1vHDudMn.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "homepage": "https://theasylum.cc/index.php/titles/detail?id=651",
+    "id": 1698856,
+    "imdb_id": "tt41087705",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Master of the Universe",
+    "overview": "A young man must use his untapped powers to fight back against an evil alien and their army, who will stop at nothing to take over Earth and then the universe.",
+    "popularity": 3.1861,
+    "poster_path": "/5BoP5TmqCnbjPGf7ROYm9LdxtKw.jpg",
+    "production_companies": [
+      {
+        "id": 1311,
+        "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+        "name": "The Asylum",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-05-22",
+    "revenue": 0,
+    "runtime": 81,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "He's the man",
+    "title": "Master of the Universe",
+    "video": false,
+    "vote_average": 1.0,
+    "vote_count": 1,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "CmuEqjuzxWc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6a0d14a6e33035d362a2ad6f",
+          "published_at": "2026-05-19T01:30:12.000Z"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 10867,
+  "ingestion_time_utc": "2026-05-13T22:05:24.101333+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/vadUKKQixxOKWkcuZ1SUEoBQeVG.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "https://www.miramax.com/movie/malena/",
+    "id": 10867,
+    "imdb_id": "tt0213847",
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Malèna",
+    "overview": "12-year-old Renato experiences three significant events on the same day: the beginning of the Second World War, getting a bike, and witnessing the arrival of the gorgeous Malèna. Through his eyes, we see the curse of beauty and loneliness of Malena, whose husband is presumed dead, and, through his soul, we see his love for her.",
+    "popularity": 125.5315,
+    "poster_path": "/3OyQTl0IGkbnjDxd3MhztfPE34g.jpg",
+    "production_companies": [
+      {
+        "id": 6246,
+        "logo_path": "/7X6pfxldTiOD7MLo2EQqUQlmOUw.png",
+        "name": "Medusa Film",
+        "origin_country": "IT"
+      },
+      {
+        "id": 14,
+        "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+        "name": "Miramax",
+        "origin_country": "US"
+      },
+      {
+        "id": 12897,
+        "logo_path": null,
+        "name": "Pacific Pictures",
+        "origin_country": "IT"
+      },
+      {
+        "id": 15139,
+        "logo_path": "/pDMWjx8DQZ7joB5Yd5lieixKUAp.png",
+        "name": "Tele+",
+        "origin_country": "IT"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2000-10-27",
+    "revenue": 14493284,
+    "runtime": 108,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "Latin",
+        "iso_639_1": "la",
+        "name": "Latin"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Too young to be a widow, too beautiful to be alone.",
+    "title": "Malena",
+    "video": false,
+    "vote_average": 7.44,
+    "vote_count": 2550
+  }
+}

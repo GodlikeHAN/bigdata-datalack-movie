@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1455079,
+  "ingestion_time_utc": "2026-05-13T22:05:26.975724+00:00",
+  "data": {
+    "id": 1455079,
+    "imdb_id": "tt36352591",
+    "wikidata_id": "Q135458339",
+    "facebook_id": "youmetuscany",
+    "instagram_id": "youmetuscany",
+    "twitter_id": "youmetuscany"
+  }
+}

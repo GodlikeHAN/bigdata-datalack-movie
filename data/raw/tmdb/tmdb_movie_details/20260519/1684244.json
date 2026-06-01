@@ -1,0 +1,52 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1684244,
+  "ingestion_time_utc": "2026-05-19T16:56:05.556208+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/54SeexavwTPRSYtkkGks93LaR62.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      },
+      {
+        "id": 36,
+        "name": "History"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/81752435",
+    "id": 1684244,
+    "imdb_id": "tt41801280",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Untold UK: Liverpool's Miracle of Istanbul",
+    "overview": "At half-time in the 2005 champion league final Liverpool were 3-0 down. What happened next made football history -​ as players recall in this documentary.",
+    "popularity": 0.5124,
+    "poster_path": "/oS1ad6L9ybHYEJLljmTkxn4ORDC.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2026-05-19",
+    "revenue": 0,
+    "runtime": 78,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Untold UK: Liverpool's Miracle of Istanbul",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  }
+}

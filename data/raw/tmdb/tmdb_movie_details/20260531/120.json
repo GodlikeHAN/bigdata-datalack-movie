@@ -1,0 +1,189 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 120,
+  "ingestion_time_utc": "2026-05-31T20:50:04.245785+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg",
+    "belongs_to_collection": {
+      "id": 119,
+      "name": "The Lord of the Rings Collection",
+      "poster_path": "/oENY593nKRVL2PnxXsMtlh8izb4.jpg",
+      "backdrop_path": "/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg"
+    },
+    "budget": 93000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "homepage": "http://www.lordoftherings.net/",
+    "id": 120,
+    "imdb_id": "tt0120737",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+    "popularity": 41.3468,
+    "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 11,
+        "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
+        "name": "WingNut Films",
+        "origin_country": "NZ"
+      },
+      {
+        "id": 5237,
+        "logo_path": "/mlnr7vsBHvLye8oEb5A76C0t8x9.png",
+        "name": "The Saul Zaentz Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NZ",
+        "name": "New Zealand"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2001-12-18",
+    "revenue": 871368364,
+    "runtime": 179,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "One ring to rule them all.",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "video": false,
+    "vote_average": 8.435,
+    "vote_count": 27562,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Mountain Pass Battle",
+          "key": "9P-9uVo4zg4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69f65ad81f282a7ccfdb3df3",
+          "published_at": "2025-12-10T15:00:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Middle Earth Costume Design",
+          "key": "3JlFHcFDH-w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "62ce1c99d14443004c263524",
+          "published_at": "2022-06-03T14:59:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "One Ring to Rule Them All",
+          "key": "UXgbHdnoJrg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6209e898cb802838de065cce",
+          "published_at": "2022-02-07T21:50:21.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "_nZdmwHrcnw",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "5fc8aa7b43999b003b153ed6",
+          "published_at": "2020-12-02T17:33:26.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Lord of the Rings The Fellowship of the Ring Appendices (Part 2)",
+          "key": "wTS7BDMVG18",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": false,
+          "id": "61956267a0f1a200268079e3",
+          "published_at": "2020-06-28T13:45:22.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Lord of the Rings The Fellowship of the Ring Appendices (Part 1)",
+          "key": "HPmb3Al25pM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": false,
+          "id": "619561c11495650063ae22ff",
+          "published_at": "2019-11-10T14:45:13.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer #2",
+          "key": "cKEGZ-CvWHk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "699bb433e69d9d92330e54cf",
+          "published_at": "2014-05-15T03:40:57.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer #1",
+          "key": "_e8QGuG50ro",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "699bb4252dd3622782c5a6c4",
+          "published_at": "2014-05-15T03:39:39.000Z"
+        }
+      ]
+    }
+  }
+}

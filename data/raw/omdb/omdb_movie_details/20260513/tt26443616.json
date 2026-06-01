@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt26443616",
+  "ingestion_time_utc": "2026-05-13T22:05:34.015376+00:00",
+  "data": {
+    "Title": "Hoppers",
+    "Year": "2026",
+    "Rated": "PG",
+    "Released": "06 Mar 2026",
+    "Runtime": "104 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Daniel Chong",
+    "Writer": "Daniel Chong, Jesse Andrews, Jordan Harrison",
+    "Actors": "Piper Curda, Bobby Moynihan, Jon Hamm",
+    "Plot": "A 19-year-old animal lover uses technology that places her consciousness into a robotic beaver to uncover mysteries within the animal world beyond her imagination.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzRiMzZlMTMtNmU3OC00MDUwLThmNDUtMTBjZmQ3MWQ4NTljXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "94%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "73/100"
+      }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.4",
+    "imdbVotes": "37,622",
+    "imdbID": "tt26443616",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$164,415,529",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

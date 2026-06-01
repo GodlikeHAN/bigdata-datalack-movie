@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1226863,
+  "ingestion_time_utc": "2026-05-30T20:33:34.831802+00:00",
+  "data": {
+    "id": 1226863,
+    "imdb_id": "tt28650488",
+    "wikidata_id": "Q124806421",
+    "facebook_id": "supermariomovie",
+    "instagram_id": "supermariomovie",
+    "twitter_id": "supermariomovie"
+  }
+}

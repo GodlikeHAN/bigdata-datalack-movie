@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 687163,
+  "ingestion_time_utc": "2026-05-25T20:37:10.800137+00:00",
+  "data": {
+    "id": 687163,
+    "imdb_id": "tt12042730",
+    "wikidata_id": "Q107105860",
+    "facebook_id": "ProjectHailMary",
+    "instagram_id": "projecthailmary",
+    "twitter_id": "projecthailmary"
+  }
+}

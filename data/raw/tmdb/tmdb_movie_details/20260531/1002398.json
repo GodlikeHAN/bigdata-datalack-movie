@@ -1,0 +1,67 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1002398,
+  "ingestion_time_utc": "2026-05-31T20:50:01.627305+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/7B72d6f09eIifSgkpCkzwkv8fle.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 1002398,
+    "imdb_id": "tt33511103",
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_title": "Donselya",
+    "overview": "Iris, an 18-year old virgin marries Joaquin, a rich widower, because of money. However, when he learns that Iris is not really a virgin, their honeymoon turns to a bloodbath.",
+    "popularity": 61.3268,
+    "poster_path": "/iVS3ZiPsKy8Hhc5Dipqgrjmoj2b.jpg",
+    "production_companies": [
+      {
+        "id": 149142,
+        "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+        "name": "Vivamax",
+        "origin_country": "PH"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PH",
+        "name": "Philippines"
+      }
+    ],
+    "release_date": "2024-10-29",
+    "revenue": 0,
+    "runtime": 99,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Tagalog",
+        "iso_639_1": "tl",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Virgin",
+    "video": false,
+    "vote_average": 6.619,
+    "vote_count": 21,
+    "videos": {
+      "results": []
+    }
+  }
+}
