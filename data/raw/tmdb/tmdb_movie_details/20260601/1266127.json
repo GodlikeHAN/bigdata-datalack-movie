@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1266127,
-  "ingestion_time_utc": "2026-06-01T08:18:55.596662+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:58.623330+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/qYNJm1GOB4nULxIoTO0zfqjSAkC.jpg",
@@ -95,8 +95,8 @@
     "tagline": "Double or nothing.",
     "title": "Ready or Not: Here I Come",
     "video": false,
-    "vote_average": 7.688,
-    "vote_count": 921,
+    "vote_average": 7.7,
+    "vote_count": 924,
     "videos": {
       "results": [
         {

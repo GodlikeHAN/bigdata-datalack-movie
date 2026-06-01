@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0068646",
-  "ingestion_time_utc": "2026-06-01T08:19:23.783907+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:50.342910+00:00",
   "data": {
     "Title": "The Godfather",
     "Year": "1972",

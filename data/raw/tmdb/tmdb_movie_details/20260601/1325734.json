@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1325734,
-  "ingestion_time_utc": "2026-06-01T08:18:56.318827+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:00.861499+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
@@ -74,8 +74,8 @@
     "tagline": "Witness the wedding of the year.",
     "title": "The Drama",
     "video": false,
-    "vote_average": 6.926,
-    "vote_count": 883,
+    "vote_average": 6.937,
+    "vote_count": 891,
     "videos": {
       "results": [
         {

@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt14850054",
-  "ingestion_time_utc": "2026-06-01T08:19:31.465008+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:57.820960+00:00",
   "data": {
     "Title": "Greenland 2: Migration",
     "Year": "2026",

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1084244,
-  "ingestion_time_utc": "2026-06-01T08:18:56.607801+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:01.379228+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/wENlYOyR10DZzkICmrGUQQX4Ih5.jpg",
@@ -110,6 +110,30 @@
           "official": true,
           "id": "6a1a08147d7d3422f3b58c8b",
           "published_at": "2026-05-29T12:11:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "POV: You See the Toy Story 5 cast do 'Bonnie's Coming!' IRL!",
+          "key": "OURMabmJukA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a1d75b30806f972318123c3",
+          "published_at": "2026-05-28T21:30:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Two iconic duos…Woody and Buzz. Tom Hanks & Tim Allen at the Toy Story 5 UK Launch Event",
+          "key": "jyCXYtxWquM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a1d75a1af6c2ee6a76b6a07",
+          "published_at": "2026-05-28T21:10:57.000Z"
         },
         {
           "iso_639_1": "en",

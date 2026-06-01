@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1272837,
-  "ingestion_time_utc": "2026-06-01T08:18:57.221599+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:05.425396+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
@@ -83,8 +83,8 @@
     "tagline": "Fear is the new faith.",
     "title": "28 Years Later: The Bone Temple",
     "video": false,
-    "vote_average": 7.12,
-    "vote_count": 1243,
+    "vote_average": 7.121,
+    "vote_count": 1245,
     "videos": {
       "results": [
         {

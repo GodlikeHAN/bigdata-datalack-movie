@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1383731,
-  "ingestion_time_utc": "2026-06-01T08:18:57.498476+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:02.956808+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/vpuPY4UziUCxv7gYYoaZQ3LX7to.jpg",
@@ -106,8 +106,8 @@
     "tagline": "Mother. Savior. Killer...",
     "title": "Protector",
     "video": false,
-    "vote_average": 7.288,
-    "vote_count": 99,
+    "vote_average": 7.445,
+    "vote_count": 109,
     "videos": {
       "results": [
         {

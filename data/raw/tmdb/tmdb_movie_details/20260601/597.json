@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 597,
-  "ingestion_time_utc": "2026-06-01T08:18:56.685903+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:03.164121+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
@@ -96,7 +96,7 @@
     "title": "Titanic",
     "video": false,
     "vote_average": 7.903,
-    "vote_count": 27168,
+    "vote_count": 27170,
     "videos": {
       "results": [
         {

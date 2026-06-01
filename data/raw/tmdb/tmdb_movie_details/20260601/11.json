@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 11,
-  "ingestion_time_utc": "2026-06-01T08:18:57.474161+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:06.751676+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/yUiXA68FfQeA8cRBhd0Ao0jIRZt.jpg",
@@ -68,7 +68,7 @@
     "title": "Star Wars",
     "video": false,
     "vote_average": 8.205,
-    "vote_count": 22337,
+    "vote_count": 22339,
     "videos": {
       "results": [
         {

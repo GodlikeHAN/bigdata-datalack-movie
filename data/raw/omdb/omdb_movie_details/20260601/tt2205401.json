@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt2205401",
-  "ingestion_time_utc": "2026-06-01T08:19:23.648841+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:50.211863+00:00",
   "data": {
     "Title": "Addicted",
     "Year": "2014",

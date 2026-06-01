@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1010581,
-  "ingestion_time_utc": "2026-06-01T08:18:56.152319+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:00.333319+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/oz4U9eA6ilYf1tyiVuGmkftdLac.jpg",
@@ -74,7 +74,7 @@
     "title": "My Fault",
     "video": false,
     "vote_average": 7.736,
-    "vote_count": 4071,
+    "vote_count": 4072,
     "videos": {
       "results": [
         {

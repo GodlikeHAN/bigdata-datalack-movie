@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt30825738",
-  "ingestion_time_utc": "2026-06-01T08:19:11.708502+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:38.351009+00:00",
   "data": {
     "Title": "Star Wars: The Mandalorian and Grogu",
     "Year": "2026",

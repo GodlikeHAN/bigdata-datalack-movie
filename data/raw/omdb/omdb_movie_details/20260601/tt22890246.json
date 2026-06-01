@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt22890246",
-  "ingestion_time_utc": "2026-06-01T08:19:08.674278+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:35.030889+00:00",
   "data": {
     "Title": "How to Have Sex",
     "Year": "2023",

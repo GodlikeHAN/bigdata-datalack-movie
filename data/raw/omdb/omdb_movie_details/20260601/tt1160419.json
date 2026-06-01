@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt1160419",
-  "ingestion_time_utc": "2026-06-01T08:19:26.324135+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:53.024724+00:00",
   "data": {
     "Title": "Dune: Part One",
     "Year": "2021",

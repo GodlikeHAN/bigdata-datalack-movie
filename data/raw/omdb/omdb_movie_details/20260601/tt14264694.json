@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt14264694",
-  "ingestion_time_utc": "2026-06-01T08:19:10.791067+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:37.295254+00:00",
   "data": {
     "Title": "Worldbreaker",
     "Year": "2025",

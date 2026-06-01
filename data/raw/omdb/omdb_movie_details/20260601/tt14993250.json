@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt14993250",
-  "ingestion_time_utc": "2026-06-01T08:19:31.728761+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:58.086086+00:00",
   "data": {
     "Title": "Rocky Aur Rani Kii Prem Kahaani",
     "Year": "2023",

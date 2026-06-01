@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1083381,
-  "ingestion_time_utc": "2026-06-01T08:18:54.091660+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:46.607246+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
@@ -22,7 +22,7 @@
         "name": "Science Fiction"
       }
     ],
-    "homepage": "https://backrooms.mov",
+    "homepage": "https://app.a24films.com/release/backrooms/522",
     "id": 1083381,
     "imdb_id": "tt26657236",
     "origin_country": [
@@ -32,7 +32,7 @@
     "original_title": "Backrooms",
     "overview": "A strange doorway appears in the basement of a furniture showroom.",
     "popularity": 273.5711,
-    "poster_path": "/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
+    "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
     "production_companies": [
       {
         "id": 76907,
@@ -77,7 +77,7 @@
     ],
     "release_date": "2026-05-27",
     "revenue": 118000000,
-    "runtime": 110,
+    "runtime": 111,
     "softcore": false,
     "spoken_languages": [
       {
@@ -90,8 +90,8 @@
     "tagline": "You are not supposed to be here.",
     "title": "Backrooms",
     "video": false,
-    "vote_average": 6.791,
-    "vote_count": 175,
+    "vote_average": 6.8,
+    "vote_count": 181,
     "videos": {
       "results": [
         {

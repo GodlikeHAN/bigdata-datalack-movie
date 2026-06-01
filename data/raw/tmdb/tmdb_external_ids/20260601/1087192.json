@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1087192,
+  "ingestion_time_utc": "2026-06-01T19:57:17.554901+00:00",
+  "data": {
+    "id": 1087192,
+    "imdb_id": "tt26743210",
+    "wikidata_id": "Q118904382",
+    "facebook_id": "HowToTrainYourDragon",
+    "instagram_id": "httydragon",
+    "twitter_id": "HTTYDragon"
+  }
+}

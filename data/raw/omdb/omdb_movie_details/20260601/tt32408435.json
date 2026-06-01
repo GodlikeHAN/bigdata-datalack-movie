@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt32408435",
-  "ingestion_time_utc": "2026-06-01T08:19:15.407936+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:41.808131+00:00",
   "data": {
     "Title": "Kaulayaw",
     "Year": "2024",

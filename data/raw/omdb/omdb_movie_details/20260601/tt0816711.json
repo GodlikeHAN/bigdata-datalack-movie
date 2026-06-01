@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0816711",
+  "ingestion_time_utc": "2026-06-01T19:57:56.363790+00:00",
+  "data": {
+    "Title": "World War Z",
+    "Year": "2013",
+    "Rated": "PG-13",
+    "Released": "21 Jun 2013",
+    "Runtime": "116 min",
+    "Genre": "Action, Adventure, Horror",
+    "Director": "Marc Forster",
+    "Writer": "Matthew Michael Carnahan, Drew Goddard, Damon Lindelof",
+    "Actors": "Brad Pitt, Mireille Enos, Daniella Kertesz",
+    "Plot": "Former United Nations employee Gerry Lane traverses the world in a race against time to stop a zombie pandemic that is toppling armies and governments and threatens to destroy humanity itself.",
+    "Language": "English, Spanish, Hebrew, Arabic",
+    "Country": "United States, United Kingdom",
+    "Awards": "3 wins & 25 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODg3ZTM2YWQtZDE5Ny00NGNiLTkzYjgtYWVlYjNkOTg5NDI1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "67%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "63/100"
+      }
+    ],
+    "Metascore": "63",
+    "imdbRating": "7.0",
+    "imdbVotes": "778,104",
+    "imdbID": "tt0816711",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$202,807,711",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

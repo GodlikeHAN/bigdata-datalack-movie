@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1613798,
-  "ingestion_time_utc": "2026-06-01T08:18:56.293178+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:01.170452+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/xyW8rJO3rwG2EGcTO6eaUEa8b9d.jpg",
@@ -68,8 +68,8 @@
     "tagline": "",
     "title": "Vengeance",
     "video": false,
-    "vote_average": 7.45,
-    "vote_count": 229,
+    "vote_average": 7.461,
+    "vote_count": 230,
     "videos": {
       "results": [
         {

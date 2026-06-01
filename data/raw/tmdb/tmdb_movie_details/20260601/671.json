@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 671,
-  "ingestion_time_utc": "2026-06-01T08:18:56.710163+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:02.738806+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg",
@@ -80,7 +80,7 @@
     "title": "Harry Potter and the Philosopher's Stone",
     "video": false,
     "vote_average": 7.899,
-    "vote_count": 29574,
+    "vote_count": 29577,
     "videos": {
       "results": [
         {

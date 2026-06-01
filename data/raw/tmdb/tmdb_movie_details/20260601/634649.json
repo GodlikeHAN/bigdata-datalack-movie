@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 634649,
-  "ingestion_time_utc": "2026-06-01T08:18:56.619678+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:01.797150+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
@@ -85,7 +85,7 @@
     "title": "Spider-Man: No Way Home",
     "video": false,
     "vote_average": 7.935,
-    "vote_count": 21997,
+    "vote_count": 21998,
     "videos": {
       "results": [
         {

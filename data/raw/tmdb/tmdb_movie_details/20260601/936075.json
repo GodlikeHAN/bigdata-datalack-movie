@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 936075,
-  "ingestion_time_utc": "2026-06-01T08:18:55.033556+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:54.735265+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
@@ -76,7 +76,7 @@
     "title": "Michael",
     "video": false,
     "vote_average": 7.573,
-    "vote_count": 885,
+    "vote_count": 887,
     "videos": {
       "results": [
         {

@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt33054858",
-  "ingestion_time_utc": "2026-06-01T08:19:16.467078+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:43.255596+00:00",
   "data": {
     "Title": "Pati Patni Aur Woh 2",
     "Year": "2026",

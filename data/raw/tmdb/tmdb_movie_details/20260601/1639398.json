@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1639398,
-  "ingestion_time_utc": "2026-06-01T08:18:55.376776+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:57.166352+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/82hjEm0x5Val6nCwExwlawdfwLJ.jpg",
@@ -46,8 +46,8 @@
     "tagline": "",
     "title": "Mexican Psycho",
     "video": false,
-    "vote_average": 7.315,
-    "vote_count": 73,
+    "vote_average": 7.387,
+    "vote_count": 75,
     "videos": {
       "results": []
     }

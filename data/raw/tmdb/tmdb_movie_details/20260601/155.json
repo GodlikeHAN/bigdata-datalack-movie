@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 155,
-  "ingestion_time_utc": "2026-06-01T08:18:56.305526+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:01.592558+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
@@ -94,8 +94,8 @@
     "tagline": "Welcome to a world without rules.",
     "title": "The Dark Knight",
     "video": false,
-    "vote_average": 8.531,
-    "vote_count": 35808,
+    "vote_average": 8.5,
+    "vote_count": 35811,
     "videos": {
       "results": [
         {

@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt1375666",
-  "ingestion_time_utc": "2026-06-01T08:19:24.728058+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:51.162124+00:00",
   "data": {
     "Title": "Inception",
     "Year": "2010",

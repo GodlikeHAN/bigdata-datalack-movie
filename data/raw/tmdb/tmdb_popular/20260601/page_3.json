@@ -2,68 +2,112 @@
   "source": "tmdb",
   "entity": "tmdb_popular",
   "page": 3,
-  "ingestion_time_utc": "2026-06-01T08:18:51.330387+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:41.642600+00:00",
   "data": {
     "page": 3,
     "results": [
       {
         "adult": false,
-        "backdrop_path": "/dMX6RR0SHgI43r2CsDkF5wzozOw.jpg",
+        "backdrop_path": "/xGJT18qN8lzELAnHRyfoe1vLTiI.jpg",
         "genre_ids": [
-          53
+          18
         ],
-        "id": 758308,
-        "title": "Red Latex",
-        "original_language": "es",
-        "original_title": "Red Latex",
-        "overview": "Eric lives with his pregnant wife in his in-laws' house because they have no money to become independent. Eric is very docile and the people around him: his wife, his father, his father-in-law, and his boss have always told him what he has to do with his life. But everything has a limit. Fed of with this situation, Eric leaves his family and escapes to the mansion of the dominatrix Mistress Gise to become her slave. Eric hopes to achieve liberation by submitting to Mistress Gise. When his family finds out, they do what they can to get him back. Meanwhile, Mistress Gise is a twisted Domina who takes Eric's slavery beyond any expected limit.",
-        "popularity": 129.4559,
-        "poster_path": "/hP1o5waM6ohMTKr4QcOtyOP1oiu.jpg",
-        "release_date": "2020-02-22",
+        "id": 186745,
+        "title": "Rape of Love",
+        "original_language": "fr",
+        "original_title": "L'Amour violé",
+        "overview": "Nicole, nurse in Grenoble, is raped one night by four men. Deeply scarred, emotionally and physically, she thinks she will never recover from the trauma. Following a friend's advice, she decides to file a lawsuit.",
+        "popularity": 93.4843,
+        "poster_path": "/qVGL9xgGCzXtRwexUTmpz7z1MVg.jpg",
+        "release_date": "1978-01-10",
         "softcore": false,
         "video": false,
-        "vote_average": 5.149,
-        "vote_count": 37
+        "vote_average": 5.6,
+        "vote_count": 24
       },
       {
         "adult": false,
-        "backdrop_path": "/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
-        "genre_ids": [
-          35,
-          14
-        ],
-        "id": 1368881,
-        "title": "Ladies First",
-        "original_language": "en",
-        "original_title": "Ladies First",
-        "overview": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
-        "popularity": 83.6047,
-        "poster_path": "/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
-        "release_date": "2026-05-21",
-        "softcore": false,
-        "video": false,
-        "vote_average": 6.05,
-        "vote_count": 212
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/cfDHxkco8RrslL0Vk2XPTwTVFCe.jpg",
+        "backdrop_path": "/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
         "genre_ids": [
           28,
+          80,
           53
         ],
-        "id": 1472951,
-        "title": "Infiltrate",
-        "original_language": "en",
-        "original_title": "Infiltrate",
-        "overview": "In a city overrun by crime, government Agent Lily Chen is forced to choose between her duty and her family when her husband is kidnapped, and she’s blackmailed into assassinating high-level criminals to save him. As she delves deeper into the criminal underworld, Lily’s relentless pursuit of justice unravels a web of corruption, leading to a final, life-altering decision that will change her world forever.",
-        "popularity": 111.6802,
-        "poster_path": "/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
-        "release_date": "2026-04-10",
+        "id": 1291608,
+        "title": "Dhurandhar",
+        "original_language": "hi",
+        "original_title": "धुरंधर",
+        "overview": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
+        "popularity": 92.8225,
+        "poster_path": "/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
+        "release_date": "2025-12-05",
         "softcore": false,
         "video": false,
-        "vote_average": 5.2,
-        "vote_count": 15
+        "vote_average": 7.138,
+        "vote_count": 289
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7TJjD2X9GTEqyLVIJKLS85J2V47.jpg",
+        "genre_ids": [
+          53,
+          28,
+          80
+        ],
+        "id": 28322,
+        "title": "Madness",
+        "original_language": "it",
+        "original_title": "Vacanze per un massacro",
+        "overview": "An escaped convicted murderer invades the cottage of a man, his wife and the wife's sister, whereupon he proceeds to torment this already dysfunctional trio with rape and violence.",
+        "popularity": 92.2054,
+        "poster_path": "/gV0J0Fqw2mYMtQbzb0ruxv9MAeZ.jpg",
+        "release_date": "1980-03-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.969,
+        "vote_count": 32
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+        "genre_ids": [
+          12,
+          16,
+          35,
+          10751,
+          9648
+        ],
+        "id": 1084242,
+        "title": "Zootopia 2",
+        "original_language": "en",
+        "original_title": "Zootopia 2",
+        "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+        "popularity": 88.4694,
+        "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "release_date": "2025-11-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.648,
+        "vote_count": 2848
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aJxmgoNtP2BH7mRYvuf7AHB0VC3.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1302007,
+        "title": "Kaulayaw",
+        "original_language": "tl",
+        "original_title": "Kaulayaw",
+        "overview": "Two college schoolmates venture into the world of cybersex to support their needs. They fulfill their fans' sexual fantasy only to realized that they too, are falling for each other.",
+        "popularity": 86.6028,
+        "poster_path": "/qifjfp5a2gHQ0WsGhTvlamPshnH.jpg",
+        "release_date": "2024-07-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 6
       },
       {
         "adult": false,
@@ -87,47 +131,83 @@
       },
       {
         "adult": false,
-        "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+        "backdrop_path": "/vP7YFt9pP8NPCg4PMBAHO5ILdrQ.jpg",
         "genre_ids": [
-          12,
-          16,
-          35,
-          10751,
-          9648
+          28,
+          53
         ],
-        "id": 1084242,
-        "title": "Zootopia 2",
-        "original_language": "en",
-        "original_title": "Zootopia 2",
-        "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-        "popularity": 88.4694,
-        "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "release_date": "2025-11-26",
+        "id": 44980,
+        "title": "Zero Woman 2",
+        "original_language": "ja",
+        "original_title": "Zero WOMAN ＩＩ　警視庁０課の女",
+        "overview": "When a valuable suitcase is stolen, the mob, petty criminals, and a beautiful agent from the Elite Zero division are pulled into a battle to settle the score.",
+        "popularity": 83.8728,
+        "poster_path": "/sQHeDjwmBQba8E51Mkp5dvgkzeZ.jpg",
+        "release_date": "1995-09-05",
         "softcore": false,
         "video": false,
-        "vote_average": 7.648,
-        "vote_count": 2845
+        "vote_average": 5.0,
+        "vote_count": 8
       },
       {
         "adult": false,
-        "backdrop_path": "/mHm73HhpvGWfRkXNErcwc15Czrv.jpg",
+        "backdrop_path": "/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
         "genre_ids": [
-          80,
-          18,
-          53
+          35,
+          14
         ],
-        "id": 1628367,
-        "title": "Kartavya",
-        "original_language": "hi",
-        "original_title": "कर्त्तव्य",
-        "overview": "With his family's safety at stake and menacing threats closing in, a police officer must decide how far he'll go to uphold his duty.",
-        "popularity": 71.8725,
-        "poster_path": "/doTwMyAphlDL5Z8WqE3elWWvj8M.jpg",
-        "release_date": "2026-05-15",
+        "id": 1368881,
+        "title": "Ladies First",
+        "original_language": "en",
+        "original_title": "Ladies First",
+        "overview": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
+        "popularity": 83.6047,
+        "poster_path": "/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
+        "release_date": "2026-05-21",
         "softcore": false,
         "video": false,
-        "vote_average": 6.438,
-        "vote_count": 16
+        "vote_average": 6.037,
+        "vote_count": 217
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+        "genre_ids": [
+          27,
+          35
+        ],
+        "id": 1239134,
+        "title": "Bhooth Bangla",
+        "original_language": "hi",
+        "original_title": "भूत बंगला",
+        "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+        "popularity": 83.0296,
+        "poster_path": "/79RBp8afL4u4z3nVGR78z6eIvBB.jpg",
+        "release_date": "2026-04-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9qYPmrdpGT58hd3wSam82pmPIoW.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 1571594,
+        "title": "La fotógrafa",
+        "original_language": "es",
+        "original_title": "La fotógrafa",
+        "overview": "Inna, a young post-mortem photographer, arrives at a remote orphanage in northern Spain to capture the final image of Alejandra, a girl found dead under mysterious circumstances. But as her lens lingers on the tragedy, Inna begins to sense a dark presence within the orphanage's walls-an evil that refuses to remain hidden and threatens to make her its next subject.",
+        "popularity": 81.209,
+        "poster_path": "/95pZ9yB5SABddzaINITvZd7SvER.jpg",
+        "release_date": "2025-10-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 1
       },
       {
         "adult": false,
@@ -147,68 +227,49 @@
         "softcore": false,
         "video": false,
         "vote_average": 8.721,
-        "vote_count": 30448
+        "vote_count": 30452
       },
       {
         "adult": false,
-        "backdrop_path": "/gMItMzDOyrfQGZsMWRM9tdxq5cV.jpg",
+        "backdrop_path": "/61RYedFgX1K07xgVIvdJzukSR4g.jpg",
         "genre_ids": [
-          878,
-          28,
-          27
+          35,
+          18,
+          10751,
+          10749
         ],
-        "id": 1196067,
-        "title": "Worldbreaker",
+        "id": 848116,
+        "title": "Rocky Aur Rani Kii Prem Kahaani",
+        "original_language": "hi",
+        "original_title": "रॉकी और रानी की प्रेम कहानी",
+        "overview": "Gym-freak brat Rocky falls in love with Rani, who comes from a well-educated Bengali family. Being from polar opposite worlds, the two decide to switch their families to adjust to each other's cultures and backgrounds and to know if their marriage will survive. Rocky and Rani are trapped in a world where they are united by love but divided by families and the ultimate question is will they fit in?",
+        "popularity": 77.3261,
+        "poster_path": "/vTQIqlxUkOuyf2UKhlM2OUaFGKz.jpg",
+        "release_date": "2023-07-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.201,
+        "vote_count": 87
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aqqoDJs8vYp2EZ74aQ1UMY0sjM7.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 235271,
+        "title": "Addicted",
         "original_language": "en",
-        "original_title": "Worldbreaker",
-        "overview": "Five years ago, a tear in the fabric of reality brought creatures to our world from an alternate dimension bent on our destruction. A father hides his daughter on an island to keep her safe while he prepares her for survival and the battles to come. But when the world is about to break, no place is safe.",
-        "popularity": 71.9967,
-        "poster_path": "/ahj1JU8r0uJv7QII5Uj7tKzbEsC.jpg",
-        "release_date": "2025-10-30",
+        "original_title": "Addicted",
+        "overview": "A gallerist risks her family and flourishing career when she enters into an affair with a talented painter and slowly loses control of her life.",
+        "popularity": 77.0436,
+        "poster_path": "/fAERrD6vvmznDoL99wlgjhSfPcH.jpg",
+        "release_date": "2014-10-10",
         "softcore": false,
         "video": false,
-        "vote_average": 6.081,
-        "vote_count": 192
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/aJxmgoNtP2BH7mRYvuf7AHB0VC3.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 1302007,
-        "title": "Kaulayaw",
-        "original_language": "tl",
-        "original_title": "Kaulayaw",
-        "overview": "Two college schoolmates venture into the world of cybersex to support their needs. They fulfill their fans' sexual fantasy only to realized that they too, are falling for each other.",
-        "popularity": 86.6028,
-        "poster_path": "/qifjfp5a2gHQ0WsGhTvlamPshnH.jpg",
-        "release_date": "2024-07-18",
-        "softcore": false,
-        "video": false,
-        "vote_average": 5.8,
-        "vote_count": 6
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/pjlxrd646cBYznHoPBWTzz6FujX.jpg",
-        "genre_ids": [
-          28,
-          878,
-          18
-        ],
-        "id": 39254,
-        "title": "Real Steel",
-        "original_language": "en",
-        "original_title": "Real Steel",
-        "overview": "Charlie Kenton is a washed-up fighter who retired from the ring when robots took over the sport. After his robot is trashed, he reluctantly teams up with his estranged son to rebuild and train an unlikely contender.",
-        "popularity": 66.6994,
-        "poster_path": "/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg",
-        "release_date": "2011-09-28",
-        "softcore": false,
-        "video": false,
-        "vote_average": 7.093,
-        "vote_count": 9155
+        "vote_average": 5.9,
+        "vote_count": 444
       },
       {
         "adult": false,
@@ -229,27 +290,28 @@
         "softcore": false,
         "video": false,
         "vote_average": 8.475,
-        "vote_count": 39870
+        "vote_count": 39874
       },
       {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
         "genre_ids": [
-          35,
-          18
+          28,
+          80,
+          53
         ],
-        "id": 1699574,
-        "title": "Deool Band 2",
-        "original_language": "mr",
-        "original_title": "देऊळ बँड 2",
-        "overview": "The story follows a farmer who decides to question and test his faith, setting off a journey filled with emotional and life-altering moments. At its core, the narrative centers on a woman who tirelessly struggles for her family, facing hardships with resilience, as her path ultimately leads her to confront the very idea of divine power",
-        "popularity": 71.2502,
-        "poster_path": "/89n9cfc5dm0kdkABmDJalzveEwU.jpg",
-        "release_date": "2026-05-21",
+        "id": 1290821,
+        "title": "Shelter",
+        "original_language": "en",
+        "original_title": "Shelter",
+        "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+        "popularity": 73.7221,
+        "poster_path": "/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+        "release_date": "2026-01-28",
         "softcore": false,
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0
+        "vote_average": 7.623,
+        "vote_count": 1084
       },
       {
         "adult": false,
@@ -268,47 +330,8 @@
         "release_date": "2026-03-19",
         "softcore": false,
         "video": false,
-        "vote_average": 7.315,
-        "vote_count": 73
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
-        "genre_ids": [
-          18,
-          9648
-        ],
-        "id": 1330021,
-        "title": "Remarkably Bright Creatures",
-        "original_language": "en",
-        "original_title": "Remarkably Bright Creatures",
-        "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
-        "popularity": 71.7185,
-        "poster_path": "/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
-        "release_date": "2026-05-07",
-        "softcore": false,
-        "video": false,
-        "vote_average": 8.542,
-        "vote_count": 503
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/xGJT18qN8lzELAnHRyfoe1vLTiI.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 186745,
-        "title": "Rape of Love",
-        "original_language": "fr",
-        "original_title": "L'Amour violé",
-        "overview": "Nicole, nurse in Grenoble, is raped one night by four men. Deeply scarred, emotionally and physically, she thinks she will never recover from the trauma. Following a friend's advice, she decides to file a lawsuit.",
-        "popularity": 93.4843,
-        "poster_path": "/qVGL9xgGCzXtRwexUTmpz7z1MVg.jpg",
-        "release_date": "1978-01-10",
-        "softcore": false,
-        "video": false,
-        "vote_average": 5.6,
-        "vote_count": 24
+        "vote_average": 7.387,
+        "vote_count": 75
       },
       {
         "adult": false,
@@ -334,88 +357,68 @@
       },
       {
         "adult": false,
-        "backdrop_path": "/1Xi0FNU0uj82GfUw2vWHsVCiRv5.jpg",
+        "backdrop_path": "/gMItMzDOyrfQGZsMWRM9tdxq5cV.jpg",
         "genre_ids": [
-          27,
+          878,
+          28,
+          27
+        ],
+        "id": 1196067,
+        "title": "Worldbreaker",
+        "original_language": "en",
+        "original_title": "Worldbreaker",
+        "overview": "Five years ago, a tear in the fabric of reality brought creatures to our world from an alternate dimension bent on our destruction. A father hides his daughter on an island to keep her safe while he prepares her for survival and the battles to come. But when the world is about to break, no place is safe.",
+        "popularity": 71.9967,
+        "poster_path": "/ahj1JU8r0uJv7QII5Uj7tKzbEsC.jpg",
+        "release_date": "2025-10-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.081,
+        "vote_count": 192
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mHm73HhpvGWfRkXNErcwc15Czrv.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 1628367,
+        "title": "Kartavya",
+        "original_language": "hi",
+        "original_title": "कर्त्तव्य",
+        "overview": "With his family's safety at stake and menacing threats closing in, a police officer must decide how far he'll go to uphold his duty.",
+        "popularity": 71.8725,
+        "poster_path": "/doTwMyAphlDL5Z8WqE3elWWvj8M.jpg",
+        "release_date": "2026-05-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.471,
+        "vote_count": 17
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+        "genre_ids": [
           18,
           9648
         ],
-        "id": 1281425,
-        "title": "Night Silence",
-        "original_language": "pl",
-        "original_title": "Cisza nocna",
-        "overview": "A theatre actor whose health is failing gets admitted to a nursing home. Soon, he starts having nightmares that seemingly become deceptively real. The so-called nightmares were able to make him live in two parallel dimensions.",
-        "popularity": 65.1181,
-        "poster_path": "/gBYhjuq0ZEDN710C5sKVq45y1pA.jpg",
-        "release_date": "2024-10-31",
-        "softcore": false,
-        "video": false,
-        "vote_average": 4.667,
-        "vote_count": 6
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/iCML6fBe3X0y06P33bM7dyYXPKZ.jpg",
-        "genre_ids": [
-          35,
-          10749
-        ],
-        "id": 1632181,
-        "title": "Accidental Partners",
-        "original_language": "es",
-        "original_title": "Socias por accidente",
-        "overview": "Two women discover they were both scammed by the same man (who also got them pregnant). They form an alliance to take revenge.",
-        "popularity": 71.0481,
-        "poster_path": "/sr1Yoj6XLPTWYcbDoBy67xivW4I.jpg",
-        "release_date": "2026-03-12",
-        "softcore": false,
-        "video": false,
-        "vote_average": 9.149,
-        "vote_count": 201
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
-        "genre_ids": [
-          28,
-          53,
-          27
-        ],
-        "id": 1375646,
-        "title": "Colony",
-        "original_language": "ko",
-        "original_title": "군체",
-        "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-        "popularity": 71.1205,
-        "poster_path": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-        "release_date": "2026-05-21",
-        "softcore": false,
-        "video": false,
-        "vote_average": 6.841,
-        "vote_count": 22
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
-        "genre_ids": [
-          9648,
-          53
-        ],
-        "id": 1368166,
-        "title": "The Housemaid",
+        "id": 1330021,
+        "title": "Remarkably Bright Creatures",
         "original_language": "en",
-        "original_title": "The Housemaid",
-        "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
-        "popularity": 69.7522,
-        "poster_path": "/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "release_date": "2025-12-18",
+        "original_title": "Remarkably Bright Creatures",
+        "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+        "popularity": 71.7185,
+        "poster_path": "/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+        "release_date": "2026-05-07",
         "softcore": false,
         "video": false,
-        "vote_average": 7.263,
-        "vote_count": 2250
+        "vote_average": 8.536,
+        "vote_count": 507
       }
     ],
-    "total_pages": 57153,
-    "total_results": 1143050
+    "total_pages": 57163,
+    "total_results": 1143257
   }
 }

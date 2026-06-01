@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1515729,
-  "ingestion_time_utc": "2026-06-01T08:18:54.657625+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:51.186397+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/z18AIGSU0vk4Y7LQP37CPSeKZvF.jpg",
@@ -63,7 +63,7 @@
     "title": "Blast",
     "video": false,
     "vote_average": 7.0,
-    "vote_count": 1,
+    "vote_count": 2,
     "videos": {
       "results": []
     }

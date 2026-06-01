@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt38782528",
-  "ingestion_time_utc": "2026-06-01T08:19:22.447500+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:48.849308+00:00",
   "data": {
     "Response": "False",
     "Error": "Error getting data."

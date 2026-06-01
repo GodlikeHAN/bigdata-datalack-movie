@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 969681,
-  "ingestion_time_utc": "2026-06-01T08:18:54.483385+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:07.381306+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
@@ -83,6 +83,18 @@
     "vote_count": 0,
     "videos": {
       "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Happy birthday Tom Holland.",
+          "key": "4CXlc8tcBTo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a1d9c2faaa3190d666b6ce6",
+          "published_at": "2026-06-01T07:10:01.000Z"
+        },
         {
           "iso_639_1": "en",
           "iso_3166_1": "US",

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1301421,
-  "ingestion_time_utc": "2026-06-01T08:18:55.648883+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:58.205248+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
@@ -26,8 +26,8 @@
     "id": 1301421,
     "imdb_id": "tt32565993",
     "origin_country": [
-      "GB",
-      "US"
+      "US",
+      "GB"
     ],
     "original_language": "en",
     "original_title": "The Sheep Detectives",
@@ -85,10 +85,22 @@
     "tagline": "A new breed of mystery.",
     "title": "The Sheep Detectives",
     "video": false,
-    "vote_average": 7.6,
-    "vote_count": 131,
+    "vote_average": 7.629,
+    "vote_count": 136,
     "videos": {
       "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas Now",
+          "key": "kIGsC3Vk-ZA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a1d45a03d37d027074ad360",
+          "published_at": "2026-06-01T03:00:31.000Z"
+        },
         {
           "iso_639_1": "en",
           "iso_3166_1": "US",

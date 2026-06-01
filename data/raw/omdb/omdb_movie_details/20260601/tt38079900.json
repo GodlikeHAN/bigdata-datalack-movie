@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt38079900",
-  "ingestion_time_utc": "2026-06-01T08:19:19.934189+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:46.560426+00:00",
   "data": {
     "Title": "Food Truck: Stolen Love... and Moo Deng",
     "Year": "2025",

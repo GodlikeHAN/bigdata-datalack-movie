@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 438631,
-  "ingestion_time_utc": "2026-06-01T08:18:54.603310+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:50.446201+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/zRKQW58MBEY078AxkHxEJzUskCl.jpg",
@@ -64,7 +64,7 @@
     "title": "Dune",
     "video": false,
     "vote_average": 7.781,
-    "vote_count": 14900,
+    "vote_count": 14899,
     "videos": {
       "results": [
         {

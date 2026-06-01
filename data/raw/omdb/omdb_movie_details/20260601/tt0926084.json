@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0926084",
-  "ingestion_time_utc": "2026-06-01T08:19:13.037309+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:39.557574+00:00",
   "data": {
     "Title": "Harry Potter and the Deathly Hallows: Part 1",
     "Year": "2010",

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 77,
-  "ingestion_time_utc": "2026-06-01T08:18:57.528396+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:04.777246+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
@@ -77,7 +77,7 @@
     "title": "Memento",
     "video": false,
     "vote_average": 8.177,
-    "vote_count": 16240,
+    "vote_count": 16243,
     "videos": {
       "results": [
         {

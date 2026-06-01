@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1304313,
-  "ingestion_time_utc": "2026-06-01T08:18:53.909186+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:45.864476+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
@@ -78,6 +78,11 @@
     "softcore": false,
     "spoken_languages": [
       {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
         "english_name": "Arabic",
         "iso_639_1": "ar",
         "name": "العربية"
@@ -86,19 +91,14 @@
         "english_name": "Spanish",
         "iso_639_1": "es",
         "name": "Español"
-      },
-      {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
       }
     ],
     "status": "Released",
     "tagline": "What happened to Katie?",
     "title": "Lee Cronin's The Mummy",
     "video": false,
-    "vote_average": 8.069,
-    "vote_count": 1450,
+    "vote_average": 8.067,
+    "vote_count": 1474,
     "videos": {
       "results": [
         {

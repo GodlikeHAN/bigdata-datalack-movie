@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt9150192",
-  "ingestion_time_utc": "2026-06-01T08:19:10.921955+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:37.426355+00:00",
   "data": {
     "Title": "A Working Man",
     "Year": "2025",

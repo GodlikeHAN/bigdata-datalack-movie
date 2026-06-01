@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt15047880",
-  "ingestion_time_utc": "2026-06-01T08:19:14.093792+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:40.612972+00:00",
   "data": {
     "Title": "Disclosure Day",
     "Year": "2026",

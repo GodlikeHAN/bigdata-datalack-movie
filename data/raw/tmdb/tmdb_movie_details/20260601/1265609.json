@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1265609,
-  "ingestion_time_utc": "2026-06-01T08:18:56.434906+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:01.484252+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
@@ -84,8 +84,8 @@
     "tagline": "All grit. No quit.",
     "title": "War Machine",
     "video": false,
-    "vote_average": 7.339,
-    "vote_count": 1806,
+    "vote_average": 7.3,
+    "vote_count": 1810,
     "videos": {
       "results": [
         {

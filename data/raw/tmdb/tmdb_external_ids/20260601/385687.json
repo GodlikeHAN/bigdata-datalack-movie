@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 385687,
+  "ingestion_time_utc": "2026-06-01T19:57:17.299013+00:00",
+  "data": {
+    "id": 385687,
+    "imdb_id": "tt5433140",
+    "wikidata_id": "Q31271369",
+    "facebook_id": "TheFastSaga",
+    "instagram_id": "thefastsaga",
+    "twitter_id": "TheFastSaga"
+  }
+}

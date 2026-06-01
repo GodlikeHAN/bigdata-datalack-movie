@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt2467700",
-  "ingestion_time_utc": "2026-06-01T08:19:28.046324+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:54.628473+00:00",
   "data": {
     "Title": "Animal Farm",
     "Year": "2026",

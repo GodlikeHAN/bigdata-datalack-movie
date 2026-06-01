@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1233413,
-  "ingestion_time_utc": "2026-06-01T08:18:56.940915+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:03.686512+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
@@ -84,8 +84,8 @@
     "tagline": "Dance with the devil.",
     "title": "Sinners",
     "video": false,
-    "vote_average": 7.5,
-    "vote_count": 4560,
+    "vote_average": 7.494,
+    "vote_count": 4564,
     "videos": {
       "results": [
         {

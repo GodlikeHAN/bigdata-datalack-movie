@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt2250912",
-  "ingestion_time_utc": "2026-06-01T08:19:25.394870+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:51.822122+00:00",
   "data": {
     "Title": "Spider-Man: Homecoming",
     "Year": "2017",

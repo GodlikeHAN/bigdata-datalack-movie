@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 278,
-  "ingestion_time_utc": "2026-06-01T08:18:55.299171+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:56.639483+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
@@ -59,7 +59,7 @@
     "title": "The Shawshank Redemption",
     "video": false,
     "vote_average": 8.721,
-    "vote_count": 30446,
+    "vote_count": 30452,
     "videos": {
       "results": [
         {

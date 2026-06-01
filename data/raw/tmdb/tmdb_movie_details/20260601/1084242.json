@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1084242,
-  "ingestion_time_utc": "2026-06-01T08:18:55.268080+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:56.013322+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
@@ -86,7 +86,7 @@
     "title": "Zootopia 2",
     "video": false,
     "vote_average": 7.648,
-    "vote_count": 2845,
+    "vote_count": 2848,
     "videos": {
       "results": [
         {

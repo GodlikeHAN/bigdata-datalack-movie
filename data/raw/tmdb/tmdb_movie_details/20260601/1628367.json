@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1628367,
-  "ingestion_time_utc": "2026-06-01T08:18:55.286748+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:57.482161+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/mHm73HhpvGWfRkXNErcwc15Czrv.jpg",
@@ -62,8 +62,8 @@
     "tagline": "",
     "title": "Kartavya",
     "video": false,
-    "vote_average": 6.438,
-    "vote_count": 16,
+    "vote_average": 6.471,
+    "vote_count": 17,
     "videos": {
       "results": [
         {

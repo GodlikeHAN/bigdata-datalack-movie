@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt18259538",
-  "ingestion_time_utc": "2026-06-01T08:19:33.717435+00:00",
+  "ingestion_time_utc": "2026-06-01T19:58:00.062827+00:00",
   "data": {
     "Title": "The Legend of Aang: The Last Airbender",
     "Year": "2026",

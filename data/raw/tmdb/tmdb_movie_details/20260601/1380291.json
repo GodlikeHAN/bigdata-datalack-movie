@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1380291,
-  "ingestion_time_utc": "2026-06-01T08:18:54.022988+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:46.072516+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
@@ -70,8 +70,8 @@
     "tagline": "No operation stays dark forever.",
     "title": "Tom Clancy's Jack Ryan: Ghost War",
     "video": false,
-    "vote_average": 7.18,
-    "vote_count": 420,
+    "vote_average": 7.152,
+    "vote_count": 427,
     "videos": {
       "results": [
         {

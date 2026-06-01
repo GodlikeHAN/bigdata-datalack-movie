@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt13654226",
-  "ingestion_time_utc": "2026-06-01T08:19:32.924583+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:59.534266+00:00",
   "data": {
     "Title": "The Gorge",
     "Year": "2025",

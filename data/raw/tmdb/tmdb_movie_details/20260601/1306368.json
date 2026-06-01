@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1306368,
-  "ingestion_time_utc": "2026-06-01T08:18:54.468620+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:07.486115+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg",
@@ -67,8 +67,8 @@
     "tagline": "Count the money. Count it again. Count on no one.",
     "title": "The Rip",
     "video": false,
-    "vote_average": 7.068,
-    "vote_count": 1629,
+    "vote_average": 7.07,
+    "vote_count": 1631,
     "videos": {
       "results": [
         {

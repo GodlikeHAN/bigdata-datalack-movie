@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt35668756",
-  "ingestion_time_utc": "2026-06-01T08:19:08.541766+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:34.900839+00:00",
   "data": {
     "Title": "Kattalan",
     "Year": "2026",

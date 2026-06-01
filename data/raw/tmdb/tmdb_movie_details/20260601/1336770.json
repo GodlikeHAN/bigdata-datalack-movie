@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1336770,
-  "ingestion_time_utc": "2026-06-01T08:18:57.486273+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:49.484867+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/uNA0OVk09Hbwflye3eBoOiGIKGc.jpg",
@@ -75,8 +75,8 @@
     "tagline": "Biopic of a Billion Bros.",
     "title": "Vaazha II",
     "video": false,
-    "vote_average": 7.063,
-    "vote_count": 8,
+    "vote_average": 7.389,
+    "vote_count": 9,
     "videos": {
       "results": []
     }

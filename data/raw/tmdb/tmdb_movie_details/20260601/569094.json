@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 569094,
-  "ingestion_time_utc": "2026-06-01T08:18:54.587275+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:50.656007+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/9xfDWXAUbFXQK585JvByT5pEAhe.jpg",
@@ -117,7 +117,7 @@
     "title": "Spider-Man: Across the Spider-Verse",
     "video": false,
     "vote_average": 8.335,
-    "vote_count": 8619,
+    "vote_count": 8621,
     "videos": {
       "results": [
         {

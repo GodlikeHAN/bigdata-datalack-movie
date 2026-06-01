@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1368881,
-  "ingestion_time_utc": "2026-06-01T08:18:55.224242+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:56.433471+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
@@ -64,8 +64,8 @@
     "tagline": "",
     "title": "Ladies First",
     "video": false,
-    "vote_average": 6.05,
-    "vote_count": 211,
+    "vote_average": 6.032,
+    "vote_count": 216,
     "videos": {
       "results": [
         {

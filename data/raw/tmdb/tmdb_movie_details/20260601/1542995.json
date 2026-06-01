@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1542995,
-  "ingestion_time_utc": "2026-06-01T08:18:54.261703+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:52.433251+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/wUlvM4v5FUjM2omyld9ULVHONZA.jpg",
@@ -84,7 +84,7 @@
     "tagline": "",
     "title": "Bonolota Express",
     "video": false,
-    "vote_average": 8.6,
+    "vote_average": 8.571,
     "vote_count": 7,
     "videos": {
       "results": [

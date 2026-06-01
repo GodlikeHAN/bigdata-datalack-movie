@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt38792109",
-  "ingestion_time_utc": "2026-06-01T08:19:20.199091+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:46.827181+00:00",
   "data": {
     "Title": "Bonolota Express",
     "Year": "2026",

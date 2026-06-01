@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1291608,
-  "ingestion_time_utc": "2026-06-01T08:18:55.198871+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:55.911298+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
@@ -83,8 +83,8 @@
     "tagline": "",
     "title": "Dhurandhar",
     "video": false,
-    "vote_average": 7.132,
-    "vote_count": 287,
+    "vote_average": 7.138,
+    "vote_count": 289,
     "videos": {
       "results": [
         {

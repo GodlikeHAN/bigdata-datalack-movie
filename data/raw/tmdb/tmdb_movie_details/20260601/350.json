@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 350,
-  "ingestion_time_utc": "2026-06-01T08:18:54.908544+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:47.874131+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
@@ -86,8 +86,8 @@
     "tagline": "Meet Andy Sachs. A million girls would kill to have her job. She's not one of them.",
     "title": "The Devil Wears Prada",
     "video": false,
-    "vote_average": 7.426,
-    "vote_count": 13619,
+    "vote_average": 7.427,
+    "vote_count": 13623,
     "videos": {
       "results": [
         {

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 299536,
-  "ingestion_time_utc": "2026-06-01T08:18:56.182635+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:00.964050+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
@@ -73,7 +73,7 @@
     "title": "Avengers: Infinity War",
     "video": false,
     "vote_average": 8.236,
-    "vote_count": 32010,
+    "vote_count": 32013,
     "videos": {
       "results": [
         {

@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt13186306",
-  "ingestion_time_utc": "2026-06-01T08:19:30.153761+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:56.758539+00:00",
   "data": {
     "Title": "War of the Worlds",
     "Year": "2025",

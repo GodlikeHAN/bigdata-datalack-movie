@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1110034,
-  "ingestion_time_utc": "2026-06-01T08:18:56.593108+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:02.121050+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/oV472EbPedkc5QzqolGc7sCgCnn.jpg",
@@ -78,7 +78,7 @@
     "tagline": "Only 5% of the ocean has been explored for a reason…",
     "title": "Kraken",
     "video": false,
-    "vote_average": 5.81,
+    "vote_average": 5.8,
     "vote_count": 50,
     "videos": {
       "results": [

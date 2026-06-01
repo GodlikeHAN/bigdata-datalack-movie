@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt14205554",
-  "ingestion_time_utc": "2026-06-01T08:19:30.940570+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:57.422922+00:00",
   "data": {
     "Title": "KPop Demon Hunters",
     "Year": "2025",

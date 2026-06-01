@@ -1,0 +1,216 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 10867,
+  "ingestion_time_utc": "2026-06-01T19:56:52.537749+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/vadUKKQixxOKWkcuZ1SUEoBQeVG.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "https://www.miramax.com/movie/malena/",
+    "id": 10867,
+    "imdb_id": "tt0213847",
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Malèna",
+    "overview": "12-year-old Renato experiences three significant events on the same day: the beginning of the Second World War, getting a bike, and witnessing the arrival of the gorgeous Malèna. Through his eyes, we see the curse of beauty and loneliness of Malena, whose husband is presumed dead, and, through his soul, we see his love for her.",
+    "popularity": 26.5757,
+    "poster_path": "/3OyQTl0IGkbnjDxd3MhztfPE34g.jpg",
+    "production_companies": [
+      {
+        "id": 6246,
+        "logo_path": "/7X6pfxldTiOD7MLo2EQqUQlmOUw.png",
+        "name": "Medusa Film",
+        "origin_country": "IT"
+      },
+      {
+        "id": 14,
+        "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+        "name": "Miramax",
+        "origin_country": "US"
+      },
+      {
+        "id": 12897,
+        "logo_path": null,
+        "name": "Pacific Pictures",
+        "origin_country": "IT"
+      },
+      {
+        "id": 15139,
+        "logo_path": "/pDMWjx8DQZ7joB5Yd5lieixKUAp.png",
+        "name": "Tele+",
+        "origin_country": "IT"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2000-10-27",
+    "revenue": 14493284,
+    "runtime": 108,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "Latin",
+        "iso_639_1": "la",
+        "name": "Latin"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Too young to be a widow, too beautiful to be alone.",
+    "title": "Malena",
+    "video": false,
+    "vote_average": 7.482,
+    "vote_count": 2625,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Imprint Blu-ray Trailer",
+          "key": "73FrJrCgJCI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "65b3f3ad97fdec01314657f7",
+          "published_at": "2023-06-15T05:57:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Malena\" Official Trailer HD",
+          "key": "5Dd6bDz6pB8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "66ba066fc30b52b13772dfb1",
+          "published_at": "2017-06-05T22:16:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "‘Cheater’",
+          "key": "v2gYHJ6JLlo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65b3f40b0ed2ab00c9861cf0",
+          "published_at": "2016-06-29T14:00:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "‘By Your Side’",
+          "key": "HsHoMBPU8gY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65b3f43997fdec014a465802",
+          "published_at": "2016-06-29T14:00:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "SxqUoUvNBXY",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Trailer",
+          "official": true,
+          "id": "5ef89ff827d9cc0039adc3c9",
+          "published_at": "2016-06-29T14:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "‘Schoolboy’",
+          "key": "Rk5mVCU7C9s",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65b3f3dad236e60149c00b4e",
+          "published_at": "2016-06-29T14:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "‘Gawking’",
+          "key": "KvauJa0qgec",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65b3f3e997fdec014a4657f8",
+          "published_at": "2016-06-29T14:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "‘Hard Times’",
+          "key": "1MNtOEYnCLA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65b3f44600213401857c3b3f",
+          "published_at": "2016-06-29T14:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "‘Long Pants’",
+          "key": "x_lpTmBnjnA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65b3f3fbd236e60149c00b5d",
+          "published_at": "2014-11-05T19:49:46.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "‘Beauty’",
+          "key": "D9RVooitft4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65b3f42b5e14e501620c694a",
+          "published_at": "2014-11-05T19:49:44.000Z"
+        }
+      ]
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 19995,
-  "ingestion_time_utc": "2026-06-01T08:18:57.058470+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:02.532212+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
@@ -95,7 +95,7 @@
     "title": "Avatar",
     "video": false,
     "vote_average": 7.605,
-    "vote_count": 33989,
+    "vote_count": 33990,
     "videos": {
       "results": [
         {

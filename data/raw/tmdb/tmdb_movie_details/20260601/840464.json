@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 840464,
-  "ingestion_time_utc": "2026-06-01T08:18:55.921993+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:59.141704+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/wns4x1GyxCudgOZRyhXKjXVJf3T.jpg",
@@ -106,8 +106,8 @@
     "tagline": "Hope is uncharted territory.",
     "title": "Greenland 2: Migration",
     "video": false,
-    "vote_average": 6.427,
-    "vote_count": 1134,
+    "vote_average": 6.43,
+    "vote_count": 1136,
     "videos": {
       "results": [
         {

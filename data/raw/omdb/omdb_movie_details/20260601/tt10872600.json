@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt10872600",
-  "ingestion_time_utc": "2026-06-01T08:19:29.099839+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:55.417437+00:00",
   "data": {
     "Title": "Spider-Man: No Way Home",
     "Year": "2021",

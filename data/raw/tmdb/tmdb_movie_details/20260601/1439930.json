@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1439930,
-  "ingestion_time_utc": "2026-06-01T08:18:54.035122+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:46.285101+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
@@ -68,8 +68,8 @@
     "tagline": "Hey Frank.",
     "title": "The Punisher: One Last Kill",
     "video": false,
-    "vote_average": 8.401,
-    "vote_count": 1357,
+    "vote_average": 8.399,
+    "vote_count": 1362,
     "videos": {
       "results": [
         {

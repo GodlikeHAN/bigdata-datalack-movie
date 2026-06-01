@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1292695,
-  "ingestion_time_utc": "2026-06-01T08:18:56.264414+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:00.441014+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
@@ -84,8 +84,8 @@
     "tagline": "Let them try.",
     "title": "They Will Kill You",
     "video": false,
-    "vote_average": 6.986,
-    "vote_count": 639,
+    "vote_average": 6.977,
+    "vote_count": 640,
     "videos": {
       "results": [
         {

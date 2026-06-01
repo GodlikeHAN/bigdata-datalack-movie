@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1582770,
-  "ingestion_time_utc": "2026-06-01T08:18:54.078755+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:46.713667+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/gRoZG3Z0zJxgElmTsVHOl2dNYXe.jpg",
@@ -78,8 +78,8 @@
     "tagline": "The story of the unknown men unfolds.",
     "title": "Dhurandhar: The Revenge",
     "video": false,
-    "vote_average": 7.243,
-    "vote_count": 101,
+    "vote_average": 7.24,
+    "vote_count": 102,
     "videos": {
       "results": [
         {

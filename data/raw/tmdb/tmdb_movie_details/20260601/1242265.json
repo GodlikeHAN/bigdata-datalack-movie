@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1242265,
-  "ingestion_time_utc": "2026-06-01T08:18:55.583157+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:57.689238+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
@@ -78,8 +78,8 @@
     "tagline": "Down to the wire.",
     "title": "Fuze",
     "video": false,
-    "vote_average": 6.481,
-    "vote_count": 80,
+    "vote_average": 6.475,
+    "vote_count": 81,
     "videos": {
       "results": [
         {

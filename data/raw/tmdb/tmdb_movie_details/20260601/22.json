@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 22,
-  "ingestion_time_utc": "2026-06-01T08:18:54.440860+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:48.706931+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/zXMGAtDqJ58P8G3W4bwKyYffPhn.jpg",
@@ -74,7 +74,7 @@
     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
     "video": false,
     "vote_average": 7.824,
-    "vote_count": 22236,
+    "vote_count": 22239,
     "videos": {
       "results": [
         {

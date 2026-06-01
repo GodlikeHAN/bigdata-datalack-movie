@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1316092,
+  "ingestion_time_utc": "2026-06-01T19:57:13.201739+00:00",
+  "data": {
+    "id": 1316092,
+    "imdb_id": "tt32897959",
+    "wikidata_id": "Q130393881",
+    "facebook_id": "wutheringmovie",
+    "instagram_id": "wutheringheightsmovie",
+    "twitter_id": "wuthering_hts"
+  }
+}

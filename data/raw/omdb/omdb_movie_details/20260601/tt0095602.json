@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0095602",
-  "ingestion_time_utc": "2026-06-01T08:19:17.804130+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:44.580825+00:00",
   "data": {
     "Title": "Matinee",
     "Year": "1989",

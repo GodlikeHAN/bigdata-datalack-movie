@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1510339,
-  "ingestion_time_utc": "2026-06-01T08:18:55.158624+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:55.486206+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/6DfHl4CE88x7Rt9oyARQQm6bHXD.jpg",
@@ -28,7 +28,7 @@
     "original_title": "ಮಾರ್ಕ್",
     "overview": "Mark is suspended from his police duties for his unruly yet effective ways of operating, but when 18 children are abducted and found dead, races to catch the criminals. With only 18 hours left, he must confront powerful foes and use unconventional tactics to succeed.",
     "popularity": 109.2945,
-    "poster_path": "/xmc8clJ2QoCtNcvw0LzLr5fidVV.jpg",
+    "poster_path": "/6LTDv6XHiHN0N77QIFg2tidVvhh.jpg",
     "production_companies": [
       {
         "id": 27059,

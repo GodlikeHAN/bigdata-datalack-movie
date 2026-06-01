@@ -1,0 +1,86 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1404791,
+  "ingestion_time_utc": "2026-06-01T19:57:07.274341+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/rV9MLgLm4i5ImuhhqdJ2fa7JMc2.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      }
+    ],
+    "homepage": "",
+    "id": 1404791,
+    "imdb_id": "tt35276942",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "ドールハウス",
+    "overview": "After losing their child, a mother finds solace in a life-sized ancient doll she finds on the market.  When a new daughter enters the family's life, strange things begin to happen and no matter how hard the family tries to get rid of it, the doll always finds its way back.",
+    "popularity": 32.4286,
+    "poster_path": "/vUs4OPpvu4Is7wIGaXkseNJHhEA.jpg",
+    "production_companies": [
+      {
+        "id": 182161,
+        "logo_path": "/wvG4lK0m76M6jK8WbWkXNecA7SP.png",
+        "name": "TOHO Studios",
+        "origin_country": "JP"
+      },
+      {
+        "id": 146106,
+        "logo_path": "/eW8K469XBEJdaHtzgLe2r0IxZim.png",
+        "name": "Django Film",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2025-06-13",
+    "revenue": 11547839,
+    "runtime": 110,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "It Wants to Play.",
+    "title": "Dollhouse",
+    "video": false,
+    "vote_average": 7.506,
+    "vote_count": 80,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "映画『ドールハウス』予告１【6月13日(金)公開】",
+          "key": "BETzErclqok",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6790f8d12d61c33e63dffcb2",
+          "published_at": "2025-01-21T19:00:13.000Z"
+        }
+      ]
+    }
+  }
+}

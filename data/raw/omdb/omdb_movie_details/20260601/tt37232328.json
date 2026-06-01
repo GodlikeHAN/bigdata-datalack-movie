@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt37232328",
-  "ingestion_time_utc": "2026-06-01T08:19:21.781603+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:48.312458+00:00",
   "data": {
     "Title": "Karikaada",
     "Year": "2026",

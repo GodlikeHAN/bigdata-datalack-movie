@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1171145,
-  "ingestion_time_utc": "2026-06-01T08:18:56.460795+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:00.551834+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/52AkwEfQiJl2HuTPMZ2yC5Bdr9I.jpg",
@@ -87,7 +87,7 @@
     "title": "Crime 101",
     "video": false,
     "vote_average": 6.979,
-    "vote_count": 1019,
+    "vote_count": 1022,
     "videos": {
       "results": [
         {

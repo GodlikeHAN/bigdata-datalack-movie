@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0325980",
-  "ingestion_time_utc": "2026-06-01T08:19:23.514078+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:49.939905+00:00",
   "data": {
     "Title": "Pirates of the Caribbean: The Curse of the Black Pearl",
     "Year": "2003",

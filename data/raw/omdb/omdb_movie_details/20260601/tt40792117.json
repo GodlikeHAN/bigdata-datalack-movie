@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt40792117",
+  "ingestion_time_utc": "2026-06-01T19:57:48.712932+00:00",
+  "data": {
+    "Title": "The Crash",
+    "Year": "2026",
+    "Rated": "TV-MA",
+    "Released": "15 May 2026",
+    "Runtime": "92 min",
+    "Genre": "Documentary, Crime",
+    "Director": "Gareth Johnson",
+    "Writer": "N/A",
+    "Actors": "Mackenzie Shirilla, Dominic Russo, Davion Flanagan",
+    "Plot": "Follows the Mackenzie Shirilla case, a 17-year-old who intentionally crashed her car into a brick wall in Ohio, killing her boyfriend Dominic Russo and his friend Davion Flanagan. She was convicted of 12 felonies.",
+    "Language": "English",
+    "Country": "United Kingdom",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDg4ZmI0NTUtOGMyMi00ZDgyLTg4ZTQtM2ViYjlmN2E2ODU4XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.7/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.7",
+    "imdbVotes": "3,111",
+    "imdbID": "tt40792117",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 27205,
-  "ingestion_time_utc": "2026-06-01T08:18:57.194584+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:04.988647+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
@@ -95,7 +95,7 @@
     "title": "Inception",
     "video": false,
     "vote_average": 8.372,
-    "vote_count": 39285,
+    "vote_count": 39287,
     "videos": {
       "results": [
         {

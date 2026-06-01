@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0071562",
-  "ingestion_time_utc": "2026-06-01T08:19:23.919535+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:50.476305+00:00",
   "data": {
     "Title": "The Godfather Part II",
     "Year": "1974",

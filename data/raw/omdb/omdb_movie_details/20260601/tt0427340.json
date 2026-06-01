@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0427340",
-  "ingestion_time_utc": "2026-06-01T08:19:26.724990+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:53.551194+00:00",
   "data": {
     "Title": "Masters of the Universe",
     "Year": "2026",

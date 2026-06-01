@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1339713,
-  "ingestion_time_utc": "2026-06-01T08:18:54.010450+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:45.968984+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
@@ -23,7 +23,7 @@
     "original_language": "en",
     "original_title": "Obsession",
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "popularity": 460.0665,
+    "popularity": 501.5672,
     "poster_path": "/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
     "production_companies": [
       {
@@ -76,8 +76,8 @@
     "tagline": "Be careful who you wish for…",
     "title": "Obsession",
     "video": false,
-    "vote_average": 8.0,
-    "vote_count": 393,
+    "vote_average": 7.975,
+    "vote_count": 412,
     "videos": {
       "results": [
         {

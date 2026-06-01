@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 372058,
-  "ingestion_time_utc": "2026-06-01T08:18:54.414056+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:48.185758+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
@@ -99,7 +99,7 @@
     "title": "Your Name.",
     "video": false,
     "vote_average": 8.48,
-    "vote_count": 12573,
+    "vote_count": 12577,
     "videos": {
       "results": [
         {

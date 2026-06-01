@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1579,
-  "ingestion_time_utc": "2026-06-01T08:18:56.252152+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:00.759008+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/nnmbJvYyDS1VkMOCbxSpdBi3WbJ.jpg",
@@ -73,7 +73,7 @@
     "title": "Apocalypto",
     "video": false,
     "vote_average": 7.628,
-    "vote_count": 6355,
+    "vote_count": 6357,
     "videos": {
       "results": [
         {

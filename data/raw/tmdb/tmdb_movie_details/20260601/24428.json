@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 24428,
-  "ingestion_time_utc": "2026-06-01T08:18:56.098178+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:59.897338+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
@@ -78,7 +78,7 @@
     "title": "The Avengers",
     "video": false,
     "vote_average": 8.034,
-    "vote_count": 38098,
+    "vote_count": 38106,
     "videos": {
       "results": [
         {

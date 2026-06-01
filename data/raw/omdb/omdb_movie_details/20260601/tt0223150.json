@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0223150",
+  "ingestion_time_utc": "2026-06-01T19:57:52.759703+00:00",
+  "data": {
+    "Title": "Door",
+    "Year": "1988",
+    "Rated": "N/A",
+    "Released": "14 May 1988",
+    "Runtime": "95 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Banmei Takahashi",
+    "Writer": "Ataru Oikawa, Banmei Takahashi",
+    "Actors": "Keiko Takahashi, Daijirô Tsutsumi, Shirô Shimomoto",
+    "Plot": "After several strangely threatening calls from a local salesman, a homemaker becomes increasingly afraid to answer her apartment door.",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2QwNmZjMzMtYzExNS00N2FhLTkwNzYtNzljZmU5ZmVhMGY1XkEyXkFqcGdeQXVyNTY4ODAxODI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.6/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.6",
+    "imdbVotes": "171",
+    "imdbID": "tt0223150",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

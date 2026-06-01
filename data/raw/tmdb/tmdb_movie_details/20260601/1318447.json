@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1318447,
-  "ingestion_time_utc": "2026-06-01T08:18:55.006051+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:54.529313+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/oTE4lNs4PSG5iIWjqaTdCIFJ4Bs.jpg",
@@ -84,8 +84,8 @@
     "tagline": "Hunt. Survive.",
     "title": "Apex",
     "video": false,
-    "vote_average": 6.72,
-    "vote_count": 1318,
+    "vote_average": 6.723,
+    "vote_count": 1322,
     "videos": {
       "results": [
         {

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1228710,
-  "ingestion_time_utc": "2026-06-01T08:18:54.191118+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:47.556720+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
@@ -69,9 +69,21 @@
     "title": "The Mandalorian and Grogu",
     "video": false,
     "vote_average": 6.9,
-    "vote_count": 341,
+    "vote_count": 348,
     "videos": {
       "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "We would like to rank the babies",
+          "key": "O0Ht4uzWMmY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a1d75495377bc569e480c52",
+          "published_at": "2026-05-28T14:00:00.000Z"
+        },
         {
           "iso_639_1": "en",
           "iso_3166_1": "US",

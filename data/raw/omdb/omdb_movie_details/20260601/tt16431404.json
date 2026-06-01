@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt16431404",
-  "ingestion_time_utc": "2026-06-01T08:19:16.336236+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:42.995054+00:00",
   "data": {
     "Title": "Apex",
     "Year": "2026",

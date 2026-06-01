@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 758308,
-  "ingestion_time_utc": "2026-06-01T08:18:55.212568+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:54.318889+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/dMX6RR0SHgI43r2CsDkF5wzozOw.jpg",
@@ -60,7 +60,7 @@
     "tagline": "Slavery will set you free",
     "title": "Red Latex",
     "video": false,
-    "vote_average": 5.149,
+    "vote_average": 5.1,
     "vote_count": 37,
     "videos": {
       "results": [

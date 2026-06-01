@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt26657236",
-  "ingestion_time_utc": "2026-06-01T08:19:08.806356+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:35.161761+00:00",
   "data": {
     "Title": "Backrooms",
     "Year": "2026",

@@ -1,0 +1,212 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 875828,
+  "ingestion_time_utc": "2026-06-01T19:56:52.218005+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/aouxo2EaR7QSGBBUNTITuW0lj4z.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/81319485",
+    "id": 875828,
+    "imdb_id": "tt15574124",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Peaky Blinders: The Immortal Man",
+    "overview": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.",
+    "popularity": 26.9283,
+    "poster_path": "/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
+    "production_companies": [
+      {
+        "id": 288,
+        "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+        "name": "BBC Film",
+        "origin_country": "GB"
+      },
+      {
+        "id": 241143,
+        "logo_path": null,
+        "name": "Garrison Drama",
+        "origin_country": "GB"
+      },
+      {
+        "id": 125282,
+        "logo_path": "/9D4A6Lc6m2RBlDkeGF6jpJljAgm.png",
+        "name": "Nebulastar",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2026-03-05",
+    "revenue": 0,
+    "runtime": 112,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "It will all come to this.",
+    "title": "Peaky Blinders: The Immortal Man",
+    "video": false,
+    "vote_average": 7.247,
+    "vote_count": 974,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"They were called the Sheldons!\" - Steven Knight on the true history of the Peaky Blinders",
+          "key": "YJUPGkC0hBs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69c3e20308c39f6beeaabc5e",
+          "published_at": "2026-03-24T14:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Cillian Murphy and Steven Knight on the Peaky Blinders TV show and The Immortal Man - BFI Q&A",
+          "key": "X6iDbNXmRaE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69c30331ef2ef5ce9762e78b",
+          "published_at": "2026-03-24T13:00:58.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Cillian Murphy & Fontaines D.C's Grian Break Down the Music of Peaky Blinders: The Immortal Man",
+          "key": "bMOALklx1Xg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69c3e20e976c9bbe254d083f",
+          "published_at": "2026-03-22T17:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The INCREDIBLE True Story Of The Fake Banknotes Behind Peaky Blinders: The Immortal Man",
+          "key": "e8tpFVC5T8Y",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69c3e21b7207f70021aabc6a",
+          "published_at": "2026-03-20T18:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Sneak Peek - Meet Duke Shelby",
+          "key": "hd8-Y5FnPJ8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69ab6b1212d7ec3c2d58b156",
+          "published_at": "2026-03-05T22:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "How The Peaky Blinders Story Conquered the World",
+          "key": "ykCIqeXX7pk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69c3e2ed96213643d362eb57",
+          "published_at": "2026-03-05T12:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Peaky Blinders Family Tree Explained - Everything You Need To Know For The Immortal Man",
+          "key": "oclSk7AKfUA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69c3e361e703aabcfc3532ab",
+          "published_at": "2026-03-04T12:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Get Ready For The Immortal Man - Official Peaky Blinders S1-6 Recap",
+          "key": "sDddGSDpgGw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69c3e2ff3f05d69b724d0a98",
+          "published_at": "2026-03-01T12:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Peaky Blinders Creator On The Episodes To Watch Before The Immortal Man",
+          "key": "CnDJDgu-YA0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69c3e322f412f236b36657d6",
+          "published_at": "2026-02-28T16:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "lcvUGs3xaDM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69971fa87d0d5a59881ae9b5",
+          "published_at": "2026-02-19T14:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser",
+          "key": "_Dfc89TY-aA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "694bf79c6a1ffd7db0b1ba7c",
+          "published_at": "2025-12-24T14:00:00.000Z"
+        }
+      ]
+    }
+  }
+}

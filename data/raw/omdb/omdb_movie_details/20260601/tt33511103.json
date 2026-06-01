@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt33511103",
-  "ingestion_time_utc": "2026-06-01T08:19:07.745797+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:34.111623+00:00",
   "data": {
     "Title": "Donselya",
     "Year": "2024",

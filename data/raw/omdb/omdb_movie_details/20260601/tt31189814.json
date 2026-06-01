@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt31189814",
-  "ingestion_time_utc": "2026-06-01T08:19:12.638972+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:39.296328+00:00",
   "data": {
     "Title": "Fuze",
     "Year": "2026",

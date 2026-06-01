@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt15295368",
-  "ingestion_time_utc": "2026-06-01T08:19:09.471063+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:36.229336+00:00",
   "data": {
     "Title": "KD: The Devil",
     "Year": "2026",

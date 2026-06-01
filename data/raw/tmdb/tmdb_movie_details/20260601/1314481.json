@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1314481,
-  "ingestion_time_utc": "2026-06-01T08:18:56.166936+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:00.212927+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
@@ -69,8 +69,8 @@
     "tagline": "Icons reign forever.",
     "title": "The Devil Wears Prada 2",
     "video": false,
-    "vote_average": 6.63,
-    "vote_count": 721,
+    "vote_average": 6.624,
+    "vote_count": 726,
     "videos": {
       "results": [
         {

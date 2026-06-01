@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 7451,
-  "ingestion_time_utc": "2026-06-01T08:18:57.420745+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:06.317261+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/2OHa6ukEq3Hce7Pc2kvu8wkmMFY.jpg",
@@ -96,7 +96,7 @@
     "title": "xXx",
     "video": false,
     "vote_average": 5.989,
-    "vote_count": 4909,
+    "vote_count": 4910,
     "videos": {
       "results": [
         {

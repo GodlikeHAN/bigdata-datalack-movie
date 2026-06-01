@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 120,
-  "ingestion_time_utc": "2026-06-01T08:18:56.721984+00:00",
+  "ingestion_time_utc": "2026-06-01T19:57:02.429978+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg",
@@ -84,7 +84,7 @@
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "video": false,
     "vote_average": 8.435,
-    "vote_count": 27566,
+    "vote_count": 27568,
     "videos": {
       "results": [
         {

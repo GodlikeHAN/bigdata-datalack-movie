@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 976912,
-  "ingestion_time_utc": "2026-06-01T08:18:54.922702+00:00",
+  "ingestion_time_utc": "2026-06-01T19:56:47.766773+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/rHnANzYUmV3WZw3n0yWOLiR3pen.jpg",
@@ -76,8 +76,8 @@
     "tagline": "An erotic thriller for the Tinder generation.",
     "title": "Graphic Desires",
     "video": false,
-    "vote_average": 7.038,
-    "vote_count": 78,
+    "vote_average": 6.975,
+    "vote_count": 79,
     "videos": {
       "results": [
         {
