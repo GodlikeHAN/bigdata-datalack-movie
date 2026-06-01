@@ -1,4 +1,5 @@
 import json
+from pathlib import Path
 from typing import List
 
 from src.config.settings import (
@@ -15,15 +16,19 @@ from src.utils.file_utils import clear_directory, write_json
 client = ApiClient(sleep_seconds=1.0)
 
 
-def collect_imdb_ids_from_tmdb_external_ids() -> List[str]:
-    external_ids_root = build_path("raw", "tmdb", "tmdb_external_ids")
+def _partition_path(group: str, table: str, run_date: str | None = None) -> Path:
+    return build_path("raw", group, table, run_date)
+
+
+def collect_imdb_ids_from_tmdb_external_ids(run_date: str | None = None) -> List[str]:
+    external_ids_root = _partition_path("tmdb", "tmdb_external_ids", run_date)
 
     imdb_ids = []
 
     if not external_ids_root.exists():
         return imdb_ids
 
-    for json_file in external_ids_root.rglob("*.json"):
+    for json_file in sorted(external_ids_root.glob("*.json")):
         with json_file.open("r", encoding="utf-8") as file:
             payload = json.load(file)
 
@@ -36,9 +41,10 @@ def collect_imdb_ids_from_tmdb_external_ids() -> List[str]:
     return unique_ids[:MAX_MOVIES_FOR_DETAILS]
 
 
-def extract_omdb_movie_details() -> List[str]:
-    imdb_ids = collect_imdb_ids_from_tmdb_external_ids()
-    clear_directory(build_path("raw", "omdb", "omdb_movie_details"))
+def extract_omdb_movie_details(run_date: str | None = None) -> List[str]:
+    imdb_ids = collect_imdb_ids_from_tmdb_external_ids(run_date)
+    omdb_root = _partition_path("omdb", "omdb_movie_details", run_date)
+    clear_directory(omdb_root)
     output_paths = []
 
     for imdb_id in imdb_ids:
@@ -52,10 +58,7 @@ def extract_omdb_movie_details() -> List[str]:
             },
         )
 
-        output_path = (
-            build_path("raw", "omdb", "omdb_movie_details")
-            / f"{imdb_id}.json"
-        )
+        output_path = omdb_root / f"{imdb_id}.json"
 
         payload = {
             "source": "omdb",

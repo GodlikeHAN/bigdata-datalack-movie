@@ -1,0 +1,71 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1515729,
+  "ingestion_time_utc": "2026-06-01T08:18:54.657625+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/z18AIGSU0vk4Y7LQP37CPSeKZvF.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      }
+    ],
+    "homepage": "",
+    "id": 1515729,
+    "imdb_id": "tt37971394",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "ta",
+    "original_title": "Blast",
+    "overview": "Follows a family trained to protect the powerless who become the most dangerous obstacle of all.",
+    "popularity": 44.9047,
+    "poster_path": "/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg",
+    "production_companies": [
+      {
+        "id": 5907,
+        "logo_path": "/u2MPw19ZZ4mIzacy6SXOLgU1la0.png",
+        "name": "AGS Entertainment",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-05-28",
+    "revenue": 0,
+    "runtime": 143,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Tamil",
+        "iso_639_1": "ta",
+        "name": "தமிழ்"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Blast",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "videos": {
+      "results": []
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 83533,
-  "ingestion_time_utc": "2026-05-31T17:24:32.498210+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:56.894841+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
@@ -79,8 +79,8 @@
     "tagline": "The world of Pandora will change forever.",
     "title": "Avatar: Fire and Ash",
     "video": false,
-    "vote_average": 7.528,
-    "vote_count": 3252,
+    "vote_average": 7.529,
+    "vote_count": 3255,
     "videos": {
       "results": [
         {

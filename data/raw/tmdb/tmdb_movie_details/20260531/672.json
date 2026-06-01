@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 672,
-  "ingestion_time_utc": "2026-05-31T17:24:31.248866+00:00",
+  "ingestion_time_utc": "2026-05-31T20:50:06.145983+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/1stUIsjawROZxjiCMtqqXqgfZWC.jpg",
@@ -90,7 +90,7 @@
     "title": "Harry Potter and the Chamber of Secrets",
     "video": false,
     "vote_average": 7.704,
-    "vote_count": 23579,
+    "vote_count": 23581,
     "videos": {
       "results": [
         {

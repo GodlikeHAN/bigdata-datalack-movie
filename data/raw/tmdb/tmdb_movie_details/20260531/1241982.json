@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1241982,
-  "ingestion_time_utc": "2026-05-31T17:24:31.962453+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:55.322431+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
@@ -86,7 +86,7 @@
     "title": "Moana 2",
     "video": false,
     "vote_average": 6.999,
-    "vote_count": 3074,
+    "vote_count": 3075,
     "videos": {
       "results": [
         {

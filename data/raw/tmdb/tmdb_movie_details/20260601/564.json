@@ -1,0 +1,190 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 564,
+  "ingestion_time_utc": "2026-06-01T08:18:54.455508+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
+    "belongs_to_collection": {
+      "id": 1733,
+      "name": "The Mummy Collection",
+      "poster_path": "/x5ZQsM90h4jmvDelgbCwPjcOn1s.jpg",
+      "backdrop_path": "/nm2pU4RJ2vR61vYh93QmqeMPpr1.jpg"
+    },
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "homepage": "http://www.mummyvideo.com/",
+    "id": 564,
+    "imdb_id": "tt0120616",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Mummy",
+    "overview": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken.",
+    "popularity": 28.6774,
+    "poster_path": "/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
+    "production_companies": [
+      {
+        "id": 11462,
+        "logo_path": "/7ZymELJwuWR4k5p0oeZ3d3WAhO3.png",
+        "name": "Alphaville Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1999-04-16",
+    "revenue": 415885488,
+    "runtime": 124,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Arabic",
+        "iso_639_1": "ar",
+        "name": "العربية"
+      }
+    ],
+    "status": "Released",
+    "tagline": "The sands will rise. The heavens will part. The power will be unleashed.",
+    "title": "The Mummy",
+    "video": false,
+    "vote_average": 6.975,
+    "vote_count": 10016,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Resurrection of Imhotep - Extended Preview",
+          "key": "00o5PVi5xXo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69f5f459f2d09c41d536993c",
+          "published_at": "2026-04-22T17:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Rick O'Connell Fights Imhotep in the Tomb",
+          "key": "ZGrakfSLQ3E",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "69dcd8284ecda9ae53027c8b",
+          "published_at": "2026-04-07T19:00:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Imhotep's Worst Fear",
+          "key": "y5x3h18Cr_U",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "6721e6f9826fe5799cc4aaf4",
+          "published_at": "2024-10-29T19:00:29.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "25th Anniversary | Official Trailer",
+          "key": "OGOBz4t7OXs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "66684c07663197f8b8be9c8a",
+          "published_at": "2024-05-29T13:26:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Brendan Fraser Saving The Day - Extended Preview",
+          "key": "3YxdgFCFpFE",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "66404a05b3fd28ce22c0cb0d",
+          "published_at": "2024-05-09T16:00:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Brendan Fraser and Rachel Weisz Awaken the Mummy",
+          "key": "O2jooxM7Zw8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "634b43de68b1ea007f591e94",
+          "published_at": "2022-10-15T16:00:15.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Unravelling The Legacy of The Mummy",
+          "key": "cWvaOrLLD50",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "66684b076e416d09a88b72bd",
+          "published_at": "2021-04-27T17:00:33.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Slaying the Immortal Imhotep",
+          "key": "KP8k-798NSE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "66684b801474f29954a70747",
+          "published_at": "2019-10-18T16:00:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer",
+          "key": "h3ptPtxWJRs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "569f5475c3a36858c8008dc4",
+          "published_at": "2011-04-18T18:18:42.000Z"
+        }
+      ]
+    }
+  }
+}

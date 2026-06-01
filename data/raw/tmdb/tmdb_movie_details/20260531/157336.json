@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 157336,
-  "ingestion_time_utc": "2026-05-31T17:24:33.277199+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:59.115667+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
@@ -79,7 +79,7 @@
     "title": "Interstellar",
     "video": false,
     "vote_average": 8.475,
-    "vote_count": 39857,
+    "vote_count": 39859,
     "videos": {
       "results": [
         {

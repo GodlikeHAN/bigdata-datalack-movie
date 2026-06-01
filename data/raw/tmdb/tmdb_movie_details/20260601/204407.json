@@ -1,0 +1,79 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 204407,
+  "ingestion_time_utc": "2026-06-01T08:18:56.661437+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/fjcX01h7VNUhhNjhFBthH7sTp2z.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 204407,
+    "imdb_id": "tt0158510",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Bosco d'amore",
+    "overview": "The time is the mid-14th century --- the Pope is now residing at Avignon, the Black Death is killing millions across Europe, and civil wars are adding to the turmoil and chaos. In this story adapted from Giovanni Boccaccio's Decameron, a young teenage couple is sent to live in a nearby town by the man's uncle, in an attempt to keep them safe from harm. She is from the lower classes, and he comes from a noble family -- a family that opposes his choice of a future bride. While en route to the town, the couple's horses are stolen and they are forced to continue through the forest on foot -- at a pace that introduces them to a kaleidoscope of Boccaccio's characters, from masters of mysticism, to soldiers of the warring Papal armies. Somehow, the couple manage to get through this gauntlet of sorts, and they do marry. Just as they are ready to go back to Rome, they hear that there is an insurrection in the offing, and suddenly, their brief spate of stability is threatened again.",
+    "popularity": 52.1495,
+    "poster_path": "/jNV46xSIONTEvIAWon6NnveH7eG.jpg",
+    "production_companies": [
+      {
+        "id": 1583,
+        "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+        "name": "RAI",
+        "origin_country": "IT"
+      },
+      {
+        "id": 232340,
+        "logo_path": null,
+        "name": "Bocca di Leone Cinematografica",
+        "origin_country": ""
+      },
+      {
+        "id": 232341,
+        "logo_path": null,
+        "name": "Siddik Produzione",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "1981-09-08",
+    "revenue": 0,
+    "runtime": 113,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Bosco d'amore",
+    "video": false,
+    "vote_average": 4.667,
+    "vote_count": 6,
+    "videos": {
+      "results": []
+    }
+  }
+}

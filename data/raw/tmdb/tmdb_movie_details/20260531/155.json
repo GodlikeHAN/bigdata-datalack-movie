@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 155,
-  "ingestion_time_utc": "2026-05-31T17:24:34.324687+00:00",
+  "ingestion_time_utc": "2026-05-31T20:50:03.204455+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
@@ -95,7 +95,7 @@
     "title": "The Dark Knight",
     "video": false,
     "vote_average": 8.531,
-    "vote_count": 35801,
+    "vote_count": 35802,
     "videos": {
       "results": [
         {

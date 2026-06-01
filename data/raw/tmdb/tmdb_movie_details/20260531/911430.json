@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 911430,
-  "ingestion_time_utc": "2026-05-31T17:24:34.490712+00:00",
+  "ingestion_time_utc": "2026-05-31T20:50:03.747892+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/rZWkXnIyTLzUJpHSUpOb7vgB0BL.jpg",
@@ -102,8 +102,8 @@
     "tagline": "Let's ride.",
     "title": "F1",
     "video": false,
-    "vote_average": 7.784,
-    "vote_count": 3980,
+    "vote_average": 7.785,
+    "vote_count": 3983,
     "videos": {
       "results": [
         {

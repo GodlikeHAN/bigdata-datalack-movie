@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1061474,
-  "ingestion_time_utc": "2026-05-31T17:24:31.395250+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:54.763385+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
@@ -91,7 +91,7 @@
     "title": "Superman",
     "video": false,
     "vote_average": 7.342,
-    "vote_count": 4789,
+    "vote_count": 4790,
     "videos": {
       "results": [
         {

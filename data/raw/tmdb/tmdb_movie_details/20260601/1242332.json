@@ -1,0 +1,239 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1242332,
+  "ingestion_time_utc": "2026-06-01T08:18:56.810804+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
+    "belongs_to_collection": null,
+    "budget": 10000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.normalthemovie.com/",
+    "id": 1242332,
+    "imdb_id": "tt31195136",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Normal",
+    "overview": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
+    "popularity": 35.9724,
+    "poster_path": "/rsNdDcCKjCZm9RBMAxL3vMUokKU.jpg",
+    "production_companies": [
+      {
+        "id": 125584,
+        "logo_path": "/56Lrmj9izLx7SEa0uPp0fVvssea.png",
+        "name": "Aperture Media Partners",
+        "origin_country": "US"
+      },
+      {
+        "id": 210819,
+        "logo_path": "/lXW15vGgeQIIGia0oFycQgALb9Y.png",
+        "name": "QWGmire",
+        "origin_country": "US"
+      },
+      {
+        "id": 86647,
+        "logo_path": "/jefZmEJlxUAkuuwkH9CHQchgmJX.png",
+        "name": "OPE Partners",
+        "origin_country": "US"
+      },
+      {
+        "id": 223268,
+        "logo_path": null,
+        "name": "Le Foole",
+        "origin_country": "US"
+      },
+      {
+        "id": 207939,
+        "logo_path": null,
+        "name": "Tradecraft",
+        "origin_country": "US"
+      },
+      {
+        "id": 289959,
+        "logo_path": null,
+        "name": "Normal Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-04-16",
+    "revenue": 5978949,
+    "runtime": 91,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Small town. Big secret.",
+    "title": "Normal",
+    "video": false,
+    "vote_average": 6.409,
+    "vote_count": 126,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "What is \"normal\" anyway, Bob Odenkirk?",
+          "key": "a06R17IIxBM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a09fc709e420995aad60583",
+          "published_at": "2026-05-17T10:30:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Bob Odenkirk's Normal pairings",
+          "key": "bUPet6mUpw8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a0a04d9718e047022293c80",
+          "published_at": "2026-05-16T14:30:34.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Bob Odenkirk would LOVE you to have fries with that... \"that\" being Normal",
+          "key": "aynE1HC8vUg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a0a04ed718e047022293c88",
+          "published_at": "2026-05-16T07:15:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Some totally Normal things from Bob Odenkirk, Billy MacLellan and Ben Wheatley here...",
+          "key": "BPE-ttLslvE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a0a053109ae39b0b26da1d5",
+          "published_at": "2026-05-15T14:45:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Henry Winkler is the Mayor of NORMAL",
+          "key": "XDLui2a9HEI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a09fce69e420995aad60590",
+          "published_at": "2026-04-22T19:14:22.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Audiences React to Normal",
+          "key": "TzxA91isK2w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a09fcf3d907662c61f9ec43",
+          "published_at": "2026-04-16T19:29:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Bob Odenkirk Acts \"Normal\" for His New Movie, Normal",
+          "key": "jloETgksIeA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a09fd3ecb689f3f8bdfb1a2",
+          "published_at": "2026-04-15T20:23:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Bob Odenkirk and Jess McLeod Rank Midwestern Foods",
+          "key": "XQmpHKoS5_A",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a09fc992d4654bd32f9ed43",
+          "published_at": "2026-04-09T17:25:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "This or That with Bob Odenkirk, Ben Wheatley, Derek Kolstad, and Jess McCleod",
+          "key": "hKTDD7j287Q",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a09fca99ad871e360d60367",
+          "published_at": "2026-03-26T19:03:15.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "5OndK0w1lYY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69974a5b0dc4b23188850393",
+          "published_at": "2026-02-19T16:00:33.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser Trailer",
+          "key": "ivpW50xnvyc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69402d61ec5e7e169c5485cb",
+          "published_at": "2025-12-15T14:59:34.000Z"
+        }
+      ]
+    }
+  }
+}

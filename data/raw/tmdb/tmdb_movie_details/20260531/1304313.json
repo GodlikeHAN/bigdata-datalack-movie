@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1304313,
-  "ingestion_time_utc": "2026-05-31T17:24:30.760316+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:52.421726+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
@@ -83,24 +83,36 @@
         "name": "العربية"
       },
       {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      },
-      {
         "english_name": "Spanish",
         "iso_639_1": "es",
         "name": "Español"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
       }
     ],
     "status": "Released",
     "tagline": "What happened to Katie?",
     "title": "Lee Cronin's The Mummy",
     "video": false,
-    "vote_average": 8.06,
-    "vote_count": 1411,
+    "vote_average": 8.059,
+    "vote_count": 1426,
     "videos": {
       "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "She Ate a Scorpion…",
+          "key": "ocftVARq8qI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a1c3f7f58573fc60e0025da",
+          "published_at": "2026-05-31T12:00:12.000Z"
+        },
         {
           "iso_639_1": "en",
           "iso_3166_1": "US",

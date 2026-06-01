@@ -1,0 +1,237 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1084244,
+  "ingestion_time_utc": "2026-06-01T08:18:56.607801+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/wENlYOyR10DZzkICmrGUQQX4Ih5.jpg",
+    "belongs_to_collection": {
+      "id": 10194,
+      "name": "Toy Story Collection",
+      "poster_path": "/rki5qLuwb0xnnE9seehxO9TlLhW.jpg",
+      "backdrop_path": "/hApclyB9NEZEQujAVajzi5iWE4a.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "homepage": "https://movies.disney.com/toy-story-5",
+    "id": 1084244,
+    "imdb_id": "tt29355505",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Toy Story 5",
+    "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+    "popularity": 46.3846,
+    "poster_path": "/7BuN6lQCAq1tLz2l3g6sHVSFGib.jpg",
+    "production_companies": [
+      {
+        "id": 3,
+        "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+        "name": "Pixar",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-06-17",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "It's on.",
+    "title": "Toy Story 5",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "She's making those moves up as she goes!",
+          "key": "Vsx7KuOnVlk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a1b462a6a36d884a14b8c5b",
+          "published_at": "2026-05-30T17:02:07.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "ha ha ha",
+          "key": "Wo17oID021w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a1a07e3d94d437d10e0953e",
+          "published_at": "2026-05-29T16:02:55.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Studio Show: LIVE From the Red Carpet",
+          "key": "P8ysnyW--j8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a1a08147d7d3422f3b58c8b",
+          "published_at": "2026-05-29T12:11:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "the favorite toy gets to be first",
+          "key": "UJM6JuHC8_s",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a17836ad3901175f21b701c",
+          "published_at": "2026-05-27T19:00:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "hellooooo, it's almost time to play!",
+          "key": "rbIgbuxz4vk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a1783767dfe514fd99b5b6a",
+          "published_at": "2026-05-27T00:43:40.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "getting tickets…toy approved",
+          "key": "5zphRUJ6XxY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a185050f6bbb21c03730f21",
+          "published_at": "2026-05-26T17:18:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Final Trailer",
+          "key": "QftAW9TTmuQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6a15d2b9db5ced3f0e36a1f5",
+          "published_at": "2026-05-26T16:10:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Jordan North and Sian Welby Join the Cast of Toy Story 5",
+          "key": "O8rRLDRNfaA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a10cee9d9bee0275d6b56af",
+          "published_at": "2026-05-19T08:30:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Porsche x Pixar",
+          "key": "4QyLqAsBqHQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": false,
+          "id": "69f1090eacd50ef9bfbb8754",
+          "published_at": "2026-04-22T15:02:45.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Tom Hanks and Tim Allen take the stage at CinemaCon",
+          "key": "qBX83xONdlc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a006f164003116d83222309",
+          "published_at": "2026-04-16T23:30:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Meet Lilypad",
+          "key": "KNOFgIAyqNU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69d3832b37f534464c909bde",
+          "published_at": "2026-03-18T17:19:43.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "c51ND9Hdbw0",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "6997460cc28d4840391aea38",
+          "published_at": "2026-02-19T17:00:14.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Teaser Trailer",
+          "key": "GGBgf8dcgyY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "691398929cdeac5534875b60",
+          "published_at": "2025-11-11T20:00:13.000Z"
+        }
+      ]
+    }
+  }
+}

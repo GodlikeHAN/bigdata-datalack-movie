@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1662414,
-  "ingestion_time_utc": "2026-05-31T17:24:34.504215+00:00",
+  "ingestion_time_utc": "2026-05-31T20:50:02.519741+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/ldUVeDfA5ID2vchHGejrEltoBSN.jpg",
@@ -68,8 +68,8 @@
     "tagline": "All aboard, please.",
     "title": "Propeller One-Way Night Coach",
     "video": false,
-    "vote_average": 6.429,
-    "vote_count": 7,
+    "vote_average": 5.6,
+    "vote_count": 10,
     "videos": {
       "results": [
         {

@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt27613895",
+  "ingestion_time_utc": "2026-06-01T08:19:15.145737+00:00",
+  "data": {
+    "Title": "GOAT",
+    "Year": "2026",
+    "Rated": "PG",
+    "Released": "13 Feb 2026",
+    "Runtime": "100 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Tyree Dillihay, Adam Rosette",
+    "Writer": "Aaron Buchsbaum, Teddy Riley, Nicolas Curcio",
+    "Actors": "Caleb McLaughlin, Gabrielle Union, Stephen Curry",
+    "Plot": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+    "Language": "English",
+    "Country": "United States, Canada",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5OTJkOGMtYWFiNi00NTlkLWE3ZWItY2ZlNjkyOWVhMjMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "84%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "60/100"
+      }
+    ],
+    "Metascore": "60",
+    "imdbRating": "6.7",
+    "imdbVotes": "15,166",
+    "imdbID": "tt27613895",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$103,103,206",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

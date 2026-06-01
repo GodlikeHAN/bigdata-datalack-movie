@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 414906,
-  "ingestion_time_utc": "2026-05-31T17:24:32.263212+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:56.109759+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
@@ -86,7 +86,7 @@
     "title": "The Batman",
     "video": false,
     "vote_average": 7.66,
-    "vote_count": 11938,
+    "vote_count": 11939,
     "videos": {
       "results": [
         {

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 240,
-  "ingestion_time_utc": "2026-05-31T17:24:35.862098+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:55.206499+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
@@ -90,8 +90,8 @@
     "tagline": "The rise and fall of the Corleone empire.",
     "title": "The Godfather Part II",
     "video": false,
-    "vote_average": 8.572,
-    "vote_count": 13922,
+    "vote_average": 8.6,
+    "vote_count": 13923,
     "videos": {
       "results": [
         {

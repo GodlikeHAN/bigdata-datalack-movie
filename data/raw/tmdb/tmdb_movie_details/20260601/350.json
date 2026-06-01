@@ -1,0 +1,180 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 350,
+  "ingestion_time_utc": "2026-06-01T08:18:54.908544+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
+    "belongs_to_collection": {
+      "id": 1314623,
+      "name": "The Devil Wears Prada Collection",
+      "poster_path": "/1W7vD9TYOIkNbDXx0hwGmNSAjW7.jpg",
+      "backdrop_path": "/h3EaoLd3ZyYyx5ME9dWTXcmTMCM.jpg"
+    },
+    "budget": 35000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "https://www.20thcenturystudios.com/movies/the-devil-wears-prada",
+    "id": 350,
+    "imdb_id": "tt0458352",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Devil Wears Prada",
+    "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
+    "popularity": 155.4556,
+    "poster_path": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+    "production_companies": [
+      {
+        "id": 711,
+        "logo_path": "/tEiIH5QesdheJmDAqQwvtN60727.png",
+        "name": "Fox 2000 Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 412,
+        "logo_path": null,
+        "name": "Wendy Finerman Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 444,
+        "logo_path": null,
+        "name": "Dune Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 445,
+        "logo_path": null,
+        "name": "Major Studio Partners",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2006-06-29",
+    "revenue": 326588371,
+    "runtime": 109,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Meet Andy Sachs. A million girls would kill to have her job. She's not one of them.",
+    "title": "The Devil Wears Prada",
+    "video": false,
+    "vote_average": 7.426,
+    "vote_count": 13619,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Who’s the real villain in THE DEVIL WEARS PRADA featuring Broey Deschanel",
+          "key": "loq3qoxJis8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6991116b19bc3cd2ec6f643f",
+          "published_at": "2026-02-09T16:52:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Miranda Priestly Educates Andy About Her Cerulean Sweater",
+          "key": "-rDTRuCOs9g",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "674dd9c59e7f6f73f301626f",
+          "published_at": "2024-11-29T02:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Andy Sachs Gets A Makeover",
+          "key": "5UBpZCalhyU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6744bc8fc24765fa2f2def7f",
+          "published_at": "2024-11-24T01:00:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Andy Sachs Asks Miranda Priestly About The Future",
+          "key": "eDhVZ-kiB7o",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "66bec2d4bbaa8b7029405200",
+          "published_at": "2024-08-15T18:00:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer #1",
+          "key": "6ZOZwUQKu3E",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "61022e23e9c0dc005e388fb5",
+          "published_at": "2019-07-17T16:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer",
+          "key": "t4isatjZ0BM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69dc309d91ca01b29a027857",
+          "published_at": "2014-05-08T00:04:22.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Clip",
+          "key": "s8dNofpy2PY",
+          "site": "YouTube",
+          "size": 360,
+          "type": "Clip",
+          "official": true,
+          "id": "69dc31781fa710bd79358973",
+          "published_at": "2012-06-06T22:56:43.000Z"
+        }
+      ]
+    }
+  }
+}

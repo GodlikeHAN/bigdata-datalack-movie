@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt27543632",
+  "ingestion_time_utc": "2026-06-01T08:19:17.537907+00:00",
+  "data": {
+    "Title": "The Housemaid",
+    "Year": "2025",
+    "Rated": "R",
+    "Released": "19 Dec 2025",
+    "Runtime": "131 min",
+    "Genre": "Drama, Mystery, Thriller",
+    "Director": "Paul Feig",
+    "Writer": "Rebecca Sonnenshine, Freida McFadden",
+    "Actors": "Sydney Sweeney, Amanda Seyfried, Brandon Sklenar",
+    "Plot": "Millie a struggling young woman becomes live in maid for a wealthy couple Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
+    "Language": "English, Italian",
+    "Country": "United States",
+    "Awards": "1 win & 9 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDFmYmEzYmItMmY0ZC00Y2Y0LTliNjYtY2E3YWZkZjIyNzBjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "73%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "65/100"
+      }
+    ],
+    "Metascore": "65",
+    "imdbRating": "6.8",
+    "imdbVotes": "133,074",
+    "imdbID": "tt27543632",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$126,432,462",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

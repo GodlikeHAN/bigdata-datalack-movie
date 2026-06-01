@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt31390893",
+  "ingestion_time_utc": "2026-06-01T08:19:13.300884+00:00",
+  "data": {
+    "Title": "Raja Shivaji",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "01 May 2026",
+    "Runtime": "N/A",
+    "Genre": "Action, Biography, Drama",
+    "Director": "Riteish Deshmukh",
+    "Writer": "Prajakt Deshmukh, Riteish Deshmukh, Jaideep Yadav",
+    "Actors": "Salman Khan, Sanjay Dutt, Abhishek Bachchan",
+    "Plot": "The journey of the young Shivaji, who fought against the powers that be and was crowned as Chhatrapati monarch.",
+    "Language": "Marathi, Hindi, Tamil, Telugu, Kannada, Malayalam",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmEwNTU4MzEtY2Y4Ni00ZWRmLThhMGMtMDE5MTZmMDIzMGVjXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt31390893",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

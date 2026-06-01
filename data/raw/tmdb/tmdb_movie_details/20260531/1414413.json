@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1414413,
-  "ingestion_time_utc": "2026-05-31T17:24:34.551357+00:00",
+  "ingestion_time_utc": "2026-05-31T20:50:04.347122+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/6D2NsU3FIQVthPgjT6RAsX58qZ6.jpg",
@@ -72,7 +72,7 @@
     "tagline": "He never planned to fight. But he refuses to fall.",
     "title": "Brothers Under Fire",
     "video": false,
-    "vote_average": 5.923,
+    "vote_average": 5.9,
     "vote_count": 26,
     "videos": {
       "results": [

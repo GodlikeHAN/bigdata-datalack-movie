@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0241527",
+  "ingestion_time_utc": "2026-06-01T08:19:29.360257+00:00",
+  "data": {
+    "Title": "Harry Potter and the Sorcerer's Stone",
+    "Year": "2001",
+    "Rated": "PG",
+    "Released": "16 Nov 2001",
+    "Runtime": "152 min",
+    "Genre": "Adventure, Family, Fantasy",
+    "Director": "Chris Columbus",
+    "Writer": "J.K. Rowling, Steve Kloves",
+    "Actors": "Daniel Radcliffe, Rupert Grint, Emma Watson",
+    "Plot": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+    "Language": "English, Latin",
+    "Country": "United Kingdom, United States",
+    "Awards": "Nominated for 3 Oscars. 20 wins & 75 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTU1MzgyMDMtMzBlZS00YzczLThmYWEtMjU3YmFlOWEyMjE1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "80%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "65/100"
+      }
+    ],
+    "Metascore": "65",
+    "imdbRating": "7.7",
+    "imdbVotes": "944,457",
+    "imdbID": "tt0241527",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$319,765,078",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

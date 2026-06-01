@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 872585,
-  "ingestion_time_utc": "2026-05-31T17:24:31.528840+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:54.085887+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
@@ -92,7 +92,7 @@
     "title": "Oppenheimer",
     "video": false,
     "vote_average": 8.031,
-    "vote_count": 11784,
+    "vote_count": 11786,
     "videos": {
       "results": [
         {

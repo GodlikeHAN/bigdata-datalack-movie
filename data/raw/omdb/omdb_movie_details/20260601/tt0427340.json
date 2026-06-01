@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0427340",
+  "ingestion_time_utc": "2026-06-01T08:19:26.724990+00:00",
+  "data": {
+    "Title": "Masters of the Universe",
+    "Year": "2026",
+    "Rated": "PG-13",
+    "Released": "05 Jun 2026",
+    "Runtime": "132 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "Travis Knight",
+    "Writer": "Chris Butler, Aaron Nee, Adam Nee",
+    "Actors": "Nicholas Galitzine, Camila Mendes, Idris Elba",
+    "Plot": "A young man on Earth discovers a fabulous secret legacy as the prince of an alien planet, and must recover a magic sword and return home to protect his kingdom.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTJjYTFkM2EtZjBmNy00OTk2LTg0NTAtNzYxYzlmNjhkMzQ5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt0427340",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "Sony Pictures Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 497,
-  "ingestion_time_utc": "2026-05-31T17:24:32.077030+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:55.760259+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/b6HWTOxn1xevvyHU2K9ICvaRU6g.jpg",
@@ -74,7 +74,7 @@
     "title": "The Green Mile",
     "video": false,
     "vote_average": 8.507,
-    "vote_count": 19270,
+    "vote_count": 19272,
     "videos": {
       "results": [
         {

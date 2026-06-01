@@ -2,10 +2,10 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1084244,
-  "ingestion_time_utc": "2026-05-31T17:24:34.377806+00:00",
+  "ingestion_time_utc": "2026-05-31T20:50:03.863180+00:00",
   "data": {
     "adult": false,
-    "backdrop_path": "/coyHrYHD2xHhDoYD6o4uwoJ2o7b.jpg",
+    "backdrop_path": "/wENlYOyR10DZzkICmrGUQQX4Ih5.jpg",
     "belongs_to_collection": {
       "id": 10194,
       "name": "Toy Story Collection",
@@ -41,7 +41,7 @@
     "original_title": "Toy Story 5",
     "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
     "popularity": 43.5445,
-    "poster_path": "/dWIAOC9EKFehGs3CYvDQih3hxaG.jpg",
+    "poster_path": "/7BuN6lQCAq1tLz2l3g6sHVSFGib.jpg",
     "production_companies": [
       {
         "id": 3,

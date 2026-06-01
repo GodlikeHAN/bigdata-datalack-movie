@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1233413,
+  "ingestion_time_utc": "2026-05-31T20:50:23.464566+00:00",
+  "data": {
+    "id": 1233413,
+    "imdb_id": "tt31193180",
+    "wikidata_id": "Q125473145",
+    "facebook_id": null,
+    "instagram_id": "sinnersmovie",
+    "twitter_id": "SinnersMovie"
+  }
+}

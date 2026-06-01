@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1292695,
-  "ingestion_time_utc": "2026-05-31T17:24:34.133938+00:00",
+  "ingestion_time_utc": "2026-05-31T20:50:02.981871+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
@@ -85,7 +85,7 @@
     "title": "They Will Kill You",
     "video": false,
     "vote_average": 6.976,
-    "vote_count": 630,
+    "vote_count": 632,
     "videos": {
       "results": [
         {

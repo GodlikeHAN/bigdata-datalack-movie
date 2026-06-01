@@ -1,0 +1,221 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1306368,
+  "ingestion_time_utc": "2026-06-01T08:18:54.468620+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg",
+    "belongs_to_collection": null,
+    "budget": 100000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/81915745",
+    "id": 1306368,
+    "imdb_id": "tt32642706",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Rip",
+    "overview": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
+    "popularity": 32.2305,
+    "poster_path": "/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg",
+    "production_companies": [
+      {
+        "id": 187968,
+        "logo_path": "/xdVAEg1biNrQw5nnMXKswPCRpkq.png",
+        "name": "Artists Equity",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-01-13",
+    "revenue": 0,
+    "runtime": 113,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Count the money. Count it again. Count on no one.",
+    "title": "The Rip",
+    "video": false,
+    "vote_average": 7.068,
+    "vote_count": 1629,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Matt Damon & Ben Affleck Laughing Behind the Scenes of The Rip",
+          "key": "4mf1dBldktg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Bloopers",
+          "official": true,
+          "id": "69c3e42bec3eb1b6856657c9",
+          "published_at": "2026-02-02T18:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Matt Damon and Ben Affleck Break Down Scenes from The Rip",
+          "key": "mX7ED4qkiUA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "696fd051dc20315df8df1024",
+          "published_at": "2026-01-20T18:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ben Affleck & Matt Damon Get Schooled in Colombian Spanish",
+          "key": "WmoEEil6MRA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "696fd077987e08a7c97abf47",
+          "published_at": "2026-01-19T18:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Matt Damon Talks The Rip, Boston Sports, and More | Skip Intro",
+          "key": "Ew8DPVwhyhc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "696fd08e2aade342f8fe12cb",
+          "published_at": "2026-01-19T16:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "How well does The Rip cast know Ben and Matt?",
+          "key": "mRSPhAhYGQk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "696d476513d53d4c2edcb70c",
+          "published_at": "2026-01-18T18:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "This or That with Sasha Calle and Catalina Sandino Moreno",
+          "key": "6rqF46z9KpM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "696fd3d0c4153d7e95442be3",
+          "published_at": "2026-01-18T17:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Matt Damon and Ben Affleck Guess Their Film with the Most Letterboxd Fans",
+          "key": "dq2MoNNJtuw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": false,
+          "id": "696bebd4f6538568c720ca4a",
+          "published_at": "2026-01-17T16:35:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Rip cast Rip things, with Matt Damon, Ben Affleck, and Teyana Taylor",
+          "key": "6NiMqKM8ZJk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "696fd3e45cbb4efc69442be7",
+          "published_at": "2026-01-16T16:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ben Affleck and Matt Damon Interview Each Other",
+          "key": "R4ZNqeE4PyY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6964485afb6a77934bdc46cf",
+          "published_at": "2026-01-08T17:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "yeR5bcbRPak",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "695c0a0f98dc6b688476a056",
+          "published_at": "2026-01-05T13:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Sneak Peek",
+          "key": "v4grNkPSOWk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "694d9f63d7f07c5af5154a8a",
+          "published_at": "2025-12-25T14:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser",
+          "key": "ARU2WHyOPxE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68c16d2960c9900124948514",
+          "published_at": "2025-09-10T12:00:04.000Z"
+        }
+      ]
+    }
+  }
+}

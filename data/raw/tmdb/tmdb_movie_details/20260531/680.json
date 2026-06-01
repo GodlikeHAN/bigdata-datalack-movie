@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 680,
-  "ingestion_time_utc": "2026-05-31T17:24:35.007107+00:00",
+  "ingestion_time_utc": "2026-05-31T20:50:05.324079+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
@@ -85,7 +85,7 @@
     "title": "Pulp Fiction",
     "video": false,
     "vote_average": 8.484,
-    "vote_count": 30213,
+    "vote_count": 30215,
     "videos": {
       "results": [
         {

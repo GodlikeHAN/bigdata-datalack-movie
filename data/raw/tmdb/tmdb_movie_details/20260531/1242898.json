@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1242898,
-  "ingestion_time_utc": "2026-05-31T17:24:33.916794+00:00",
+  "ingestion_time_utc": "2026-05-31T20:50:01.520255+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/gaKFXcB5J1gz0QqYj8bWIfrPc04.jpg",
@@ -97,7 +97,7 @@
     "title": "Predator: Badlands",
     "video": false,
     "vote_average": 7.75,
-    "vote_count": 2964,
+    "vote_count": 2965,
     "videos": {
       "results": [
         {

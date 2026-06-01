@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1275779,
-  "ingestion_time_utc": "2026-05-31T17:24:34.147257+00:00",
+  "ingestion_time_utc": "2026-05-31T20:50:02.621858+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/gVczdWWAkBCuwEV1v9cg7ELfdhT.jpg",
@@ -64,7 +64,7 @@
         "name": "English"
       }
     ],
-    "status": "Released",
+    "status": "Post Production",
     "tagline": "We deserve to know.",
     "title": "Disclosure Day",
     "video": false,

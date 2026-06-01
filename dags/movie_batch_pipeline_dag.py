@@ -41,21 +41,25 @@ with DAG(
     extract_tmdb_popular_task = PythonOperator(
         task_id="extract_tmdb_popular",
         python_callable=extract_tmdb_popular,
+        op_kwargs={"run_date": "{{ ds_nodash }}"},
     )
 
     extract_tmdb_movie_details_task = PythonOperator(
         task_id="extract_tmdb_movie_details",
         python_callable=extract_tmdb_movie_details,
+        op_kwargs={"run_date": "{{ ds_nodash }}"},
     )
 
     extract_tmdb_external_ids_task = PythonOperator(
         task_id="extract_tmdb_external_ids",
         python_callable=extract_tmdb_external_ids,
+        op_kwargs={"run_date": "{{ ds_nodash }}"},
     )
 
     extract_omdb_movie_details_task = PythonOperator(
         task_id="extract_omdb_movie_details",
         python_callable=extract_omdb_movie_details,
+        op_kwargs={"run_date": "{{ ds_nodash }}"},
     )
 
     spark_format_tmdb_task = PythonOperator(

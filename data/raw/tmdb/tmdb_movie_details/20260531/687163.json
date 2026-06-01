@@ -2,10 +2,10 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 687163,
-  "ingestion_time_utc": "2026-05-31T17:24:30.843122+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:52.655621+00:00",
   "data": {
     "adult": false,
-    "backdrop_path": "/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+    "backdrop_path": "/qjLiHYCzCfgqeyZlcKKNHk1eLHa.jpg",
     "belongs_to_collection": null,
     "budget": 200000000,
     "genres": [
@@ -97,8 +97,8 @@
     "tagline": "Believe in the Hail Mary.",
     "title": "Project Hail Mary",
     "video": false,
-    "vote_average": 8.642,
-    "vote_count": 4381,
+    "vote_average": 8.644,
+    "vote_count": 4390,
     "videos": {
       "results": [
         {

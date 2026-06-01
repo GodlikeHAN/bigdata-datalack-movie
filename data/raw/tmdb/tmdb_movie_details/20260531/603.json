@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 603,
-  "ingestion_time_utc": "2026-05-31T17:24:30.915968+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:53.213301+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
@@ -81,8 +81,8 @@
     "tagline": "Believe the unbelievable.",
     "title": "The Matrix",
     "video": false,
-    "vote_average": 8.246,
-    "vote_count": 27905,
+    "vote_average": 8.2,
+    "vote_count": 27906,
     "videos": {
       "results": [
         {

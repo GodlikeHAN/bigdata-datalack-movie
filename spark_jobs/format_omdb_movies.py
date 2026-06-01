@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from pyspark.sql import functions as F
 from pyspark.sql import Window
+from pyspark.sql.types import BooleanType, DoubleType, LongType, StringType, StructField, StructType
 
 from spark_jobs.common import create_spark_session, load_json_payloads, resolve_partition, write_parquet
 from src.config.settings import build_path
@@ -35,11 +36,23 @@ def run(run_date: str | None = None) -> str:
         )
 
     spark = create_spark_session("format_omdb_movies")
-    dataframe = spark.createDataFrame(records)
+    schema = StructType(
+        [
+            StructField("imdb_id", StringType(), True),
+            StructField("imdb_rating", DoubleType(), True),
+            StructField("rt_score_100", DoubleType(), True),
+            StructField("metacritic_score_100", DoubleType(), True),
+            StructField("imdb_score_100", DoubleType(), True),
+            StructField("omdb_boxoffice_usd", LongType(), True),
+            StructField("response_ok", BooleanType(), True),
+            StructField("ingestion_time_utc", StringType(), True),
+        ]
+    )
+    dataframe = spark.createDataFrame(records, schema=schema)
 
     formatted = (
         dataframe.filter(F.col("imdb_id").isNotNull())
-        .filter(F.col("response_ok"))
+        .filter(F.col("response_ok") == True)
         .withColumn("imdb_rating", F.col("imdb_rating").cast("double"))
         .withColumn("rt_score_100", F.col("rt_score_100").cast("double"))
         .withColumn("metacritic_score_100", F.col("metacritic_score_100").cast("double"))

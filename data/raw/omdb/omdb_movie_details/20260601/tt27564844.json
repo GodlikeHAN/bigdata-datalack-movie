@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt27564844",
+  "ingestion_time_utc": "2026-06-01T08:19:09.732453+00:00",
+  "data": {
+    "Title": "Iron Lung",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "30 Jan 2026",
+    "Runtime": "125 min",
+    "Genre": "Horror, Sci-Fi",
+    "Director": "Mark Fischbach",
+    "Writer": "Mark Fischbach, David Szymanski",
+    "Actors": "Mark Fischbach, Caroline Kaplan, Troy Baker",
+    "Plot": "In a post-apocalyptic future after \"The Quiet Rapture\" event, a convict explores a blood ocean on a desolate moon using a submarine called the \"Iron Lung\" to search for missing stars/planets.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzkxOGU1YmQtNDc0Ni00M2JhLWFlZjktODMzOGU3MjQxMTQ0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "54/100"
+      }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.5",
+    "imdbVotes": "19,668",
+    "imdbID": "tt27564844",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$40,851,941",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

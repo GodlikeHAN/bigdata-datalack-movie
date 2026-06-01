@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 454639,
-  "ingestion_time_utc": "2026-05-31T17:24:34.619719+00:00",
+  "ingestion_time_utc": "2026-05-31T20:50:04.772152+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
@@ -32,7 +32,7 @@
     "original_title": "Masters of the Universe",
     "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
     "popularity": 38.8965,
-    "poster_path": "/y4xNd1eWv1ea5qoPO6JmLvzHZf0.jpg",
+    "poster_path": "/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
     "production_companies": [
       {
         "id": 1423,

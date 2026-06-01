@@ -1,4 +1,5 @@
 import json
+from pathlib import Path
 from typing import Any, Dict, List
 
 from src.config.settings import (
@@ -33,8 +34,12 @@ def _persist_payload(output_path, payload):
     write_json(output_path, payload)
 
 
-def extract_tmdb_popular() -> List[str]:
-    popular_root = build_path("raw", "tmdb", "tmdb_popular")
+def _partition_path(table: str, run_date: str | None = None) -> Path:
+    return build_path("raw", "tmdb", table, run_date)
+
+
+def extract_tmdb_popular(run_date: str | None = None) -> List[str]:
+    popular_root = _partition_path("tmdb_popular", run_date)
     clear_directory(popular_root)
 
     output_paths = []
@@ -49,10 +54,7 @@ def extract_tmdb_popular() -> List[str]:
         reported_total_pages = data.get("total_pages") or TMDB_MAX_API_PAGE
         total_pages = min(reported_total_pages, TMDB_MAX_API_PAGE)
 
-        output_path = (
-            popular_root
-            / f"page_{page}.json"
-        )
+        output_path = popular_root / f"page_{page}.json"
 
         payload = {
             "source": "tmdb",
@@ -76,8 +78,9 @@ def extract_tmdb_popular() -> List[str]:
 
     return output_paths
 
-def collect_movie_ids_from_raw_popular() -> List[int]:
-    popular_root = build_path("raw", "tmdb", "tmdb_popular")
+
+def collect_movie_ids_from_raw_popular(run_date: str | None = None) -> List[int]:
+    popular_root = _partition_path("tmdb_popular", run_date)
 
     movie_ids = []
 
@@ -100,19 +103,17 @@ def collect_movie_ids_from_raw_popular() -> List[int]:
     return unique_ids[:MAX_MOVIES_FOR_DETAILS]
 
 
-def extract_tmdb_movie_details() -> List[str]:
-    movie_ids = collect_movie_ids_from_raw_popular()
-    clear_directory(build_path("raw", "tmdb", "tmdb_movie_details"))
+def extract_tmdb_movie_details(run_date: str | None = None) -> List[str]:
+    movie_ids = collect_movie_ids_from_raw_popular(run_date)
+    details_root = _partition_path("tmdb_movie_details", run_date)
+    clear_directory(details_root)
     output_paths = []
 
     for movie_id in movie_ids:
         url = f"{TMDB_BASE_URL}/movie/{movie_id}"
         data = client.get(url, params=_tmdb_params({"append_to_response": "videos"}))
 
-        output_path = (
-            build_path("raw", "tmdb", "tmdb_movie_details")
-            / f"{movie_id}.json"
-        )
+        output_path = details_root / f"{movie_id}.json"
 
         payload = {
             "source": "tmdb",
@@ -128,19 +129,17 @@ def extract_tmdb_movie_details() -> List[str]:
     return output_paths
 
 
-def extract_tmdb_external_ids() -> List[str]:
-    movie_ids = collect_movie_ids_from_raw_popular()
-    clear_directory(build_path("raw", "tmdb", "tmdb_external_ids"))
+def extract_tmdb_external_ids(run_date: str | None = None) -> List[str]:
+    movie_ids = collect_movie_ids_from_raw_popular(run_date)
+    external_ids_root = _partition_path("tmdb_external_ids", run_date)
+    clear_directory(external_ids_root)
     output_paths = []
 
     for movie_id in movie_ids:
         url = f"{TMDB_BASE_URL}/movie/{movie_id}/external_ids"
         data = client.get(url, params=_tmdb_params())
 
-        output_path = (
-            build_path("raw", "tmdb", "tmdb_external_ids")
-            / f"{movie_id}.json"
-        )
+        output_path = external_ids_root / f"{movie_id}.json"
 
         payload = {
             "source": "tmdb",

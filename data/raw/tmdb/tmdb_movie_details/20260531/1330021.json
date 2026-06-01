@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1330021,
-  "ingestion_time_utc": "2026-05-31T17:24:33.330687+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:59.528227+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/1yw8C3xPzrliGpQp0qHID7F1zOT.jpg",
@@ -64,8 +64,8 @@
     "tagline": "Brighter together.",
     "title": "Remarkably Bright Creatures",
     "video": false,
-    "vote_average": 8.539,
-    "vote_count": 493,
+    "vote_average": 8.535,
+    "vote_count": 496,
     "videos": {
       "results": [
         {

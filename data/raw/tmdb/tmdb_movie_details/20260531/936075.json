@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 936075,
-  "ingestion_time_utc": "2026-05-31T17:24:32.526213+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:57.424386+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
@@ -61,7 +61,7 @@
       }
     ],
     "release_date": "2026-04-22",
-    "revenue": 800217158,
+    "revenue": 851300000,
     "runtime": 128,
     "softcore": false,
     "spoken_languages": [
@@ -75,8 +75,8 @@
     "tagline": "Discover the making of a king.",
     "title": "Michael",
     "video": false,
-    "vote_average": 7.582,
-    "vote_count": 876,
+    "vote_average": 7.581,
+    "vote_count": 877,
     "videos": {
       "results": [
         {

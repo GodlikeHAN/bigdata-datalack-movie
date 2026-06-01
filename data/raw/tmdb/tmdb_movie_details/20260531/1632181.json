@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1632181,
-  "ingestion_time_utc": "2026-05-31T17:24:33.469839+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:59.758745+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/iCML6fBe3X0y06P33bM7dyYXPKZ.jpg",
@@ -70,8 +70,8 @@
     "tagline": "",
     "title": "Accidental Partners",
     "video": false,
-    "vote_average": 9.109,
-    "vote_count": 192,
+    "vote_average": 9.119,
+    "vote_count": 194,
     "videos": {
       "results": [
         {

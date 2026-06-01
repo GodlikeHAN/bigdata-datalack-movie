@@ -2,10 +2,10 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 533535,
-  "ingestion_time_utc": "2026-05-31T17:24:34.605125+00:00",
+  "ingestion_time_utc": "2026-05-31T20:50:04.447806+00:00",
   "data": {
     "adult": false,
-    "backdrop_path": "/ufpeVEM64uZHPpzzeiDNIAdaeOD.jpg",
+    "backdrop_path": "/cOoVcVQ3i1m5b2xtqKBtoTSbxC1.jpg",
     "belongs_to_collection": {
       "id": 448150,
       "name": "Deadpool Collection",
@@ -98,7 +98,7 @@
     "title": "Deadpool & Wolverine",
     "video": false,
     "vote_average": 7.569,
-    "vote_count": 8674,
+    "vote_count": 8676,
     "videos": {
       "results": [
         {

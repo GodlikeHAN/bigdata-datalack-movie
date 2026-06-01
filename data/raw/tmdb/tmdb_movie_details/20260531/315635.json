@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 315635,
-  "ingestion_time_utc": "2026-05-31T17:24:35.590578+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:54.644020+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/tPpYGm2mVecue7Bk3gNVoSPA5qn.jpg",
@@ -86,7 +86,7 @@
     "title": "Spider-Man: Homecoming",
     "video": false,
     "vote_average": 7.331,
-    "vote_count": 23165,
+    "vote_count": 23166,
     "videos": {
       "results": [
         {

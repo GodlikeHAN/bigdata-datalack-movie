@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1390300,
-  "ingestion_time_utc": "2026-05-31T17:24:31.037044+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:53.431859+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
@@ -85,17 +85,17 @@
     "softcore": false,
     "spoken_languages": [
       {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
+        "english_name": "Indonesian",
+        "iso_639_1": "id",
+        "name": "Bahasa indonesia"
       }
     ],
     "status": "Released",
     "tagline": "Breakups are all in the execution.",
     "title": "Over Your Dead Body",
     "video": false,
-    "vote_average": 7.0,
-    "vote_count": 55,
+    "vote_average": 6.842,
+    "vote_count": 60,
     "videos": {
       "results": [
         {

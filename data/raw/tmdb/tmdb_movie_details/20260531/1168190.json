@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1168190,
-  "ingestion_time_utc": "2026-05-31T17:24:35.389443+00:00",
+  "ingestion_time_utc": "2026-05-31T20:50:07.112661+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
@@ -125,8 +125,8 @@
     "tagline": "They fight like brothers. They wreck like legends.",
     "title": "The Wrecking Crew",
     "video": false,
-    "vote_average": 6.955,
-    "vote_count": 1023,
+    "vote_average": 6.958,
+    "vote_count": 1024,
     "videos": {
       "results": [
         {

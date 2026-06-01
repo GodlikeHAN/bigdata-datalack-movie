@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1159559,
-  "ingestion_time_utc": "2026-05-31T17:24:34.118736+00:00",
+  "ingestion_time_utc": "2026-05-31T20:50:02.998554+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/t9J2HXaDuJR7bvIG9XF7mttn4VY.jpg",

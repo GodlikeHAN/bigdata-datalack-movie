@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1234821,
+  "ingestion_time_utc": "2026-06-01T08:19:03.519408+00:00",
+  "data": {
+    "id": 1234821,
+    "imdb_id": "tt31036941",
+    "wikidata_id": "Q124380480",
+    "facebook_id": "JurassicWorld",
+    "instagram_id": "jurassicworld",
+    "twitter_id": "JurassicWorld"
+  }
+}

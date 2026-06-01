@@ -1,2 +1,0 @@
-{"type":"index-pattern","id":"movie-performance-gap-v1","attributes":{"title":"movie_performance_gap_v1","timeFieldName":"ingestion_time_utc"}}
-{"type":"index-pattern","id":"movie-trending-realtime-v1","attributes":{"title":"movie_trending_realtime_v1","timeFieldName":"event_time_utc"}}

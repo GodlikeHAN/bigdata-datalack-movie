@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 238,
+  "ingestion_time_utc": "2026-06-01T08:19:03.018453+00:00",
+  "data": {
+    "id": 238,
+    "imdb_id": "tt0068646",
+    "wikidata_id": "Q47703",
+    "facebook_id": "thegodfather",
+    "instagram_id": "thegodfathermovie",
+    "twitter_id": "godfathermovie"
+  }
+}

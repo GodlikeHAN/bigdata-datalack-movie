@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1368166,
-  "ingestion_time_utc": "2026-05-31T17:24:33.497096+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:59.974410+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
@@ -82,7 +82,7 @@
     "title": "The Housemaid",
     "video": false,
     "vote_average": 7.263,
-    "vote_count": 2230,
+    "vote_count": 2241,
     "videos": {
       "results": [
         {

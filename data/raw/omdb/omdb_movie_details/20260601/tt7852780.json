@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt7852780",
+  "ingestion_time_utc": "2026-06-01T08:19:30.285965+00:00",
+  "data": {
+    "Title": "Red Latex",
+    "Year": "2020",
+    "Rated": "N/A",
+    "Released": "25 Jan 2024",
+    "Runtime": "88 min",
+    "Genre": "Thriller",
+    "Director": "Gerard Marco",
+    "Writer": "Gerard Marco",
+    "Actors": "Fedra Duarte, Nestor Napolitano, Alejandra Aristegui",
+    "Plot": "Eric lives with his pregnant wife in his in-laws' house. Eric leaves his family and escapes to the mansion of the dominatrix Mistress Gise to become his slave. Eric hopes to achieve liberation by submitting to Mistress Gise.",
+    "Language": "Spanish",
+    "Country": "Argentina",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2UzN2E5OWEtMWUwOC00NzFiLWIyN2UtZDNmNzU3MTYwMzY2XkEyXkFqcGdeQXVyMzAwOTk1MQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "2.6/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "2.6",
+    "imdbVotes": "147",
+    "imdbID": "tt7852780",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

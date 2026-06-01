@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 803796,
-  "ingestion_time_utc": "2026-05-31T17:24:34.538841+00:00",
+  "ingestion_time_utc": "2026-05-31T20:50:04.655213+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
@@ -71,8 +71,8 @@
     "tagline": "They sing. They dance. They battle demons.",
     "title": "KPop Demon Hunters",
     "video": false,
-    "vote_average": 8.023,
-    "vote_count": 2821,
+    "vote_average": 8.0,
+    "vote_count": 2823,
     "videos": {
       "results": [
         {

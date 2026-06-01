@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 350,
-  "ingestion_time_utc": "2026-05-31T17:24:31.206517+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:56.686466+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
@@ -87,7 +87,7 @@
     "title": "The Devil Wears Prada",
     "video": false,
     "vote_average": 7.426,
-    "vote_count": 13612,
+    "vote_count": 13613,
     "videos": {
       "results": [
         {

@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0083655",
+  "ingestion_time_utc": "2026-06-01T08:19:28.968688+00:00",
+  "data": {
+    "Title": "Bingo Bongo",
+    "Year": "1982",
+    "Rated": "N/A",
+    "Released": "23 Dec 1982",
+    "Runtime": "106 min",
+    "Genre": "Comedy, Family",
+    "Director": "Pasquale Festa Campanile",
+    "Writer": "Franco Ferrini, Franco Marotta, Enrico Oldoini",
+    "Actors": "Adriano Celentano, Carole Bouquet, Felice Andreasi",
+    "Plot": "A monkey like man found in the jungles of Congo is brought to Milan, Italy and is called Bingo Bongo. Only Laura, an anthropologist, believes in his human qualities.",
+    "Language": "Italian, German",
+    "Country": "Italy, West Germany",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWVlZDg2YTYtZGJlNS00NTJlLWFkODYtY2NkMDAzYTgzYTIxXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.0",
+    "imdbVotes": "2,402",
+    "imdbID": "tt0083655",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

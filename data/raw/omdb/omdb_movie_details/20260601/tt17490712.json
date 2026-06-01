@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt17490712",
+  "ingestion_time_utc": "2026-06-01T08:19:32.385979+00:00",
+  "data": {
+    "Title": "Mortal Kombat II",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "08 May 2026",
+    "Runtime": "116 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "Simon McQuoid",
+    "Writer": "Jeremy Slater, Ed Boon, John Tobias",
+    "Actors": "Adeline Rudolph, Karl Urban, Martyn Ford",
+    "Plot": "The fan favorite champions -- now joined by Johnny Cage himself -- are pitted against one another in the ultimate battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTg2YWNkN2EtMzc1Ny00ZTBhLWFmYTItMmMyNzhjNjhhNmVhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "64%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "46/100"
+      }
+    ],
+    "Metascore": "46",
+    "imdbRating": "6.7",
+    "imdbVotes": "36,627",
+    "imdbID": "tt17490712",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$77,767,462",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

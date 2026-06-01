@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1630423,
-  "ingestion_time_utc": "2026-05-31T17:24:33.789644+00:00",
+  "ingestion_time_utc": "2026-05-31T20:50:01.201950+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/xA6AM5MvEkieZKlv1Tn3sN23I7i.jpg",
@@ -62,8 +62,8 @@
     "tagline": "Love, Sacrifice and Vengeance.",
     "title": "My Dearest Assassin",
     "video": false,
-    "vote_average": 8.644,
-    "vote_count": 215,
+    "vote_average": 8.65,
+    "vote_count": 216,
     "videos": {
       "results": [
         {

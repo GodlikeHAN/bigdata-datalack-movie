@@ -2,34 +2,54 @@
   "source": "tmdb",
   "entity": "tmdb_popular",
   "page": 7,
-  "ingestion_time_utc": "2026-05-31T17:24:28.049290+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:49.772673+00:00",
   "data": {
     "page": 7,
     "results": [
       {
         "adult": false,
-        "backdrop_path": "/ufpeVEM64uZHPpzzeiDNIAdaeOD.jpg",
+        "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
         "genre_ids": [
-          28,
+          14,
+          10402,
           35,
-          878
+          16
         ],
-        "id": 533535,
-        "title": "Deadpool & Wolverine",
+        "id": 803796,
+        "title": "KPop Demon Hunters",
         "original_language": "en",
-        "original_title": "Deadpool & Wolverine",
-        "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
-        "popularity": 40.0657,
-        "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
-        "release_date": "2024-07-24",
+        "original_title": "KPop Demon Hunters",
+        "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+        "popularity": 39.6949,
+        "poster_path": "/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
+        "release_date": "2025-06-20",
         "softcore": false,
         "video": false,
-        "vote_average": 7.569,
-        "vote_count": 8674
+        "vote_average": 8.0,
+        "vote_count": 2823
       },
       {
         "adult": false,
-        "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+        "backdrop_path": "/akvlTeB0LiNzw9U9YCAB8wwb5Qo.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1075175,
+        "title": "How to Have Sex",
+        "original_language": "en",
+        "original_title": "How to Have Sex",
+        "overview": "Three British teenage girls go on a rites-of-passage holiday—drinking, clubbing and hooking up, in what should be the best summer of their lives.",
+        "popularity": 39.2578,
+        "poster_path": "/yQyoFCBLGJH5HXESmJAzaiXw9zU.jpg",
+        "release_date": "2023-11-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.23,
+        "vote_count": 501
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
         "genre_ids": [
           28,
           14,
@@ -50,24 +70,84 @@
       },
       {
         "adult": false,
-        "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+        "backdrop_path": "/iGBbWXmAIgpiWg9Mx2D2gLzbg4n.jpg",
         "genre_ids": [
-          35,
-          53,
           18
         ],
-        "id": 496243,
-        "title": "Parasite",
+        "id": 269955,
+        "title": "Obsessed",
         "original_language": "ko",
-        "original_title": "기생충",
-        "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
-        "popularity": 36.9306,
-        "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
-        "release_date": "2019-05-30",
+        "original_title": "인간중독",
+        "overview": "A secret, passionate affair happens in the summer of 1969 between Colonel Jin Pyeong, trapped in a loveless marriage with Soo Jin, and Jong Ga Heun, the Chinese-Korean wife of Captain Kyung Woo Jin.",
+        "popularity": 38.8409,
+        "poster_path": "/fetCtoAvZShCk1nqAWZFuKZschR.jpg",
+        "release_date": "2014-05-14",
         "softcore": false,
         "video": false,
-        "vote_average": 8.495,
-        "vote_count": 20645
+        "vote_average": 6.683,
+        "vote_count": 82
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
+        "genre_ids": [
+          27,
+          9648
+        ],
+        "id": 1470130,
+        "title": "The Mortuary Assistant",
+        "original_language": "en",
+        "original_title": "The Mortuary Assistant",
+        "overview": "Rebecca Owens, a recent mortuary science graduate takes a night shift job at River Fields Mortuary. Initially, the job seems straightforward — embalming bodies, completing paperwork, and keeping things tidy. But once Rebecca starts working the night shift, things take a dark turn.",
+        "popularity": 38.1057,
+        "poster_path": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
+        "release_date": "2026-02-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.524,
+        "vote_count": 106
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 1242332,
+        "title": "Normal",
+        "original_language": "en",
+        "original_title": "Normal",
+        "overview": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
+        "popularity": 37.8639,
+        "poster_path": "/rsNdDcCKjCZm9RBMAxL3vMUokKU.jpg",
+        "release_date": "2026-04-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.48,
+        "vote_count": 124
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qU7tNIMpRqkizIObXfkJY3haTqh.jpg",
+        "genre_ids": [
+          18,
+          10402,
+          10749
+        ],
+        "id": 27,
+        "title": "9 Songs",
+        "original_language": "en",
+        "original_title": "9 Songs",
+        "overview": "Matt, a young glaciologist, soars across the vast, silent, icebound immensities of the South Pole as he recalls his love affair with Lisa. They meet at a mobbed rock concert in a vast music hall - London's Brixton Academy. They are in bed at night's end. Together, over a period of several months, they pursue a mutual sexual passion whose inevitable stages unfold in counterpoint to nine live-concert songs.",
+        "popularity": 37.7758,
+        "poster_path": "/91O7z0vo7MiNWd5xD2BoivwbQsb.jpg",
+        "release_date": "2004-07-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.546,
+        "vote_count": 580
       },
       {
         "adult": false,
@@ -91,23 +171,169 @@
       },
       {
         "adult": false,
-        "backdrop_path": "/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg",
+        "backdrop_path": "/7dQTILcUKw8chDiLj8TgPXxRuED.jpg",
         "genre_ids": [
-          12,
-          14
+          27,
+          28,
+          53
         ],
-        "id": 671,
-        "title": "Harry Potter and the Philosopher's Stone",
+        "id": 1233413,
+        "title": "Sinners",
         "original_language": "en",
-        "original_title": "Harry Potter and the Philosopher's Stone",
-        "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
-        "popularity": 41.8068,
-        "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
-        "release_date": "2001-11-16",
+        "original_title": "Sinners",
+        "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+        "popularity": 37.2495,
+        "poster_path": "/q6ghYZEHqItvzsxhlp9GykM7fOH.jpg",
+        "release_date": "2025-04-16",
         "softcore": false,
         "video": false,
-        "vote_average": 7.899,
-        "vote_count": 29568
+        "vote_average": 7.493,
+        "vote_count": 4554
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+        "genre_ids": [
+          53,
+          80,
+          35
+        ],
+        "id": 680,
+        "title": "Pulp Fiction",
+        "original_language": "en",
+        "original_title": "Pulp Fiction",
+        "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+        "popularity": 37.1874,
+        "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+        "release_date": "1994-09-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.484,
+        "vote_count": 30215
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tId87yE7JnQsQsqOpnGXjz9PoEe.jpg",
+        "genre_ids": [
+          18,
+          35,
+          27
+        ],
+        "id": 329505,
+        "title": "Lola's Secret",
+        "original_language": "it",
+        "original_title": "Il peccato di Lola",
+        "overview": "Young man has his dreams come true when the sexy new maid seduces him. But she also has a secret that leads to trouble.",
+        "popularity": 37.1126,
+        "poster_path": "/qaJ4iQngrLbyz9OgaQkJLppDN6m.jpg",
+        "release_date": "1984-05-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 71
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg",
+        "genre_ids": [
+          878,
+          12,
+          28
+        ],
+        "id": 1234821,
+        "title": "Jurassic World Rebirth",
+        "original_language": "en",
+        "original_title": "Jurassic World Rebirth",
+        "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+        "popularity": 36.9447,
+        "poster_path": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+        "release_date": "2025-06-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.27,
+        "vote_count": 3367
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+        "genre_ids": [
+          35,
+          53,
+          18
+        ],
+        "id": 496243,
+        "title": "Parasite",
+        "original_language": "ko",
+        "original_title": "기생충",
+        "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+        "popularity": 36.9306,
+        "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+        "release_date": "2019-05-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.495,
+        "vote_count": 20646
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sR1K7ysoHOyFLLeAHGSSPAjw0gU.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 578883,
+        "title": "Flight Attendant: Scandal",
+        "original_language": "ja",
+        "original_title": "スチュワーデス・スキャンダル　獣のように抱きしめて",
+        "overview": "Four female flight attendants embark on some salacious misadventures: A few go to a company singles party to cavort with some pilots, while the lovely Misako embarks on an adventure all her own after meeting a street fortune teller...",
+        "popularity": 36.7057,
+        "poster_path": "/gZuLbAy3EjHJeizXYnmDyekgCM5.jpg",
+        "release_date": "1984-03-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/79GYNlnCK7kfQPAyQI13NLatK07.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 1280738,
+        "title": "The Furious",
+        "original_language": "en",
+        "original_title": "火遮眼",
+        "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
+        "popularity": 36.5673,
+        "poster_path": "/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+        "release_date": "2026-06-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9Er1TPFQg2N4yBJQnkJAwoiiE6A.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 773543,
+        "title": "Fib the Truth",
+        "original_language": "ru",
+        "original_title": "Соври мне правду",
+        "overview": "A couple in love spends time away from civilization, but the sudden arrivals of the younger sister and then the girl's ex-boyfriend violate the country idyll.",
+        "popularity": 36.3783,
+        "poster_path": "/fPUI4KHQKggOdJg9YIBCFEecuU5.jpg",
+        "release_date": "2021-09-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.772,
+        "vote_count": 90
       },
       {
         "adult": false,
@@ -133,297 +359,71 @@
       },
       {
         "adult": false,
-        "backdrop_path": "/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
-        "genre_ids": [
-          16,
-          10751,
-          14
-        ],
-        "id": 129,
-        "title": "Spirited Away",
-        "original_language": "ja",
-        "original_title": "千と千尋の神隠し",
-        "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
-        "popularity": 34.6386,
-        "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
-        "release_date": "2001-07-20",
-        "softcore": false,
-        "video": false,
-        "vote_average": 8.534,
-        "vote_count": 18329
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/30TgnSvXiL7NQoQ5WWwHqw0FRhA.jpg",
-        "genre_ids": [
-          18,
-          10749
-        ],
-        "id": 48650,
-        "title": "Room in Rome",
-        "original_language": "es",
-        "original_title": "Habitación en Roma",
-        "overview": "A hotel room in the center of Rome serves as the setting for Alba and Natasha, two sexy and recently acquainted women, to have a physical adventure that touches their very souls.",
-        "popularity": 42.2845,
-        "poster_path": "/w90ItYf9qagQKVEBr1uFxPomAtf.jpg",
-        "release_date": "2010-05-07",
-        "softcore": false,
-        "video": false,
-        "vote_average": 6.406,
-        "vote_count": 827
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/emK2hOB6ACiExT0lNLog9lAmMFL.jpg",
-        "genre_ids": [
-          18,
-          10749
-        ],
-        "id": 1226293,
-        "title": "Salitan",
-        "original_language": "tl",
-        "original_title": "Salitan",
-        "overview": "A suspicious wife follows her husband in Bali. She meets a dashing man who captures her heart. She soon wants her husband to really have an affair to alleviate the guilt she is feeling.",
-        "popularity": 39.8676,
-        "poster_path": "/rMgG7cWuq9O6zhhLs2CbqIKVA8V.jpg",
-        "release_date": "2024-02-16",
-        "softcore": false,
-        "video": false,
-        "vote_average": 4.714,
-        "vote_count": 7
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/qU7tNIMpRqkizIObXfkJY3haTqh.jpg",
-        "genre_ids": [
-          18,
-          10402,
-          10749
-        ],
-        "id": 27,
-        "title": "9 Songs",
-        "original_language": "en",
-        "original_title": "9 Songs",
-        "overview": "Matt, a young glaciologist, soars across the vast, silent, icebound immensities of the South Pole as he recalls his love affair with Lisa. They meet at a mobbed rock concert in a vast music hall - London's Brixton Academy. They are in bed at night's end. Together, over a period of several months, they pursue a mutual sexual passion whose inevitable stages unfold in counterpoint to nine live-concert songs.",
-        "popularity": 37.7758,
-        "poster_path": "/91O7z0vo7MiNWd5xD2BoivwbQsb.jpg",
-        "release_date": "2004-07-16",
-        "softcore": false,
-        "video": false,
-        "vote_average": 5.546,
-        "vote_count": 580
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg",
+        "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
         "genre_ids": [
           878,
-          12,
-          28
-        ],
-        "id": 1234821,
-        "title": "Jurassic World Rebirth",
-        "original_language": "en",
-        "original_title": "Jurassic World Rebirth",
-        "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
-        "popularity": 36.9447,
-        "poster_path": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
-        "release_date": "2025-06-23",
-        "softcore": false,
-        "video": false,
-        "vote_average": 6.269,
-        "vote_count": 3366
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
-        "genre_ids": [
-          27,
-          9648
-        ],
-        "id": 1470130,
-        "title": "The Mortuary Assistant",
-        "original_language": "en",
-        "original_title": "The Mortuary Assistant",
-        "overview": "Rebecca Owens, a recent mortuary science graduate takes a night shift job at River Fields Mortuary. Initially, the job seems straightforward — embalming bodies, completing paperwork, and keeping things tidy. But once Rebecca starts working the night shift, things take a dark turn.",
-        "popularity": 38.1057,
-        "poster_path": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
-        "release_date": "2026-02-13",
-        "softcore": false,
-        "video": false,
-        "vote_average": 5.524,
-        "vote_count": 106
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/iGBbWXmAIgpiWg9Mx2D2gLzbg4n.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 269955,
-        "title": "Obsessed",
-        "original_language": "ko",
-        "original_title": "인간중독",
-        "overview": "A secret, passionate affair happens in the summer of 1969 between Colonel Jin Pyeong, trapped in a loveless marriage with Soo Jin, and Jong Ga Heun, the Chinese-Korean wife of Captain Kyung Woo Jin.",
-        "popularity": 38.8409,
-        "poster_path": "/fetCtoAvZShCk1nqAWZFuKZschR.jpg",
-        "release_date": "2014-05-14",
-        "softcore": false,
-        "video": false,
-        "vote_average": 6.683,
-        "vote_count": 82
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/wUlvM4v5FUjM2omyld9ULVHONZA.jpg",
-        "genre_ids": [
-          18,
-          35,
-          10751
-        ],
-        "id": 1542995,
-        "title": "Bonolota Express",
-        "original_language": "bn",
-        "original_title": "বনলতা এক্সপ্রেস",
-        "overview": "On a foggy winter journey, the Bonolota Express carries strangers burdened by secrets whose lives begin to collide within the train’s confined corridors. As the night unfolds, personal and political crises erupt, exposing hidden grief, moral decay, and moments of unexpected compassion amid chaos and revolt. By dawn, the train moves on, leaving its passengers irrevocably changed by a single journey where illusions collapse and human truths emerge.",
-        "popularity": 30.5409,
-        "poster_path": "/h6nITbbSobZ0EwU6Dcw6LGZOZYA.jpg",
-        "release_date": "2026-03-21",
-        "softcore": false,
-        "video": false,
-        "vote_average": 8.6,
-        "vote_count": 7
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/wfGDy0KVZsiQpGgYoxObUGgccwk.jpg",
-        "genre_ids": [
-          878,
-          27,
+          28,
           12
         ],
-        "id": 1235192,
-        "title": "Wormtown",
+        "id": 19995,
+        "title": "Avatar",
         "original_language": "en",
-        "original_title": "Wormtown",
-        "overview": "One year into a plague of flesh-eating, mind-altering worms, the nocturnal town of Ashland, Ohio, has embraced the parasites’ rule. Under cult-like Mayor Joshua, zealous Ranchers spread their gospel—by persuasion or by force. A trio of uninfected women cling to survival through scavenging, extreme hygiene, and evasion. But everyone breaks eventually, unleashing betrayal, sacrilege, and body horror.",
-        "popularity": 34.3417,
-        "poster_path": "/lE10ww38b7XA5LIagIsVQj9a8Hn.jpg",
-        "release_date": "2025-09-27",
+        "original_title": "Avatar",
+        "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+        "popularity": 36.2752,
+        "poster_path": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+        "release_date": "2009-12-16",
         "softcore": false,
         "video": false,
-        "vote_average": 5.781,
-        "vote_count": 17
+        "vote_average": 7.605,
+        "vote_count": 33985
       },
       {
         "adult": false,
-        "backdrop_path": "/1yl7xmTN2iEyiD3gF8M68lBhR39.jpg",
+        "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
         "genre_ids": [
-          16,
-          35,
-          18,
           10751,
-          878
-        ],
-        "id": 539745,
-        "title": "Animal Farm",
-        "original_language": "en",
-        "original_title": "Animal Farm",
-        "overview": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
-        "popularity": 34.6153,
-        "poster_path": "/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
-        "release_date": "2026-04-30",
-        "softcore": false,
-        "video": false,
-        "vote_average": 6.159,
-        "vote_count": 44
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-        "genre_ids": [
+          35,
           12,
-          878,
-          28
+          14,
+          16
         ],
-        "id": 299534,
-        "title": "Avengers: Endgame",
+        "id": 502356,
+        "title": "The Super Mario Bros. Movie",
         "original_language": "en",
-        "original_title": "Avengers: Endgame",
-        "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
-        "popularity": 34.7261,
-        "poster_path": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
-        "release_date": "2019-04-24",
+        "original_title": "The Super Mario Bros. Movie",
+        "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+        "popularity": 36.2014,
+        "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+        "release_date": "2023-04-05",
         "softcore": false,
         "video": false,
-        "vote_average": 8.236,
-        "vote_count": 27755
+        "vote_average": 7.602,
+        "vote_count": 10756
       },
       {
         "adult": false,
-        "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
-        "genre_ids": [
-          53,
-          80,
-          35
-        ],
-        "id": 680,
-        "title": "Pulp Fiction",
-        "original_language": "en",
-        "original_title": "Pulp Fiction",
-        "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
-        "popularity": 37.1874,
-        "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
-        "release_date": "1994-09-10",
-        "softcore": false,
-        "video": false,
-        "vote_average": 8.484,
-        "vote_count": 30213
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
-        "genre_ids": [
-          27,
-          53,
-          878
-        ],
-        "id": 1272837,
-        "title": "28 Years Later: The Bone Temple",
-        "original_language": "en",
-        "original_title": "28 Years Later: The Bone Temple",
-        "overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
-        "popularity": 34.7847,
-        "poster_path": "/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
-        "release_date": "2026-01-14",
-        "softcore": false,
-        "video": false,
-        "vote_average": 7.121,
-        "vote_count": 1240
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/79GYNlnCK7kfQPAyQI13NLatK07.jpg",
+        "backdrop_path": "/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
         "genre_ids": [
           28,
-          80,
-          53
+          18,
+          878
         ],
-        "id": 1280738,
-        "title": "The Furious",
-        "original_language": "en",
-        "original_title": "火遮眼",
-        "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
-        "popularity": 36.5673,
-        "poster_path": "/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-        "release_date": "2026-06-10",
+        "id": 1235877,
+        "title": "Jana Nayagan",
+        "original_language": "ta",
+        "original_title": "ஜன நாயகன்",
+        "overview": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+        "popularity": 36.1488,
+        "poster_path": "/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+        "release_date": "",
         "softcore": false,
         "video": false,
         "vote_average": 0.0,
         "vote_count": 0
       }
     ],
-    "total_pages": 57137,
-    "total_results": 1142721
+    "total_pages": 57142,
+    "total_results": 1142834
   }
 }

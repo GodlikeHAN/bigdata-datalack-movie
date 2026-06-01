@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1699574,
-  "ingestion_time_utc": "2026-05-31T17:24:33.291339+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:59.219044+00:00",
   "data": {
     "adult": false,
     "backdrop_path": null,
@@ -20,17 +20,22 @@
     ],
     "homepage": "",
     "id": 1699574,
-    "imdb_id": null,
+    "imdb_id": "tt41389703",
     "origin_country": [
-      "US"
+      "IN"
     ],
-    "original_language": "en",
+    "original_language": "mr",
     "original_title": "देऊळ बँड 2",
     "overview": "The story follows a farmer who decides to question and test his faith, setting off a journey filled with emotional and life-altering moments. At its core, the narrative centers on a woman who tirelessly struggles for her family, facing hardships with resilience, as her path ultimately leads her to confront the very idea of divine power",
     "popularity": 74.4381,
     "poster_path": "/89n9cfc5dm0kdkABmDJalzveEwU.jpg",
     "production_companies": [],
-    "production_countries": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
     "release_date": "2026-05-21",
     "revenue": 0,
     "runtime": 182,

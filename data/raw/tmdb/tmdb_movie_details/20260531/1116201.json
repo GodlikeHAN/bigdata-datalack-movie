@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1116201,
-  "ingestion_time_utc": "2026-05-31T17:24:33.318530+00:00",
+  "ingestion_time_utc": "2026-05-31T20:49:59.422067+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/gqGQ0zADV5FIcgMWtWX8FcGQjFp.jpg",
@@ -62,8 +62,8 @@
     "tagline": "This is not an expedition. It's an execution.",
     "title": "Iron Lung",
     "video": false,
-    "vote_average": 7.335,
-    "vote_count": 161,
+    "vote_average": 7.3,
+    "vote_count": 163,
     "videos": {
       "results": [
         {
