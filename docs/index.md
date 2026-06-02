@@ -424,4 +424,4 @@ extract_tmdb_popular
 
 ---
 
-*This document is kept in sync with the repository codebase.*
+
