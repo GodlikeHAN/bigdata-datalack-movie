@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1246049,
-  "ingestion_time_utc": "2026-06-01T19:56:59.365220+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:38.576989+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/be5SIsRGMckO8tU9lrLcIik70Dy.jpg",
@@ -31,7 +31,7 @@
     "original_language": "fr",
     "original_title": "Dracula",
     "overview": "In late 15th-century Eastern Europe, Prince Vlad II’s bride is brutally murdered. As a result, he renounces God and damns Heaven itself. Cursed with eternal life, Vlad is reborn as Dracula, an immortal warlord who defies fate in a blood-soaked crusade to wrench his lost love back from death.",
-    "popularity": 58.5461,
+    "popularity": 53.0163,
     "poster_path": "/dYRqA50yd0nB3qBR7AtWEJJQ8q.jpg",
     "production_companies": [
       {
@@ -103,7 +103,7 @@
     "title": "Dracula",
     "video": false,
     "vote_average": 7.122,
-    "vote_count": 1226,
+    "vote_count": 1229,
     "videos": {
       "results": [
         {

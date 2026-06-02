@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1316092,
-  "ingestion_time_utc": "2026-06-01T19:56:48.499312+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:30.640577+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
@@ -28,7 +28,7 @@
     "original_language": "en",
     "original_title": "\"Wuthering Heights\"",
     "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
-    "popularity": 30.7126,
+    "popularity": 29.8615,
     "poster_path": "/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
     "production_companies": [
       {
@@ -87,8 +87,8 @@
     "tagline": "Come undone.",
     "title": "\"Wuthering Heights\"",
     "video": false,
-    "vote_average": 6.652,
-    "vote_count": 1043,
+    "vote_average": 6.7,
+    "vote_count": 1049,
     "videos": {
       "results": [
         {

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1242265,
-  "ingestion_time_utc": "2026-06-01T19:56:57.689238+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:37.452654+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
@@ -35,7 +35,7 @@
     "original_language": "en",
     "original_title": "Fuze",
     "overview": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
-    "popularity": 70.3056,
+    "popularity": 66.2483,
     "poster_path": "/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
     "production_companies": [
       {
@@ -78,8 +78,8 @@
     "tagline": "Down to the wire.",
     "title": "Fuze",
     "video": false,
-    "vote_average": 6.475,
-    "vote_count": 81,
+    "vote_average": 6.5,
+    "vote_count": 85,
     "videos": {
       "results": [
         {

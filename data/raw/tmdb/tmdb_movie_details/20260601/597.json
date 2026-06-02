@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 597,
-  "ingestion_time_utc": "2026-06-01T19:57:03.164121+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:43.397060+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Titanic",
     "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
-    "popularity": 40.4627,
+    "popularity": 39.8691,
     "poster_path": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
     "production_companies": [
       {
@@ -96,7 +96,7 @@
     "title": "Titanic",
     "video": false,
     "vote_average": 7.903,
-    "vote_count": 27170,
+    "vote_count": 27171,
     "videos": {
       "results": [
         {

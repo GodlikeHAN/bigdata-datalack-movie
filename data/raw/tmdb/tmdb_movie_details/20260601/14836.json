@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 14836,
-  "ingestion_time_utc": "2026-06-01T19:56:48.394626+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:30.537999+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Coraline",
     "overview": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
-    "popularity": 30.7579,
+    "popularity": 30.9743,
     "poster_path": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
     "production_companies": [
       {
@@ -69,7 +69,7 @@
     "title": "Coraline",
     "video": false,
     "vote_average": 7.908,
-    "vote_count": 8979,
+    "vote_count": 8981,
     "videos": {
       "results": [
         {

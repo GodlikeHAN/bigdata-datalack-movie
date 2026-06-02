@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1157008,
-  "ingestion_time_utc": "2026-06-01T19:56:58.521123+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:39.095380+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/6muIb4lmdF2uJmrAY4zyH11wYxW.jpg",
@@ -31,7 +31,7 @@
     "original_language": "es",
     "original_title": "Dime lo que quieres (de verdad)",
     "overview": "Diego and Emilia are a conservative couple with 16 years of marriage who have lost the spark, until Tomás and Betina rescue them and introduce them to the forbidden world, changing what they know about intimacy, relationships, and sex.",
-    "popularity": 55.8801,
+    "popularity": 66.5288,
     "poster_path": "/2ynUMfrwnEdGmkZmpiiJmTdTi4w.jpg",
     "production_companies": [
       {

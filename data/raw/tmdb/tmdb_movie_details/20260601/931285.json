@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 931285,
-  "ingestion_time_utc": "2026-06-01T19:56:47.343002+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:29.503405+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "Mortal Kombat II",
     "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
-    "popularity": 167.7321,
+    "popularity": 157.8471,
     "poster_path": "/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
     "production_companies": [
       {
@@ -77,7 +77,7 @@
       }
     ],
     "release_date": "2026-05-06",
-    "revenue": 127958867,
+    "revenue": 125568486,
     "runtime": 116,
     "softcore": false,
     "spoken_languages": [
@@ -91,8 +91,8 @@
     "tagline": "Finish the fight.",
     "title": "Mortal Kombat II",
     "video": false,
-    "vote_average": 6.766,
-    "vote_count": 353,
+    "vote_average": 6.8,
+    "vote_count": 359,
     "videos": {
       "results": [
         {

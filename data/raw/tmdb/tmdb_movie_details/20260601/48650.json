@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 48650,
-  "ingestion_time_utc": "2026-06-01T19:57:02.853469+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:42.989075+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/30TgnSvXiL7NQoQ5WWwHqw0FRhA.jpg",
@@ -27,7 +27,7 @@
     "original_language": "es",
     "original_title": "Habitación en Roma",
     "overview": "A hotel room in the center of Rome serves as the setting for Alba and Natasha, two sexy and recently acquainted women, to have a physical adventure that touches their very souls.",
-    "popularity": 41.6881,
+    "popularity": 45.351,
     "poster_path": "/w90ItYf9qagQKVEBr1uFxPomAtf.jpg",
     "production_companies": [
       {

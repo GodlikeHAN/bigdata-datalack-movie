@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 64641,
-  "ingestion_time_utc": "2026-06-01T19:56:58.727607+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:38.056542+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/tbbyUOh6Jd45hDun3kLyZkCttkI.jpg",
@@ -27,7 +27,7 @@
     "original_language": "it",
     "original_title": "La ragazzina",
     "overview": "Monika is young, beautiful and a virgin. She is only 16 years old, and, beside getting the attention of all her classmates, she also attracts older men. She has a relationship with a boy, Leo, but she doesn't know that he uses to pimp the girls he seduces to rich businessmen. One of Leo's client befriends Monika and becomes so obsessed that he pays Leo to get her. But Monika turns her attention to her art professor, unknowing that he too has his secrets.",
-    "popularity": 63.9107,
+    "popularity": 59.3348,
     "poster_path": "/y8Byo8Mwd1a9JwISWLYR0zVxA5.jpg",
     "production_companies": [
       {

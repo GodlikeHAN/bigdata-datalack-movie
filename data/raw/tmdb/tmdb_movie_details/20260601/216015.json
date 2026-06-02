@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 216015,
-  "ingestion_time_utc": "2026-06-01T19:57:06.099339+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:46.981766+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/7IGKrY1f1KfwMipx9wZC4NRgIdF.jpg",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "Fifty Shades of Grey",
     "overview": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
-    "popularity": 33.4918,
+    "popularity": 31.7554,
     "poster_path": "/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg",
     "production_companies": [
       {
@@ -85,8 +85,8 @@
     "tagline": "Mr. Grey will see you now.",
     "title": "Fifty Shades of Grey",
     "video": false,
-    "vote_average": 5.869,
-    "vote_count": 12385,
+    "vote_average": 5.9,
+    "vote_count": 12386,
     "videos": {
       "results": [
         {

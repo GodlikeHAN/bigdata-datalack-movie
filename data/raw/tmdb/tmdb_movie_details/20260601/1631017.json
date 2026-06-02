@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1631017,
-  "ingestion_time_utc": "2026-06-01T19:56:48.820175+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:30.956081+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/rDrZBtUAALP6AmJ4ILMgvUVU0s4.jpg",
@@ -27,7 +27,7 @@
     "original_language": "kn",
     "original_title": "ಕರಿಕಾಡ",
     "overview": "Divine love transforms Kaada's hunting heritage into an epic tale of adventure, action, and romance, leading him to abandon his former life.",
-    "popularity": 30.3592,
+    "popularity": 34.6477,
     "poster_path": "/tL0skwRWivuNZHQD89baWynksct.jpg",
     "production_companies": [
       {

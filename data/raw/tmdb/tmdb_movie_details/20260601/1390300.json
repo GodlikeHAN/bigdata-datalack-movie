@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1390300,
-  "ingestion_time_utc": "2026-06-01T19:56:47.661582+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:29.813990+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
@@ -31,8 +31,8 @@
     "original_language": "en",
     "original_title": "Over Your Dead Body",
     "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
-    "popularity": 160.3583,
-    "poster_path": "/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg",
+    "popularity": 140.4225,
+    "poster_path": "/qKEvzsSuxSXCya7aFQOeCBR9wmJ.jpg",
     "production_companies": [
       {
         "id": 121470,
@@ -94,8 +94,8 @@
     "tagline": "Breakups are all in the execution.",
     "title": "Over Your Dead Body",
     "video": false,
-    "vote_average": 6.8,
-    "vote_count": 69,
+    "vote_average": 6.804,
+    "vote_count": 74,
     "videos": {
       "results": [
         {

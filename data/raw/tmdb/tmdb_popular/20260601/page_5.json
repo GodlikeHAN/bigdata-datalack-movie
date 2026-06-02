@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_popular",
   "page": 5,
-  "ingestion_time_utc": "2026-06-01T19:56:41.864651+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:24.820024+00:00",
   "data": {
     "page": 5,
     "results": [
@@ -19,13 +19,13 @@
         "original_language": "fr",
         "original_title": "Dracula",
         "overview": "In late 15th-century Eastern Europe, Prince Vlad II’s bride is brutally murdered. As a result, he renounces God and damns Heaven itself. Cursed with eternal life, Vlad is reborn as Dracula, an immortal warlord who defies fate in a blood-soaked crusade to wrench his lost love back from death.",
-        "popularity": 58.5461,
+        "popularity": 53.0163,
         "poster_path": "/dYRqA50yd0nB3qBR7AtWEJJQ8q.jpg",
         "release_date": "2025-07-30",
         "softcore": false,
         "video": false,
         "vote_average": 7.122,
-        "vote_count": 1226
+        "vote_count": 1229
       },
       {
         "adult": false,
@@ -39,7 +39,7 @@
         "original_language": "en",
         "original_title": "War of the Worlds",
         "overview": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
-        "popularity": 58.527,
+        "popularity": 53.5329,
         "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
         "release_date": "2025-07-29",
         "softcore": false,
@@ -59,7 +59,7 @@
         "original_language": "tl",
         "original_title": "Donselya",
         "overview": "Iris, an 18-year old virgin marries Joaquin, a rich widower, because of money. However, when he learns that Iris is not really a virgin, their honeymoon turns to a bloodbath.",
-        "popularity": 58.1323,
+        "popularity": 55.3521,
         "poster_path": "/iVS3ZiPsKy8Hhc5Dipqgrjmoj2b.jpg",
         "release_date": "2024-10-29",
         "softcore": false,
@@ -80,7 +80,7 @@
         "original_language": "ml",
         "original_title": "ദൃശ്യം 3",
         "overview": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice ?",
-        "popularity": 57.2973,
+        "popularity": 52.7992,
         "poster_path": "/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
         "release_date": "2026-05-21",
         "softcore": false,
@@ -99,7 +99,7 @@
         "original_language": "it",
         "original_title": "Bingo Bongo",
         "overview": "The ape-man, found somewhere in the jungles of Congo, transferred to Milan and named Bingo Bongo. The only one who believes in the human qualities of him is Laura, a woman anthropologist , so their affection for each other even grows to love.",
-        "popularity": 56.0094,
+        "popularity": 48.2739,
         "poster_path": "/5ve4VuCwi7Xas5s50ynEB7uFjM2.jpg",
         "release_date": "1982-12-23",
         "softcore": false,
@@ -120,7 +120,7 @@
         "original_language": "es",
         "original_title": "Dime lo que quieres (de verdad)",
         "overview": "Diego and Emilia are a conservative couple with 16 years of marriage who have lost the spark, until Tomás and Betina rescue them and introduce them to the forbidden world, changing what they know about intimacy, relationships, and sex.",
-        "popularity": 55.8801,
+        "popularity": 66.5288,
         "poster_path": "/2ynUMfrwnEdGmkZmpiiJmTdTi4w.jpg",
         "release_date": "2023-07-27",
         "softcore": false,
@@ -142,7 +142,7 @@
         "original_language": "kn",
         "original_title": "ಕೆಡಿ - ದಿ ಡೆವಿಲ್",
         "overview": "In the early 1970s, a petty criminal Kaali unwittingly involves himself with underworld thugs, catalyzing events beyond his control.",
-        "popularity": 55.7937,
+        "popularity": 63.3073,
         "poster_path": "/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
         "release_date": "2026-04-30",
         "softcore": false,
@@ -163,13 +163,13 @@
         "original_language": "en",
         "original_title": "Send Help",
         "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-        "popularity": 55.7393,
+        "popularity": 53.9143,
         "poster_path": "/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg",
         "release_date": "2026-01-22",
         "softcore": false,
         "video": false,
-        "vote_average": 7.041,
-        "vote_count": 1657
+        "vote_average": 7.042,
+        "vote_count": 1660
       },
       {
         "adult": false,
@@ -184,13 +184,13 @@
         "original_language": "en",
         "original_title": "The Avengers",
         "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
-        "popularity": 55.413,
+        "popularity": 54.6496,
         "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
         "release_date": "2012-04-25",
         "softcore": false,
         "video": false,
         "vote_average": 8.034,
-        "vote_count": 38104
+        "vote_count": 38112
       },
       {
         "adult": false,
@@ -205,7 +205,7 @@
         "original_language": "mr",
         "original_title": "राजा शिवाजी",
         "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
-        "popularity": 55.0795,
+        "popularity": 49.5606,
         "poster_path": "/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
         "release_date": "2026-05-01",
         "softcore": false,
@@ -226,7 +226,7 @@
         "original_language": "en",
         "original_title": "Disclosure Day",
         "overview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
-        "popularity": 54.4224,
+        "popularity": 57.9091,
         "poster_path": "/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
         "release_date": "2026-06-10",
         "softcore": false,
@@ -236,23 +236,25 @@
       },
       {
         "adult": false,
-        "backdrop_path": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+        "backdrop_path": "/wENlYOyR10DZzkICmrGUQQX4Ih5.jpg",
         "genre_ids": [
+          16,
+          10751,
           35,
-          18
+          12
         ],
-        "id": 1314481,
-        "title": "The Devil Wears Prada 2",
+        "id": 1084244,
+        "title": "Toy Story 5",
         "original_language": "en",
-        "original_title": "The Devil Wears Prada 2",
-        "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-        "popularity": 53.9372,
-        "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-        "release_date": "2026-04-29",
+        "original_title": "Toy Story 5",
+        "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+        "popularity": 53.6795,
+        "poster_path": "/7BuN6lQCAq1tLz2l3g6sHVSFGib.jpg",
+        "release_date": "2026-06-17",
         "softcore": false,
         "video": false,
-        "vote_average": 6.624,
-        "vote_count": 726
+        "vote_average": 0.0,
+        "vote_count": 0
       },
       {
         "adult": false,
@@ -267,7 +269,7 @@
         "original_language": "es",
         "original_title": "Culpa mía",
         "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
-        "popularity": 53.3579,
+        "popularity": 50.5023,
         "poster_path": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
         "release_date": "2023-06-08",
         "softcore": false,
@@ -288,13 +290,13 @@
         "original_language": "en",
         "original_title": "They Will Kill You",
         "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
-        "popularity": 53.1249,
+        "popularity": 47.1552,
         "poster_path": "/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
         "release_date": "2026-03-23",
         "softcore": false,
         "video": false,
-        "vote_average": 6.977,
-        "vote_count": 640
+        "vote_average": 7.0,
+        "vote_count": 641
       },
       {
         "adult": false,
@@ -308,13 +310,13 @@
         "original_language": "en",
         "original_title": "Crime 101",
         "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
-        "popularity": 52.2674,
+        "popularity": 47.5022,
         "poster_path": "/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
         "release_date": "2026-02-11",
         "softcore": false,
         "video": false,
-        "vote_average": 6.979,
-        "vote_count": 1022
+        "vote_average": 6.985,
+        "vote_count": 1026
       },
       {
         "adult": false,
@@ -328,7 +330,7 @@
         "original_language": "en",
         "original_title": "Bosco d'amore",
         "overview": "The time is the mid-14th century --- the Pope is now residing at Avignon, the Black Death is killing millions across Europe, and civil wars are adding to the turmoil and chaos. In this story adapted from Giovanni Boccaccio's Decameron, a young teenage couple is sent to live in a nearby town by the man's uncle, in an attempt to keep them safe from harm. She is from the lower classes, and he comes from a noble family -- a family that opposes his choice of a future bride. While en route to the town, the couple's horses are stolen and they are forced to continue through the forest on foot -- at a pace that introduces them to a kaleidoscope of Boccaccio's characters, from masters of mysticism, to soldiers of the warring Papal armies. Somehow, the couple manage to get through this gauntlet of sorts, and they do marry. Just as they are ready to go back to Rome, they hear that there is an insurrection in the offing, and suddenly, their brief spate of stability is threatened again.",
-        "popularity": 52.1495,
+        "popularity": 52.6254,
         "poster_path": "/jNV46xSIONTEvIAWon6NnveH7eG.jpg",
         "release_date": "1981-09-08",
         "softcore": false,
@@ -349,13 +351,34 @@
         "original_language": "en",
         "original_title": "Apocalypto",
         "overview": "Set in the Mayan civilization, when a man's idyllic presence is brutally disrupted by a violent invading force, he is taken on a perilous journey to a world ruled by fear and oppression where a harrowing end awaits him. Through a twist of fate and spurred by the power of his love for his woman and his family he will make a desperate break to return home and to ultimately save his way of life.",
-        "popularity": 51.5997,
+        "popularity": 47.0478,
         "poster_path": "/cRY25Q32kDNPFDkFkxAs6bgCq3L.jpg",
         "release_date": "2006-12-07",
         "softcore": false,
         "video": false,
         "vote_average": 7.628,
         "vote_count": 6357
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+        "genre_ids": [
+          28,
+          14,
+          878
+        ],
+        "id": 454639,
+        "title": "Masters of the Universe",
+        "original_language": "en",
+        "original_title": "Masters of the Universe",
+        "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+        "popularity": 51.594,
+        "poster_path": "/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+        "release_date": "2026-06-03",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 6
       },
       {
         "adult": false,
@@ -370,13 +393,13 @@
         "original_language": "en",
         "original_title": "The Drama",
         "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-        "popularity": 51.4812,
+        "popularity": 52.4257,
         "poster_path": "/89Dw1ujPlIPRLddhzNuJM4F401D.jpg",
         "release_date": "2026-03-26",
         "softcore": false,
         "video": false,
-        "vote_average": 6.937,
-        "vote_count": 891
+        "vote_average": 6.938,
+        "vote_count": 900
       },
       {
         "adult": false,
@@ -391,36 +414,16 @@
         "original_language": "en",
         "original_title": "Avengers: Infinity War",
         "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
-        "popularity": 51.2203,
+        "popularity": 53.961,
         "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
         "release_date": "2018-04-25",
         "softcore": false,
         "video": false,
         "vote_average": 8.236,
-        "vote_count": 32012
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
-        "genre_ids": [
-          18,
-          10749
-        ],
-        "id": 337167,
-        "title": "Fifty Shades Freed",
-        "original_language": "en",
-        "original_title": "Fifty Shades Freed",
-        "overview": "Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.",
-        "popularity": 50.6839,
-        "poster_path": "/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
-        "release_date": "2018-01-17",
-        "softcore": false,
-        "video": false,
-        "vote_average": 6.675,
-        "vote_count": 8345
+        "vote_count": 32017
       }
     ],
-    "total_pages": 57162,
-    "total_results": 1143229
+    "total_pages": 57174,
+    "total_results": 1143476
   }
 }

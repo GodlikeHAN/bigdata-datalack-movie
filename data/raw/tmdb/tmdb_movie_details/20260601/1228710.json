@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1228710,
-  "ingestion_time_utc": "2026-06-01T19:56:47.556720+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:29.710576+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "The Mandalorian and Grogu",
     "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-    "popularity": 162.5472,
+    "popularity": 155.1504,
     "poster_path": "/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
     "production_companies": [
       {
@@ -69,7 +69,7 @@
     "title": "The Mandalorian and Grogu",
     "video": false,
     "vote_average": 6.9,
-    "vote_count": 348,
+    "vote_count": 357,
     "videos": {
       "results": [
         {

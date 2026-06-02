@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt1263750",
-  "ingestion_time_utc": "2026-06-01T19:57:54.086145+00:00",
+  "ingestion_time_utc": "2026-06-02T13:54:34.821685+00:00",
   "data": {
     "Title": "Room in Rome",
     "Year": "2010",

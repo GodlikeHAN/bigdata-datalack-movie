@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 454639,
-  "ingestion_time_utc": "2026-06-01T19:57:02.632871+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:40.427557+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Masters of the Universe",
     "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-    "popularity": 42.0125,
+    "popularity": 51.594,
     "poster_path": "/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
     "production_companies": [
       {
@@ -74,10 +74,22 @@
     "tagline": "Witness how he became He-Man.",
     "title": "Masters of the Universe",
     "video": false,
-    "vote_average": 9.2,
-    "vote_count": 5,
+    "vote_average": 8.3,
+    "vote_count": 7,
     "videos": {
       "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Cami + Baby Teela",
+          "key": "X8_Gx6UXST8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a1dce17a44fe63d1f6b6c51",
+          "published_at": "2026-05-30T11:15:30.000Z"
+        },
         {
           "iso_639_1": "en",
           "iso_3166_1": "US",
@@ -97,7 +109,7 @@
           "key": "W6eENs5Mjro",
           "site": "YouTube",
           "size": 1080,
-          "type": "Teaser",
+          "type": "Featurette",
           "official": true,
           "id": "6a1a0b8effdb9b6159c6f1ee",
           "published_at": "2026-05-29T15:56:54.000Z"
@@ -113,6 +125,18 @@
           "official": true,
           "id": "6a184720162190b051eadb17",
           "published_at": "2026-05-28T13:39:23.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "We felt the power at the UK Premiere of Masters of the Universe",
+          "key": "jy4llRrRQ_U",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a1dce38fe45362611c0a03c",
+          "published_at": "2026-05-28T13:34:27.000Z"
         },
         {
           "iso_639_1": "en",

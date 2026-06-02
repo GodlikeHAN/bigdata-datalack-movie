@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1404791,
-  "ingestion_time_utc": "2026-06-01T19:57:07.274341+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:47.811295+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/rV9MLgLm4i5ImuhhqdJ2fa7JMc2.jpg",
@@ -27,7 +27,7 @@
     "original_language": "ja",
     "original_title": "ドールハウス",
     "overview": "After losing their child, a mother finds solace in a life-sized ancient doll she finds on the market.  When a new daughter enters the family's life, strange things begin to happen and no matter how hard the family tries to get rid of it, the doll always finds its way back.",
-    "popularity": 32.4286,
+    "popularity": 28.7866,
     "poster_path": "/vUs4OPpvu4Is7wIGaXkseNJHhEA.jpg",
     "production_companies": [
       {
@@ -64,8 +64,8 @@
     "tagline": "It Wants to Play.",
     "title": "Dollhouse",
     "video": false,
-    "vote_average": 7.506,
-    "vote_count": 80,
+    "vote_average": 7.488,
+    "vote_count": 81,
     "videos": {
       "results": [
         {

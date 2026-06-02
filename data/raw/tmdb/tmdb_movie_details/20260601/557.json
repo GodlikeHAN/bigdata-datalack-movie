@@ -1,0 +1,313 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 557,
+  "ingestion_time_utc": "2026-06-02T13:53:48.944130+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+    "belongs_to_collection": {
+      "id": 556,
+      "name": "Spider-Man Collection",
+      "poster_path": "/bp5PqLa06QA1LsELA1SsKZ008H7.jpg",
+      "backdrop_path": "/waZqriYTuBE3WqXI3SDGi3kfDQE.jpg"
+    },
+    "budget": 139000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "homepage": "https://www.sonypictures.com/movies/spiderman",
+    "id": 557,
+    "imdb_id": "tt0145487",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Spider-Man",
+    "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+    "popularity": 30.1216,
+    "poster_path": "/kjdJntyBeEvqm9w97QGBdxPptzj.jpg",
+    "production_companies": [
+      {
+        "id": 19551,
+        "logo_path": "/2WpWp9b108hizjHKdA107hFmvQ5.png",
+        "name": "Marvel Enterprises",
+        "origin_country": "US"
+      },
+      {
+        "id": 326,
+        "logo_path": null,
+        "name": "Laura Ziskin Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2002-05-01",
+    "revenue": 821708551,
+    "runtime": 121,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Go for the ultimate spin.",
+    "title": "Spider-Man",
+    "video": false,
+    "vote_average": 7.329,
+    "vote_count": 20669,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Spider-Man Fights the Green Goblin for the First Time",
+          "key": "AAGZWvaYz5M",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "68ab37a754acb6efb5548300",
+          "published_at": "2025-08-21T15:00:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Parker AVENGES Uncle Ben",
+          "key": "YPCZ0-6-J7Y",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "690ebe02e8d241e7b5c0536b",
+          "published_at": "2025-04-02T16:00:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Toonami Long Promo",
+          "key": "1sCdl0u9VvI",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Teaser",
+          "official": false,
+          "id": "6480ef00d2b209012dfb3f5d",
+          "published_at": "2023-06-04T08:44:14.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Toonami Promo",
+          "key": "pdXa3iirc3E",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Teaser",
+          "official": false,
+          "id": "647c37a7caef2d0119c0082e",
+          "published_at": "2023-06-03T06:11:36.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Toonami Short Promo",
+          "key": "r9Lag0BlKl8",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Teaser",
+          "official": false,
+          "id": "647c37fccaef2d00aa42f1c1",
+          "published_at": "2023-06-03T05:02:58.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Becoming The Spider Wrestler: Bone Saw McGraw Behind The Scenes",
+          "key": "hXAxys7EKJA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6472a85a95665800debab4ef",
+          "published_at": "2023-05-26T14:00:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "t06RUxPbp_c",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "62ed76c41c63290084cc2683",
+          "published_at": "2022-08-05T19:00:21.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "nwyO5Ue6JUQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "699f086fa29895fa03f22cd9",
+          "published_at": "2022-08-05T15:00:36.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Green Goblin Captures Spider-Man",
+          "key": "bAB_wugqZcg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "628c456fdf86a800a6fde39b",
+          "published_at": "2022-05-24T00:00:10.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Green Goblin Tries To Recruit Spider-Man",
+          "key": "HlQjSXR3Q-Y",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "62887d216c84922f756b37d8",
+          "published_at": "2022-05-21T00:00:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Wrestling With Spider-Man",
+          "key": "QFw2CIN2e-Y",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6279b95707291c00a4e78af2",
+          "published_at": "2022-05-10T00:00:07.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Peter & MJ Talk About Spider-Man",
+          "key": "hTrNF6_jdl4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "627a158dd400f30da73726ff",
+          "published_at": "2022-05-07T00:00:15.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Green Goblin Final Showdown",
+          "key": "6ZKg6SN2hhQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6271fc7266f2d2005062538d",
+          "published_at": "2022-05-04T00:00:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "First 10 Minutes",
+          "key": "OS9lmBStQ9c",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6271aa696d4c970051bb92a0",
+          "published_at": "2022-05-03T20:00:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Celebrating 20 Years of SPIDER-MAN at the Movies",
+          "key": "UJEa7B4Jm6Q",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a09056b42513b5ea0690225",
+          "published_at": "2022-05-03T16:02:13.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Peter Tests His New Powers Around Town",
+          "key": "VclUyl-PKVk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "626c9039c74eba0e2869926f",
+          "published_at": "2022-04-30T00:00:07.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Norman Osborn's Green Goblin Transformation",
+          "key": "pnKtwJ4LqFs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "621ee5855c3247006d4dede2",
+          "published_at": "2022-03-02T01:00:21.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "MJ & Spider-Man Kiss",
+          "key": "mozKYgMsCzE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "620abd0de04aca0068cb43b0",
+          "published_at": "2022-02-14T20:00:14.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer 1",
+          "key": "_yhFofFZGcc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "699f0876fc2b2dc5fff22e81",
+          "published_at": "2017-02-06T20:24:14.000Z"
+        }
+      ]
+    }
+  }
+}

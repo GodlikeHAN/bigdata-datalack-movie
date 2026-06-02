@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1233413,
-  "ingestion_time_utc": "2026-06-01T19:57:03.686512+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:43.913828+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Sinners",
     "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-    "popularity": 39.7942,
+    "popularity": 36.9606,
     "poster_path": "/oucvKATkCI77ngtPjxAI9SAZW42.jpg",
     "production_companies": [
       {
@@ -84,8 +84,8 @@
     "tagline": "Dance with the devil.",
     "title": "Sinners",
     "video": false,
-    "vote_average": 7.494,
-    "vote_count": 4564,
+    "vote_average": 7.495,
+    "vote_count": 4566,
     "videos": {
       "results": [
         {

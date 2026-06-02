@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1327819,
-  "ingestion_time_utc": "2026-06-01T19:56:54.213054+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:32.619305+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
@@ -39,7 +39,7 @@
     "original_language": "en",
     "original_title": "Hoppers",
     "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-    "popularity": 145.8289,
+    "popularity": 130.2876,
     "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
     "production_companies": [
       {
@@ -75,8 +75,8 @@
     "tagline": "Act natural.",
     "title": "Hoppers",
     "video": false,
-    "vote_average": 8.165,
-    "vote_count": 1319,
+    "vote_average": 8.168,
+    "vote_count": 1325,
     "videos": {
       "results": [
         {

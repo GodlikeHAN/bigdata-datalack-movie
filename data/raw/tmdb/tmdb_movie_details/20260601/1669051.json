@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1669051,
-  "ingestion_time_utc": "2026-06-01T19:57:01.696495+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:41.660024+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/a2PyqyjREwjnrjdJyJtHfSQOxyf.jpg",
@@ -23,7 +23,7 @@
     "original_language": "tl",
     "original_title": "Kesong Puti",
     "overview": "Have a taste of VMX Newest Temptation Apphle Celso. Lena, a Kesong Puti vendor, meets a charming dairy supplier Manny. Their chemistry sparks a daring secret that transforms her humble cheese into their town’s obsession.",
-    "popularity": 45.9233,
+    "popularity": 45.8982,
     "poster_path": "/8zYU8hlKR5111IToxXvv5575tZG.jpg",
     "production_companies": [
       {

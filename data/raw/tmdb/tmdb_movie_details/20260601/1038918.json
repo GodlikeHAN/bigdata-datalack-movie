@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1038918,
-  "ingestion_time_utc": "2026-06-01T19:57:06.962416+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:47.182138+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/zADcOKcoplphgtTtXRtTEzzF0qC.jpg",
@@ -32,7 +32,7 @@
     "original_language": "ja",
     "original_title": "美女奉行 おんな牢秘抄II",
     "overview": "",
-    "popularity": 33.1979,
+    "popularity": 27.3891,
     "poster_path": "/i3Ouy0rMUHyKeHZV3PYl106OSwe.jpg",
     "production_companies": [],
     "production_countries": [

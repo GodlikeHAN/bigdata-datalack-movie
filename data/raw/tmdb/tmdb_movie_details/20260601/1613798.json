@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1613798,
-  "ingestion_time_utc": "2026-06-01T19:57:01.170452+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:41.037891+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/xyW8rJO3rwG2EGcTO6eaUEa8b9d.jpg",
@@ -27,7 +27,7 @@
     "original_language": "es",
     "original_title": "Venganza",
     "overview": "The brutal murder of the wife of “Toro,” a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible.",
-    "popularity": 48.9762,
+    "popularity": 44.3895,
     "poster_path": "/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
     "production_companies": [
       {
@@ -68,8 +68,8 @@
     "tagline": "",
     "title": "Vengeance",
     "video": false,
-    "vote_average": 7.461,
-    "vote_count": 230,
+    "vote_average": 7.474,
+    "vote_count": 232,
     "videos": {
       "results": [
         {

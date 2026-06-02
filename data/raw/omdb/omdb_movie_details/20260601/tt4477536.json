@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt4477536",
-  "ingestion_time_utc": "2026-06-01T19:57:51.955415+00:00",
+  "ingestion_time_utc": "2026-06-02T13:54:32.813427+00:00",
   "data": {
     "Title": "Fifty Shades Freed",
     "Year": "2018",

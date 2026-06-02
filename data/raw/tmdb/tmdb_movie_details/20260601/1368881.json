@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1368881,
-  "ingestion_time_utc": "2026-06-01T19:56:56.433471+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:35.029617+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Ladies First",
     "overview": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
-    "popularity": 83.6047,
+    "popularity": 71.7287,
     "poster_path": "/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
     "production_companies": [
       {
@@ -64,8 +64,8 @@
     "tagline": "",
     "title": "Ladies First",
     "video": false,
-    "vote_average": 6.032,
-    "vote_count": 216,
+    "vote_average": 6.022,
+    "vote_count": 225,
     "videos": {
       "results": [
         {

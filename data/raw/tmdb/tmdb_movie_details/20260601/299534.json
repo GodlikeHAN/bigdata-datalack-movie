@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 299534,
-  "ingestion_time_utc": "2026-06-01T19:57:05.531288+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:46.879596+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "Avengers: Endgame",
     "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
-    "popularity": 33.6676,
+    "popularity": 32.3586,
     "poster_path": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
     "production_companies": [
       {
@@ -78,7 +78,7 @@
     "title": "Avengers: Endgame",
     "video": false,
     "vote_average": 8.236,
-    "vote_count": 27758,
+    "vote_count": 27763,
     "videos": {
       "results": [
         {

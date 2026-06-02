@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1557848,
-  "ingestion_time_utc": "2026-06-01T19:57:05.205980+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:46.053156+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/fOAIBZQOyqktxjpedHZKTDJegkt.jpg",
@@ -31,7 +31,7 @@
     "original_language": "tr",
     "original_title": "Uykucu",
     "overview": "Ferman is a cold-blooded hitman who eliminates former agents for a secret organization. While eliminating a target during one of his missions, he encounters Saye and unexpectedly falls in love with her. Instead of killing her, he chooses to bring her into the organization. This decision marks the beginning of an irreversible path in both of their lives.",
-    "popularity": 34.6386,
+    "popularity": 29.398,
     "poster_path": "/xvycfI4PRusKfqvzmkb8xqO0g48.jpg",
     "production_companies": [
       {

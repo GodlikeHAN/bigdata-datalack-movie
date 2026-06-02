@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0077123",
-  "ingestion_time_utc": "2026-06-01T19:57:50.076029+00:00",
+  "ingestion_time_utc": "2026-06-02T13:54:30.797968+00:00",
   "data": {
     "Title": "The Adolescent",
     "Year": "1979",

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1306368,
-  "ingestion_time_utc": "2026-06-01T19:57:07.486115+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:48.015358+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "The Rip",
     "overview": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
-    "popularity": 32.2305,
+    "popularity": 29.3115,
     "poster_path": "/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg",
     "production_companies": [
       {

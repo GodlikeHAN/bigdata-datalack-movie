@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1630423,
-  "ingestion_time_utc": "2026-06-01T19:56:58.935897+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:37.656590+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/xA6AM5MvEkieZKlv1Tn3sN23I7i.jpg",
@@ -31,7 +31,7 @@
     "original_language": "th",
     "original_title": "Lueat Rak Nakkha",
     "overview": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces.",
-    "popularity": 65.116,
+    "popularity": 58.9076,
     "poster_path": "/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
     "production_companies": [
       {
@@ -62,8 +62,8 @@
     "tagline": "Love, Sacrifice and Vengeance.",
     "title": "My Dearest Assassin",
     "video": false,
-    "vote_average": 8.614,
-    "vote_count": 223,
+    "vote_average": 8.627,
+    "vote_count": 225,
     "videos": {
       "results": [
         {

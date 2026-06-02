@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt13452544",
-  "ingestion_time_utc": "2026-06-01T19:57:59.930921+00:00",
+  "ingestion_time_utc": "2026-06-02T13:54:40.037065+00:00",
   "data": {
     "Title": "Graphic Desires",
     "Year": "2022",

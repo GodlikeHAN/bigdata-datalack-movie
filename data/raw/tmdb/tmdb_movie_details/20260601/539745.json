@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 539745,
-  "ingestion_time_utc": "2026-06-01T19:57:05.742141+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:46.564615+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/1yl7xmTN2iEyiD3gF8M68lBhR39.jpg",
@@ -39,7 +39,7 @@
     "original_language": "en",
     "original_title": "Animal Farm",
     "overview": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
-    "popularity": 33.8526,
+    "popularity": 30.308,
     "poster_path": "/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
     "production_companies": [
       {
@@ -82,8 +82,8 @@
     "tagline": "It's time for these animals to stand and fight.",
     "title": "Animal Farm",
     "video": false,
-    "vote_average": 6.1,
-    "vote_count": 47,
+    "vote_average": 6.0,
+    "vote_count": 48,
     "videos": {
       "results": [
         {

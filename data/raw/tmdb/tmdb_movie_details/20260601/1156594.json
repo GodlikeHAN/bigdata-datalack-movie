@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1156594,
-  "ingestion_time_utc": "2026-06-01T19:57:05.881593+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:45.305934+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/7QirCB1o80NEFpQGlQRZerZbQEp.jpg",
@@ -33,7 +33,7 @@
     "original_language": "es",
     "original_title": "Culpa nuestra",
     "overview": "Jenna and Lion's wedding brings about the long-awaited reunion between Noah and Nick after their breakup. Nick's inability to forgive Noah stands as an insurmountable barrier. He, heir to his grandfather's businesses, and she, starting her professional life, resist fueling a flame that's still alive. But now that their paths have crossed again, will love be stronger than resentment?",
-    "popularity": 35.8193,
+    "popularity": 34.0254,
     "poster_path": "/yzqHt4m1SeY9FbPrfZ0C2Hi9x1s.jpg",
     "production_companies": [
       {
@@ -74,8 +74,8 @@
     "tagline": "",
     "title": "Our Fault",
     "video": false,
-    "vote_average": 7.366,
-    "vote_count": 670,
+    "vote_average": 7.361,
+    "vote_count": 671,
     "videos": {
       "results": [
         {

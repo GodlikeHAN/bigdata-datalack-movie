@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 758308,
-  "ingestion_time_utc": "2026-06-01T19:56:54.318889+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:32.824397+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/dMX6RR0SHgI43r2CsDkF5wzozOw.jpg",
@@ -23,7 +23,7 @@
     "original_language": "es",
     "original_title": "Red Latex",
     "overview": "Eric lives with his pregnant wife in his in-laws' house because they have no money to become independent. Eric is very docile and the people around him: his wife, his father, his father-in-law, and his boss have always told him what he has to do with his life. But everything has a limit. Fed of with this situation, Eric leaves his family and escapes to the mansion of the dominatrix Mistress Gise to become her slave. Eric hopes to achieve liberation by submitting to Mistress Gise. When his family finds out, they do what they can to get him back. Meanwhile, Mistress Gise is a twisted Domina who takes Eric's slavery beyond any expected limit.",
-    "popularity": 129.4559,
+    "popularity": 151.5783,
     "poster_path": "/hP1o5waM6ohMTKr4QcOtyOP1oiu.jpg",
     "production_companies": [
       {

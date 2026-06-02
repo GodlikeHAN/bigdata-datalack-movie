@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1291608,
-  "ingestion_time_utc": "2026-06-01T19:56:55.911298+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:34.407286+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
@@ -36,7 +36,7 @@
     "original_language": "hi",
     "original_title": "धुरंधर",
     "overview": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
-    "popularity": 92.8225,
+    "popularity": 87.6481,
     "poster_path": "/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
     "production_companies": [
       {

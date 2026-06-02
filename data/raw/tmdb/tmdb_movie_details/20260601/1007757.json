@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1007757,
-  "ingestion_time_utc": "2026-06-01T19:56:46.817547+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:28.988311+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
@@ -35,7 +35,7 @@
     "original_language": "en",
     "original_title": "Swapped",
     "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
-    "popularity": 265.3704,
+    "popularity": 248.6425,
     "poster_path": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
     "production_companies": [
       {
@@ -76,8 +76,8 @@
     "tagline": "Transform your destiny.",
     "title": "Swapped",
     "video": false,
-    "vote_average": 8.978,
-    "vote_count": 1512,
+    "vote_average": 8.974,
+    "vote_count": 1522,
     "videos": {
       "results": [
         {

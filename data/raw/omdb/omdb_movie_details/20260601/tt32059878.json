@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt32059878",
-  "ingestion_time_utc": "2026-06-01T19:57:44.050164+00:00",
+  "ingestion_time_utc": "2026-06-02T13:54:24.051567+00:00",
   "data": {
     "Title": "The Crucifix: Blood of the Exorcist",
     "Year": "2025",

@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0458352",
-  "ingestion_time_utc": "2026-06-01T19:57:52.088657+00:00",
+  "ingestion_time_utc": "2026-06-02T13:54:32.948347+00:00",
   "data": {
     "Title": "The Devil Wears Prada",
     "Year": "2006",

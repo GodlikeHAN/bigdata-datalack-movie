@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1038392,
-  "ingestion_time_utc": "2026-06-01T19:57:02.327435+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:42.474001+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/i8MupUe4xgmYXoRNAQMYvuoexSU.jpg",
@@ -28,7 +28,7 @@
     "original_language": "en",
     "original_title": "The Conjuring: Last Rites",
     "overview": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
-    "popularity": 43.1864,
+    "popularity": 39.0083,
     "poster_path": "/byWgphT74ClOVa8EOGzYDkl8DVL.jpg",
     "production_companies": [
       {
@@ -77,8 +77,8 @@
     "tagline": "The case that ended it all.",
     "title": "The Conjuring: Last Rites",
     "video": false,
-    "vote_average": 6.913,
-    "vote_count": 1845,
+    "vote_average": 6.912,
+    "vote_count": 1847,
     "videos": {
       "results": [
         {

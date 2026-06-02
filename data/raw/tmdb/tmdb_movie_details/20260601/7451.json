@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 7451,
-  "ingestion_time_utc": "2026-06-01T19:57:06.317261+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:47.706110+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/2OHa6ukEq3Hce7Pc2kvu8wkmMFY.jpg",
@@ -44,7 +44,7 @@
     "original_language": "en",
     "original_title": "xXx",
     "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
-    "popularity": 32.5787,
+    "popularity": 32.3236,
     "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
     "production_companies": [
       {

@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt34378301",
-  "ingestion_time_utc": "2026-06-01T19:57:44.844917+00:00",
+  "ingestion_time_utc": "2026-06-02T13:54:24.992874+00:00",
   "data": {
     "Title": "Tom Clancy's Jack Ryan: Ghost War",
     "Year": "2026",

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1265609,
-  "ingestion_time_utc": "2026-06-01T19:57:01.484252+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:40.832131+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "War Machine",
     "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-    "popularity": 50.4627,
+    "popularity": 46.6216,
     "poster_path": "/ril8yx5SOmj0KjNlftsdfIp00fr.jpg",
     "production_companies": [
       {
@@ -84,8 +84,8 @@
     "tagline": "All grit. No quit.",
     "title": "War Machine",
     "video": false,
-    "vote_average": 7.3,
-    "vote_count": 1810,
+    "vote_average": 7.343,
+    "vote_count": 1813,
     "videos": {
       "results": [
         {

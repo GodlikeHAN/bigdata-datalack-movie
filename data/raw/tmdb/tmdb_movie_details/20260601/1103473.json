@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1103473,
-  "ingestion_time_utc": "2026-06-01T19:56:59.678154+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:39.197335+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/l1nekhf05HS5OpBr0vRqcD3NxoS.jpg",
@@ -35,7 +35,7 @@
     "original_language": "kn",
     "original_title": "ಕೆಡಿ - ದಿ ಡೆವಿಲ್",
     "overview": "In the early 1970s, a petty criminal Kaali unwittingly involves himself with underworld thugs, catalyzing events beyond his control.",
-    "popularity": 55.7937,
+    "popularity": 63.3073,
     "poster_path": "/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
     "production_companies": [
       {

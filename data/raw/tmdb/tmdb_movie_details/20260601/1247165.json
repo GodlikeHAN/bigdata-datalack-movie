@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1247165,
-  "ingestion_time_utc": "2026-06-01T19:57:00.003855+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:39.508932+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/w4bjx5qCKG6SjhnqLi2aj1GUsxe.jpg",
@@ -31,7 +31,7 @@
     "original_language": "mr",
     "original_title": "राजा शिवाजी",
     "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
-    "popularity": 55.0795,
+    "popularity": 49.5606,
     "poster_path": "/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
     "production_companies": [
       {

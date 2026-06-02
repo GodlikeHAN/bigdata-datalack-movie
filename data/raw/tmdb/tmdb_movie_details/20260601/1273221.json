@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1273221,
-  "ingestion_time_utc": "2026-06-01T19:57:06.210425+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:41.558861+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
@@ -32,7 +32,7 @@
     "original_language": "en",
     "original_title": "Scary Movie",
     "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
-    "popularity": 33.5828,
+    "popularity": 46.1744,
     "poster_path": "/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg",
     "production_companies": [
       {
@@ -69,10 +69,46 @@
     "tagline": "Every line will be crossed.",
     "title": "Scary Movie",
     "video": false,
-    "vote_average": 8.0,
-    "vote_count": 3,
+    "vote_average": 4.8,
+    "vote_count": 8,
     "videos": {
       "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Final Trailer",
+          "key": "cGgWAHXuTKc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6a1dae07c26b8795106b6da2",
+          "published_at": "2026-06-01T15:59:41.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Arsenal Parade",
+          "key": "yhN7Yynjo6Q",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a1dc86b884355e826480f94",
+          "published_at": "2026-06-01T14:42:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ghostface goes to the Champions League",
+          "key": "fFIhWgOvlH4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a1dc87ffe45362611c0a008",
+          "published_at": "2026-06-01T14:03:50.000Z"
+        },
         {
           "iso_639_1": "en",
           "iso_3166_1": "US",

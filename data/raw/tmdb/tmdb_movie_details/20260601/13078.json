@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 13078,
-  "ingestion_time_utc": "2026-06-01T19:57:07.167734+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:47.603065+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/hKHX04i2zQrgZJdxS9UuFsgPUd7.jpg",
@@ -23,7 +23,7 @@
     "original_language": "en",
     "original_title": "The Babysitters",
     "overview": "Seventeen-year-old Shirley is a good student who works as a babysitter in order to make money for college. One night Michael, a father Shirley works for, confesses he's unhappy with married life. Shirley has a crush on Michael, and seizes this moment to kiss him. Michael is so happy he presents Shirley with a big tip, which gives her an idea. Shirley plans to make extra money by setting up her teenage friends with other unhappy fathers.",
-    "popularity": 32.8153,
+    "popularity": 31.4203,
     "poster_path": "/nsrNUqGXI95unRKZEu8BJ584xWn.jpg",
     "production_companies": [
       {
@@ -73,7 +73,7 @@
     "title": "The Babysitters",
     "video": false,
     "vote_average": 6.0,
-    "vote_count": 541,
+    "vote_count": 542,
     "videos": {
       "results": [
         {

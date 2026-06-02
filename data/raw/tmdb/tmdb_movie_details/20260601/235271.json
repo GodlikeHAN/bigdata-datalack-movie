@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 235271,
-  "ingestion_time_utc": "2026-06-01T19:56:56.850487+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:35.571910+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/aqqoDJs8vYp2EZ74aQ1UMY0sjM7.jpg",
@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Addicted",
     "overview": "A gallerist risks her family and flourishing career when she enters into an affair with a talented painter and slowly loses control of her life.",
-    "popularity": 77.0436,
+    "popularity": 77.9406,
     "poster_path": "/fAERrD6vvmznDoL99wlgjhSfPcH.jpg",
     "production_companies": [
       {

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1061474,
-  "ingestion_time_utc": "2026-06-01T19:56:48.079877+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:30.230157+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "Superman",
     "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
-    "popularity": 30.8661,
+    "popularity": 32.3405,
     "poster_path": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
     "production_companies": [
       {
@@ -90,8 +90,8 @@
     "tagline": "Look up.",
     "title": "Superman",
     "video": false,
-    "vote_average": 7.3,
-    "vote_count": 4798,
+    "vote_average": 7.34,
+    "vote_count": 4799,
     "videos": {
       "results": [
         {

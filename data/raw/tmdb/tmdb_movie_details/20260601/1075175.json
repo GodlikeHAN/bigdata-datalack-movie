@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1075175,
-  "ingestion_time_utc": "2026-06-01T19:57:03.479163+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:43.701991+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/akvlTeB0LiNzw9U9YCAB8wwb5Qo.jpg",
@@ -23,7 +23,7 @@
     "original_language": "en",
     "original_title": "How to Have Sex",
     "overview": "Three British teenage girls go on a rites-of-passage holiday—drinking, clubbing and hooking up, in what should be the best summer of their lives.",
-    "popularity": 39.9387,
+    "popularity": 37.4375,
     "poster_path": "/yQyoFCBLGJH5HXESmJAzaiXw9zU.jpg",
     "production_companies": [
       {

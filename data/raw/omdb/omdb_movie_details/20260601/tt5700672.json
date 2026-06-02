@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt5700672",
-  "ingestion_time_utc": "2026-06-01T19:57:52.627829+00:00",
+  "ingestion_time_utc": "2026-06-02T13:54:33.481623+00:00",
   "data": {
     "Title": "Train to Busan",
     "Year": "2016",

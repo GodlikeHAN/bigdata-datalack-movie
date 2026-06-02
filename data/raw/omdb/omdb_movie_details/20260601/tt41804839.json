@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt41804839",
-  "ingestion_time_utc": "2026-06-01T19:57:49.124760+00:00",
+  "ingestion_time_utc": "2026-06-02T13:54:29.855615+00:00",
   "data": {
     "Title": "Krishnavataram",
     "Year": "2026",

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 847742,
-  "ingestion_time_utc": "2026-06-01T19:56:59.038370+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:38.887826+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/enwc2Acl38mvX33QffmTzDSV89D.jpg",
@@ -36,7 +36,7 @@
     "original_language": "ml",
     "original_title": "ദൃശ്യം 3",
     "overview": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice ?",
-    "popularity": 57.2973,
+    "popularity": 52.7992,
     "poster_path": "/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
     "production_companies": [
       {

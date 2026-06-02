@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_popular",
   "page": 9,
-  "ingestion_time_utc": "2026-06-01T19:56:42.293845+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:25.231475+00:00",
   "data": {
     "page": 9,
     "results": [
@@ -19,13 +19,13 @@
         "original_language": "en",
         "original_title": "Fifty Shades of Grey",
         "overview": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
-        "popularity": 33.4918,
+        "popularity": 31.7554,
         "poster_path": "/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg",
         "release_date": "2015-02-11",
         "softcore": false,
         "video": false,
-        "vote_average": 5.869,
-        "vote_count": 12385
+        "vote_average": 5.9,
+        "vote_count": 12386
       },
       {
         "adult": false,
@@ -39,13 +39,13 @@
         "original_language": "en",
         "original_title": "Harry Potter and the Chamber of Secrets",
         "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione's magical abilities and courage.",
-        "popularity": 33.2267,
+        "popularity": 31.8533,
         "poster_path": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
         "release_date": "2002-11-13",
         "softcore": false,
         "video": false,
         "vote_average": 7.704,
-        "vote_count": 23585
+        "vote_count": 23586
       },
       {
         "adult": false,
@@ -59,7 +59,7 @@
         "original_language": "ja",
         "original_title": "美女奉行 おんな牢秘抄II",
         "overview": "",
-        "popularity": 33.1979,
+        "popularity": 27.3891,
         "poster_path": "/i3Ouy0rMUHyKeHZV3PYl106OSwe.jpg",
         "release_date": "1995-09-21",
         "softcore": false,
@@ -79,7 +79,7 @@
         "original_language": "th",
         "original_title": "ฟู้ดทรัค ลัก (รัก) หมูเด้ง",
         "overview": "When a child sneaks onto their food truck looking for his father, three friends go on a wild road trip, running into police, monks — and a famous hippo.",
-        "popularity": 33.1502,
+        "popularity": 33.6826,
         "poster_path": "/fOhSmHSEm0iVQ2AdG5SkjXnsvUM.jpg",
         "release_date": "2025-08-28",
         "softcore": false,
@@ -100,13 +100,13 @@
         "original_language": "en",
         "original_title": "Star Wars",
         "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
-        "popularity": 33.0475,
+        "popularity": 30.2642,
         "poster_path": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
         "release_date": "1977-05-25",
         "softcore": false,
         "video": false,
         "vote_average": 8.205,
-        "vote_count": 22340
+        "vote_count": 22341
       },
       {
         "adult": false,
@@ -122,13 +122,13 @@
         "original_language": "ko",
         "original_title": "부산행",
         "overview": "When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.",
-        "popularity": 32.8908,
+        "popularity": 28.8933,
         "poster_path": "/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
         "release_date": "2016-07-20",
         "softcore": false,
         "video": false,
         "vote_average": 7.749,
-        "vote_count": 8379
+        "vote_count": 8381
       },
       {
         "adult": false,
@@ -141,13 +141,13 @@
         "original_language": "en",
         "original_title": "The Babysitters",
         "overview": "Seventeen-year-old Shirley is a good student who works as a babysitter in order to make money for college. One night Michael, a father Shirley works for, confesses he's unhappy with married life. Shirley has a crush on Michael, and seizes this moment to kiss him. Michael is so happy he presents Shirley with a big tip, which gives her an idea. Shirley plans to make extra money by setting up her teenage friends with other unhappy fathers.",
-        "popularity": 32.8153,
+        "popularity": 31.4203,
         "poster_path": "/nsrNUqGXI95unRKZEu8BJ584xWn.jpg",
         "release_date": "2008-05-09",
         "softcore": false,
         "video": false,
         "vote_average": 6.0,
-        "vote_count": 541
+        "vote_count": 542
       },
       {
         "adult": false,
@@ -164,7 +164,7 @@
         "original_language": "en",
         "original_title": "xXx",
         "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
-        "popularity": 32.5787,
+        "popularity": 32.3236,
         "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "release_date": "2002-08-09",
         "softcore": false,
@@ -184,13 +184,13 @@
         "original_language": "ja",
         "original_title": "ドールハウス",
         "overview": "After losing their child, a mother finds solace in a life-sized ancient doll she finds on the market.  When a new daughter enters the family's life, strange things begin to happen and no matter how hard the family tries to get rid of it, the doll always finds its way back.",
-        "popularity": 32.4286,
+        "popularity": 28.7866,
         "poster_path": "/vUs4OPpvu4Is7wIGaXkseNJHhEA.jpg",
         "release_date": "2025-06-13",
         "softcore": false,
         "video": false,
-        "vote_average": 7.506,
-        "vote_count": 80
+        "vote_average": 7.488,
+        "vote_count": 81
       },
       {
         "adult": false,
@@ -205,7 +205,7 @@
         "original_language": "en",
         "original_title": "Spider-Man: Brand New Day",
         "overview": "Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name, he's devoted himself entirely to protecting his city — a full-time Spider-Man — but as the demands on him intensify, the pressure sparks a surprising physical evolution that threatens his existence, even as a strange new pattern of crimes gives rise to one of the most powerful threats he has ever faced.",
-        "popularity": 32.2358,
+        "popularity": 38.3762,
         "poster_path": "/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
         "release_date": "2026-07-29",
         "softcore": false,
@@ -226,7 +226,7 @@
         "original_language": "en",
         "original_title": "The Rip",
         "overview": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
-        "popularity": 32.2305,
+        "popularity": 29.3115,
         "poster_path": "/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg",
         "release_date": "2026-01-13",
         "softcore": false,
@@ -249,7 +249,7 @@
         "original_language": "en",
         "original_title": "Shrek",
         "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
-        "popularity": 32.114,
+        "popularity": 30.1361,
         "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
         "release_date": "2001-05-18",
         "softcore": false,
@@ -270,7 +270,7 @@
         "original_language": "it",
         "original_title": "Il peccato di Lola",
         "overview": "Young man has his dreams come true when the sexy new maid seduces him. But she also has a secret that leads to trouble.",
-        "popularity": 32.0911,
+        "popularity": 31.0472,
         "poster_path": "/qaJ4iQngrLbyz9OgaQkJLppDN6m.jpg",
         "release_date": "1984-05-04",
         "softcore": false,
@@ -292,7 +292,7 @@
         "original_language": "en",
         "original_title": "The Wild Robot",
         "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-        "popularity": 32.0587,
+        "popularity": 29.2251,
         "poster_path": "/eG9lz41mJqsI4J6ubMtVqD26q2J.jpg",
         "release_date": "2024-09-12",
         "softcore": false,
@@ -313,13 +313,13 @@
         "original_language": "en",
         "original_title": "Forrest Gump",
         "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
-        "popularity": 32.0289,
+        "popularity": 28.7475,
         "poster_path": "/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
         "release_date": "1994-06-23",
         "softcore": false,
         "video": false,
         "vote_average": 8.465,
-        "vote_count": 29763
+        "vote_count": 29766
       },
       {
         "adult": false,
@@ -334,7 +334,7 @@
         "original_language": "fr",
         "original_title": "Irréversible",
         "overview": "A woman’s lover and her ex-boyfriend take justice into their own hands after she becomes the victim of a rapist. Because some acts can’t be undone. Because man is an animal. Because the desire for vengeance is a natural impulse. Because most crimes remain unpunished.",
-        "popularity": 31.939,
+        "popularity": 29.3066,
         "poster_path": "/rxeDxo8FvZpLu6iplNpxdtAVnfu.jpg",
         "release_date": "2002-05-22",
         "softcore": false,
@@ -355,13 +355,13 @@
         "original_language": "en",
         "original_title": "Mission: Impossible - The Final Reckoning",
         "overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
-        "popularity": 31.7854,
+        "popularity": 29.402,
         "poster_path": "/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
         "release_date": "2025-05-17",
         "softcore": false,
         "video": false,
-        "vote_average": 7.163,
-        "vote_count": 2819
+        "vote_average": 7.164,
+        "vote_count": 2820
       },
       {
         "adult": false,
@@ -374,7 +374,7 @@
         "original_language": "pt",
         "original_title": "Conspiração Fatal",
         "overview": "Davi Martins, a commercial director of a financial institution, and Juliana Martins, a personal trainer, are a couple trying to recover from a crisis. At work, Davi ends up getting involved in the investigation of a financial scandal, putting himself in the crosshairs of dangerous people. Little by little, Juliana discovers that her new home may not be a new beginning, but the stage for a real nightmare. Some secrets may end her life.",
-        "popularity": 31.719,
+        "popularity": 30.408,
         "poster_path": "/zpj3nNoc5xaUZTIdnuhwXwUcRag.jpg",
         "release_date": "2022-05-26",
         "softcore": false,
@@ -396,7 +396,7 @@
         "original_language": "en",
         "original_title": "Inside Out 2",
         "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
-        "popularity": 30.9596,
+        "popularity": 28.9689,
         "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
         "release_date": "2024-06-11",
         "softcore": false,
@@ -416,16 +416,16 @@
         "original_language": "en",
         "original_title": "Spider-Man",
         "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
-        "popularity": 30.9545,
+        "popularity": 30.1216,
         "poster_path": "/kjdJntyBeEvqm9w97QGBdxPptzj.jpg",
         "release_date": "2002-05-01",
         "softcore": false,
         "video": false,
         "vote_average": 7.329,
-        "vote_count": 20668
+        "vote_count": 20669
       }
     ],
-    "total_pages": 57164,
-    "total_results": 1143262
+    "total_pages": 57171,
+    "total_results": 1143418
   }
 }

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 204407,
-  "ingestion_time_utc": "2026-06-01T19:57:00.658902+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:40.224955+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/fjcX01h7VNUhhNjhFBthH7sTp2z.jpg",
@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Bosco d'amore",
     "overview": "The time is the mid-14th century --- the Pope is now residing at Avignon, the Black Death is killing millions across Europe, and civil wars are adding to the turmoil and chaos. In this story adapted from Giovanni Boccaccio's Decameron, a young teenage couple is sent to live in a nearby town by the man's uncle, in an attempt to keep them safe from harm. She is from the lower classes, and he comes from a noble family -- a family that opposes his choice of a future bride. While en route to the town, the couple's horses are stolen and they are forced to continue through the forest on foot -- at a pace that introduces them to a kaleidoscope of Boccaccio's characters, from masters of mysticism, to soldiers of the warring Papal armies. Somehow, the couple manage to get through this gauntlet of sorts, and they do marry. Just as they are ready to go back to Rome, they hear that there is an insurrection in the offing, and suddenly, their brief spate of stability is threatened again.",
-    "popularity": 52.1495,
+    "popularity": 52.6254,
     "poster_path": "/jNV46xSIONTEvIAWon6NnveH7eG.jpg",
     "production_companies": [
       {

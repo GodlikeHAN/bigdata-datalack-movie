@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0499549",
-  "ingestion_time_utc": "2026-06-01T19:57:49.536511+00:00",
+  "ingestion_time_utc": "2026-06-02T13:54:30.262279+00:00",
   "data": {
     "Title": "Avatar",
     "Year": "2009",

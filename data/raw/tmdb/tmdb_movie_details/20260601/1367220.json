@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1367220,
-  "ingestion_time_utc": "2026-06-01T19:56:54.424270+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:32.933213+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
@@ -27,7 +27,7 @@
     "original_language": "ta",
     "original_title": "கருப்பு",
     "overview": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless.",
-    "popularity": 128.292,
+    "popularity": 129.3457,
     "poster_path": "/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
     "production_companies": [
       {

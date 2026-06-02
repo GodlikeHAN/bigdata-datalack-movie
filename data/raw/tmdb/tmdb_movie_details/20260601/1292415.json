@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1292415,
-  "ingestion_time_utc": "2026-06-01T19:56:55.588561+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:34.161677+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/hlZGaey4lR9hc4rGxZRAmIEsZOc.jpg",
@@ -28,7 +28,7 @@
     "original_language": "en",
     "original_title": "Beast",
     "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
-    "popularity": 95.786,
+    "popularity": 85.4608,
     "poster_path": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
     "production_companies": [
       {

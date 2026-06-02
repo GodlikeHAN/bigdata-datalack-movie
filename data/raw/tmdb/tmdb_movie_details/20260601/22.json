@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 22,
-  "ingestion_time_utc": "2026-06-01T19:56:48.706931+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:30.849981+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/zXMGAtDqJ58P8G3W4bwKyYffPhn.jpg",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
     "overview": "When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Black Pearl, and kidnaps the governor’s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her—only to uncover a terrifying curse that turns Barbossa’s crew into the undead.",
-    "popularity": 30.4374,
+    "popularity": 27.804,
     "poster_path": "/kvDwL2gTf6yxujbsWbsGQB3Z9Wa.jpg",
     "production_companies": [
       {
@@ -74,7 +74,7 @@
     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
     "video": false,
     "vote_average": 7.824,
-    "vote_count": 22239,
+    "vote_count": 22240,
     "videos": {
       "results": [
         {

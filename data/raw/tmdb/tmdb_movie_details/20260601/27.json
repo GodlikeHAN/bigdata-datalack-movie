@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 27,
-  "ingestion_time_utc": "2026-06-01T19:57:04.364203+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:44.119923+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/qU7tNIMpRqkizIObXfkJY3haTqh.jpg",
@@ -32,7 +32,7 @@
     "original_language": "en",
     "original_title": "9 Songs",
     "overview": "Matt, a young glaciologist, soars across the vast, silent, icebound immensities of the South Pole as he recalls his love affair with Lisa. They meet at a mobbed rock concert in a vast music hall - London's Brixton Academy. They are in bed at night's end. Together, over a period of several months, they pursue a mutual sexual passion whose inevitable stages unfold in counterpoint to nine live-concert songs.",
-    "popularity": 39.5314,
+    "popularity": 37.7402,
     "poster_path": "/91O7z0vo7MiNWd5xD2BoivwbQsb.jpg",
     "production_companies": [
       {

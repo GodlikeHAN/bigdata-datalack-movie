@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1470130,
-  "ingestion_time_utc": "2026-06-01T19:57:03.266193+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:43.498160+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "The Mortuary Assistant",
     "overview": "Rebecca Owens, a recent mortuary science graduate takes a night shift job at River Fields Mortuary. Initially, the job seems straightforward — embalming bodies, completing paperwork, and keeping things tidy. But once Rebecca starts working the night shift, things take a dark turn.",
-    "popularity": 40.238,
+    "popularity": 36.4824,
     "poster_path": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
     "production_companies": [
       {
@@ -81,7 +81,7 @@
     "title": "The Mortuary Assistant",
     "video": false,
     "vote_average": 5.575,
-    "vote_count": 107,
+    "vote_count": 108,
     "videos": {
       "results": [
         {

@@ -1,0 +1,76 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1646787,
+  "ingestion_time_utc": "2026-06-02T13:53:38.472613+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/zYm62AouAahA71AoOWHE5Qb0FYH.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1646787,
+    "imdb_id": "tt39715014",
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_title": "Sundutan",
+    "overview": "A hole on the wall accidentally connects two women emotionally and physically. Forbidden love, greed, betrayal... what lies beyond the hole? And for how long can they keep covering it up?",
+    "popularity": 58.0072,
+    "poster_path": "/2neZgVuY7prWIak5hhNKT53Hk0N.jpg",
+    "production_companies": [
+      {
+        "id": 149142,
+        "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+        "name": "Vivamax",
+        "origin_country": "PH"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PH",
+        "name": "Philippines"
+      }
+    ],
+    "release_date": "2026-03-06",
+    "revenue": 0,
+    "runtime": 70,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Tagalog",
+        "iso_639_1": "tl",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Sundutan",
+    "video": false,
+    "vote_average": 4.0,
+    "vote_count": 1,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "SUNDUTAN Official Trailer | Allison Ross & Jade Esguerra | VMX",
+          "key": "iVOyYHzvbKc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69a9af71dbebb04c1c5188ad",
+          "published_at": "2026-02-26T11:24:22.000Z"
+        }
+      ]
+    }
+  }
+}

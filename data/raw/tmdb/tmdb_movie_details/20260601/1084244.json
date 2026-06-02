@@ -2,14 +2,14 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1084244,
-  "ingestion_time_utc": "2026-06-01T19:57:01.379228+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:39.718554+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/wENlYOyR10DZzkICmrGUQQX4Ih5.jpg",
     "belongs_to_collection": {
       "id": 10194,
       "name": "Toy Story Collection",
-      "poster_path": "/rki5qLuwb0xnnE9seehxO9TlLhW.jpg",
+      "poster_path": "/7G9915LfUQ2lVfwMEEhDsn3kT4B.jpg",
       "backdrop_path": "/hApclyB9NEZEQujAVajzi5iWE4a.jpg"
     },
     "budget": 0,
@@ -40,7 +40,7 @@
     "original_language": "en",
     "original_title": "Toy Story 5",
     "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-    "popularity": 46.3846,
+    "popularity": 53.6795,
     "poster_path": "/7BuN6lQCAq1tLz2l3g6sHVSFGib.jpg",
     "production_companies": [
       {
@@ -75,6 +75,18 @@
     "vote_count": 0,
     "videos": {
       "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Taylor Swift’s original song, “I Knew It, I Knew You” from Toy Story 5 is yours this Friday.",
+          "key": "gQ_uRrl1Pok",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a1e40783ac8adfce4ca5c5f",
+          "published_at": "2026-06-02T01:35:45.000Z"
+        },
         {
           "iso_639_1": "en",
           "iso_3166_1": "US",

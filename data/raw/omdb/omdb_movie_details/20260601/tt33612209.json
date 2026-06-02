@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt33612209",
-  "ingestion_time_utc": "2026-06-01T19:57:42.600975+00:00",
+  "ingestion_time_utc": "2026-06-02T13:54:22.695751+00:00",
   "data": {
     "Title": "The Devil Wears Prada 2",
     "Year": "2026",

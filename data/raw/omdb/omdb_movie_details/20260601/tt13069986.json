@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt13069986",
-  "ingestion_time_utc": "2026-06-01T19:57:56.495398+00:00",
+  "ingestion_time_utc": "2026-06-02T13:54:37.096381+00:00",
   "data": {
     "Title": "After We Fell",
     "Year": "2021",

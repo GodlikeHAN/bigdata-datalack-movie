@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1197306,
-  "ingestion_time_utc": "2026-06-01T19:56:49.913546+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:32.007843+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
@@ -32,7 +32,7 @@
     "original_language": "en",
     "original_title": "A Working Man",
     "overview": "Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.",
-    "popularity": 29.4639,
+    "popularity": 28.21,
     "poster_path": "/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
     "production_companies": [
       {

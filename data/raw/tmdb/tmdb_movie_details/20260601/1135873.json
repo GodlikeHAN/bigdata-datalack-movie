@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1135873,
-  "ingestion_time_utc": "2026-06-01T19:56:49.586882+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:31.694444+00:00",
   "data": {
     "adult": false,
     "backdrop_path": null,
@@ -25,7 +25,7 @@
     "original_language": "hi",
     "original_title": "GGS - Ganteng-Ganteng Sange",
     "overview": "Kelas Bintang is back with this pack of drama called GGS - Ganteng-Ganteng Sange.",
-    "popularity": 29.6808,
+    "popularity": 31.6022,
     "poster_path": "/39fFH027tOpTyZwSNOydSAsOCzb.jpg",
     "production_companies": [
       {

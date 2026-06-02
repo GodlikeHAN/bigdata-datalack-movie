@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1314481,
-  "ingestion_time_utc": "2026-06-01T19:57:00.212927+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:41.351478+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
@@ -32,7 +32,7 @@
     "original_language": "en",
     "original_title": "The Devil Wears Prada 2",
     "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-    "popularity": 53.9372,
+    "popularity": 48.2849,
     "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
     "production_companies": [
       {
@@ -69,10 +69,34 @@
     "tagline": "Icons reign forever.",
     "title": "The Devil Wears Prada 2",
     "video": false,
-    "vote_average": 6.624,
-    "vote_count": 726,
+    "vote_average": 6.613,
+    "vote_count": 730,
     "videos": {
       "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Andy Sachs",
+          "key": "iqShRFQ9ZYI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a1ea2766c9b30f15f0d167a",
+          "published_at": "2026-05-30T04:00:28.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Keep Your Frenemies Close",
+          "key": "muCkrkPrLKE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a1ea1e3eac15e4070b45352",
+          "published_at": "2026-05-28T10:00:21.000Z"
+        },
         {
           "iso_639_1": "en",
           "iso_3166_1": "US",

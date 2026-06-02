@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt33014583",
-  "ingestion_time_utc": "2026-06-01T19:57:41.141076+00:00",
+  "ingestion_time_utc": "2026-06-02T13:54:21.210655+00:00",
   "data": {
     "Title": "Dhurandhar",
     "Year": "2025",

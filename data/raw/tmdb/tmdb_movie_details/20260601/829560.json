@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 829560,
-  "ingestion_time_utc": "2026-06-01T19:56:49.149140+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:31.272945+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/6cpRpfD3isvluFwXDGSiDVyibPJ.jpg",
@@ -32,7 +32,7 @@
     "original_language": "pl",
     "original_title": "Kolejne 365 dni",
     "overview": "Laura and Massimo's relationship hangs in the balance as they try to overcome trust issues while a tenacious Nacho works to push them apart.",
-    "popularity": 30.0748,
+    "popularity": 28.7448,
     "poster_path": "/8AWm7iMcsCI3DdGz4YEJtiMDp8Z.jpg",
     "production_companies": [
       {

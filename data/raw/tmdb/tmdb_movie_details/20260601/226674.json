@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 226674,
-  "ingestion_time_utc": "2026-06-01T19:56:47.978215+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:30.128983+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/dqmeFUrf6Hs2ejcGGGfv69vtbbR.jpg",
@@ -23,7 +23,7 @@
     "original_language": "fr",
     "original_title": "L'Adolescente",
     "overview": "In the summer of 1939, 13-year-old Marie goes with her parents to visit her grandparents in a small town near Avignon. Marie discovers her femininity and falls for a young Jewish doctor, but he prefers Eva, Marie's mother.",
-    "popularity": 30.9327,
+    "popularity": 30.0605,
     "poster_path": "/v7yCEzF9BCF82lbp42X5ZLjIieo.jpg",
     "production_companies": [
       {

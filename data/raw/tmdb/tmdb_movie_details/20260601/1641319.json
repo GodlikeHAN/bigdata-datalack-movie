@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1641319,
-  "ingestion_time_utc": "2026-06-01T19:57:05.094896+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:44.993654+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
@@ -32,7 +32,7 @@
     "original_language": "en",
     "original_title": "Sniper: No Nation",
     "overview": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
-    "popularity": 36.6687,
+    "popularity": 34.2773,
     "poster_path": "/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
     "production_companies": [
       {
@@ -83,8 +83,8 @@
     "tagline": "No flag, no backup, and no mercy.",
     "title": "Sniper: No Nation",
     "video": false,
-    "vote_average": 6.461,
-    "vote_count": 51,
+    "vote_average": 6.425,
+    "vote_count": 53,
     "videos": {
       "results": [
         {

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 803796,
-  "ingestion_time_utc": "2026-06-01T19:57:03.061704+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:43.296555+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
@@ -35,7 +35,7 @@
     "original_language": "en",
     "original_title": "KPop Demon Hunters",
     "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
-    "popularity": 41.2418,
+    "popularity": 38.793,
     "poster_path": "/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
     "production_companies": [
       {
@@ -71,8 +71,8 @@
     "tagline": "They sing. They dance. They battle demons.",
     "title": "KPop Demon Hunters",
     "video": false,
-    "vote_average": 8.023,
-    "vote_count": 2830,
+    "vote_average": 8.025,
+    "vote_count": 2833,
     "videos": {
       "results": [
         {

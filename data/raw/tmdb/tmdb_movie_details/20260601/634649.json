@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 634649,
-  "ingestion_time_utc": "2026-06-01T19:57:01.797150+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:41.967166+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "Spider-Man: No Way Home",
     "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-    "popularity": 44.9052,
+    "popularity": 43.9133,
     "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
     "production_companies": [
       {
@@ -85,7 +85,7 @@
     "title": "Spider-Man: No Way Home",
     "video": false,
     "vote_average": 7.935,
-    "vote_count": 21998,
+    "vote_count": 21999,
     "videos": {
       "results": [
         {

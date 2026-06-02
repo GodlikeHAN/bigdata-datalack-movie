@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1371023,
-  "ingestion_time_utc": "2026-06-01T19:56:47.129230+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:29.301794+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/kkRpcauZoBFKnH0Qsy7J5qtwBF5.jpg",
@@ -27,7 +27,7 @@
     "original_language": "hi",
     "original_title": "चाँद मेरा दिल",
     "overview": "Aarav and Chandni's passionate college romance is struck by adulthood far too soon, forcing the two young lovers to balance their ambitions with responsibility and realize the evolved meaning of love.",
-    "popularity": 175.793,
+    "popularity": 168.3629,
     "poster_path": "/9LPkXJustudEBgPZEm9tgDx5KtC.jpg",
     "production_companies": [
       {
@@ -58,8 +58,8 @@
     "tagline": "When love grows faster than life",
     "title": "Chand Mera Dil",
     "video": false,
-    "vote_average": 5.5,
-    "vote_count": 2,
+    "vote_average": 3.833,
+    "vote_count": 3,
     "videos": {
       "results": []
     }

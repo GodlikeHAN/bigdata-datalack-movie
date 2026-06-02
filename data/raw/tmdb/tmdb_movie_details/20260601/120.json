@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 120,
-  "ingestion_time_utc": "2026-06-01T19:57:02.429978+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:42.680583+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "The Lord of the Rings: The Fellowship of the Ring",
     "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
-    "popularity": 42.6341,
+    "popularity": 43.6819,
     "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
     "production_companies": [
       {
@@ -83,8 +83,8 @@
     "tagline": "One ring to rule them all.",
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "video": false,
-    "vote_average": 8.435,
-    "vote_count": 27568,
+    "vote_average": 8.434,
+    "vote_count": 27580,
     "videos": {
       "results": [
         {

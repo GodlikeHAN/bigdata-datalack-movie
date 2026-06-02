@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 122,
-  "ingestion_time_utc": "2026-06-01T19:57:02.222727+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:42.373877+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "The Lord of the Rings: The Return of the King",
     "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
-    "popularity": 43.2667,
+    "popularity": 42.0542,
     "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
     "production_companies": [
       {
@@ -84,7 +84,7 @@
     "title": "The Lord of the Rings: The Return of the King",
     "video": false,
     "vote_average": 8.499,
-    "vote_count": 26567,
+    "vote_count": 26572,
     "videos": {
       "results": [
         {

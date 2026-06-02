@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1368314,
-  "ingestion_time_utc": "2026-06-01T19:56:50.021482+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:32.111851+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/hl7FEzMqgpsD0RfwMzskzQoiD1M.jpg",
@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Passenger",
     "overview": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
-    "popularity": 29.4347,
+    "popularity": 28.8762,
     "poster_path": "/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
     "production_companies": [
       {
@@ -62,7 +62,7 @@
       }
     ],
     "release_date": "2026-05-20",
-    "revenue": 24969000,
+    "revenue": 25091486,
     "runtime": 94,
     "softcore": false,
     "spoken_languages": [

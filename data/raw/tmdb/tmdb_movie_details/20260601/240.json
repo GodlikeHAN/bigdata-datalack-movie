@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 240,
-  "ingestion_time_utc": "2026-06-01T19:56:49.810600+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:31.904988+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
@@ -32,7 +32,7 @@
     "original_language": "en",
     "original_title": "The Godfather Part II",
     "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
-    "popularity": 29.4709,
+    "popularity": 28.7212,
     "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
     "production_companies": [
       {
@@ -90,8 +90,8 @@
     "tagline": "The rise and fall of the Corleone empire.",
     "title": "The Godfather Part II",
     "video": false,
-    "vote_average": 8.572,
-    "vote_count": 13926,
+    "vote_average": 8.571,
+    "vote_count": 13929,
     "videos": {
       "results": [
         {

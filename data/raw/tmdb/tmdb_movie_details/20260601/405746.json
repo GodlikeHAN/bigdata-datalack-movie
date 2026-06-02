@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 405746,
-  "ingestion_time_utc": "2026-06-01T19:56:49.044456+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:31.168851+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/oRzXPixvyO3zHbAXatpOwbM6u1S.jpg",
@@ -36,7 +36,7 @@
     "original_language": "ja",
     "original_title": "DOOR",
     "overview": "Yasuko, a housewife, lives in an urban high-rise apartment with her husband Satoru and her son Takuto.  Annoyed by spam calls and door-to-door salesmen, Yasuko slams the door on a salesman’s hand when he tries to squeeze a flyer through the apartment's chained front door. He leaves, but the next day, her nightmare starts.",
-    "popularity": 30.1695,
+    "popularity": 36.74,
     "poster_path": "/uNTZ9vp32AYd6kcAcm63jVg6u44.jpg",
     "production_companies": [
       {

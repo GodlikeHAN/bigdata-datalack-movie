@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt26735622",
+  "ingestion_time_utc": "2026-06-02T13:54:15.562885+00:00",
+  "data": {
+    "Title": "Balls Up",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "15 Apr 2026",
+    "Runtime": "104 min",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "Peter Farrelly",
+    "Writer": "Paul Wernick, Rhett Reese",
+    "Actors": "Mark Wahlberg, Paul Walter Hauser, Sacha Baron Cohen",
+    "Plot": "Two marketers pitch a bold new condom World Cup sponsorship. After a booze-fueled scandal, they must outrun chaos to survive.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjJlMDFmOWMtY2NhZS00MzAwLWFiOWQtNzBiZDNiOWRiMDA4XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.7/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "34/100"
+      }
+    ],
+    "Metascore": "34",
+    "imdbRating": "4.7",
+    "imdbVotes": "11,568",
+    "imdbID": "tt26735622",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

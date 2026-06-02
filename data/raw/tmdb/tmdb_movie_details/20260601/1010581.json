@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1010581,
-  "ingestion_time_utc": "2026-06-01T19:57:00.333319+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:39.832686+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/oz4U9eA6ilYf1tyiVuGmkftdLac.jpg",
@@ -36,7 +36,7 @@
     "original_language": "es",
     "original_title": "Culpa mía",
     "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
-    "popularity": 53.3579,
+    "popularity": 50.5023,
     "poster_path": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
     "production_companies": [
       {

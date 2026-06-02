@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1330021,
-  "ingestion_time_utc": "2026-06-01T19:56:57.585756+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:36.295880+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Remarkably Bright Creatures",
     "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
-    "popularity": 71.7185,
+    "popularity": 65.5422,
     "poster_path": "/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
     "production_companies": [
       {
@@ -64,8 +64,8 @@
     "tagline": "Brighter together.",
     "title": "Remarkably Bright Creatures",
     "video": false,
-    "vote_average": 8.5,
-    "vote_count": 506,
+    "vote_average": 8.547,
+    "vote_count": 519,
     "videos": {
       "results": [
         {

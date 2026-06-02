@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 62029,
-  "ingestion_time_utc": "2026-06-01T19:56:58.313168+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:38.987471+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/mFDQ8f2lPHorGwtuE0fjnUIbKLF.jpg",
@@ -23,7 +23,7 @@
     "original_language": "it",
     "original_title": "Bingo Bongo",
     "overview": "The ape-man, found somewhere in the jungles of Congo, transferred to Milan and named Bingo Bongo. The only one who believes in the human qualities of him is Laura, a woman anthropologist , so their affection for each other even grows to love.",
-    "popularity": 56.0094,
+    "popularity": 48.2739,
     "poster_path": "/5ve4VuCwi7Xas5s50ynEB7uFjM2.jpg",
     "production_companies": [
       {

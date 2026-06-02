@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1336770,
-  "ingestion_time_utc": "2026-06-01T19:56:49.484867+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:31.587731+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/uNA0OVk09Hbwflye3eBoOiGIKGc.jpg",
@@ -32,7 +32,7 @@
     "original_language": "ml",
     "original_title": "വാഴ II",
     "overview": "Four friends – Hashir, Alan, Ajin and Vinayak – are considered losers and troublemakers by parents, family and the school management. They face immense social pressure as they reach adulthood, embarking them on an emotional journey of self discovery and acceptance, where they finally learn to take up their responsibilities and find success.",
-    "popularity": 29.7281,
+    "popularity": 28.5598,
     "poster_path": "/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
     "production_companies": [
       {

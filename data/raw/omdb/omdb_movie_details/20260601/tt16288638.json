@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt16288638",
-  "ingestion_time_utc": "2026-06-01T19:57:58.611828+00:00",
+  "ingestion_time_utc": "2026-06-02T13:54:39.100638+00:00",
   "data": {
     "Title": "L'homme inconnu",
     "Year": "2021",

@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt37458112",
-  "ingestion_time_utc": "2026-06-01T19:57:45.768766+00:00",
+  "ingestion_time_utc": "2026-06-02T13:54:26.074676+00:00",
   "data": {
     "Title": "D54",
     "Year": "2026",

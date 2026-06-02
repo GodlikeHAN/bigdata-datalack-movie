@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 879945,
-  "ingestion_time_utc": "2026-06-01T19:56:58.101972+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:37.758868+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/7uXzE0ZBkbAeKylOz7cUQF4Yw75.jpg",
@@ -24,7 +24,7 @@
     "original_language": "nl",
     "original_title": "L'homme inconnu",
     "overview": "Louis, a Flemish writer, decides to isolate himself at the Côte d’Azur, hoping this place will bring him inspiration.",
-    "popularity": 64.6957,
+    "popularity": 64.8026,
     "poster_path": "/4TpBhdaSl5ALHbgeaYOLF8Q3haz.jpg",
     "production_companies": [
       {

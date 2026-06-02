@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 969681,
-  "ingestion_time_utc": "2026-06-01T19:57:07.381306+00:00",
+  "ingestion_time_utc": "2026-06-02T13:53:47.912498+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "Spider-Man: Brand New Day",
     "overview": "Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name, he's devoted himself entirely to protecting his city — a full-time Spider-Man — but as the demands on him intensify, the pressure sparks a surprising physical evolution that threatens his existence, even as a strange new pattern of crimes gives rise to one of the most powerful threats he has ever faced.",
-    "popularity": 32.2358,
+    "popularity": 38.3762,
     "poster_path": "/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
     "production_companies": [
       {
