@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt3485166",
+  "ingestion_time_utc": "2026-06-03T16:01:31.432220+00:00",
+  "data": {
+    "Title": "The Pirates",
+    "Year": "2014",
+    "Rated": "Not Rated",
+    "Released": "06 Aug 2014",
+    "Runtime": "130 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Seok-hoon Lee",
+    "Writer": "Seong-il Cheon",
+    "Actors": "Kim Nam-gil, Son Ye-jin, Yoo Hae-jin",
+    "Plot": "A band of pirates and a group of bandits fight to catch a gray whale that has swallowed a royal stamp.",
+    "Language": "Korean",
+    "Country": "South Korea",
+    "Awards": "10 wins & 11 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWVmNjE2ZTYtOTlhMC00NDUxLWJmOTMtNzI0NDE3Y2VlZjJlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "57%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.5",
+    "imdbVotes": "4,931",
+    "imdbID": "tt3485166",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$415,775",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

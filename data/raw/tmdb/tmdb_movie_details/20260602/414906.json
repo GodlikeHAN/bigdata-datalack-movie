@@ -1,0 +1,647 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 414906,
+  "ingestion_time_utc": "2026-06-03T16:00:33.294207+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
+    "belongs_to_collection": {
+      "id": 948485,
+      "name": "The Batman Collection",
+      "poster_path": "/jauF9NsYc97khPSENLLHGXT09bg.jpg",
+      "backdrop_path": "/6IX81STHKPsSFVCN57sJ3ljwXI5.jpg"
+    },
+    "budget": 185000000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.thebatman.com",
+    "id": 414906,
+    "imdb_id": "tt1877830",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Batman",
+    "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+    "popularity": 25.8417,
+    "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "production_companies": [
+      {
+        "id": 101405,
+        "logo_path": "/iusVPF9AJD1DiHEWbZEXgn1hpOf.png",
+        "name": "6th & Idaho Motion Picture Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 119245,
+        "logo_path": "/6F45uVsKpNYANcWvplyhgIFezFU.png",
+        "name": "Dylan Clark Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 128064,
+        "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+        "name": "DC Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2022-03-01",
+    "revenue": 772775278,
+    "runtime": 177,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Unmask the truth.",
+    "title": "The Batman",
+    "video": false,
+    "vote_average": 7.659,
+    "vote_count": 11948,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Crashing a Penguin party",
+          "key": "KWDH0PK1Rwo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6970092bd2743f9c13df1102",
+          "published_at": "2026-01-20T15:00:42.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Batman and Catwoman's Secrets",
+          "key": "yS0GbTbGg_c",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69f65a49d2c17d93073a4675",
+          "published_at": "2025-12-15T15:01:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Riddler Finds Joker",
+          "key": "MGVx_Ye5Ndw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69f65bbac9cb61d24738d3c0",
+          "published_at": "2025-12-01T15:00:48.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Wingsuit Scene",
+          "key": "3NRfPrmfgnI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "68cf769f138fd961b8cec307",
+          "published_at": "2025-09-19T15:56:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Penguin Chase Scene",
+          "key": "nltpfo16Jdw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "68cf7690e4bd19ceadcc32d1",
+          "published_at": "2025-09-19T15:13:54.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Bruce Confronts Alfred",
+          "key": "HwFDkvwmfUw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "68cf7688883e551320cec19e",
+          "published_at": "2025-09-19T15:13:18.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Aftermath",
+          "key": "3sLBAteGWjk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "68cf768067b7b3c0cd749611",
+          "published_at": "2025-09-19T15:12:22.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "DC Super Scenes: CRUSHING Riddler's Cult",
+          "key": "4jRt02EyAks",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "68807eb2d43cbc8a1355d9e3",
+          "published_at": "2025-07-22T12:00:09.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Justice, not vengeance",
+          "key": "uyOrIXpy_nY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "682f3426cfc772a23534402a",
+          "published_at": "2025-05-22T12:24:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "DC Super Scenes: Batman Confronts The Penguin",
+          "key": "XxliskI7RWE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67c8af419264aa58666e4aab",
+          "published_at": "2025-03-05T20:00:25.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Bomb Collar",
+          "key": "zUMK56vuNOc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "677c679e25e0e91c5775293b",
+          "published_at": "2024-10-16T14:00:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Genesis: Matt Reeves on Creating The Batman",
+          "key": "__aTCuCURPo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "66a3f642a66c861d758d8211",
+          "published_at": "2024-07-26T14:00:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "FilmTok Edit",
+          "key": "XS8rfqYJXRY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "669c0c76e30fcfc11169b103",
+          "published_at": "2024-07-17T16:00:26.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "DC Super Scenes: The Batman’s Opening Monologue",
+          "key": "6fWz-_hV46k",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "668e2585baea718612d5ae2d",
+          "published_at": "2024-07-08T14:00:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Creating The Wingsuit",
+          "key": "Fbe07KBgBfQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "666fc00b06254acbc9ec1b2c",
+          "published_at": "2024-06-14T14:00:22.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Batman Tries Solving Riddler's Games",
+          "key": "oaMfjlkloV4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6657febb71d53364d61d104d",
+          "published_at": "2024-05-29T19:00:23.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Unpacking The Icons",
+          "key": "xayUJkfIcpA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6634162766565a0128140bbb",
+          "published_at": "2024-05-01T14:00:49.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "DC Super Scenes: Ending Monologue",
+          "key": "6f7vxgOmbPQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "661d7c223396b9017c7dd4a9",
+          "published_at": "2024-04-10T16:00:07.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "DC Super Scenes: Batman Interrogates The Riddler in Prison",
+          "key": "P53cWl6wxVU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65fa3a9704733f017de5bf08",
+          "published_at": "2024-03-15T19:00:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "DC Super Scenes: Batman Confronts Alfred in the Hospital",
+          "key": "YytyG36TOeo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "65e7b1fbe3294301869bf4c9",
+          "published_at": "2024-03-05T20:00:10.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Looking For Vengeance",
+          "key": "PpQH5tIJLgs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "65ff988a62f335016451315b",
+          "published_at": "2024-03-04T15:00:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Creating The Batmobile",
+          "key": "LVNZXefqA7w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "650b5dd281c7be011d771634",
+          "published_at": "2023-09-16T17:18:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "DC Super Scenes: Batman & Catwoman",
+          "key": "Ibh189AzRZw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "650b503612c60400c4eaee01",
+          "published_at": "2023-09-06T22:00:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Paul Dano on Playing The Riddler",
+          "key": "oiB4n5JL0Bo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "650b5e436c19ea012d608034",
+          "published_at": "2023-08-26T14:00:26.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "DC Super Scenes: Police Station Escape",
+          "key": "5B7va4NPXps",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "64b1ba1c378062011c8a6012",
+          "published_at": "2023-07-13T19:00:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Matt Reeves on THE BATMAN",
+          "key": "JNSSvsQoZzY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "65788bed89d97f00aefc66d2",
+          "published_at": "2022-08-04T18:00:09.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Batsuit x Gadgets x Batmobile",
+          "key": "KaisICqYXeY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "62a96c1c7e12f00e260b4415",
+          "published_at": "2022-06-14T12:59:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Riddler Crashes the Funeral",
+          "key": "oKrgKbX_52w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "62976073df86a834e2377443",
+          "published_at": "2022-05-31T12:59:53.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Anatomy of the Car Chase",
+          "key": "n9P0yd073g4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "629c222503bf84009ad4b144",
+          "published_at": "2022-05-24T12:59:50.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Catwoman & Batman Go Undercover",
+          "key": "uY6y447Eye4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6280e257dcf875334dca6495",
+          "published_at": "2022-05-14T20:00:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Batman Flies",
+          "key": "pVow54IEcw4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "627b234c4b9bae00a7c8bc01",
+          "published_at": "2022-05-10T21:00:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Making Of The Batman",
+          "key": "2kQzfng264w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "629c175603bf84009ad478ab",
+          "published_at": "2022-05-06T15:00:36.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Becoming Catwoman",
+          "key": "fYuyccTOLF4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "629c2e631e9225004f8ee0a9",
+          "published_at": "2022-05-03T12:59:46.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Batman Chases The Penguin",
+          "key": "iA_wCcG-dQQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "62646a44e329430066cf7f1b",
+          "published_at": "2022-04-23T20:00:10.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Opening Scene",
+          "key": "761uRaAoW00",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "66456f5854cf1cbc7feec2c3",
+          "published_at": "2022-04-18T16:00:10.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Extended Preview",
+          "key": "2aHesYuFitU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "66fb7eca9b1f9121abd62d95",
+          "published_at": "2022-04-18T14:59:50.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Zoë Kravitz & The Cast Answer Uncommon Questions",
+          "key": "lSv6EWTnrsE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "626b46ee0c0b38009c228e3b",
+          "published_at": "2022-04-16T14:58:14.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official HBO Max Trailer",
+          "key": "vc7_mH2PWHs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6255e9b7cd2f0f006444d1dc",
+          "published_at": "2022-04-12T21:00:54.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Filmmaking Team",
+          "key": "ZthRC8wiGow",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": false,
+          "id": "655ddd18d399e6069c2e5454",
+          "published_at": "2022-03-05T17:00:41.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Andy Serkis Reveals All About Robert Pattinson's Batman...",
+          "key": "wwgp2YlzIdI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "62b0b606c14fee00638c44c7",
+          "published_at": "2022-03-03T18:01:49.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Robert Pattinson & Zoë Kravitz Can't Believe How Dark The Batman is...",
+          "key": "_PvyF3icHoU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "62b0b5f7bf0f630055c54e3b",
+          "published_at": "2022-03-02T18:02:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Funeral Scene",
+          "key": "Jtdh0Tkqfdw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "61f72df8d7cd06011e7c476c",
+          "published_at": "2022-01-30T20:45:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Bat and The Cat Trailer",
+          "key": "u34gHaRiBIU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "61ca0378b0422800613dc85f",
+          "published_at": "2021-12-27T18:00:27.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot",
+          "key": "NrJRE678TiU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "61b6f96ec616ac009a10559a",
+          "published_at": "2021-10-17T23:10:56.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Main Trailer",
+          "key": "mqqft2x_Aa4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "616b3875e004a6005f0676c4",
+          "published_at": "2021-10-16T20:36:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "DC FanDome Teaser",
+          "key": "NLOp_6uPccQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "5f41bf4d6a34480036b453da",
+          "published_at": "2020-08-23T00:57:22.000Z"
+        }
+      ]
+    }
+  }
+}

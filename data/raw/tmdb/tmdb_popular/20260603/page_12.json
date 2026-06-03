@@ -1,0 +1,425 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_popular",
+  "page": 12,
+  "ingestion_time_utc": "2026-06-03T18:31:48.196618+00:00",
+  "data": {
+    "page": 12,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+        "genre_ids": [
+          28,
+          878,
+          35,
+          10751
+        ],
+        "id": 939243,
+        "title": "Sonic the Hedgehog 3",
+        "original_language": "en",
+        "original_title": "Sonic the Hedgehog 3",
+        "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+        "popularity": 26.3386,
+        "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+        "release_date": "2024-12-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.617,
+        "vote_count": 3288
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+        "genre_ids": [
+          12,
+          14
+        ],
+        "id": 673,
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "original_language": "en",
+        "original_title": "Harry Potter and the Prisoner of Azkaban",
+        "overview": "Harry Potter's life is in danger once more as dangerous wizard Sirius Black has escaped from Azkaban Prison and is heading to Hogwarts.",
+        "popularity": 24.4366,
+        "poster_path": "/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+        "release_date": "2004-05-31",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.008,
+        "vote_count": 23163
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "id": 121,
+        "title": "The Lord of the Rings: The Two Towers",
+        "original_language": "en",
+        "original_title": "The Lord of the Rings: The Two Towers",
+        "overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+        "popularity": 26.1014,
+        "poster_path": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+        "release_date": "2002-12-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 23906
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/be5T7oHxmDG4ytEimwPdmDHZD9N.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 1352874,
+        "title": "The Crucifix: Blood of the Exorcist",
+        "original_language": "en",
+        "original_title": "The Crucifix: Blood of the Exorcist",
+        "overview": "A gruesome discovery in the grounds of their new home plunges a young couple into a maelstrom of spiritual possession, pagan rituals, Viking battles, and violent revenge.",
+        "popularity": 24.185,
+        "poster_path": "/u3qOxvlykoTpurg1G8VOcawoePI.jpg",
+        "release_date": "2025-01-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.491,
+        "vote_count": 53
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/z3bzhmC0CPikWeerUkLO73YvGrC.jpg",
+        "genre_ids": [
+          10402,
+          53,
+          28,
+          27
+        ],
+        "id": 1084187,
+        "title": "Pretty Lethal",
+        "original_language": "en",
+        "original_title": "Pretty Lethal",
+        "overview": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a dance competition.",
+        "popularity": 24.5963,
+        "poster_path": "/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
+        "release_date": "2026-03-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.781,
+        "vote_count": 393
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+        "genre_ids": [
+          10751,
+          16,
+          10402,
+          12
+        ],
+        "id": 354912,
+        "title": "Coco",
+        "original_language": "en",
+        "original_title": "Coco",
+        "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+        "popularity": 26.0131,
+        "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+        "release_date": "2017-10-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.198,
+        "vote_count": 20981
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rI4waA7VlRAynrYUUpiPScsdPm8.jpg",
+        "genre_ids": [
+          16,
+          28,
+          10749,
+          14
+        ],
+        "id": 1218925,
+        "title": "Chainsaw Man - The Movie: Reze Arc",
+        "original_language": "ja",
+        "original_title": "劇場版 チェンソーマン レゼ篇",
+        "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
+        "popularity": 25.3418,
+        "poster_path": "/3uX6xo6kZrylBrMIyLtrOS5BR9p.jpg",
+        "release_date": "2025-09-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.365,
+        "vote_count": 890
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5Q2CWHZTk48lb8QOMninYmzUfvc.jpg",
+        "genre_ids": [
+          18,
+          27,
+          9648
+        ],
+        "id": 1497348,
+        "title": "Alas Roban",
+        "original_language": "id",
+        "original_title": "Alas Roban",
+        "overview": "The lives of Sita and her daughter, Gendis, change after a terrifying night. Their journey through Alas Roban is filled with fear and relentless terror. Can they uncover what's happening there?",
+        "popularity": 23.5327,
+        "poster_path": "/84Az3SHKRJDg971KQ0j9nZWYTcf.jpg",
+        "release_date": "2026-01-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+        "genre_ids": [
+          28,
+          16,
+          35,
+          10751,
+          878
+        ],
+        "id": 519182,
+        "title": "Despicable Me 4",
+        "original_language": "en",
+        "original_title": "Despicable Me 4",
+        "overview": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+        "popularity": 24.2006,
+        "poster_path": "/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+        "release_date": "2024-06-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.987,
+        "vote_count": 3207
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k24eZq5I3jyz4htPkZCRpnUmBzE.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 1156593,
+        "title": "Your Fault",
+        "original_language": "es",
+        "original_title": "Culpa tuya",
+        "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+        "popularity": 25.1769,
+        "poster_path": "/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+        "release_date": "2024-12-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.081,
+        "vote_count": 1550
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kJsPVzdyBrYHLomuNv5SJDXUQ2f.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "id": 76600,
+        "title": "Avatar: The Way of Water",
+        "original_language": "en",
+        "original_title": "Avatar: The Way of Water",
+        "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+        "popularity": 24.3919,
+        "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+        "release_date": "2022-12-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.594,
+        "vote_count": 14147
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+        "genre_ids": [
+          28,
+          53,
+          80
+        ],
+        "id": 603692,
+        "title": "John Wick: Chapter 4",
+        "original_language": "en",
+        "original_title": "John Wick: Chapter 4",
+        "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+        "popularity": 24.0164,
+        "poster_path": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+        "release_date": "2023-03-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.707,
+        "vote_count": 7929
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8ODNt5olCeIqBYTP3GgXEQYTfeX.jpg",
+        "genre_ids": [
+          27,
+          878,
+          53
+        ],
+        "id": 933260,
+        "title": "The Substance",
+        "original_language": "en",
+        "original_title": "The Substance",
+        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "popularity": 25.6786,
+        "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+        "release_date": "2024-09-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.135,
+        "vote_count": 6018
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vcrgU0KaNj5mKUCIQSUdiQwTE9y.jpg",
+        "genre_ids": [
+          12,
+          14
+        ],
+        "id": 12444,
+        "title": "Harry Potter and the Deathly Hallows: Part 1",
+        "original_language": "en",
+        "original_title": "Harry Potter and the Deathly Hallows: Part 1",
+        "overview": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
+        "popularity": 23.2903,
+        "poster_path": "/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+        "release_date": "2010-11-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.735,
+        "vote_count": 20378
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/m5dA4JZsj78EBTa2D6imWOAebwB.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 4247,
+        "title": "Scary Movie",
+        "original_language": "en",
+        "original_title": "Scary Movie",
+        "overview": "A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!",
+        "popularity": 26.9365,
+        "poster_path": "/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
+        "release_date": "2000-07-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.396,
+        "vote_count": 7771
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+        "genre_ids": [
+          28,
+          53,
+          878
+        ],
+        "id": 218,
+        "title": "The Terminator",
+        "original_language": "en",
+        "original_title": "The Terminator",
+        "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+        "popularity": 20.1758,
+        "poster_path": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+        "release_date": "1984-10-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.683,
+        "vote_count": 14615
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          878
+        ],
+        "id": 10681,
+        "title": "WALL·E",
+        "original_language": "en",
+        "original_title": "WALL·E",
+        "overview": "After hundreds of years doing what he was built for, WALL•E— a robot designed to clean up the earth—discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL•E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL•E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+        "popularity": 25.1022,
+        "poster_path": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+        "release_date": "2008-06-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.112,
+        "vote_count": 20285
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ihIVjdiuvtVuFUaCqfNJwajIs3i.jpg",
+        "genre_ids": [
+          14,
+          10402
+        ],
+        "id": 13192,
+        "title": "Moonwalker",
+        "original_language": "en",
+        "original_title": "Moonwalker",
+        "overview": "This fantastical movie inspired by the music of Michael Jackson features imaginative interpretations of hit tracks from the iconic 1987 album “Bad”.",
+        "popularity": 24.2288,
+        "poster_path": "/3GwTPQkAcgDeAirRpEuJG8HDdRz.jpg",
+        "release_date": "1988-10-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.072,
+        "vote_count": 655
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 1635279,
+        "title": "SNOS-056り広げられる、お酒の勢いで一線を超えてしまった男女のふしだらな土日。生々しくて普通だけど一番エロいSEX",
+        "original_language": "ja",
+        "original_title": "SNOS-056り広げられる、お酒の勢いで一線を超えてしまった男女のふしだらな土日。生々しくて普通だけど一番エロいSEX",
+        "overview": "",
+        "popularity": 27.4952,
+        "poster_path": "/eAuSdg6aYf9nole1RhY4qTfZvRX.jpg",
+        "release_date": "2026-01-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w4bTBXcqXc2TUyS5Fc4h67uWbPn.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 389,
+        "title": "12 Angry Men",
+        "original_language": "en",
+        "original_title": "12 Angry Men",
+        "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+        "popularity": 23.9391,
+        "poster_path": "/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+        "release_date": "1957-04-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.561,
+        "vote_count": 10002
+      }
+    ],
+    "total_pages": 57195,
+    "total_results": 1143896
+  }
+}

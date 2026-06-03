@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 634649,
+  "ingestion_time_utc": "2026-06-03T18:32:13.702650+00:00",
+  "data": {
+    "id": 634649,
+    "imdb_id": "tt10872600",
+    "wikidata_id": "Q68934496",
+    "facebook_id": "SpiderManMovie",
+    "instagram_id": "spidermanmovie",
+    "twitter_id": "spidermanmovie"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1390300,
+  "ingestion_time_utc": "2026-06-03T18:31:55.454202+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 1390300,
+    "imdb_id": "tt34685692",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Over Your Dead Body",
+    "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
+    "popularity": 127.4644,
+    "poster_path": "/6yPvopLmtoyxzJt6Cr0BRyFxtrd.jpg",
+    "production_companies": [
+      {
+        "id": 121470,
+        "logo_path": "/zvJFu1C6gB80A98n6IGXBvMtgVl.png",
+        "name": "87North Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 12142,
+        "logo_path": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+        "name": "XYZ Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 98438,
+        "logo_path": "/cjkuW0QeX3hcUUBkZFFCiYmZvcr.png",
+        "name": "74 Entertainment",
+        "origin_country": "NO"
+      },
+      {
+        "id": 142269,
+        "logo_path": "/ggrWFqk5mPMks0vE3aCy3l9e0dv.png",
+        "name": "IPR.VC",
+        "origin_country": "FI"
+      },
+      {
+        "id": 289751,
+        "logo_path": null,
+        "name": "The Trip Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "NO",
+        "name": "Norway"
+      },
+      {
+        "iso_3166_1": "FI",
+        "name": "Finland"
+      }
+    ],
+    "release_date": "2026-04-24",
+    "revenue": 2055131,
+    "runtime": 106,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Breakups are all in the execution.",
+    "title": "Over Your Dead Body",
+    "video": false,
+    "vote_average": 6.762,
+    "vote_count": 82,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "pGxKTIegUZ4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "699611dd238ba8f171c8507a",
+          "published_at": "2026-02-18T19:00:48.000Z"
+        }
+      ]
+    }
+  }
+}

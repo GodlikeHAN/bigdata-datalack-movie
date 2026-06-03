@@ -1,0 +1,67 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1371023,
+  "ingestion_time_utc": "2026-06-03T18:31:51.592030+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/kkRpcauZoBFKnH0Qsy7J5qtwBF5.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1371023,
+    "imdb_id": "tt34498111",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_title": "चाँद मेरा दिल",
+    "overview": "Aarav and Chandni's passionate college romance is struck by adulthood far too soon, forcing the two young lovers to balance their ambitions with responsibility and realize the evolved meaning of love.",
+    "popularity": 168.7179,
+    "poster_path": "/9LPkXJustudEBgPZEm9tgDx5KtC.jpg",
+    "production_companies": [
+      {
+        "id": 19146,
+        "logo_path": "/5Ff25ornzVNhm5skuAvMAR556NB.png",
+        "name": "Dharma Productions",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-05-22",
+    "revenue": 0,
+    "runtime": 142,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      }
+    ],
+    "status": "Released",
+    "tagline": "When love grows faster than life",
+    "title": "Chand Mera Dil",
+    "video": false,
+    "vote_average": 3.833,
+    "vote_count": 3,
+    "videos": {
+      "results": []
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0223151",
+  "ingestion_time_utc": "2026-06-03T18:32:37.977403+00:00",
+  "data": {
+    "Title": "Doa 2",
+    "Year": "1991",
+    "Rated": "N/A",
+    "Released": "N/A",
+    "Runtime": "82 min",
+    "Genre": "Horror, Thriller",
+    "Director": "Banmei Takahashi",
+    "Writer": "N/A",
+    "Actors": "Chikako Aoyama, Shingo Kazami, Tôru Minegishi",
+    "Plot": "Ai is a call girl and makes 20,000 Yen per hour. But her job involves a lot of risks.",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWMwNGFkMDgtZTUyOS00ZTBiLTk4NjgtOGIzNmZiOWVmMjJmXkEyXkFqcGdeQXVyMTIxMDUyOTI@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt0223151",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

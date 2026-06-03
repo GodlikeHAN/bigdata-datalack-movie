@@ -1,0 +1,151 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1292415,
+  "ingestion_time_utc": "2026-06-03T16:00:35.794969+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/hlZGaey4lR9hc4rGxZRAmIEsZOc.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1292415,
+    "imdb_id": "tt7708226",
+    "origin_country": [
+      "AU",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Beast",
+    "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
+    "popularity": 80.0016,
+    "poster_path": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+    "production_companies": [
+      {
+        "id": 174474,
+        "logo_path": null,
+        "name": "Broken Open Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 126370,
+        "logo_path": null,
+        "name": "Deeper Water Films",
+        "origin_country": "AU"
+      },
+      {
+        "id": 159449,
+        "logo_path": null,
+        "name": "Black Pearl Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 77479,
+        "logo_path": null,
+        "name": "Storm Alley Entertainment",
+        "origin_country": "AU"
+      },
+      {
+        "id": 1632,
+        "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "name": "Lionsgate",
+        "origin_country": "US"
+      },
+      {
+        "id": 3604,
+        "logo_path": "/jC6Hk3ZyNRlVPJsA0xGlAhgd2RP.png",
+        "name": "Grindstone Entertainment Group",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      }
+    ],
+    "release_date": "2026-04-10",
+    "revenue": 0,
+    "runtime": 114,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Legends are made in the cage.",
+    "title": "Beast",
+    "video": false,
+    "vote_average": 6.228,
+    "vote_count": 46,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "‘Title Match’ Official Clip",
+          "key": "shiOdYwtKLc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69de52f0d5706de8a770b749",
+          "published_at": "2026-04-09T21:19:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official ‘First 4 Minutes'",
+          "key": "IP0TIHArDfE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69d0053000cbb083c72f75ff",
+          "published_at": "2026-04-02T16:00:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "yJN2mJ4uOas",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "69c5bb24ba313831be4dc700",
+          "published_at": "2026-03-18T14:02:21.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser",
+          "key": "KuxbC8zdFCU",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Teaser",
+          "official": true,
+          "id": "69975a29b32caf1d80666273",
+          "published_at": "2026-02-19T17:11:14.000Z"
+        }
+      ]
+    }
+  }
+}

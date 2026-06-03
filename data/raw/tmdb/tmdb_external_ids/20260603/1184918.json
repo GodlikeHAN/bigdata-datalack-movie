@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1184918,
+  "ingestion_time_utc": "2026-06-03T18:32:04.460943+00:00",
+  "data": {
+    "id": 1184918,
+    "imdb_id": "tt29623480",
+    "wikidata_id": "Q124378349",
+    "facebook_id": "dreamworksthewildrobot",
+    "instagram_id": "thewildrobot",
+    "twitter_id": ""
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt11378946",
+  "ingestion_time_utc": "2026-06-03T18:32:44.211467+00:00",
+  "data": {
+    "Title": "Michael",
+    "Year": "2026",
+    "Rated": "PG-13",
+    "Released": "24 Apr 2026",
+    "Runtime": "127 min",
+    "Genre": "Biography, Drama, History",
+    "Director": "Antoine Fuqua",
+    "Writer": "John Logan",
+    "Actors": "Jaafar Jackson, Nia Long, Colman Domingo",
+    "Plot": "The early life of musician Michael Jackson, from the discovery of his talent as the lead of the Jackson Five to the artist whose creative ambition fueled a pursuit to become the biggest entertainer in the world.",
+    "Language": "English",
+    "Country": "United States, Canada",
+    "Awards": "2 wins & 4 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "39%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "39/100"
+      }
+    ],
+    "Metascore": "39",
+    "imdbRating": "7.7",
+    "imdbVotes": "107,813",
+    "imdbID": "tt11378946",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$340,068,767",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

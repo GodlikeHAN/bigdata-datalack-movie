@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt6428912",
+  "ingestion_time_utc": "2026-06-03T16:01:34.295463+00:00",
+  "data": {
+    "Title": "Michael Jackson: Searching for Neverland",
+    "Year": "2017",
+    "Rated": "TV-14",
+    "Released": "29 May 2017",
+    "Runtime": "105 min",
+    "Genre": "Biography, Drama",
+    "Director": "Dianne Houston",
+    "Writer": "Bill Whitfield, Elizabeth Hunter",
+    "Actors": "Chad L. Coleman, Sam Adegoke, Nondumiso Tembe",
+    "Plot": "Searching for Neverland will reveal firsthand the devotion Michael Jackson had to his children, and the hidden drama that took place during the last two years of his life.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTczMDRiNjgtYzY5MS00MTcwLTg0ZDAtMjJjODBjMzA2ODU0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.2",
+    "imdbVotes": "1,816",
+    "imdbID": "tt6428912",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

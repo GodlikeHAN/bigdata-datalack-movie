@@ -1,0 +1,137 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1497348,
+  "ingestion_time_utc": "2026-06-03T18:31:53.879622+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/5Q2CWHZTk48lb8QOMninYmzUfvc.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      }
+    ],
+    "homepage": "",
+    "id": 1497348,
+    "imdb_id": "tt39018552",
+    "origin_country": [
+      "ID"
+    ],
+    "original_language": "id",
+    "original_title": "Alas Roban",
+    "overview": "The lives of Sita and her daughter, Gendis, change after a terrifying night. Their journey through Alas Roban is filled with fear and relentless terror. Can they uncover what's happening there?",
+    "popularity": 23.5327,
+    "poster_path": "/84Az3SHKRJDg971KQ0j9nZWYTcf.jpg",
+    "production_companies": [
+      {
+        "id": 10658,
+        "logo_path": "/xVSK2AT9kEU6NyrrSs8Zb21iMFq.png",
+        "name": "Unlimited Production",
+        "origin_country": "ID"
+      },
+      {
+        "id": 230289,
+        "logo_path": "/cyj9j5rtUURqFU6dvnCF7sAGHAH.png",
+        "name": "Narasi Semesta",
+        "origin_country": "ID"
+      },
+      {
+        "id": 46840,
+        "logo_path": "/y5TYYZWMM6CoNyAMMRL9lJA10yD.png",
+        "name": "Legacy Pictures",
+        "origin_country": "ID"
+      },
+      {
+        "id": 181407,
+        "logo_path": "/g4IViidlRU68xwLcGPTQjoAvGPX.png",
+        "name": "Dwi Abisatya Persada",
+        "origin_country": "ID"
+      },
+      {
+        "id": 181408,
+        "logo_path": "/s0yN44Npsm0EzNbVfCElp9Ziw7l.png",
+        "name": "Lighthouse Capital Management",
+        "origin_country": "ID"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ID",
+        "name": "Indonesia"
+      }
+    ],
+    "release_date": "2026-01-15",
+    "revenue": 0,
+    "runtime": 111,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Indonesian",
+        "iso_639_1": "id",
+        "name": "Bahasa indonesia"
+      },
+      {
+        "english_name": "Javanese",
+        "iso_639_1": "jv",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Alas Roban",
+    "video": false,
+    "vote_average": 4.6,
+    "vote_count": 5,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer 2 - Alas Roban",
+          "key": "gbDNoD4j2WA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "696ed2312a2c6acab1dcc0ca",
+          "published_at": "2026-01-11T03:10:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "OFFICIAL TRAILER ALAS ROBAN | DI BIOSKOP 15 JANUARI 2026",
+          "key": "bWbdzztWYrQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "6943903e71bbd68740ace11a",
+          "published_at": "2025-12-15T12:40:38.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Alas Roban - Teaser Trailer",
+          "key": "YDso82_XPso",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "695afb77a9120d5637e417f1",
+          "published_at": "2025-11-21T05:07:55.000Z"
+        }
+      ]
+    }
+  }
+}

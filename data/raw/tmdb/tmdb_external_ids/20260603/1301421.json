@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1301421,
+  "ingestion_time_utc": "2026-06-03T18:32:11.042063+00:00",
+  "data": {
+    "id": 1301421,
+    "imdb_id": "tt32565993",
+    "wikidata_id": "Q126405648",
+    "facebook_id": "thesheepdetectives",
+    "instagram_id": "thesheepdetectives",
+    "twitter_id": ""
+  }
+}

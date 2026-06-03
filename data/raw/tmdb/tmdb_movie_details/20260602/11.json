@@ -1,0 +1,377 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 11,
+  "ingestion_time_utc": "2026-06-03T16:00:48.611817+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/yUiXA68FfQeA8cRBhd0Ao0jIRZt.jpg",
+    "belongs_to_collection": {
+      "id": 10,
+      "name": "Star Wars Collection",
+      "poster_path": "/pWVLFh4OuejTpUaDQbB1C4zoS2p.jpg",
+      "backdrop_path": "/iY2ujEY2m68OTTlPFTiHub9joHS.jpg"
+    },
+    "budget": 11000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "homepage": "http://www.starwars.com/films/star-wars-episode-iv-a-new-hope",
+    "id": 11,
+    "imdb_id": "tt0076759",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Star Wars",
+    "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+    "popularity": 30.0613,
+    "poster_path": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+    "production_companies": [
+      {
+        "id": 1,
+        "logo_path": "/tlVSws0RvvtPBwViUyOFAO0vcQS.png",
+        "name": "Lucasfilm Ltd.",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1977-05-25",
+    "revenue": 775398007,
+    "runtime": 121,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "A long time ago in a galaxy far, far away...",
+    "title": "Star Wars",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 22347,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Kathleen Kennedy introduces a screening of the original 1977 print of Star Wars | BFI",
+          "key": "DLtfTrI8qRo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "684c4e8c5cb27fb822343fc8",
+          "published_at": "2025-06-13T15:19:33.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Inside the Archive: Star Wars in Technicolor | BFI",
+          "key": "1bsCliOges0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "684b06058d1f28663e3fdb65",
+          "published_at": "2025-06-12T09:00:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Star Wars (1977) - Trailer",
+          "key": "XsS1yE2f-hE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "63d1c26ecb71b800810237b7",
+          "published_at": "2022-05-25T16:00:29.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Star Wars (1977) - Teaser Trailer",
+          "key": "jVyXow0Qki0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": false,
+          "id": "63d1c2e6e72fe800aa01d430",
+          "published_at": "2022-05-25T13:00:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "All the Facts | Disney+ Deets",
+          "key": "SCBJJG_Ncl0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "62c041a322e4800fa8f138eb",
+          "published_at": "2021-05-03T16:00:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "George Lucas & Harrison Ford on STAR WARS: A NEW HOPE",
+          "key": "DdG5aMtCna4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "684b47ff93360e5c985c716e",
+          "published_at": "2020-05-04T16:23:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Neil Patrick Harris announces STAR WARS for AFI Movie Club",
+          "key": "WoOROKzECLc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "684b1994104285654a1be542",
+          "published_at": "2020-05-04T16:22:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Is Star Wars science fiction? - Scott McGee",
+          "key": "qrXHOrQKLvU",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Featurette",
+          "official": true,
+          "id": "684b49cabbfe31cc90294058",
+          "published_at": "2019-07-30T18:01:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Star Wars - briefing scene HD",
+          "key": "TOgtj00Rp8s",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": false,
+          "id": "64b073dc8a0e9b013aff641e",
+          "published_at": "2016-12-16T02:03:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Star Wars: A New Hope l Ben Kenobi Appears",
+          "key": "oTV2tS4nRPE",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Clip",
+          "official": false,
+          "id": "64b072c03e2ec8012ee6db8c",
+          "published_at": "2016-09-17T12:52:09.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TIE Fighter Attack A New Hope",
+          "key": "mSvPxNopdHs",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Clip",
+          "official": false,
+          "id": "64b074108a0e9b011d8e8d31",
+          "published_at": "2016-06-27T06:54:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Star Wars: A New Hope Bloopers",
+          "key": "CNfIQVplY9U",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Bloopers",
+          "official": false,
+          "id": "654189f413654500fc8a479f",
+          "published_at": "2014-10-15T16:57:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Teaser Trailer",
+          "key": "i-vsILeJ8_8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "533ec651c3a368544800000b",
+          "published_at": "2013-10-09T19:00:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Star Wars Wins Art Direction: 1978 Oscars",
+          "key": "GS1KiEEXysI",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "684b48cead1b389921b0d653",
+          "published_at": "2013-09-13T16:24:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Star Wars Wins Costume Design: 1978 Oscars",
+          "key": "MLfrw7MvCcs",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "684b486fcee7bada933def95",
+          "published_at": "2013-09-05T17:38:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Mark Hamill, C-3PO and R2-D2 Present Special Sound Oscars for Close Encounters and Star Wars",
+          "key": "eMAAzS4brDc",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "684b4957c01014b4791eba60",
+          "published_at": "2013-06-27T22:44:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer",
+          "key": "vZ734NWnAHA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "533ec651c3a368544800000a",
+          "published_at": "2012-07-05T23:24:48.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Harrison Ford on Shooting Star Wars",
+          "key": "C7GrizpZmjc",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "684b193f7e22f821e41be529",
+          "published_at": "2011-05-14T00:06:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Star Wars Wins Film Editing: 1978 Oscars",
+          "key": "w1dW6bNBzN8",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "684b489bf9481de4f834392b",
+          "published_at": "2010-05-13T16:32:38.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Star Wars Wins Original Score: 1978 Oscars",
+          "key": "zaJTETd_grg",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "684b4907ec73293cd7bb4342",
+          "published_at": "2010-01-04T20:04:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "George Lucas On Creating Industrial Light & Magic",
+          "key": "ass_m9fA1aU",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "684b41932c638446f11be59a",
+          "published_at": "2009-11-12T00:07:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "George Lucas On Casting STAR WARS: A NEW HOPE",
+          "key": "sNDklPHZETU",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "684b41bccee7bada933def83",
+          "published_at": "2009-11-11T20:48:36.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "George Lucas On How STAR WARS Got Made",
+          "key": "mztK3s63_OM",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "684b18dc01d8bb969029414b",
+          "published_at": "2009-10-31T00:08:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "James Earl Jones On Being The Voice Of Darth Vader",
+          "key": "RAJgnUix2kI",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "684b4365b518dfdcb23deea0",
+          "published_at": "2009-07-09T23:48:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "George Lucas Introduces Star Wars: A New Hope",
+          "key": "v94Tb8RN84U",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "684b48153a4a643d7e3deebc",
+          "published_at": "2009-04-28T22:32:25.000Z"
+        }
+      ]
+    }
+  }
+}

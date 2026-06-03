@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0104237",
+  "ingestion_time_utc": "2026-06-03T16:01:15.735722+00:00",
+  "data": {
+    "Title": "Damage",
+    "Year": "1992",
+    "Rated": "R",
+    "Released": "22 Jan 1993",
+    "Runtime": "111 min",
+    "Genre": "Drama, Romance",
+    "Director": "Louis Malle",
+    "Writer": "David Hare, Josephine Hart",
+    "Actors": "Jeremy Irons, Juliette Binoche, Miranda Richardson",
+    "Plot": "A Member of Parliament falls passionately in love with his son's girlfriend despite the obvious dangers.",
+    "Language": "English, French, German, Italian",
+    "Country": "United Kingdom, France",
+    "Awards": "Nominated for 1 Oscar. 6 wins & 6 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWZiY2MyZGUtMTJiNy00YWNhLWFhNjItYWEzMzQwOTBiOTQ3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "80%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "71/100"
+      }
+    ],
+    "Metascore": "71",
+    "imdbRating": "6.7",
+    "imdbVotes": "22,102",
+    "imdbID": "tt0104237",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$7,532,911",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

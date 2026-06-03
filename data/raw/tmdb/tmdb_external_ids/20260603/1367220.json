@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1367220,
+  "ingestion_time_utc": "2026-06-03T18:32:08.062138+00:00",
+  "data": {
+    "id": 1367220,
+    "imdb_id": "tt33988385",
+    "wikidata_id": "Q131341662",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": "KaruppuMovie"
+  }
+}

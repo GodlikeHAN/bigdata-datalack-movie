@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 425274,
+  "ingestion_time_utc": "2026-06-03T16:01:10.482057+00:00",
+  "data": {
+    "id": 425274,
+    "imdb_id": "tt4712810",
+    "wikidata_id": "Q65146722",
+    "facebook_id": "NowYouSeeMeMovie",
+    "instagram_id": "nysmmovie",
+    "twitter_id": "NYSMmovie"
+  }
+}

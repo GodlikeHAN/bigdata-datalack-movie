@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 533535,
+  "ingestion_time_utc": "2026-06-03T18:32:14.236154+00:00",
+  "data": {
+    "id": 533535,
+    "imdb_id": "tt6263850",
+    "wikidata_id": "Q102180106",
+    "facebook_id": "DeadpoolMovie",
+    "instagram_id": "deadpoolmovie",
+    "twitter_id": "deadpoolmovie"
+  }
+}

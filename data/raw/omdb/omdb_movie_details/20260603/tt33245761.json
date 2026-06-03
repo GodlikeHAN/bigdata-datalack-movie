@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt33245761",
+  "ingestion_time_utc": "2026-06-03T18:32:28.736614+00:00",
+  "data": {
+    "Title": "Vaazha II: Biopic of a Billion Bros",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "02 Apr 2026",
+    "Runtime": "N/A",
+    "Genre": "Drama",
+    "Director": "Savin S.A.",
+    "Writer": "N/A",
+    "Actors": "Alphonse Puthren, Amith Mohan Rajeshwari, Vijay Babu",
+    "Plot": "N/A",
+    "Language": "Malayalam",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODgyZmNiODYtNThiMi00NzQxLWFhN2YtNDNmZTcxMWU3N2ZmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt33245761",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

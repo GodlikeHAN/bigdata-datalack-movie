@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt1242432",
+  "ingestion_time_utc": "2026-06-03T16:01:33.754550+00:00",
+  "data": {
+    "Title": "I Spit on Your Grave",
+    "Year": "2010",
+    "Rated": "R",
+    "Released": "17 Jun 2010",
+    "Runtime": "108 min",
+    "Genre": "Horror, Thriller",
+    "Director": "Steven R. Monroe",
+    "Writer": "Adam Rockoff, Meir Zarchi",
+    "Actors": "Sarah Butler, Jeff Branson, Andrew Howard",
+    "Plot": "A writer who is brutalized during her cabin retreat seeks revenge on her attackers, who left her for dead.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxMTE3NzEzMl5BMl5BanBnXkFtZTcwMzc4MTU2Mw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "32%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "27/100"
+      }
+    ],
+    "Metascore": "27",
+    "imdbRating": "6.2",
+    "imdbVotes": "99,752",
+    "imdbID": "tt1242432",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$93,051",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

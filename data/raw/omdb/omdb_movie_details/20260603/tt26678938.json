@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt26678938",
+  "ingestion_time_utc": "2026-06-03T18:32:20.553802+00:00",
+  "data": {
+    "Title": "Pretty Lethal",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "25 Mar 2026",
+    "Runtime": "88 min",
+    "Genre": "Action, Horror, Thriller",
+    "Director": "Vicky Jewson",
+    "Writer": "Kate Freund",
+    "Actors": "Maddie Ziegler, Lana Condor, Lydia Leonard",
+    "Plot": "It follows a group of ballerinas as they try to escape from a remote inn after their bus breaks down on the way to a dance competition.",
+    "Language": "English",
+    "Country": "United Kingdom, United States, Hungary",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTRmMTE4MmYtOWRmNi00ZDJjLWFmY2UtNTliMzlkNTUzNDRjXkEyXkFqcGc@._V1_QL75_UX380_CR0,57,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.8/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "51/100"
+      }
+    ],
+    "Metascore": "51",
+    "imdbRating": "5.8",
+    "imdbVotes": "10,515",
+    "imdbID": "tt26678938",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1522496,
+  "ingestion_time_utc": "2026-06-03T18:32:00.468794+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/hyl6es0MyJ1tEmziR293GxdIQKZ.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "http://www.foodtruckthemovie.com",
+    "id": 1522496,
+    "imdb_id": "tt38079900",
+    "origin_country": [
+      "TH"
+    ],
+    "original_language": "th",
+    "original_title": "ฟู้ดทรัค ลัก (รัก) หมูเด้ง",
+    "overview": "When a child sneaks onto their food truck looking for his father, three friends go on a wild road trip, running into police, monks — and a famous hippo.",
+    "popularity": 32.9939,
+    "poster_path": "/fOhSmHSEm0iVQ2AdG5SkjXnsvUM.jpg",
+    "production_companies": [
+      {
+        "id": 261735,
+        "logo_path": "/6uBYJ57l9hwIBn7qdS2SCDHKond.png",
+        "name": "Shinesaeng Ad.Venture",
+        "origin_country": "TH"
+      },
+      {
+        "id": 269798,
+        "logo_path": null,
+        "name": "Macgo",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "TH",
+        "name": "Thailand"
+      }
+    ],
+    "release_date": "2025-08-28",
+    "revenue": 0,
+    "runtime": 105,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Thai",
+        "iso_639_1": "th",
+        "name": "ภาษาไทย"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Love is on the menu but every recipe has its secrets.",
+    "title": "Food Truck: Stolen Love... and Moo Deng",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 6,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "ตัวอย่าง Food Truck ลัก (รัก) หมูเด้ง - Official Trailer",
+          "key": "EygMVEwoVtI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "6895d85d6e6d93da9999b013",
+          "published_at": "2025-08-08T10:39:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "ตัวอย่าง Food Truck ลัก (รัก) หมูเด้ง - Official Teaser",
+          "key": "KTVrOgY71p0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": false,
+          "id": "688c5e31e5e0e8786261e465",
+          "published_at": "2025-08-01T03:13:35.000Z"
+        }
+      ]
+    }
+  }
+}

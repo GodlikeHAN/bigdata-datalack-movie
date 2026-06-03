@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 497,
+  "ingestion_time_utc": "2026-06-03T18:32:05.533837+00:00",
+  "data": {
+    "id": 497,
+    "imdb_id": "tt0120689",
+    "wikidata_id": "Q208263",
+    "facebook_id": "TheGreenMileOfficial",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

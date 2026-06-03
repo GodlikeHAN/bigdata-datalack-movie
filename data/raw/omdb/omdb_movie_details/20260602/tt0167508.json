@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0167508",
+  "ingestion_time_utc": "2026-06-03T16:01:34.027690+00:00",
+  "data": {
+    "Title": "Zero Woman",
+    "Year": "1995",
+    "Rated": "R",
+    "Released": "05 Sep 1995",
+    "Runtime": "99 min",
+    "Genre": "Drama, Thriller",
+    "Director": "Daisuke Gotô",
+    "Writer": "Daisuke Gotô, Chiaki Hashiba, Tooru Shinohara",
+    "Actors": "Natsuki Ozawa, Saori Iwama, Kane Kosugi",
+    "Plot": "A gang of young thieves try to rob a mob boss, but their heist is interrupted by an officer of the Tokyo Police Department's elite Zero Division. They get away with the loot, but the officer, a beautiful, more-than-slightly psycho...",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MjM5NjMxMl5BMl5BanBnXkFtZTcwNDk2OTIyMQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.8/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.8",
+    "imdbVotes": "218",
+    "imdbID": "tt0167508",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

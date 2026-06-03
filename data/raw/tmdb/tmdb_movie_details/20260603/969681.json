@@ -1,0 +1,197 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 969681,
+  "ingestion_time_utc": "2026-06-03T18:31:59.278322+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+    "belongs_to_collection": {
+      "id": 531241,
+      "name": "Spider-Man (MCU) Collection",
+      "poster_path": "/yeba3Y820OjApZO9aJevDsNeMEd.jpg",
+      "backdrop_path": "/AvnqpRwlEaYNVL6wzC4RN94EdSd.jpg"
+    },
+    "budget": 230000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "homepage": "https://spidermanbrandnewday.movie",
+    "id": 969681,
+    "imdb_id": "tt22084616",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Spider-Man: Brand New Day",
+    "overview": "Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the lives and memories of those he loves. Crime-fighting in a New York that no longer knows his name, he's devoted himself entirely to protecting his city — a full-time Spider-Man — but as the demands on him intensify, the pressure sparks a surprising physical evolution that threatens his existence, even as a strange new pattern of crimes gives rise to one of the most powerful threats he has ever faced.",
+    "popularity": 39.5018,
+    "poster_path": "/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+    "production_companies": [
+      {
+        "id": 420,
+        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 84041,
+        "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+        "name": "Pascal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 22213,
+        "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+        "name": "TSG Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 34,
+        "logo_path": "/fl0GumpYvcu7cTHZlNNAMs8heP6.png",
+        "name": "Sony Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-07-29",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Post Production",
+    "tagline": "A brand new day starts now.",
+    "title": "Spider-Man: Brand New Day",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Happy birthday Tom Holland.",
+          "key": "4CXlc8tcBTo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a1d9c2faaa3190d666b6ce6",
+          "published_at": "2026-06-01T07:10:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Practical Production",
+          "key": "6GW4JPeqm3s",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a05e4bcd8b2897b3d291ec8",
+          "published_at": "2026-05-14T13:15:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer Livestream",
+          "key": "jdX-mYJHGI8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69bd46ec59284aed146e5766",
+          "published_at": "2026-03-18T19:23:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "We couldn’t have done it without you.",
+          "key": "C6rcU2-dDhU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69bd4709a0684880da9dee8a",
+          "published_at": "2026-03-18T17:31:49.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "8TZMtslA3UY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69ba9cc99b5a9d785521f05e",
+          "published_at": "2026-03-18T11:05:15.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Day One on Set",
+          "key": "9ymmwq55sHY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "68989d75b8a9d066e48eaad2",
+          "published_at": "2025-08-10T13:02:18.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Tom Holland New Suit Reveal",
+          "key": "Vsn7sVxCq1M",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "688e15f8831be5a920b7ee07",
+          "published_at": "2025-08-02T13:14:46.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "SPIDER-MAN: BRAND NEW DAY",
+          "key": "QZ9XFKF_nD0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "688cf08cf74104556a26125d",
+          "published_at": "2025-08-01T13:00:56.000Z"
+        }
+      ]
+    }
+  }
+}

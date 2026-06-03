@@ -1,0 +1,453 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 933260,
+  "ingestion_time_utc": "2026-06-03T18:31:54.419009+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/8ODNt5olCeIqBYTP3GgXEQYTfeX.jpg",
+    "belongs_to_collection": null,
+    "budget": 17500000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://mubi.com/en/thesubstance",
+    "id": 933260,
+    "imdb_id": "tt17526714",
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Substance",
+    "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+    "popularity": 25.6786,
+    "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+    "production_companies": [
+      {
+        "id": 10163,
+        "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+        "name": "Working Title Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 233939,
+        "logo_path": "/pAVTrExieWU4GEfxhpmQc0G9CUi.png",
+        "name": "Blacksmith",
+        "origin_country": "FR"
+      },
+      {
+        "id": 221513,
+        "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+        "name": "Working Title Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2024-09-07",
+    "revenue": 77316812,
+    "runtime": 141,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Have you ever dreamt of a better version of yourself?",
+    "title": "The Substance",
+    "video": false,
+    "vote_average": 7.135,
+    "vote_count": 6018,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Director Coralie Fargeat Dives Deep with Sean Evans on David Lynch & More",
+          "key": "cBh97-obqKQ",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Featurette",
+          "official": true,
+          "id": "67c59b23564d2575d9920b9d",
+          "published_at": "2025-03-01T11:00:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Inside the Screenplay",
+          "key": "UMicrbtjFKU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "67b1e1fd169e365af69faa79",
+          "published_at": "2025-02-14T18:31:46.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Conversation with Demi Moore & \"Charlie's Angels\"",
+          "key": "KASLYEChinM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "679b4f0aff8a9db5e53455c8",
+          "published_at": "2025-01-29T13:00:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Coralie Fargeat’s reaction on her Academy Award nomination for Best Director for The Substance",
+          "key": "Wgfk_gtwvPA",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "67a86504b9360c3e33e08816",
+          "published_at": "2025-01-24T00:00:41.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Making-Of Featurette",
+          "key": "8H64HNvXrqU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "677d68b5d9b0e70d5d728806",
+          "published_at": "2025-01-07T16:53:27.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Especially not now...\"",
+          "key": "s0vATsOGW1Y",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6773c776d8dc22e6c6929f97",
+          "published_at": "2024-12-30T16:00:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"We got you just a little something...\"",
+          "key": "m53cJl9O7QY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "676eb22dd6d10ecc8c12b6b6",
+          "published_at": "2024-12-24T14:30:21.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Q&A with Coralie Fargeat & Guillermo del Toro",
+          "key": "BKcMm5RG2M4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6755b91ad428ca1c5d62e185",
+          "published_at": "2024-12-08T13:04:46.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Tree’s up 🎄",
+          "key": "dQU7LHh7ANU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "67a866a906bd0cefa6e05bc9",
+          "published_at": "2024-12-01T23:55:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip - Pretty Girls Should Always Smile",
+          "key": "Rk3u4_IH0cY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6736c00ba102d269c03f0f79",
+          "published_at": "2024-11-14T03:17:43.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Conversation with THE SUBSTANCE Filmmaker Coralie Fargeat",
+          "key": "DBiPdgIZt1g",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "67336bd2b750dbc5eab39c77",
+          "published_at": "2024-11-11T23:06:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Interview - Margaret Qualley",
+          "key": "jNQtxvA2zPY",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Featurette",
+          "official": true,
+          "id": "67336cc2e2cb62b5bc165dd9",
+          "published_at": "2024-11-07T22:00:27.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Interview - Demi Moore at Cannes Film Festival",
+          "key": "HGmRKUYWN48",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Featurette",
+          "official": true,
+          "id": "67336cca13beaf465b73c804",
+          "published_at": "2024-11-07T04:16:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip - Get Ready With Me",
+          "key": "O9nfzMT05ck",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67336cd413beaf465b73c809",
+          "published_at": "2024-11-06T02:24:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer #2",
+          "key": "lR5nlovVgvQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6723aafe47fe097c193fc9cb",
+          "published_at": "2024-10-31T15:54:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip - I'd Like To Order",
+          "key": "4dzYB2JiMAA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67336ce2e2cb62b5bc165dee",
+          "published_at": "2024-10-28T23:34:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Substance (2024) - \"I'm Sue\"",
+          "key": "0uUEiKr9FmA",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": false,
+          "id": "6935b4f082375ca71805d514",
+          "published_at": "2024-10-23T12:46:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip - Lucky Day",
+          "key": "QzbgCI-FFu0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6706d520003c9214a0b3e7db",
+          "published_at": "2024-10-08T23:37:14.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "To everyone who has gone out to see The Substance in cinemas…",
+          "key": "hYCkO4uuzt4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67a86689df55e8f213f126ef",
+          "published_at": "2024-10-01T06:57:53.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip - Pump It Up With Sue",
+          "key": "4DPFdsDVK4w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67a866fadf55e8f213f1271e",
+          "published_at": "2024-10-01T06:12:22.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "On my way to see The Substance again 🧪",
+          "key": "vRM4IC9jNkc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67a86728ad2758bac5f12f83",
+          "published_at": "2024-10-01T04:13:44.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "THE SUBSTANCE - Coralie Fargeat rips beauty standards to gory shreds | MUBI Podcast",
+          "key": "kEWzeBLhLD4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "672cf5c1d98bbc3977ad2bf9",
+          "published_at": "2024-09-28T15:00:55.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Breaking Down THE SUBSTANCE's Shrimp Scene",
+          "key": "1_SSwbYYIQc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "66f7d128140fbf6a1a5f26b5",
+          "published_at": "2024-09-24T18:15:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The hype is real",
+          "key": "aA-vyoIPcL4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "66de9f1cb15227c17c4c2c91",
+          "published_at": "2024-09-09T00:15:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TIFF 2024 Q&A",
+          "key": "seyGZLvAauk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "66dd11ead1b6aaf74d6d2448",
+          "published_at": "2024-09-07T22:16:14.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Mark it in your calendar",
+          "key": "86wkRfWQWiY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "66dea015bb7de9f23738e5fb",
+          "published_at": "2024-08-20T00:38:18.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "LNlrGhBpYjc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "66bdfcbe217d4f9e7f50c517",
+          "published_at": "2024-08-15T13:00:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser",
+          "key": "B1B3HZRHpEw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "668fd9c46bbeb2da27a79f8d",
+          "published_at": "2024-07-11T13:06:40.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Vertical Teaser",
+          "key": "ZFV4tGgf5rA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "67a86624df55e8f213f126d4",
+          "published_at": "2024-07-11T13:00:37.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip",
+          "key": "U-RxVJrLKrk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "66477417184a463172920b74",
+          "published_at": "2024-05-17T14:02:16.000Z"
+        }
+      ]
+    }
+  }
+}

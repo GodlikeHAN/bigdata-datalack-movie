@@ -1,0 +1,96 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1557848,
+  "ingestion_time_utc": "2026-06-03T16:00:29.903032+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/fOAIBZQOyqktxjpedHZKTDJegkt.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1557848,
+    "imdb_id": "tt37536947",
+    "origin_country": [
+      "TR"
+    ],
+    "original_language": "tr",
+    "original_title": "Uykucu",
+    "overview": "Ferman is a cold-blooded hitman who eliminates former agents for a secret organization. While eliminating a target during one of his missions, he encounters Saye and unexpectedly falls in love with her. Instead of killing her, he chooses to bring her into the organization. This decision marks the beginning of an irreversible path in both of their lives.",
+    "popularity": 25.8375,
+    "poster_path": "/xvycfI4PRusKfqvzmkb8xqO0g48.jpg",
+    "production_companies": [
+      {
+        "id": 189040,
+        "logo_path": "/5OwTFNgHEx4wBNNUc69M2vrK67v.png",
+        "name": "Poll Films",
+        "origin_country": "TR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "TR",
+        "name": "Turkey"
+      }
+    ],
+    "release_date": "2025-10-29",
+    "revenue": 3700000,
+    "runtime": 123,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Turkish",
+        "iso_639_1": "tr",
+        "name": "Türkçe"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Sleeper",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 5,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Uykucu ~ Trailer #1 ~ English Subtitles",
+          "key": "hvHw1VbVQkM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "68ef267a5084899c8eaede89",
+          "published_at": "2025-10-08T16:39:23.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Uykucu (Trailer)",
+          "key": "LKWjfdEioaU",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": false,
+          "id": "68ec3a8a902e1ae996f11912",
+          "published_at": "2025-10-08T15:13:46.000Z"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt2382009",
+  "ingestion_time_utc": "2026-06-03T16:01:30.600660+00:00",
+  "data": {
+    "Title": "Nymphomaniac: Vol. II",
+    "Year": "2013",
+    "Rated": "Not Rated",
+    "Released": "20 Mar 2014",
+    "Runtime": "124 min",
+    "Genre": "Drama",
+    "Director": "Lars von Trier",
+    "Writer": "Lars von Trier",
+    "Actors": "Charlotte Gainsbourg, Stellan Skarsgård, Willem Dafoe",
+    "Plot": "The continuation of Joe's sexually dictated life delves into the darker aspects of her adulthood, obsessions and what led to her being in Seligman's care.",
+    "Language": "English",
+    "Country": "Denmark, Germany, Belgium, United Kingdom, France, Sweden",
+    "Awards": "14 wins & 31 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDFlZGEwNzUtZWY2OS00MWE0LWEwMjEtMmUwZDQzZWRlYWRkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "59%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "61/100"
+      }
+    ],
+    "Metascore": "61",
+    "imdbRating": "6.6",
+    "imdbVotes": "103,131",
+    "imdbID": "tt2382009",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$327,167",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

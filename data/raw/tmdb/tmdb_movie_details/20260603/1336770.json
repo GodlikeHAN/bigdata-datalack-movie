@@ -1,0 +1,96 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1336770,
+  "ingestion_time_utc": "2026-06-03T18:31:52.572896+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/uNA0OVk09Hbwflye3eBoOiGIKGc.jpg",
+    "belongs_to_collection": {
+      "id": 1336775,
+      "name": "Vaazha Collection",
+      "poster_path": "/cumyoIZgBly6JmJd88Jka5qUCm4.jpg",
+      "backdrop_path": null
+    },
+    "budget": 1079884,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1336770,
+    "imdb_id": "tt33245761",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "ml",
+    "original_title": "വാഴ II",
+    "overview": "Four friends – Hashir, Alan, Ajin and Vinayak – are considered losers and troublemakers by parents, family and the school management. They face immense social pressure as they reach adulthood, embarking them on an emotional journey of self discovery and acceptance, where they finally learn to take up their responsibilities and find success.",
+    "popularity": 27.0779,
+    "poster_path": "/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
+    "production_companies": [
+      {
+        "id": 210651,
+        "logo_path": null,
+        "name": "WBTS Productions",
+        "origin_country": "IN"
+      },
+      {
+        "id": 162532,
+        "logo_path": null,
+        "name": "Imagin Cinemas",
+        "origin_country": "IN"
+      },
+      {
+        "id": 100071,
+        "logo_path": null,
+        "name": "Shine Screens",
+        "origin_country": "IN"
+      },
+      {
+        "id": 300472,
+        "logo_path": null,
+        "name": "Signature Studios",
+        "origin_country": ""
+      },
+      {
+        "id": 300473,
+        "logo_path": null,
+        "name": "Icon Studios",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-04-02",
+    "revenue": 21181760,
+    "runtime": 162,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Malayalam",
+        "iso_639_1": "ml",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "Biopic of a Billion Bros.",
+    "title": "Vaazha II",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 9,
+    "videos": {
+      "results": []
+    }
+  }
+}

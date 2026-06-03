@@ -1,0 +1,392 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 19995,
+  "ingestion_time_utc": "2026-06-03T18:31:57.587461+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+    "belongs_to_collection": {
+      "id": 87096,
+      "name": "Avatar Collection",
+      "poster_path": "/3C5brXxnBxfkeKWwA1Fh4xvy4wr.jpg",
+      "backdrop_path": "/gxnvX9kF7RRUQYvB52dMLPgeJkt.jpg"
+    },
+    "budget": 237000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "homepage": "https://www.avatar.com/movies/avatar",
+    "id": 19995,
+    "imdb_id": "tt0499549",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Avatar",
+    "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+    "popularity": 48.9647,
+    "poster_path": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+    "production_companies": [
+      {
+        "id": 444,
+        "logo_path": null,
+        "name": "Dune Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 574,
+        "logo_path": "/8wdmrfGcDx3TJxYiiDksLzAW4pB.png",
+        "name": "Lightstorm Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 133789,
+        "logo_path": "/bJdeIb1ET3BkyodAASVDq1x3mls.png",
+        "name": "Ingenious Film Partners",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "2009-12-16",
+    "revenue": 2923706026,
+    "runtime": 162,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Enter the world of Pandora.",
+    "title": "Avatar",
+    "video": false,
+    "vote_average": 7.605,
+    "vote_count": 34000,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Rick Carter | 82nd & 85th Oscars Best Production Design | Behind the Oscars Speech",
+          "key": "Gan2NzR80Cc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6836312886aa54c7c0a87695",
+          "published_at": "2025-05-16T13:00:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Back for a Limited Time",
+          "key": "LgZ2MDuJvhc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "63372b210a517c009cd540ff",
+          "published_at": "2022-09-30T16:30:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Thank You Fans",
+          "key": "G_9MmUpBxnE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "633652260a517c007c424c28",
+          "published_at": "2022-09-29T17:00:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Back in Theaters Now",
+          "key": "lWOPVDyZRxY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "63361a75db7058008ebe0070",
+          "published_at": "2022-09-28T17:00:28.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Back in Theaters",
+          "key": "LO1lud7EFFc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "63361e7fd363e5007d88882a",
+          "published_at": "2022-09-28T16:00:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "See It Back On The Big Screen",
+          "key": "FVq8GX6DqTE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "632f736b663b87008558e615",
+          "published_at": "2022-09-23T17:00:25.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Back In Theaters This Friday",
+          "key": "9sUddYwgFi8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "632e4f86fcec2e007cb65a61",
+          "published_at": "2022-09-20T19:00:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "James Cameron's Avatar is back on the big screen this Friday!",
+          "key": "M8rnbAUO-p8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "632c0043c8f3c4007bb5ee3c",
+          "published_at": "2022-09-19T13:57:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Back in Theaters",
+          "key": "PBkR1GWRwjY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "631f62dbe55937007f378dac",
+          "published_at": "2022-09-12T16:00:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Neytiri",
+          "key": "8AM3DedwJvE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6315d65f326c190079d3e881",
+          "published_at": "2022-09-02T16:01:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Back in Theatres",
+          "key": "jm2sNLIPPvA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6305a17dcee2f6007bcdb00c",
+          "published_at": "2022-08-23T16:00:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Stream on Disney+",
+          "key": "hmfBznT7B3k",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "639fa2fa688cd018083fce0d",
+          "published_at": "2022-04-22T18:00:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Scorpion",
+          "key": "197Qfoy-xME",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "5d6489baad50f06b0244d7df",
+          "published_at": "2013-03-08T05:27:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "AMP Suit",
+          "key": "aw60Ma4c2bw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "5d6489cd813cb60013f8ee84",
+          "published_at": "2013-03-08T05:27:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Navi",
+          "key": "7VxJW-XJkro",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "5d6489ef813cb60016f8f9be",
+          "published_at": "2013-03-08T05:27:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Planet Pandora",
+          "key": "vzzVsOdumqg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "5d648a11bcf8c9001575fe5a",
+          "published_at": "2013-03-08T05:27:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "James Cameron's Vision",
+          "key": "qdV9LUYrEqs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "5d648a30813cb60014f8fc14",
+          "published_at": "2013-03-08T05:27:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "DireHorse",
+          "key": "4plftv4aCSc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "5ec724780fb17f001c7a4048",
+          "published_at": "2013-03-08T05:27:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Banshee",
+          "key": "EoHZcf_lkMA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "5ec725e16c849200202c58c3",
+          "published_at": "2013-03-08T05:27:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Special Edition Official Trailer",
+          "key": "gKNcTZPydfY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "689b81168a67624c3d268812",
+          "published_at": "2010-08-12T06:55:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Special Edition Teaser Trailer",
+          "key": "ZsBmqWbB06U",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "689b80e96026a8e6058eb6c0",
+          "published_at": "2010-08-04T05:57:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Performance Capture",
+          "key": "OJ1JzYPjcj0",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "5d648989ad50f0324244c762",
+          "published_at": "2010-01-20T01:05:39.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Avatar Story",
+          "key": "Jxt2Gwp7tx0",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Featurette",
+          "official": true,
+          "id": "5ec725543d3557001eeee15c",
+          "published_at": "2009-12-05T02:40:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "5PSNL1qE6VY",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Trailer",
+          "official": true,
+          "id": "5b22be749251416e1b01d1d9",
+          "published_at": "2009-11-09T21:31:39.000Z"
+        }
+      ]
+    }
+  }
+}

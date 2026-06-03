@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt18305922",
+  "ingestion_time_utc": "2026-06-03T18:32:44.605922+00:00",
+  "data": {
+    "Title": "Conspiração Fatal",
+    "Year": "2022",
+    "Rated": "N/A",
+    "Released": "26 May 2022",
+    "Runtime": "80 min",
+    "Genre": "Thriller",
+    "Director": "Renato Siqueira",
+    "Writer": "N/A",
+    "Actors": "Aline Mineiro, Ricardo Ramory, Priscila Castello Branco",
+    "Plot": "Couple Davi and Juliana face crises; Davi investigates financial scandal at work, endangering himself. Juliana suspects their new home hides dark secrets, jeopardizing her life. Their lives intertwine with a dangerous conspiracy.",
+    "Language": "Portuguese",
+    "Country": "Brazil",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzkwYTY2MDktOTg3Yy00NjRkLTg3YWEtY2I1YTdiNGYwOGQxXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "48",
+    "imdbID": "tt18305922",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

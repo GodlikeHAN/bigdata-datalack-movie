@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1404791,
+  "ingestion_time_utc": "2026-06-03T18:32:04.799233+00:00",
+  "data": {
+    "id": 1404791,
+    "imdb_id": "tt35276942",
+    "wikidata_id": "Q133728943",
+    "facebook_id": null,
+    "instagram_id": "dollhouse_movie",
+    "twitter_id": "dollhouse_movie"
+  }
+}

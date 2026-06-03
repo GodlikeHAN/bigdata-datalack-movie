@@ -1,0 +1,86 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1239134,
+  "ingestion_time_utc": "2026-06-03T16:00:35.594081+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+    "belongs_to_collection": null,
+    "budget": 14000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 1239134,
+    "imdb_id": "tt29540862",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_title": "भूत बंगला",
+    "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+    "popularity": 85.5625,
+    "poster_path": "/79RBp8afL4u4z3nVGR78z6eIvBB.jpg",
+    "production_companies": [
+      {
+        "id": 3750,
+        "logo_path": "/4YRT7sNsvvULDZclOcJkvNpDGOb.png",
+        "name": "Balaji Motion Pictures",
+        "origin_country": "IN"
+      },
+      {
+        "id": 35063,
+        "logo_path": "/r7pvX3K2k3iNVBVt4xufCIEIcnP.png",
+        "name": "Cape of Good Films",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-04-16",
+    "revenue": 20000000,
+    "runtime": 163,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Bhooth Bangla",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 10,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Bhooth Bangla -Official Teaser | Akshay Kumar, Tabu, Paresh, Wamiqa, Priyadarshan |In Cinemas 10 Apr",
+          "key": "D6sCbIv4N7Y",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69b2ecb8f4e9b59f31685d39",
+          "published_at": "2026-03-12T05:41:02.000Z"
+        }
+      ]
+    }
+  }
+}

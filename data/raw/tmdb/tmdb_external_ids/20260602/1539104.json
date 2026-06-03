@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1539104,
+  "ingestion_time_utc": "2026-06-03T16:01:09.638156+00:00",
+  "data": {
+    "id": 1539104,
+    "imdb_id": "tt38121182",
+    "wikidata_id": "Q136436677",
+    "facebook_id": "jujutsu.kaisen.official",
+    "instagram_id": "jujutsukaisen",
+    "twitter_id": "animejujutsu"
+  }
+}

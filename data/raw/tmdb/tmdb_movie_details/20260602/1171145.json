@@ -1,0 +1,660 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1171145,
+  "ingestion_time_utc": "2026-06-03T16:00:42.576319+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/52AkwEfQiJl2HuTPMZ2yC5Bdr9I.jpg",
+    "belongs_to_collection": null,
+    "budget": 90000000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.amazon.com/salp/crime101?hhf",
+    "id": 1171145,
+    "imdb_id": "tt32430579",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Crime 101",
+    "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
+    "popularity": 43.5449,
+    "poster_path": "/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
+    "production_companies": [
+      {
+        "id": 10163,
+        "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+        "name": "Working Title Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 122772,
+        "logo_path": null,
+        "name": "The Story Factory",
+        "origin_country": "US"
+      },
+      {
+        "id": 23949,
+        "logo_path": "/3QFwomSxcZZgMQGBkdUPuJEnSFB.png",
+        "name": "RAW",
+        "origin_country": "GB"
+      },
+      {
+        "id": 210099,
+        "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+        "name": "Amazon MGM Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 183787,
+        "logo_path": "/8G6CbTenzORJdoep1AaghtSEQrY.png",
+        "name": "Wild State",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-02-11",
+    "revenue": 72900246,
+    "runtime": 141,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Always have an exit.",
+    "title": "Crime 101",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1031,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Which cast member would you choose?",
+          "key": "ZF6XnJLI-_c",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69adbb39625f250c1d0b24a9",
+          "published_at": "2026-03-08T16:30:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Crime 101 takeover NYC? Check.",
+          "key": "SpzFBsDJ-HY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69a1e6539c477d77b7c4a8bf",
+          "published_at": "2026-02-27T12:00:50.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The plan is working.",
+          "key": "bB-g8o_TpXE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "699f7fb684485008d7b2f785",
+          "published_at": "2026-02-25T15:45:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Your love letter from the cast of Crime 101",
+          "key": "kNqHXLO7ElY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6990cfa980ba08ea842ae836",
+          "published_at": "2026-02-14T12:45:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Masterpiece Review",
+          "key": "7Z4Dt3GQW0w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6990746df1d16ff9c8c8f0d2",
+          "published_at": "2026-02-14T08:30:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Film Clip - Mystery Man",
+          "key": "gZtI8lNd5yE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "699074131f62580181c8f075",
+          "published_at": "2026-02-14T08:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "An Awkward Romance",
+          "key": "eWnkkw_GW3E",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "699074ca7495c1e5db24cf99",
+          "published_at": "2026-02-14T06:30:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Chris Driving",
+          "key": "UmpsU6Aur58",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "69907522efd15a718f4ecafc",
+          "published_at": "2026-02-13T12:09:39.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "European Gala Screening VOXPOP",
+          "key": "qDx0X9Rgt7w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69906ef351f1032cea8c96b2",
+          "published_at": "2026-02-13T08:40:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Simply no words.",
+          "key": "N6r6_33mSLw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "698e46aea935c67a61f8af01",
+          "published_at": "2026-02-12T21:30:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "A Criminal Ensemble - Featurette",
+          "key": "czaLrU0uYfY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "698e2615be59dff46237bce3",
+          "published_at": "2026-02-12T17:00:56.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Filming In LAX",
+          "key": "uVAad4Hx8e8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "699074a0994fb5f32fdb02c3",
+          "published_at": "2026-02-12T06:36:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Popcorn for the win.",
+          "key": "bunQxs0IO5k",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "698d1604b44029ae91b69c5f",
+          "published_at": "2026-02-11T18:45:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The heist arrives in IMAX.",
+          "key": "WGSZjBKnYUQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "698b9b7de12ee19bf042182b",
+          "published_at": "2026-02-10T20:00:26.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Mastermind of Crime - Featurette",
+          "key": "Bkg4_OBfkd0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "698b78b9c27aafe1ee8efcaf",
+          "published_at": "2026-02-10T17:30:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Team Up Chris",
+          "key": "zJib9VzLBKk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69907574fe083dd7c27f6567",
+          "published_at": "2026-02-09T06:13:58.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "This is your sign to see Crime 101 on the biggest screen possible!",
+          "key": "Z7y1wsJ-6mM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69873a2dc4c112922c5d85c7",
+          "published_at": "2026-02-07T10:00:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas February 18",
+          "key": "FEa72TWgg64",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "698b9c72d43ff051d3d7f6e1",
+          "published_at": "2026-02-07T00:34:55.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas February 18",
+          "key": "WjPnjyWzotc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "698b9c264de41076661e6584",
+          "published_at": "2026-02-07T00:34:29.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas February 18",
+          "key": "x4sqt99L8aM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "698b9c0eda94ee5a54b2518e",
+          "published_at": "2026-02-07T00:34:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas February 18",
+          "key": "-MI9zw9F1SA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "698b9bf6a4aa32e01b8efda2",
+          "published_at": "2026-02-07T00:33:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas February 18",
+          "key": "bZ_4MUW0Uik",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "698b9bcce708eee0f1b70f76",
+          "published_at": "2026-02-07T00:33:09.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas February 18",
+          "key": "Rc-ntbG6qbM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "698c6781d3b501fd54bb790e",
+          "published_at": "2026-02-07T00:31:34.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas February 18",
+          "key": "bj6R_g5BfQw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "698c675cd3b501fd54bb7903",
+          "published_at": "2026-02-07T00:30:38.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas February 18",
+          "key": "jjmlElPXP7w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "698c672531d8ce6b36885f10",
+          "published_at": "2026-02-07T00:29:40.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas February 18",
+          "key": "Gdkm2mAuGBA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "698c6708f92f487252f7b87c",
+          "published_at": "2026-02-07T00:28:45.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Interview with Bart Layton",
+          "key": "gcjp4PTrnew",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "698e759f0bb48ec9f9370e56",
+          "published_at": "2026-02-06T20:00:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "This is a Chris Hemsworth appreciation post.",
+          "key": "lXP8X8lGBXs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69837a0ab57d7bbc2dfa6658",
+          "published_at": "2026-02-04T13:01:33.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "We're keeping this forever",
+          "key": "mmjOCSjPd6c",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "698379fa826f94b02afa664a",
+          "published_at": "2026-02-03T19:23:57.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The plan comes together in IMAX",
+          "key": "ImIqWo2b4Ys",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "697e64614998f79b420e7230",
+          "published_at": "2026-01-31T20:00:39.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The plan is set.",
+          "key": "WQWlhBXQpqU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "697ce7f33207311f480d1a44",
+          "published_at": "2026-01-30T14:01:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Don’t miss Crime 101 in cinemas Feb 13!",
+          "key": "W2LbBTuU-OQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "697ce861fa2c4e511ddb269e",
+          "published_at": "2026-01-30T13:05:43.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "A Kid with Nothing to Lose - Featurette",
+          "key": "02IX3b8hIeA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "697ce50b4240c918ca2415e7",
+          "published_at": "2026-01-29T17:30:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "A Cop With A Dilemma - Featurette",
+          "key": "g74ixIpJ6n4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "697ce5014240c918ca2415e5",
+          "published_at": "2026-01-29T17:20:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "A Broker with a Choice - Featurette",
+          "key": "oXQiLuwRDgU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "697ce4f679741a301491c43b",
+          "published_at": "2026-01-29T17:10:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "A Thief With A Code - Featurette",
+          "key": "8Bj30rWaAgA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "697ce4e6560719461c5d9f12",
+          "published_at": "2026-01-29T17:00:21.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "European Gala Screening Sizzle",
+          "key": "iangSZLN2Ws",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "697ce4893a0fe1e63f5d9f37",
+          "published_at": "2026-01-29T15:18:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Sharon Sizes Up Mike - Clip",
+          "key": "Ls1gxIbeY_o",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "697961f604e04c56b014e693",
+          "published_at": "2026-01-27T21:00:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Who Are You Working For - Clip",
+          "key": "lIyCdb_dqJ8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6977ae32f7b9cf2a911a15cd",
+          "published_at": "2026-01-26T16:01:09.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Thrill of the Chase - Featurette",
+          "key": "k7lul3Y53xY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6973d3b2a373882b628942f9",
+          "published_at": "2026-01-23T17:10:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer 2",
+          "key": "KeEHsuZ4Ja4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6962733e14f7ca1343bd387a",
+          "published_at": "2026-01-10T14:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Crime never looked this good.",
+          "key": "4rc3rqy1AB4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6957e29cc5d7af490dd7b331",
+          "published_at": "2026-01-02T09:45:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Chris Hemsworth is Mike Davis in Crime 101",
+          "key": "1Gbc0tCSaMw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "694fde1837935bc52215539c",
+          "published_at": "2025-12-27T12:15:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Barry Keoghan is Ormon in Crime 101",
+          "key": "qLA_1vtct_U",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69488b017561f486e281239f",
+          "published_at": "2025-12-21T18:45:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "First Look - Featurette",
+          "key": "X4uv4xDRebI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "69459422a27b750e60fb06af",
+          "published_at": "2025-12-19T16:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Don’t miss Mark Ruffalo as detective Lou Lubesnick in Crime101",
+          "key": "VsmHkvNPVhM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "692f530f063f0b75683994cd",
+          "published_at": "2025-12-02T17:15:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "f5y-cziwmMw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "68fa2ef2fa4d144cafe2d26d",
+          "published_at": "2025-10-23T13:00:02.000Z"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 157336,
+  "ingestion_time_utc": "2026-06-03T16:00:59.779862+00:00",
+  "data": {
+    "id": 157336,
+    "imdb_id": "tt0816692",
+    "wikidata_id": "Q13417189",
+    "facebook_id": "Interstellarmovie",
+    "instagram_id": "interstellarmovie",
+    "twitter_id": "Interstellar"
+  }
+}

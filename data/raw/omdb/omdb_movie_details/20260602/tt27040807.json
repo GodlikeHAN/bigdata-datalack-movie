@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt27040807",
+  "ingestion_time_utc": "2026-06-03T16:01:18.857665+00:00",
+  "data": {
+    "Title": "Wormtown",
+    "Year": "2025",
+    "Rated": "N/A",
+    "Released": "07 Nov 2025",
+    "Runtime": "N/A",
+    "Genre": "N/A",
+    "Director": "Sergio Pinheiro",
+    "Writer": "Andrew James Myers",
+    "Actors": "Caitlin McWethy, Rachel Ryu, Emily Soppe",
+    "Plot": "When a cult that worships mind-altering parasites takes over a small town, a trio of women in lockdown are dragged into a fight for survival and revenge.",
+    "Language": "N/A",
+    "Country": "N/A",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjYzYWQ2MjAtMjA3My00NDE0LWJmYTctOTFjOThmODNjZWNhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt27040807",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

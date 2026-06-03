@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0139134",
+  "ingestion_time_utc": "2026-06-03T16:01:37.678572+00:00",
+  "data": {
+    "Title": "Cruel Intentions",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "05 Mar 1999",
+    "Runtime": "97 min",
+    "Genre": "Drama, Romance",
+    "Director": "Roger Kumble",
+    "Writer": "Choderlos de Laclos, Roger Kumble",
+    "Actors": "Sarah Michelle Gellar, Ryan Phillippe, Reese Witherspoon",
+    "Plot": "Two vicious step-siblings of an elite Manhattan prep school make a wager: to deflower the new headmaster's daughter before the start of term.",
+    "Language": "English, Vietnamese, French",
+    "Country": "United States",
+    "Awards": "8 wins & 14 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjgyYmVjNWYtZTNjOS00YjEyLWI0MjEtMDgwYWI2YzZiMTFkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "55%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "56/100"
+      }
+    ],
+    "Metascore": "56",
+    "imdbRating": "6.8",
+    "imdbVotes": "219,004",
+    "imdbID": "tt0139134",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$38,773,785",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

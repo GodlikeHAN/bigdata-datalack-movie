@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1510339,
+  "ingestion_time_utc": "2026-06-03T18:32:07.960087+00:00",
+  "data": {
+    "id": 1510339,
+    "imdb_id": "tt28961625",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

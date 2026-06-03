@@ -1,0 +1,90 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1662414,
+  "ingestion_time_utc": "2026-06-03T16:00:41.227206+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/ldUVeDfA5ID2vchHGejrEltoBSN.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      }
+    ],
+    "homepage": "https://tv.apple.com/movie/umc.cmc.5q6yvnse5dxw6wbb1sxcwij2k",
+    "id": 1662414,
+    "imdb_id": "tt41367695",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Propeller One-Way Night Coach",
+    "overview": "During the golden age of aviation, a young airplane enthusiast and his mother embark on a cross-country journey to Hollywood—and their simple flight transforms into the trip of a lifetime.",
+    "popularity": 46.685,
+    "poster_path": "/joal4OSVC4T1yFb3kph91tkNNFf.jpg",
+    "production_companies": [
+      {
+        "id": 7406,
+        "logo_path": null,
+        "name": "JTP Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 60319,
+        "logo_path": "/8nz4Ebg1QWUn4AZQYyIXfszHeMr.png",
+        "name": "Kids At Play",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-05-15",
+    "revenue": 0,
+    "runtime": 60,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "All aboard, please.",
+    "title": "Propeller One-Way Night Coach",
+    "video": false,
+    "vote_average": 6.421,
+    "vote_count": 19,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "Nd9fv9rPCMg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69fb608ca272419939368102",
+          "published_at": "2026-05-06T13:29:55.000Z"
+        }
+      ]
+    }
+  }
+}

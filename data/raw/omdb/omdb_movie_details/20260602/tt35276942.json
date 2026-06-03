@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt35276942",
+  "ingestion_time_utc": "2026-06-03T16:01:24.926093+00:00",
+  "data": {
+    "Title": "Dollhouse",
+    "Year": "2025",
+    "Rated": "N/A",
+    "Released": "13 Jun 2025",
+    "Runtime": "110 min",
+    "Genre": "Horror",
+    "Director": "Shinobu Yaguchi",
+    "Writer": "Shinobu Yaguchi",
+    "Actors": "Kôji Seto, Tetsushi Tanaka, Ken Yasuda",
+    "Plot": "Yoshie and Tadahiko are married. They have a 5-year-old daughter named Mei, but she dies. After the loss of her daughter, Yoshie goes into a spiral of despair. One day, she finds a doll resembling Mei at an antique market and buys...",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDI4Yjc0NDEtN2NkNC00Y2M4LTk1YzYtYTExOWE2YTYxNjRmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "111",
+    "imdbID": "tt35276942",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1171145,
+  "ingestion_time_utc": "2026-06-03T16:01:05.395455+00:00",
+  "data": {
+    "id": 1171145,
+    "imdb_id": "tt32430579",
+    "wikidata_id": "Q126394034",
+    "facebook_id": "Crime101Film",
+    "instagram_id": "crime101film",
+    "twitter_id": null
+  }
+}

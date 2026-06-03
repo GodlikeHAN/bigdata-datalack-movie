@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt28134792",
+  "ingestion_time_utc": "2026-06-03T16:01:25.334209+00:00",
+  "data": {
+    "Title": "Mortal Game",
+    "Year": "2024",
+    "Rated": "TV-MA",
+    "Released": "N/A",
+    "Runtime": "N/A",
+    "Genre": "Horror",
+    "Director": "John Lechago",
+    "Writer": "Paco Alvarez, John Patrick Lechago",
+    "Actors": "Deniella Alexis, Kevin Lloyd Reid, Madison Caan",
+    "Plot": "A group of hunters travel to a mysterious island to track down a legendary forest creature. They soon realize their guide has set them up as bait, forcing them to confront a highly intelligent predator that terrorizes them one by ...",
+    "Language": "English",
+    "Country": "Canada",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2U1YWU3ZDEtMjZjZi00YWNlLWJmY2QtYzNiNTVlZDUxNDQyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt28134792",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt14993250",
+  "ingestion_time_utc": "2026-06-03T16:01:38.483699+00:00",
+  "data": {
+    "Title": "Rocky Aur Rani Kii Prem Kahaani",
+    "Year": "2023",
+    "Rated": "Not Rated",
+    "Released": "28 Jul 2023",
+    "Runtime": "168 min",
+    "Genre": "Comedy, Drama, Family",
+    "Director": "Karan Johar",
+    "Writer": "Shashank Khaitan, Ishita Moitra, Sumit Roy",
+    "Actors": "Ranveer Singh, Alia Bhatt, Dharmendra",
+    "Plot": "Flamboyant Punjabi Rocky and intellectual Bengali journalist Rani fall in love despite their differences. After facing family opposition, they decide to live with each other's families for three months before getting married.",
+    "Language": "Hindi, English",
+    "Country": "India",
+    "Awards": "27 wins & 82 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTE2YTZlODgtMTRiNS00YjZkLTljN2YtNTM3ZTQ2MzcwZGNiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "83%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.5",
+    "imdbVotes": "48,224",
+    "imdbID": "tt14993250",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

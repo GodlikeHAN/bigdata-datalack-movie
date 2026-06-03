@@ -60,6 +60,8 @@ def _normalize_value(value):
         return [_normalize_value(item) for item in value.tolist()]
     if isinstance(value, (list, tuple, set)):
         return [_normalize_value(item) for item in value]
+    if isinstance(value, dict):
+        return {key: _normalize_value(item) for key, item in value.items()}
     if isinstance(value, np.generic):
         value = value.item()
     if pd.isna(value):

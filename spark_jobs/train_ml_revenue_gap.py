@@ -39,6 +39,9 @@ FINAL_COLUMNS = [
     "genres",
     "main_genre",
     "main_production_country",
+    "main_production_country_code",
+    "main_production_country_location",
+    "movie_map_location",
     "runtime",
     "budget",
     "revenue",
@@ -64,6 +67,22 @@ FINAL_COLUMNS = [
     "youtube_trailer_url",
     "ingestion_time_utc",
 ]
+
+
+def _ensure_geo_columns(dataframe: DataFrame) -> DataFrame:
+    if "main_production_country_code" not in dataframe.columns:
+        dataframe = dataframe.withColumn("main_production_country_code", F.lit(None).cast("string"))
+    if "main_production_country_location" not in dataframe.columns:
+        dataframe = dataframe.withColumn(
+            "main_production_country_location",
+            F.lit(None).cast("struct<lat:double,lon:double>"),
+        )
+    if "movie_map_location" not in dataframe.columns:
+        dataframe = dataframe.withColumn(
+            "movie_map_location",
+            F.lit(None).cast("struct<lat:double,lon:double>"),
+        )
+    return dataframe
 
 
 def _prepare_features(dataframe: DataFrame) -> DataFrame:
@@ -136,7 +155,7 @@ def _apply_business_labels(dataframe: DataFrame) -> DataFrame:
 def run(run_date: str | None = None) -> str:
     usage_partition = resolve_partition("usage", "ratings_boxoffice_analysis", "movie_performance_gap", run_date)
     spark = create_spark_session("spark_ml_revenue_gap")
-    base_dataframe = spark.read.parquet(str(usage_partition))
+    base_dataframe = _ensure_geo_columns(spark.read.parquet(str(usage_partition)))
     prepared = _prepare_features(base_dataframe)
 
     historical_movies = prepared.filter(

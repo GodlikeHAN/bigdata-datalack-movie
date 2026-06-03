@@ -1,0 +1,743 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1084242,
+  "ingestion_time_utc": "2026-06-03T16:00:36.000869+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+    "belongs_to_collection": {
+      "id": 1084247,
+      "name": "Zootopia Collection",
+      "poster_path": "/9Cm0kU0TAcJ6MoWYKWOl2LzN70I.jpg",
+      "backdrop_path": "/uYQHCOzdCZTK1Q99KIekQqf7ESM.jpg"
+    },
+    "budget": 150000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      }
+    ],
+    "homepage": "https://movies.disney.com/zootopia-2",
+    "id": 1084242,
+    "imdb_id": "tt26443597",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Zootopia 2",
+    "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+    "popularity": 80.9678,
+    "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+    "production_companies": [
+      {
+        "id": 6125,
+        "logo_path": "/8bH86UPmMP8hlITzXV3XgV9eaAc.png",
+        "name": "Walt Disney Animation Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 158526,
+        "logo_path": "/tzsMJBJZINu7GHzrpYzpReWhh66.png",
+        "name": "Walt Disney Animation Studios",
+        "origin_country": "CA"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2025-11-26",
+    "revenue": 1868208796,
+    "runtime": 108,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "They're back with a twissst.",
+    "title": "Zootopia 2",
+    "video": false,
+    "vote_average": 7.648,
+    "vote_count": 2861,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Inside Joke Moments",
+          "key": "e9_USRhGJRQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a10897616c6e3bb2123572d",
+          "published_at": "2026-04-27T18:00:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Now Available",
+          "key": "gvfijvp_QZU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69b1a5b2c6304e1768ac24ad",
+          "published_at": "2026-03-11T16:37:27.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Now Streaming on Disney+",
+          "key": "htJiuw_swvQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69b15a67fb580eb5abac217d",
+          "published_at": "2026-03-11T11:01:18.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Announce",
+          "key": "WFclEuprDi0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69a72554a669c8e79874fc10",
+          "published_at": "2026-03-03T15:00:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Heart of the Cinematic Phenomenon",
+          "key": "eMaQBM4s1p0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "69a725b66cc0219782097519",
+          "published_at": "2026-02-28T01:17:39.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Making of Zootopia 2 with Walt Disney Animation Studios",
+          "key": "DpPai8xJAeU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": false,
+          "id": "699f2ce84a5608abe0efea55",
+          "published_at": "2026-02-24T13:37:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Zootropolis 2 Wins the BAFTA for Animated Film | EE BAFTA Film Awards 2026",
+          "key": "-AXG7ObdwvI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69a0a99d7b3ec3ac2af208b2",
+          "published_at": "2026-02-23T16:52:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Coming to Digital 1/27 and Blu-ray™ 3/3",
+          "key": "k8t8rvRO7Ug",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69768c78ea4bb301a9a38248",
+          "published_at": "2026-01-25T18:14:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick & Judy Crack the Case in 19 Different Languages",
+          "key": "RYhlneXlSQM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69768cc0d10fefac4f1a0eaf",
+          "published_at": "2026-01-09T17:00:49.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Happy New Year",
+          "key": "IlFqiAIkioQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "695e5955e3212bc3a5b5e57a",
+          "published_at": "2026-01-01T02:00:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The filmmakers of Zootropolis 2 fill in the festive blanks!",
+          "key": "SjH9PjNSwG8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "695e5bf48a87122e06f2919c",
+          "published_at": "2025-12-24T09:00:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "POV: Christmas Party Season",
+          "key": "QA6kz8O_Ndc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "695e5d5e2231c5bfb7b5e16d",
+          "published_at": "2025-12-18T12:00:49.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Gotta take a little paws between lines",
+          "key": "SXn5g8OL7II",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "695e59bf79e9a60df0f29266",
+          "published_at": "2025-12-16T19:00:25.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Gazelle appreciation post",
+          "key": "Zlg6hBZSltk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "695fb8e99266fb65f9276ae8",
+          "published_at": "2025-12-10T08:30:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Let's take a sssselfie",
+          "key": "VRWnj7bOHuQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "695e5d2ad24f996b51b5df43",
+          "published_at": "2025-12-08T16:30:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Quick Bunny Break with the Zootropolis 2 Cast!",
+          "key": "f7v8u2mLrFs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "695e5ce5456791fe94a2db92",
+          "published_at": "2025-12-06T09:01:07.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Zootopia 2 Booth to Screen Featurette - Ke Huy Quan (2025)",
+          "key": "IlvGAc2oNrA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": false,
+          "id": "6952e2678a85ab385774ea75",
+          "published_at": "2025-12-04T22:50:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Idris Elba Brings Chief Bogo to Life | Booth to Screen",
+          "key": "7d-ERemOwtY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "695e5ca1a4186d22e8ceaa93",
+          "published_at": "2025-12-04T15:00:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Jodi Benson, Voice of Ariel, Hosts Red Carpet Premiere",
+          "key": "Op-5HjO5Txw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "692df72fc83c1b1135512334",
+          "published_at": "2025-12-01T18:54:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "'Zootopia 2' Team Talks the Return of the Franchise After Almost 10 years",
+          "key": "uKixOcSvvY8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69381cb1f090efc9a83cea09",
+          "published_at": "2025-12-01T14:00:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Zootropolis 2 Cast Meet REAL Bunnies! 🐰 Jason Bateman, Ginnifer Goodwin, Ke Huy Quan",
+          "key": "JXTHc6VXQzU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "695e5a0bc310a309ac7d8cf0",
+          "published_at": "2025-11-29T10:00:36.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "2 PAW-tograph Cam! ✨ Jason Bateman, Ginnifer Goodwin",
+          "key": "59UAYyJgMmM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "695e5c6106b86170e2b5e0c8",
+          "published_at": "2025-11-29T09:00:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "UK Premiere!",
+          "key": "8vhVBx3NeOw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "695e5c448c1b2698c4cfd4d0",
+          "published_at": "2025-11-28T17:11:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "🦊🐰Zootopia 2 is NOW PLAYING only in theaters!",
+          "key": "5H7L9j0dW90",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "692d6bb399eb8389703ea1e0",
+          "published_at": "2025-11-28T17:00:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ke Huy Quan & the Filmmakers Behind Zootopia 2 Reveal How the Film Evolved Over Time | BAFTA",
+          "key": "PinLAbTSI_k",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6929b20ba63269fd1f30d8d4",
+          "published_at": "2025-11-27T18:02:25.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Jason Bateman responds to what YOU are saying about Zootopia 2",
+          "key": "fU7NtRng-yw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6929b242798d54bbe2c12a29",
+          "published_at": "2025-11-27T18:00:49.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Everyone's favorite dysfunctional duo",
+          "key": "wCTmdfgd5gU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "692d6be5ed7253624f26ec8b",
+          "published_at": "2025-11-27T17:01:45.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Interview with Jared Bush & Yvett Merino",
+          "key": "dgrygHREfYI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6928a1351a5c802c1cd9d1c3",
+          "published_at": "2025-11-27T14:55:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Everybody is rushing to see #Zootopia2...well almost everybody",
+          "key": "BDdj9reY3Qs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6929b27ada82e265a82495b2",
+          "published_at": "2025-11-26T20:00:09.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Hop to it",
+          "key": "exf2yRTuscw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6929b294b8ebbf3ee7372205",
+          "published_at": "2025-11-26T18:01:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "easiest way to pay",
+          "key": "livt0sLOxN0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6929b2e87f3ee4609126c929",
+          "published_at": "2025-11-21T20:00:45.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "D23 Inside Disney - Zootopia 2",
+          "key": "6mNAJZ-7lyQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6920c1f4cf7273b104adc531",
+          "published_at": "2025-11-21T19:00:07.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Paw-tners in crime",
+          "key": "yWoy6FHaIGU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6929b330ec7b21006ed9d400",
+          "published_at": "2025-11-20T17:01:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "These jokes are bear-y good",
+          "key": "UniEJRLVfFM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6929b2fe72a4a68e39d9d64d",
+          "published_at": "2025-11-19T18:00:42.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Free ticket if you make it!",
+          "key": "z2LDqHa894Q",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6929b353f927c81d022494f9",
+          "published_at": "2025-11-19T17:01:48.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "De'Snake",
+          "key": "nDHIfWnnk1s",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6929b68b976816fb2c26c568",
+          "published_at": "2025-11-18T17:01:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Gazelle fan club! Shakira stuns at the Zootopia 2 premiere",
+          "key": "mA_dMo95YPI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6929b3a0744371e84ba762c3",
+          "published_at": "2025-11-15T02:39:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Booth To Screen Cameos",
+          "key": "Y8ItxZDgwF8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6917291f177ad7dd279c55e3",
+          "published_at": "2025-11-13T17:01:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Booth To Screen",
+          "key": "kOKIlEqQC_8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6917292841b0b93d78a0e4e7",
+          "published_at": "2025-11-12T17:01:27.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "zoocore",
+          "key": "7hTWIqftGMs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6929b3bc6f22ba95fceaaa0f",
+          "published_at": "2025-11-11T17:00:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Sssslay!",
+          "key": "9KCJpvCMgsQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6929b37e594768be3437204b",
+          "published_at": "2025-11-09T18:44:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "oops",
+          "key": "0LdatFNdpF4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6929b54592edc640ed2493d6",
+          "published_at": "2025-11-09T18:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Dream team!",
+          "key": "9DnElHPXOHI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6929b57947e951ad7ca763a5",
+          "published_at": "2025-11-09T01:58:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick Wilde appreciation post.",
+          "key": "10e5qo9FqoA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6929b403edf0c4b6d6c12b4f",
+          "published_at": "2025-11-09T01:57:46.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick & Judy’s wildest case yet!",
+          "key": "AG63m91PHqo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6929b41ca2b47ab0a2c12927",
+          "published_at": "2025-11-08T21:01:53.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Average day for a fox and bunny.",
+          "key": "KFtYn-Ub9QU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6929b645529ddef13426c8bb",
+          "published_at": "2025-11-08T20:47:56.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "the pressure",
+          "key": "AHWc4ZkMKXU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6929b451c7fe83c20c30d826",
+          "published_at": "2025-11-08T20:46:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "dysfunctional ❌dream team ✅",
+          "key": "JEvlwsoXVhU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6929b478fc9c528ad724606a",
+          "published_at": "2025-10-30T16:00:28.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ticketsssss on Sale",
+          "key": "4WcJxbDuGHE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69007fd83ea40a98274e90f5",
+          "published_at": "2025-10-27T20:00:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Welcome to Zootopia Featurette",
+          "key": "8tqnYt0pvZk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68ffc41d27cf7b4a7f9275f4",
+          "published_at": "2025-10-27T18:00:14.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "International Trailer",
+          "key": "sEgPQ7HKoBA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "68ff9de83ea40a98274e8e56",
+          "published_at": "2025-10-27T16:00:50.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Final Trailer",
+          "key": "5AwtptT8X8k",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "68db132e5136108490b9a208",
+          "published_at": "2025-09-29T13:00:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer",
+          "key": "BjkIOU5PhyQ",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "688a1eb3c4bea91d6a6944ca",
+          "published_at": "2025-07-30T12:47:33.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Teaser Trailer",
+          "key": "xo4rkcC7kFc",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "682cec5a0fae87163af56490",
+          "published_at": "2025-05-20T16:00:06.000Z"
+        }
+      ]
+    }
+  }
+}

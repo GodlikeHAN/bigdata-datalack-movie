@@ -1,0 +1,718 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1242898,
+  "ingestion_time_utc": "2026-06-03T16:00:38.996686+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/gaKFXcB5J1gz0QqYj8bWIfrPc04.jpg",
+    "belongs_to_collection": {
+      "id": 399,
+      "name": "Predator Collection",
+      "poster_path": "/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg",
+      "backdrop_path": "/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg"
+    },
+    "budget": 105000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "homepage": "https://www.20thcenturystudios.com/movies/predator-badlands",
+    "id": 1242898,
+    "imdb_id": "tt31227572",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Predator: Badlands",
+    "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+    "popularity": 61.4801,
+    "poster_path": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+    "production_companies": [
+      {
+        "id": 127928,
+        "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+        "name": "20th Century Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 840,
+        "logo_path": null,
+        "name": "Lawrence Gordon Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 1302,
+        "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+        "name": "Davis Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 185309,
+        "logo_path": null,
+        "name": "Toberoff Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 22213,
+        "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+        "name": "TSG Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-11-05",
+    "revenue": 184500000,
+    "runtime": 107,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "First hunt. Last chance.",
+    "title": "Predator: Badlands",
+    "video": false,
+    "vote_average": 7.759,
+    "vote_count": 2991,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Hulu Trailer",
+          "key": "LkBqjfg8TGM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6984de99a7ba4b0bad6eed1b",
+          "published_at": "2026-02-05T16:59:50.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "On Digital January 6 and Blu-ray February 17",
+          "key": "TmD4c4vVclo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69540d271f7f558045e41e8e",
+          "published_at": "2025-12-30T15:01:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Threat",
+          "key": "SscfOy1i2IU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "692f5270d172f9b4f03eabe4",
+          "published_at": "2025-12-02T12:00:27.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Mother Review",
+          "key": "0PayKPq0Rsc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69248bd97d35337625b58df8",
+          "published_at": "2025-11-22T04:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "A Deadly Haul",
+          "key": "lx_Tt9408o8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69206a34426237e8d5c2d444",
+          "published_at": "2025-11-21T09:18:50.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Bud",
+          "key": "J02hWG1sKog",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "691f2ae065fbc1253fc2ceb6",
+          "published_at": "2025-11-20T13:35:07.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Pick Your Own Ritual",
+          "key": "uSeEB5mZq1g",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "691d974dd2fb80ba1657d036",
+          "published_at": "2025-11-19T07:08:58.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Battle In The Badlands",
+          "key": "RPfQercbpM8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "691c46412e44655ba2c7d55b",
+          "published_at": "2025-11-18T06:54:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Time Review",
+          "key": "PRT5hX_aPgI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69170e8da04bfc56e49ad85f",
+          "published_at": "2025-11-14T05:18:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Prey To None Review",
+          "key": "5JC6NdaVJCw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69173fae70048d82ec9adb7f",
+          "published_at": "2025-11-13T10:00:15.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "#1 Movie In The World",
+          "key": "NN2pnkVN7vs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6916139f0ff15da6849ad62a",
+          "published_at": "2025-11-13T08:04:45.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Rotate To Enter The Fight",
+          "key": "LHJPwnSnmhY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6914e50c312ecd29889ad280",
+          "published_at": "2025-11-12T04:00:18.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Throw Yourself In",
+          "key": "Khkpveajass",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6914e445784b3005ccdd33d3",
+          "published_at": "2025-11-11T04:00:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The ultimate hunt. Predator: Badlands is the #1 movie in the world.",
+          "key": "gE5o_z2Ws48",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6914e51d9e0edb599f876256",
+          "published_at": "2025-11-10T23:09:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Exclusive Interview",
+          "key": "Z6P4Zvd5PgM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69122c50ad9e766f534c8474",
+          "published_at": "2025-11-10T18:00:39.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "NTU Invasion Highlight Video",
+          "key": "Vt38z5eLQ90",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69170e169f53be2e004c9ac4",
+          "published_at": "2025-11-10T08:26:45.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Now Playing In Cinemas",
+          "key": "71BJQsiru-w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6914e3c3526f9980699c4b5b",
+          "published_at": "2025-11-10T04:19:58.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Journey",
+          "key": "JLWQtGXlTiA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69107f0abf95473d1aa0c5d4",
+          "published_at": "2025-11-09T08:00:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Experience the unexpected.",
+          "key": "O6ul9jFmaWg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69107f6b78a31ad1cbdd1cc1",
+          "published_at": "2025-11-08T23:01:09.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "maybe a little too immersive",
+          "key": "WnzMN6qbsqU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6910800bc00d8cc228ce87cd",
+          "published_at": "2025-11-07T20:00:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Kill Stadium",
+          "key": "Pf9R9WpgA7M",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "690dd18ddc4f028746a0bb4e",
+          "published_at": "2025-11-07T08:00:40.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Experience “one of the best movies of the year”.",
+          "key": "MDBh1JDnnLE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "690dd100600db1652bd24aeb",
+          "published_at": "2025-11-06T23:38:22.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Theaters Tonight",
+          "key": "wb5XNpHzxwg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "690dd03e743d11af9dc05055",
+          "published_at": "2025-11-06T21:00:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Crafting the Predator",
+          "key": "KzS5hbZ0KYM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "690eb959a473cfb67d31a8fc",
+          "published_at": "2025-11-06T18:11:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Exhale Review",
+          "key": "8vZ3kJL4-8U",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "690dd1a841b0b93d78a0bb56",
+          "published_at": "2025-11-06T08:00:21.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Theaters Friday",
+          "key": "WysUXPmrGZw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "690aa315a04e0b146df6cd10",
+          "published_at": "2025-11-04T20:00:37.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Theaters Friday",
+          "key": "BaUN3dBbjC4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "690aa2f751c375908f934955",
+          "published_at": "2025-11-04T19:16:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Reboot",
+          "key": "6_m3QBSELdg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "690dd2fe64907fabe331a43a",
+          "published_at": "2025-11-04T09:18:44.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip",
+          "key": "iBhpNZZ-Wwo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69094a5eed9c028f8bc96458",
+          "published_at": "2025-11-03T20:00:40.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Warrior's Journey",
+          "key": "a8_PIDzzpRw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "69094ece13298ac3addb8b2c",
+          "published_at": "2025-11-03T17:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "From the director of Prey comes a new generation of Predator.",
+          "key": "3nnTVuzubHI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "690dd16cc49fa5cfa4dd11b6",
+          "published_at": "2025-11-02T17:00:27.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Featurette - Kill or Be Killed",
+          "key": "E0qflWpEBEs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "690950cfa1bb100afa4135d5",
+          "published_at": "2025-11-02T04:00:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Dan Trachtenberg Reveals That Dek Was Originally Blind In Predator: Badlands | BAFTA",
+          "key": "P4VL2m49Y7g",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6907a200d2914ed67bdd85b7",
+          "published_at": "2025-11-01T12:01:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Welcome",
+          "key": "1nwwwkL0pUE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69094eb8a85437d347c96815",
+          "published_at": "2025-11-01T04:00:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Tessa Online\" Official Clip",
+          "key": "1A_It1x181Y",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6904f0661329dee76a597851",
+          "published_at": "2025-10-31T17:00:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Be Brave Brother\" Official Clip",
+          "key": "i8dKccr9OiU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6902801befcc026dd97e7a23",
+          "published_at": "2025-10-28T23:04:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Weyland-Yutani Returns",
+          "key": "qnskfG-Yd9w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6901178acc3ec15da59fbbeb",
+          "published_at": "2025-10-27T22:10:44.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Steps Bigger",
+          "key": "LkB9lYQr4xg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68ff1118d13717ce402aacf4",
+          "published_at": "2025-10-26T04:00:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Trees Attack\" Official Clip",
+          "key": "et7f2OuKI0g",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "68facf4ca0601bb3ba04f633",
+          "published_at": "2025-10-23T16:26:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ultimate",
+          "key": "JPP46QqGWXQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68fad7a7552f79afe75ddae8",
+          "published_at": "2025-10-23T13:00:40.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Cast Greeting",
+          "key": "xhTWiQlv5Nw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68fad6c3e3e38d1920018713",
+          "published_at": "2025-10-23T11:01:56.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "International Trailer",
+          "key": "9PgcAIgpwPA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "68f9c36aae3b2cec4a6b1be6",
+          "published_at": "2025-10-22T16:00:15.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "New Chant",
+          "key": "OQ6QU2ZsO68",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68f5c64f14a78f95ae97f766",
+          "published_at": "2025-10-20T04:00:33.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Dangerous",
+          "key": "DS1CVyB8O-U",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68f529e4ddaa20cc3e321000",
+          "published_at": "2025-10-17T08:00:34.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Tickets on Sale",
+          "key": "ENr_QTp7S8c",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68eed42f9d8d3767bc8a20ec",
+          "published_at": "2025-10-13T17:00:18.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Prey to None",
+          "key": "Y5UQI61vzlw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "68eed41ad4e1c168404adbc1",
+          "published_at": "2025-10-13T15:08:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Get Tickets Now",
+          "key": "QDXiQa35IYo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68eed3fd96e2ad6e0cf09f80",
+          "published_at": "2025-10-13T13:00:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Final Trailer",
+          "key": "cDL3Zjdz514",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "68e4174205abb64b85c22dbc",
+          "published_at": "2025-10-06T15:59:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "New Trailer Online Now",
+          "key": "m3yWqsfstmg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "687f3d298af0071dab8a51be",
+          "published_at": "2025-07-22T01:30:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "43R9l7EkJwE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "687e66bbe517610e93f76c58",
+          "published_at": "2025-07-21T16:00:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Teaser Trailer",
+          "key": "oFkbsEKaoSE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "680927a3f913e66a3aee12ef",
+          "published_at": "2025-04-23T16:01:20.000Z"
+        }
+      ]
+    }
+  }
+}

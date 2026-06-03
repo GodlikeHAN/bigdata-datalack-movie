@@ -1,0 +1,267 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 24428,
+  "ingestion_time_utc": "2026-06-03T18:31:57.572726+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+    "belongs_to_collection": {
+      "id": 86311,
+      "name": "The Avengers Collection",
+      "poster_path": "/yFSIUVTCvgYrpalUktulvk3Gi5Y.jpg",
+      "backdrop_path": "/2UNUv4NJdC36E5myDHACBJ99EwL.jpg"
+    },
+    "budget": 220000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "homepage": "https://www.marvel.com/movies/the-avengers",
+    "id": 24428,
+    "imdb_id": "tt0848228",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Avengers",
+    "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+    "popularity": 49.7487,
+    "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "production_companies": [
+      {
+        "id": 420,
+        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2012-04-25",
+    "revenue": 1518815515,
+    "runtime": 143,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      },
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Some assembly required.",
+    "title": "The Avengers",
+    "video": false,
+    "vote_average": 8.035,
+    "vote_count": 38127,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Avengers Eating Sharawma - Post Credit Official Clip",
+          "key": "sPemKns0mA4",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "6929270f0c1ed72ae8a7606d",
+          "published_at": "2025-11-27T22:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "There Was An Idea... - Official Clip",
+          "key": "-tBKkfahCFQ",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "67d9e7b52a14ede68ad4bcfb",
+          "published_at": "2025-03-18T17:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Assembling the Lakota",
+          "key": "r_pPfp7lnIM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "668b87a2047a30c74898ccd2",
+          "published_at": "2024-07-05T19:00:33.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "All the Facts - Disney+ Deets",
+          "key": "n3Pt0qQVs3I",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "62c0405b63d713026c2ecf7f",
+          "published_at": "2021-06-02T16:29:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot 12",
+          "key": "FZ-M3_aW2DA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "699bbc10c59aec29120e56b2",
+          "published_at": "2012-05-16T22:11:48.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot 10",
+          "key": "YBt1yz-GVgo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "699bbc5aead16c5493374702",
+          "published_at": "2012-05-04T14:23:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot 9",
+          "key": "9WiNlMYj44M",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "699bbbd73b092022afe8f9c8",
+          "published_at": "2012-05-03T14:51:25.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot",
+          "key": "HXMH4Vef8Uk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "699bbbf177bb74a4d2b29118",
+          "published_at": "2012-05-02T15:11:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot - Together",
+          "key": "CrV-5rxkOIY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "699bbb73f01156f149c5a5e4",
+          "published_at": "2012-04-28T01:40:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot - Balance",
+          "key": "aWoRWQv2lrk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "699bbc7b7a3b9ed33cfc2a70",
+          "published_at": "2012-04-28T01:33:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot - Roll Call",
+          "key": "pvKiWUQThuk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "699bbb8f8e55193d6280f0dc",
+          "published_at": "2012-04-06T20:13:56.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot - Team",
+          "key": "1-cztiy0FyE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "699bbbb9c06a3144d937458c",
+          "published_at": "2012-04-03T20:56:42.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer 2",
+          "key": "hIR8Ar-Z4hw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "5c370782c3a3685ee927c291",
+          "published_at": "2012-03-01T19:25:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Super Bowl XLVI Commercial (Extended)",
+          "key": "bGt-saFvkNk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "5794fd54c3a36829ab00036a",
+          "published_at": "2012-02-03T23:19:34.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "eOrNdBpGMv8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "5794fd8bc3a3687605005cc9",
+          "published_at": "2011-10-11T13:13:23.000Z"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 121,
+  "ingestion_time_utc": "2026-06-03T18:31:53.096932+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
+    "belongs_to_collection": {
+      "id": 119,
+      "name": "The Lord of the Rings Collection",
+      "poster_path": "/oENY593nKRVL2PnxXsMtlh8izb4.jpg",
+      "backdrop_path": "/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg"
+    },
+    "budget": 79000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "homepage": "http://www.lordoftherings.net/",
+    "id": 121,
+    "imdb_id": "tt0167261",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Lord of the Rings: The Two Towers",
+    "overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+    "popularity": 26.1014,
+    "poster_path": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 11,
+        "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
+        "name": "WingNut Films",
+        "origin_country": "NZ"
+      },
+      {
+        "id": 5237,
+        "logo_path": "/mlnr7vsBHvLye8oEb5A76C0t8x9.png",
+        "name": "The Saul Zaentz Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NZ",
+        "name": "New Zealand"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2002-12-18",
+    "revenue": 926287400,
+    "runtime": 179,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "The journey continues.",
+    "title": "The Lord of the Rings: The Two Towers",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 23906,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Two Towers | The Lord of the Rings 4K Ultra HD | Warner Bros. Entertainment",
+          "key": "nuTU5XcZTLA",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "5fc8aafe3f8ede004000808c",
+          "published_at": "2020-12-02T17:34:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Lord Of The Rings: The Two Towers - 10 Minute Preview - Warner Bros. UK",
+          "key": "lgEfUC8md88",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "615f954f43d9b10063a98f07",
+          "published_at": "2020-06-05T14:14:55.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Lord of the Rings: The Two Towers - Original Theatrical Trailer",
+          "key": "Y4neBR0h39c",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "699bb4cd84805f248e3747da",
+          "published_at": "2014-07-08T23:35:42.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Lord of the Rings: The Two Towers (2002) Official Trailer #1 - Viggo Mortensen Movie HD",
+          "key": "hYcw5ksV8YQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "699bb4de19b9d62c03590f72",
+          "published_at": "2014-05-15T03:45:46.000Z"
+        }
+      ]
+    }
+  }
+}

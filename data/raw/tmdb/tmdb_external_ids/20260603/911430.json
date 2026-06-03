@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 911430,
+  "ingestion_time_utc": "2026-06-03T18:32:13.264172+00:00",
+  "data": {
+    "id": 911430,
+    "imdb_id": "tt16311594",
+    "wikidata_id": "Q114246242",
+    "facebook_id": "f1movie",
+    "instagram_id": "f1movie",
+    "twitter_id": "F1Movie"
+  }
+}

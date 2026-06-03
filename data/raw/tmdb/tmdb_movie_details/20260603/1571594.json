@@ -1,0 +1,67 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1571594,
+  "ingestion_time_utc": "2026-06-03T18:31:56.049872+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/9qYPmrdpGT58hd3wSam82pmPIoW.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 1571594,
+    "imdb_id": "tt34437490",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "La fotógrafa",
+    "overview": "Inna, a young post-mortem photographer, arrives at a remote orphanage in northern Spain to capture the final image of Alejandra, a girl found dead under mysterious circumstances. But as her lens lingers on the tragedy, Inna begins to sense a dark presence within the orphanage's walls-an evil that refuses to remain hidden and threatens to make her its next subject.",
+    "popularity": 81.2033,
+    "poster_path": "/95pZ9yB5SABddzaINITvZd7SvER.jpg",
+    "production_companies": [
+      {
+        "id": 278929,
+        "logo_path": null,
+        "name": "Sendín Films",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2025-10-30",
+    "revenue": 0,
+    "runtime": 70,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Photographer",
+    "video": false,
+    "vote_average": 4.0,
+    "vote_count": 1,
+    "videos": {
+      "results": []
+    }
+  }
+}

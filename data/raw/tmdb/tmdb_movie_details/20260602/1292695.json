@@ -1,0 +1,478 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1292695,
+  "ingestion_time_utc": "2026-06-03T16:00:41.532985+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/they-will-kill-you",
+    "id": 1292695,
+    "imdb_id": "tt31728330",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "They Will Kill You",
+    "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+    "popularity": 44.6487,
+    "poster_path": "/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+    "production_companies": [
+      {
+        "id": 229398,
+        "logo_path": null,
+        "name": "Nocturna",
+        "origin_country": "US"
+      },
+      {
+        "id": 12,
+        "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 773,
+        "logo_path": "/qkcN6yZEyBw3cgO5DJu55LGEsf7.png",
+        "name": "Film Afrika",
+        "origin_country": "ZA"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "ZA",
+        "name": "South Africa"
+      }
+    ],
+    "release_date": "2026-03-23",
+    "revenue": 19282152,
+    "runtime": 94,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Let them try.",
+    "title": "They Will Kill You",
+    "video": false,
+    "vote_average": 7.002,
+    "vote_count": 649,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Haunting Midnight Visitors - Movie Clip",
+          "key": "6amNBxwVZB4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a0f5dd906708a38de69ca79",
+          "published_at": "2026-05-18T12:00:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Zazie Beetz Reunites with Her Sister - Movie Clip",
+          "key": "Ou_e2UwFZjw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69fc802e889d0ec64ba647fd",
+          "published_at": "2026-05-07T12:00:48.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Asia (Zazie Beetz) kicks butt in \"They Will Kill You\"",
+          "key": "hYtPgsrh82U",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a147a88964401f98a7ea73b",
+          "published_at": "2026-05-04T14:01:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Virgil's New Maid - Full Movie Preview",
+          "key": "OuEqrCDMWK4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69f5fb0d93c21f8f62369801",
+          "published_at": "2026-04-28T12:00:45.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Watch this THEY WILL KILL YOU running shot with Zazie Beetz and Myha'la.",
+          "key": "l5Exy2o3kcM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "69df57681c031df6a1b7f619",
+          "published_at": "2026-04-12T13:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Blood, comedy and satanic cults incoming...",
+          "key": "_BaSiMv4n2I",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69d7ec76b99ce9328f5d1cb5",
+          "published_at": "2026-04-09T17:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Don't mess with Zazie Beetz. You're in for a wild ride with THEY WILL KILL YOU.",
+          "key": "ywr7F5Sim-M",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69d1403d0ec5f2df8f2f8215",
+          "published_at": "2026-04-01T15:02:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Look out, you never know who's watching in THEY WILL KILL YOU...",
+          "key": "raPoY952oIs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69d140f43087e3fcd8a63cfe",
+          "published_at": "2026-03-28T14:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "They Will Kill You is NOW PLAYING in theaters. Hell is more fun with friends.",
+          "key": "SXE3Yl8I424",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69c7ca0fa2e5b28f19e3bd65",
+          "published_at": "2026-03-27T17:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Experience the madness for yourself",
+          "key": "gcoVlLQOr1g",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69c7cc47359569ab10e3bd0f",
+          "published_at": "2026-03-27T12:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas Now",
+          "key": "tO6FISlXa3c",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69c7cc820869a6ceecc80b97",
+          "published_at": "2026-03-27T03:56:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas Now",
+          "key": "z5KhkUhmJXY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69c7ccfef31847caf6a34625",
+          "published_at": "2026-03-27T03:55:36.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "A special satanic message from Tom Felton",
+          "key": "C8MctTD1o-0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69c3ec1005a885bb8062ec51",
+          "published_at": "2026-03-24T17:00:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Only In Cinemas 27 March",
+          "key": "OO9yyJzziwg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69c2d199d7f735bdc67b3469",
+          "published_at": "2026-03-19T15:14:07.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas 27 March",
+          "key": "zyMF9m2GrhM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69c2d1bc9e3723f249b3ec9a",
+          "published_at": "2026-03-19T15:11:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Every satanist plays their part. Which one are you?",
+          "key": "cGD4XntZK3w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69b84862d37ff300cb3b9eb4",
+          "published_at": "2026-03-16T16:00:56.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Featurette",
+          "key": "mRpfgh-FGHI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "69b8490c642d082de35ca549",
+          "published_at": "2026-03-16T10:29:54.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Only in Cinemas March 25",
+          "key": "xXRC_wLttqE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69b84877d1cf92ccee3b9e0d",
+          "published_at": "2026-03-16T08:13:23.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Only in Cinemas March 25",
+          "key": "bKqjtSqsX0I",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69b8480deae7fed4655ca958",
+          "published_at": "2026-03-16T08:13:18.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Only In Cinemas March 25",
+          "key": "TPmoRHZokpU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69b848dcbdcda3dc66020290",
+          "published_at": "2026-03-16T08:13:09.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Fearless on Set",
+          "key": "LiyUGDoaHQo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "69b8493298d6e82d016742a0",
+          "published_at": "2026-03-14T01:00:22.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip",
+          "key": "8yRVApr9tNI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69b46ef4ed4e53c9274822da",
+          "published_at": "2026-03-13T18:07:46.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Choose your floor wisely.",
+          "key": "Ealq1oRcOP0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69b46ea55390f0702ec2f819",
+          "published_at": "2026-03-13T16:00:25.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas 27 March",
+          "key": "ovm9lMfa8ek",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69c2cf3738f43302edb3ec96",
+          "published_at": "2026-03-12T15:17:27.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Tickets On Sale",
+          "key": "s0PGrtw0X1Q",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69b19feb371981c722ac2641",
+          "published_at": "2026-03-11T16:01:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Look out, offering on the loose.",
+          "key": "00QGHpn_FmM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69b1a22c99ed5357ce959bd8",
+          "published_at": "2026-03-10T17:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Rule 3 screams something is off...",
+          "key": "90qZku4EtYs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69b1a49fa8ef8cbe6a0945a1",
+          "published_at": "2026-03-09T12:00:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Just a (more PG) taste of what's to come...",
+          "key": "u0UNilQ3RUw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69aa21cab28645d91dfd3d44",
+          "published_at": "2026-03-05T18:00:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "New clip",
+          "key": "d2kkJS4f9nU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69a1e946f14f77a66ba79106",
+          "published_at": "2026-02-27T15:32:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Looks like she’s got this under control.",
+          "key": "q4EQ3BNCa1I",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6988d9faec6d453a583aa037",
+          "published_at": "2026-02-08T18:00:54.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Hell of a deal.",
+          "key": "AcNjBQUZ3TQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "695fad8706a7e47ebb390821",
+          "published_at": "2026-01-06T11:44:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "AqNFJUihSHg",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "695bf76e002502919217bc00",
+          "published_at": "2026-01-05T17:00:17.000Z"
+        }
+      ]
+    }
+  }
+}

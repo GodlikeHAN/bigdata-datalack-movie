@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt31193180",
+  "ingestion_time_utc": "2026-06-03T18:32:23.842920+00:00",
+  "data": {
+    "Title": "Sinners",
+    "Year": "2025",
+    "Rated": "R",
+    "Released": "18 Apr 2025",
+    "Runtime": "137 min",
+    "Genre": "Action, Drama, Horror",
+    "Director": "Ryan Coogler",
+    "Writer": "Ryan Coogler",
+    "Actors": "Michael B. Jordan, Jack O&apos;Connell, Hailee Steinfeld",
+    "Plot": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+    "Language": "English, Chinese",
+    "Country": "United States, Australia, Canada",
+    "Awards": "Won 4 Oscars. 327 wins & 489 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjIwZWY4ZDEtMmIxZS00NDA4LTg4ZGMtMzUwZTYyNzgxMzk5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "84/100"
+      }
+    ],
+    "Metascore": "84",
+    "imdbRating": "7.5",
+    "imdbVotes": "472,042",
+    "imdbID": "tt31193180",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$279,989,632",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

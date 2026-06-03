@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 803796,
+  "ingestion_time_utc": "2026-06-03T18:32:14.380464+00:00",
+  "data": {
+    "id": 803796,
+    "imdb_id": "tt14205554",
+    "wikidata_id": "Q130268157",
+    "facebook_id": null,
+    "instagram_id": "kpopdemonhuntersnetflix",
+    "twitter_id": null
+  }
+}

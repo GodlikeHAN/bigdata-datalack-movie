@@ -1,9 +1,37 @@
 from __future__ import annotations
 
 from pyspark.sql import functions as F
+from pyspark.sql.types import DoubleType, StructField, StructType
 
 from spark_jobs.common import create_spark_session, resolve_partition, write_parquet
 from src.config.settings import build_path
+from src.utils.country_geo import COUNTRY_CENTROIDS
+from src.utils.country_polygons import sample_country_point
+
+
+GEO_POINT_SCHEMA = StructType(
+    [
+        StructField("lat", DoubleType(), True),
+        StructField("lon", DoubleType(), True),
+    ]
+)
+sample_country_point_udf = F.udf(sample_country_point, GEO_POINT_SCHEMA)
+
+
+def _country_location_expr(country_code_column: str):
+    entries = []
+    for code, (lat, lon) in COUNTRY_CENTROIDS.items():
+        entries.extend(
+            [
+                F.lit(code),
+                F.struct(
+                    F.lit(lat).cast("double").alias("lat"),
+                    F.lit(lon).cast("double").alias("lon"),
+                ),
+            ]
+        )
+
+    return F.element_at(F.create_map(*entries), F.upper(F.col(country_code_column)))
 
 
 def run(run_date: str | None = None) -> str:
@@ -13,6 +41,9 @@ def run(run_date: str | None = None) -> str:
     spark = create_spark_session("combine_ratings_boxoffice")
     tmdb = spark.read.parquet(str(tmdb_partition))
     omdb = spark.read.parquet(str(omdb_partition))
+
+    if "production_country_codes" not in tmdb.columns:
+        tmdb = tmdb.withColumn("production_country_codes", F.array().cast("array<string>"))
 
     omdb_prefixed = omdb.select(
         *[
@@ -50,6 +81,16 @@ def run(run_date: str | None = None) -> str:
         )
         .withColumn("main_genre", F.element_at(F.col("genres"), 1))
         .withColumn("main_production_country", F.element_at(F.col("production_countries"), 1))
+        .withColumn("main_production_country_code", F.element_at(F.col("production_country_codes"), 1))
+        .withColumn("main_production_country_location", _country_location_expr("main_production_country_code"))
+        .withColumn(
+            "movie_map_location",
+            sample_country_point_udf(
+                F.col("main_production_country_code"),
+                F.col("document_id"),
+                F.col("tmdb_id").cast("int"),
+            ),
+        )
         .withColumn("actual_final_revenue", actual_final_revenue.cast("double"))
         .withColumn("profit", F.col("actual_final_revenue") - F.col("budget"))
         .withColumn("roi", F.when(F.col("budget") > 0, F.col("profit") / F.col("budget")))
@@ -80,6 +121,9 @@ def run(run_date: str | None = None) -> str:
         "genres",
         "main_genre",
         "main_production_country",
+        "main_production_country_code",
+        "main_production_country_location",
+        "movie_map_location",
         "runtime",
         "budget",
         "revenue",

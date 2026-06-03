@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt35668756",
+  "ingestion_time_utc": "2026-06-03T18:32:20.014083+00:00",
+  "data": {
+    "Title": "Kattalan",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "14 May 2026",
+    "Runtime": "N/A",
+    "Genre": "Action",
+    "Director": "Paul George",
+    "Writer": "Paul George, Jero Jacob, Unni R.",
+    "Actors": "Sunil, Jagadish, Dushara Vijayan",
+    "Plot": "",
+    "Language": "Malayalam, Hindi, Tamil, Telugu, Kannada",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDlmODViODMtYTllNS00OWFmLWIwZjktZGNjOGYyZmZiZmYxXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt35668756",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

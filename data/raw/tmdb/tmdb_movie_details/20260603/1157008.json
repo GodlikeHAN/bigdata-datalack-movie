@@ -1,0 +1,83 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1157008,
+  "ingestion_time_utc": "2026-06-03T18:31:56.410341+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/6muIb4lmdF2uJmrAY4zyH11wYxW.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 1157008,
+    "imdb_id": "tt23777188",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Dime lo que quieres (de verdad)",
+    "overview": "Diego and Emilia are a conservative couple with 16 years of marriage who have lost the spark, until Tomás and Betina rescue them and introduce them to the forbidden world, changing what they know about intimacy, relationships, and sex.",
+    "popularity": 66.5754,
+    "poster_path": "/2ynUMfrwnEdGmkZmpiiJmTdTi4w.jpg",
+    "production_companies": [
+      {
+        "id": 116424,
+        "logo_path": null,
+        "name": "11:11 Films",
+        "origin_country": ""
+      },
+      {
+        "id": 192443,
+        "logo_path": "/l5JPZK6eFLsrDi41I4Jg5jnnAc4.png",
+        "name": "TelevisaUnivision Mexico",
+        "origin_country": "MX"
+      },
+      {
+        "id": 210842,
+        "logo_path": "/osAelnShU5bBUCd2Od0L6ExSuv4.png",
+        "name": "ViX",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2023-07-27",
+    "revenue": 0,
+    "runtime": 103,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Dime lo que quieres (de verdad)",
+    "video": false,
+    "vote_average": 7.629,
+    "vote_count": 31,
+    "videos": {
+      "results": []
+    }
+  }
+}

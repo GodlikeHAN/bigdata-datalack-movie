@@ -1,0 +1,312 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1325734,
+  "ingestion_time_utc": "2026-06-03T16:00:39.930217+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
+    "belongs_to_collection": null,
+    "budget": 28000000,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "https://a24films.com/films/the-drama",
+    "id": 1325734,
+    "imdb_id": "tt33071426",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Drama",
+    "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+    "popularity": 54.4453,
+    "poster_path": "/89Dw1ujPlIPRLddhzNuJM4F401D.jpg",
+    "production_companies": [
+      {
+        "id": 41077,
+        "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+        "name": "A24",
+        "origin_country": "US"
+      },
+      {
+        "id": 123620,
+        "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
+        "name": "Square Peg",
+        "origin_country": "US"
+      },
+      {
+        "id": 277538,
+        "logo_path": null,
+        "name": "Dilemma Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-03-26",
+    "revenue": 130576136,
+    "runtime": 105,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Witness the wedding of the year.",
+    "title": "The Drama",
+    "video": false,
+    "vote_average": 6.945,
+    "vote_count": 913,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Husband Lashes Out at Guests During Wedding",
+          "key": "BQiPAk8vrCk",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "6a1464e4ecc43c8d7e9ff750",
+          "published_at": "2026-05-20T10:00:13.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ending Scene",
+          "key": "YJf7lq3CAyk",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "6a1464d25234733a0759d2ea",
+          "published_at": "2026-05-18T10:01:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "How Will Charlie Get Out of His Lie?",
+          "key": "65TasR6hKQM",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "6a1464c354cd26e62f9ff9d1",
+          "published_at": "2026-05-16T10:00:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Charlie and Emma Meet",
+          "key": "wrECxBsgs4k",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "6a1464b5f17d247bf5741eb6",
+          "published_at": "2026-05-14T10:01:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Charlie and His Colleague",
+          "key": "rkUn6NeQvNw",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "6a146520fd9af39796b29fba",
+          "published_at": "2026-05-13T10:01:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "An Awkward Photoshoot",
+          "key": "NsPy8wcHSnY",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "6a14650ef3093ba9715e8b08",
+          "published_at": "2026-05-12T13:23:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Photoshoot",
+          "key": "C8zMb0r0jcA",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": false,
+          "id": "69fd9f3ea3ceda5277f68368",
+          "published_at": "2026-05-08T08:30:13.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Confession",
+          "key": "bcCiHX5_634",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": false,
+          "id": "69fd950816cc4ceebbaa963c",
+          "published_at": "2026-05-08T07:45:41.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Zendaya and Robert Pattinson Test their Compatibility",
+          "key": "4qYzyiNCovw",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a14658336387361d348eb03",
+          "published_at": "2026-04-09T14:30:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Dress Rehearsal with Zendaya & Law Roach",
+          "key": "pfA9pMU1sn4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69d4039492fa09e6feca7ca3",
+          "published_at": "2026-04-06T19:02:34.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Exclusively in Cinemas April 3rd",
+          "key": "-ppw3BbSelI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69c3f35ce0f096fa27a25513",
+          "published_at": "2026-03-24T14:21:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip",
+          "key": "dAvv1zw6PSo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69c34c275a902880536ac133",
+          "published_at": "2026-03-23T20:10:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Zendaya and Robert Pattinson 35mm Camera Test",
+          "key": "ehGDHD28NvI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "69bd9a4ec1139b6119677e46",
+          "published_at": "2026-03-20T14:07:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official First Look",
+          "key": "91C4N9GXoKI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69b1d3be3950fd6f3c21cf66",
+          "published_at": "2026-03-11T14:03:23.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Exclusively in Cinemas April 3rd",
+          "key": "1gVr7eosXmo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69b2d0d3ab3233b77a685cc6",
+          "published_at": "2026-03-11T12:13:45.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Exclusively in Cinemas April 3rd",
+          "key": "8aceVuVSJMY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69b2d01bd77d90c8d1a770fc",
+          "published_at": "2026-03-11T12:13:42.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer",
+          "key": "0ZDzsH3XGFA",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "69825669f822ef8b80e91c03",
+          "published_at": "2026-02-03T17:00:28.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "6zmKcUa4Xxk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "698207aa14f4718a563143e4",
+          "published_at": "2026-02-03T14:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Teaser",
+          "key": "7eQTfuKy-ic",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Teaser",
+          "official": true,
+          "id": "6939a8d3d33ff658131fefef",
+          "published_at": "2025-12-10T17:03:00.000Z"
+        }
+      ]
+    }
+  }
+}

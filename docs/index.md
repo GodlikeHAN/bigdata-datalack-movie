@@ -6,7 +6,7 @@ description: Multi-source movie ratings and commercial performance analysis with
 # Movie Ratings vs Box Office Performance: End-to-End Big Data
 
 > This post documents a course/personal big data project built around one question: **Do highly rated movies always perform well at the box office?**  
-> The pipeline ingests TMDB and OMDb into a local data lake, cleans and joins data with Spark, predicts revenue and labels commercial performance with Spark ML, and exposes batch analytics plus realtime Trending monitoring in Elasticsearch and Kibana.
+> The pipeline ingests TMDB and OMDb into a local data lake, cleans and joins data with Spark, predicts revenue and labels commercial performance with Spark ML, and exposes batch analytics, production-country map visualization, and realtime Trending monitoring in Elasticsearch and Kibana.
 
 ---
 
@@ -18,13 +18,13 @@ Audiences often assume “high score = strong box office,” but reality include
 - **Blockbuster paradox**: high revenue, average ratings  
 - **Over / under expectation**: actual revenue clearly above or below what the model expects  
 
-This is not only descriptive statistics. The project implements a reproducible pipeline that:
+The project implements a reproducible pipeline that:
 
-1. Pulls movie metadata, budget, revenue, popularity, posters, and trailers from **TMDB**  
+1. Pulls movie metadata, budget, revenue, popularity, posters, trailers, and production-country data from **TMDB**  
 2. Pulls IMDb, Rotten Tomatoes, Metacritic, and supplemental box office from **OMDb**  
-3. Cleans, joins, and derives business metrics with **Spark**  
+3. Cleans, joins, and derives business metrics and map coordinates with **Spark**  
 4. Uses **Spark ML (Random Forest)** to predict expected revenue for **active** releases and assign commercial labels  
-5. Delivers interactive analysis in **Elasticsearch + Kibana**, and tracks TMDB daily **Trending** changes through **Kafka**  
+5. Delivers interactive analysis in **Elasticsearch + Kibana** (KPIs, scatter plots, poster tables, country maps) and tracks TMDB **Trending** through **Kafka**  
 
 ---
 
@@ -35,11 +35,13 @@ flowchart TB
   subgraph sources [External sources]
     TMDB[TMDB API]
     OMDb[OMDb API]
+    EMS[EMS World Countries TopoJSON]
   end
 
   subgraph batch [Batch Airflow DAG]
     RAW[Raw JSON]
     FMT[Formatted Parquet]
+    GEO[Country boundary sampling Shapely]
     USG[Usage wide table]
     ML[Spark ML]
     ES1[movie_performance_gap_v1]
@@ -55,7 +57,8 @@ flowchart TB
 
   TMDB --> RAW
   OMDb --> RAW
-  RAW --> FMT --> USG --> ML --> ES1
+  EMS --> GEO
+  RAW --> FMT --> GEO --> USG --> ML --> ES1
   TMDB --> PROD --> KFK --> CONS
   CONS --> RT
   CONS --> ES2
@@ -71,12 +74,13 @@ flowchart TB
 | Orchestration | Apache Airflow (CeleryExecutor) |
 | Ingestion | Python + REST APIs |
 | Processing | Apache Spark (`local[*]`) |
+| Geospatial | Shapely + offline TopoJSON (Elastic Maps Service World Countries) |
 | Machine learning | Spark ML (`RandomForestRegressor`) |
 | Messaging | Apache Kafka |
 | Search & analytics | Elasticsearch 8.x + Kibana 8.x |
 | Runtime | Docker Compose |
 
-> **Note:** The current version uses a **local filesystem** data lake under `data/` (no S3/HDFS). Batch indexing uses **full refresh** (delete index, reload all documents). The realtime index uses **append-only** event writes.
+> **Note:** The data lake lives under local `data/` (no S3/HDFS). Batch loads to Elasticsearch use **full refresh**; the realtime index uses **append-only** writes. Country boundary files are stored under `artifacts/` (see Section 8).
 
 ---
 
@@ -84,25 +88,25 @@ flowchart TB
 
 ### 3.1 TMDB (primary)
 
-The batch pipeline seeds movie IDs from the **Popular** list (cap controlled by `MAX_MOVIES_FOR_DETAILS`, default **200**), then calls:
+The batch pipeline seeds movie IDs from the **Popular** list (`MAX_MOVIES_FOR_DETAILS`, default **200**), then calls:
 
 - `GET /movie/popular` (paginated)
 - `GET /movie/{id}` (details with `append_to_response=videos`)
 - `GET /movie/{id}/external_ids` (IMDb ID)
 
-Key fields include title, release date, genres, runtime, budget, revenue, popularity, votes, production countries, poster path, and YouTube trailer keys.
+Key fields include title, release date, genres, runtime, budget, revenue, popularity, votes, production countries, poster path, and YouTube trailers. Formatting also keeps:
+
+- `production_countries`: list of country **names**  
+- `production_country_codes`: ISO 3166-1 **codes** (e.g. `US`, `JP`, `FR`) for maps and Elasticsearch `geo_point` linkage  
 
 ### 3.2 OMDb (supplement)
 
-The pipeline **does not query by title** (ambiguous matches, language issues). It reads **IMDb IDs** from TMDB `external_ids` and calls `?i={imdb_id}` for:
-
-- IMDb / Rotten Tomatoes / Metacritic ratings  
-- North American box office, etc.  
+The pipeline **does not query by title** (ambiguous matches, language issues). It reads **IMDb IDs** from TMDB `external_ids` and calls `?i={imdb_id}` for IMDb / Rotten Tomatoes / Metacritic ratings and North American box office.
 
 ### 3.3 How sources are joined
 
 - **TMDB is the left table**; **left join** OMDb on `imdb_id`  
-- Movies without OMDb data are kept; rating fields are simply null  
+- Movies without OMDb data are kept; rating fields are null  
 
 ---
 
@@ -126,13 +130,18 @@ data/
     ratings_boxoffice_analysis/movie_performance_gap/
   realtime/               # Kafka event JSONL
     movie/tmdb_trending_events/
+
+artifacts/                # Runtime outputs (mostly not in Git)
+  world_countries_v7.topo.json
+  models/{YYYYMMDD}/spark_revenue_model/
+  realtime/last_trending_state.json
 ```
 
 | Layer | Purpose |
 |-------|---------|
 | **Raw** | Preserve API payloads for replay and debugging |
-| **Formatted** | Typed, deduplicated, N/A-normalized tables |
-| **Usage** | Feed ML and Elasticsearch directly |
+| **Formatted** | Typed, deduplicated tables with country ISO codes |
+| **Usage** | Feed ML, Elasticsearch, and map visualization |
 | **Realtime** | Event-level storage, separate from batch usage |
 
 ---
@@ -158,9 +167,28 @@ Ingest Popular → details + external_ids → OMDb
 
 - TMDB: build `poster_url` (`https://image.tmdb.org/t/p/w500` + `poster_path`)  
 - TMDB: pick an **official YouTube Trailer** from `videos` → `youtube_trailer_url`  
+- TMDB: extract `production_country_codes` from `production_countries[].iso_3166_1`  
 - OMDb: parse rating strings, dates, USD box office, etc.  
 
 ### Steps 4–5: Combine and business fields (`combine_ratings_boxoffice`)
+
+#### Geographic fields
+
+| Field | Meaning |
+|-------|---------|
+| `main_production_country` | First production country name |
+| `main_production_country_code` | First production country ISO code |
+| `main_production_country_location` | Approximate country centroid (`geo_point`, see `country_geo.py`) |
+| `movie_map_location` | Stable point sampled inside the country polygon (`geo_point`, for Kibana poster placement) |
+
+`main_production_country_location` comes from a preset centroid dictionary. `movie_map_location` is produced in Spark via a UDF that calls `sample_country_point` (`country_polygons.py`):
+
+1. Read `artifacts/world_countries_v7.topo.json` (Elastic Maps Service World Countries TopoJSON)  
+2. Convert geometries to polygons with Shapely and index boundaries by `iso2`  
+3. Use `document_id` and `tmdb_id` as seeds for center-biased sampling inside the polygon  
+4. Fall back to a representative point if sampling fails  
+
+Kibana map posters use `movie_map_location`; `main_production_country_location` serves as a country-level reference. Task `spark_combine_sources` requires **Shapely** and the TopoJSON file; missing either will raise an error.
 
 #### `rating_consensus_score` (0–100)
 
@@ -173,15 +201,11 @@ Weighted average across platforms; **only available sources count toward the den
 | Rotten Tomatoes | 0.20 |
 | Metacritic | 0.10 |
 
-Formula:
-
 ```text
 rating_consensus_score = weighted sum of available scores / sum of weights for available sources
 ```
 
 #### `actual_final_revenue`
-
-**Not weighted**; priority fallback:
 
 ```text
 if TMDB revenue > 0 → use TMDB revenue
@@ -193,11 +217,9 @@ else → use OMDb BoxOffice
 - **historical**: released at least 12 months ago  
 - **active**: released within 12 months, or missing release date  
 
-This separates films usable for training from films that need prediction.
+This separates films used for training from films that need prediction.
 
 ### Step 6: Spark ML revenue prediction
-
-**Goal:** predict `predicted_final_revenue` for **active** movies and label commercial performance vs expectation.
 
 | Item | Detail |
 |------|--------|
@@ -205,7 +227,9 @@ This separates films usable for training from films that need prediction.
 | Scoring set | `active` movies |
 | Model | Spark ML `RandomForestRegressor` (e.g. 120 trees) |
 | Target | `log1p(actual_final_revenue)`, inverted with `exp` after prediction |
-| Features | budget, runtime, year, TMDB rating/votes/popularity, consensus score, platform scores, genre & country (one-hot) |
+| Features | budget, runtime, year, TMDB rating/votes/popularity, consensus score, platform scores, genre & production country (one-hot) |
+
+Geographic coordinates are written to the usage table for search and visualization; ML uses production country **name** as a categorical feature, not raw coordinates.
 
 **Commercial labels** (active only, when `predicted_final_revenue > 0`):
 
@@ -214,8 +238,6 @@ This separates films usable for training from films that need prediction.
 | Commercial Overperformer | `ml_gap_ratio > 20%` |
 | Commercial Underperformer | `ml_gap_ratio < -20%` |
 | As Expected | between ±20% |
-
-Where:
 
 ```text
 ml_revenue_gap = actual_final_revenue - predicted_final_revenue
@@ -230,7 +252,8 @@ Model artifacts: `artifacts/models/{YYYYMMDD}/spark_revenue_model/`.
 
 - Index: `movie_performance_gap_v1`  
 - Document ID: `document_id` (`tmdb-{tmdb_id}`)  
-- Strategy: **delete the index, then bulk-load the full usage partition** (full refresh), so ES matches the current batch snapshot  
+- `main_production_country_location` and `movie_map_location` mapped as `geo_point` (`elastic_mapping.py`)  
+- Strategy: **delete the index, then bulk-load the full usage partition** (full refresh), matching the current batch snapshot  
 
 ---
 
@@ -247,22 +270,19 @@ TMDB trending/movie/day
     → Elasticsearch: movie_trending_realtime_v1
 ```
 
-### Producer behavior
+### Producer
 
 - Fetch trending list (default max **100**, `REALTIME_TRENDING_LIMIT`)  
 - Assign `rank` by list order  
-- Compare with `artifacts/realtime/last_trending_state.json`; each snapshot event includes:  
-  - `changed_fields`, `has_change`  
-  - `*_previous_value`, `*_change_direction` per metric  
+- Compare with `artifacts/realtime/last_trending_state.json`; each snapshot includes `changed_fields`, `has_change`, and `*_previous_value` / `*_change_direction` per metric  
 - **One `trending_snapshot` per movie per run** (`has_change` may be false when nothing changed)
 
-### Consumer behavior
+### Consumer
 
-- Consume Kafka messages  
-- Append to the realtime data lake (JSONL)  
+- Consume Kafka messages and append to the realtime data lake (JSONL)  
 - Index into ES by `event_id` (**no index delete**; append-only)
 
-The realtime dashboard shows the **latest Top 100 snapshot** with before/after arrows for rank, popularity, vote_average, and vote_count.
+The realtime dashboard shows the **latest Top 100 snapshot** with before/after comparison for rank, popularity, vote_average, and vote_count.
 
 ---
 
@@ -271,20 +291,19 @@ The realtime dashboard shows the **latest Top 100 snapshot** with before/after a
 ### 7.1 Batch index `movie_performance_gap_v1`
 
 - **Grain:** one document per movie  
-- **Purpose:** KPIs plus drill-down to posters, trailers, predicted revenue, and labels  
-
-Example fields:
+- **Purpose:** aggregate KPIs and drill down to posters, trailers, predicted revenue, commercial labels, and map placement  
 
 | Field | Meaning |
 |-------|---------|
 | `tmdb_id` / `imdb_id` | IDs and linkage |
 | `title` / `release_date` | Basics |
 | `movie_lifecycle` | historical / active |
+| `main_production_country` / `main_production_country_code` | Main production country |
+| `main_production_country_location` | Country centroid `geo_point` |
+| `movie_map_location` | In-country movie placement `geo_point` |
 | `rating_consensus_score` | Consensus rating |
-| `actual_final_revenue` | Observed revenue |
-| `predicted_final_revenue` | Model expectation (active) |
-| `ml_gap_ratio` | Actual vs expected (ratio) |
-| `performance_category` | Over / Under / As Expected |
+| `actual_final_revenue` / `predicted_final_revenue` | Observed / predicted revenue |
+| `ml_gap_ratio` / `performance_category` | Gap ratio and commercial label |
 | `poster_url` / `youtube_trailer_url` | Visualization links |
 
 ### 7.2 Realtime index `movie_trending_realtime_v1`
@@ -298,11 +317,12 @@ Example fields:
 **Batch dashboard** (`movie_performance_gap_v1`)
 
 - Lens KPIs: last update time, total movies, historical/active counts, ML training count, predicted count, three commercial label counts  
-- Vega: **poster table** (clickable trailers), **rating vs revenue scatter** (poster bubbles, active labels colored)
+- Vega: **poster table** (clickable trailers), **rating vs revenue scatter** (poster bubbles, active labels colored)  
+- Vega **production country map**: posters projected via `movie_map_location`; drag to pan, scroll to zoom (poster size scales with zoom); hover enlarges posters and highlights countries; click opens YouTube Trailer  
 
 **Realtime dashboard** (`movie_trending_realtime_v1`)
 
-- Vega: **TMDB Top 100** latest snapshot with rank/popularity/rating/vote before-after indicators  
+- Vega: **TMDB Top 100** latest snapshot with before/after indicators for rank, popularity, rating, and vote count  
 
 ---
 
@@ -311,7 +331,9 @@ Example fields:
 ### 8.1 Prerequisites
 
 - Docker Desktop  
-- TMDB API key and OMDb API key  
+- TMDB and OMDb API keys  
+- Place Elastic Maps Service **World Countries** TopoJSON at `artifacts/world_countries_v7.topo.json` (`artifacts/` is in `.gitignore`; prepare after clone)  
+- **Shapely** installed in the Airflow environment (used by `country_polygons.py`)  
 
 ### 8.2 Configuration
 
@@ -325,6 +347,8 @@ Optional:
 ```env
 MAX_MOVIES_FOR_DETAILS=200
 REALTIME_TRENDING_LIMIT=100
+ELASTICSEARCH_USERNAME=elastic
+ELASTICSEARCH_PASSWORD=elastic
 ```
 
 ### 8.3 Start the stack
@@ -343,7 +367,7 @@ Default Airflow login: `admin` / `admin`. After first boot, **unpause** the DAGs
 # Batch
 docker compose exec airflow-webserver airflow dags trigger movie_batch_pipeline_dag
 
-# Realtime (scheduled every minute; can also trigger manually)
+# Realtime
 docker compose exec airflow-webserver airflow dags trigger movie_realtime_pipeline_dag
 ```
 
@@ -357,11 +381,7 @@ make run-realtime
 
 ### 8.5 Import Kibana saved objects
 
-In Kibana → **Stack Management → Saved Objects**, import:
-
-`kibana/kibana_export.ndjson`
-
-Create the data views, then open both dashboards.
+In Kibana → **Stack Management → Saved Objects**, import `kibana/kibana_export.ndjson`, create data views, then open both dashboards.
 
 ---
 
@@ -370,41 +390,47 @@ Create the data views, then open both dashboards.
 ```text
 bigdata-datalack-movie/
   dags/                 # Airflow DAGs
-  src/                  # Ingestion, indexing, config
-  spark_jobs/           # Format, combine, ML
-  streaming/            # Kafka producer / consumer
-  docker/               # Airflow image
-  kibana/               # Dashboard export
-  data/                 # Local data lake
-  artifacts/            # ML models and realtime state
-  docs/                 # Documentation (this page)
+  src/
+    ingestion/
+    indexing/
+    utils/
+      country_geo.py
+      country_polygons.py
+  spark_jobs/
+    format_tmdb_movies.py
+    format_omdb_movies.py
+    combine_ratings_boxoffice.py
+    train_ml_revenue_gap.py
+  streaming/
+  docker/
+  kibana/
+  artifacts/
+  data/
+  docs/
 ```
 
 ---
 
 ## 10. Limitations and future work
 
-1. **Sample size:** Popular list + cap of 200 titles; trainable historical movies with revenue > 0 can be single-digit—model is illustrative.  
-2. **Incomplete active revenue:** `actual_final_revenue` for active releases may still be growing; interpret gaps vs predictions carefully.  
-3. **No distributed object storage:** S3/MinIO/HDFS not integrated yet.  
-4. **Batch ES full refresh:** each run rebuilds the index—fine for demos; production would use incremental upsert by `document_id`.  
-5. **Realtime is not sub-second:** refresh is bounded by Airflow’s minute schedule, not push streaming from TMDB.  
-6. **No Spark Streaming:** realtime path uses a Python Kafka consumer, not Structured Streaming.  
-
-Possible extensions: broader movie coverage, feature store, model metrics (MAPE/RMSE), multi-source sync (e.g. Airbyte), and publishing dashboards via GitHub Pages.
+1. **Sample size:** Popular list + cap of 200 titles; trainable historical movies with revenue > 0 can be single-digit—the model is illustrative.  
+2. **Country coverage:** The centroid dictionary covers common countries only; `movie_map_location` may be null when `iso2` is missing from the TopoJSON.  
+3. **Main production country:** Co-productions use only the first country in the list.  
+4. **Offline boundary file:** `world_countries_v7.topo.json` must be downloaded into `artifacts/` manually.  
+5. **Active revenue:** `actual_final_revenue` for active releases may still be growing; interpret gaps vs predictions carefully.  
+6. **Infrastructure:** No S3/MinIO/HDFS; batch ES uses full refresh; realtime is bounded by Airflow’s minute schedule; realtime uses a Python Kafka consumer, not Spark Structured Streaming.  
 
 ---
 
 ## 11. Summary
 
-This project implements a full path from **multi-source ingestion → layered data lake → Spark join & ML → search & analytics → realtime Trending monitoring**. Main ideas:
+The project implements a full path from **multi-source ingestion → layered data lake → Spark join & ML → search & analytics → realtime Trending monitoring**, including:
 
 - Reliable TMDB/OMDb linkage via **IMDb ID**  
 - A single review lens via dynamically weighted **`rating_consensus_score`**  
 - **Lifecycle + Random Forest** to compare expected vs actual revenue with interpretable labels  
+- **In-country map placement** and a **Kibana country map** linking production countries to movie posters  
 - **Kibana** for both batch drill-down and live trending movement  
-
-If you are reading this on GitHub Pages, use the repo’s DAGs, Spark jobs, and Kibana export to reproduce the pipeline end to end.
 
 ---
 
@@ -423,5 +449,3 @@ extract_tmdb_popular
 ```
 
 ---
-
-

@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1557848,
+  "ingestion_time_utc": "2026-06-03T18:32:04.415853+00:00",
+  "data": {
+    "id": 1557848,
+    "imdb_id": "tt37536947",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "@uykucufilmi",
+    "twitter_id": null
+  }
+}

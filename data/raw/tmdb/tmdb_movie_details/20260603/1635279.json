@@ -1,0 +1,52 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1635279,
+  "ingestion_time_utc": "2026-06-03T18:31:54.967701+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1635279,
+    "imdb_id": null,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "SNOS-056り広げられる、お酒の勢いで一線を超えてしまった男女のふしだらな土日。生々しくて普通だけど一番エロいSEX",
+    "overview": "",
+    "popularity": 27.4952,
+    "poster_path": "/eAuSdg6aYf9nole1RhY4qTfZvRX.jpg",
+    "production_companies": [
+      {
+        "id": 13990,
+        "logo_path": "/2i7jHIr7pMArDShO5JBjfc93Dd5.png",
+        "name": "S1 NO. 1 STYLE",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2026-01-27",
+    "revenue": 0,
+    "runtime": 120,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "SNOS-056り広げられる、お酒の勢いで一線を超えてしまった男女のふしだらな土日。生々しくて普通だけど一番エロいSEX",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "videos": {
+      "results": []
+    }
+  }
+}

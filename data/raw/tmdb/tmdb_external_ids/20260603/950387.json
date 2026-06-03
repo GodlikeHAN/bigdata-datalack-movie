@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 950387,
+  "ingestion_time_utc": "2026-06-03T18:32:05.327764+00:00",
+  "data": {
+    "id": 950387,
+    "imdb_id": "tt3566834",
+    "wikidata_id": "Q40083273",
+    "facebook_id": "AMinecraftMovie",
+    "instagram_id": "aminecraftmovie",
+    "twitter_id": "AMinecraftMovie"
+  }
+}

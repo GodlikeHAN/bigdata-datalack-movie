@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0089790",
+  "ingestion_time_utc": "2026-06-03T16:01:31.840238+00:00",
+  "data": {
+    "Title": "Lola's Secret",
+    "Year": "1984",
+    "Rated": "N/A",
+    "Released": "04 May 1984",
+    "Runtime": "88 min",
+    "Genre": "Drama, Horror, Thriller",
+    "Director": "Bruno Gaburro",
+    "Writer": "Piero Regnoli",
+    "Actors": "Donatella Damiani, Scott Coffey, Gabriele Tinti",
+    "Plot": "A young lad's dreams come true when his family's sexy new maid seduces him, but she also has a secret that leads to trouble.",
+    "Language": "Italian",
+    "Country": "Italy",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjc1NDIzYjEtMzExYy00NTAyLWI2NTQtYWJkOWViNGUwMzk3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.7/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.7",
+    "imdbVotes": "256",
+    "imdbID": "tt0089790",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

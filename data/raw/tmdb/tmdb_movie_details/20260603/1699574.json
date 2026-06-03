@@ -1,0 +1,60 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1699574,
+  "ingestion_time_utc": "2026-06-03T18:31:56.176377+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1699574,
+    "imdb_id": "tt41389703",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "mr",
+    "original_title": "देऊळ बँड 2",
+    "overview": "The story follows a farmer who decides to question and test his faith, setting off a journey filled with emotional and life-altering moments. At its core, the narrative centers on a woman who tirelessly struggles for her family, facing hardships with resilience, as her path ultimately leads her to confront the very idea of divine power",
+    "popularity": 76.1905,
+    "poster_path": "/89n9cfc5dm0kdkABmDJalzveEwU.jpg",
+    "production_companies": [],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-05-21",
+    "revenue": 0,
+    "runtime": 182,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Marathi",
+        "iso_639_1": "mr",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Deool Band 2",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "videos": {
+      "results": []
+    }
+  }
+}

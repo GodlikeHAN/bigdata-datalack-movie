@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt6126506",
+  "ingestion_time_utc": "2026-06-03T18:32:39.297869+00:00",
+  "data": {
+    "Title": "Wild Awakening",
+    "Year": "2016",
+    "Rated": "Unrated",
+    "Released": "30 Sep 2016",
+    "Runtime": "89 min",
+    "Genre": "Drama",
+    "Director": "Joan Fermí Martí",
+    "Writer": "Joan Fermí Martí",
+    "Actors": "Fabián Castro, Júlia Hernández, Richie Ormon",
+    "Plot": "Toni (Fabian Castro) and Emma (Julia Hernandez) are brother and sister who owns a stable farm. Ramon (Richie Ormon) and his son, Aaron (Christian Blanch) works for them. Toni is openly gay who loves to party, Emma has a crush on A...",
+    "Language": "Spanish, English",
+    "Country": "Spain",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGZjOTY5ZTUtZTUyNC00M2IyLWExNTUtZDI0ZTA0ZTBjMWQ0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.3/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.3",
+    "imdbVotes": "294",
+    "imdbID": "tt6126506",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

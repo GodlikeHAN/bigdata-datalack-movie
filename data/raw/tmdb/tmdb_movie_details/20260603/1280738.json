@@ -1,0 +1,144 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1280738,
+  "ingestion_time_utc": "2026-06-03T18:31:58.907649+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.lionsgate.com/movies/the-furious",
+    "id": 1280738,
+    "imdb_id": "tt33311069",
+    "origin_country": [
+      "CN",
+      "HK"
+    ],
+    "original_language": "en",
+    "original_title": "火遮眼",
+    "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
+    "popularity": 42.1086,
+    "poster_path": "/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+    "production_companies": [
+      {
+        "id": 10284,
+        "logo_path": "/u0FCdiR026xbEbuY4yqaKj9Lf2O.png",
+        "name": "Edko Films",
+        "origin_country": "HK"
+      },
+      {
+        "id": 12142,
+        "logo_path": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+        "name": "XYZ Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 131092,
+        "logo_path": "/dtsMvAgTenOlDWnqaa4pEovx6d5.png",
+        "name": "Zhejiang Hengdian Film Production",
+        "origin_country": "CN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      }
+    ],
+    "release_date": "2026-06-10",
+    "revenue": 0,
+    "runtime": 113,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      },
+      {
+        "english_name": "Tagalog",
+        "iso_639_1": "tl",
+        "name": ""
+      },
+      {
+        "english_name": "Thai",
+        "iso_639_1": "th",
+        "name": "ภาษาไทย"
+      }
+    ],
+    "status": "Released",
+    "tagline": "To save their loved ones, they will fight everyone.",
+    "title": "The Furious",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip ‘Here to Help You’",
+          "key": "9YDt6vhSSCI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a1f0f5feaff39cc5a6cbdab",
+          "published_at": "2026-06-02T16:00:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "’Who Are You’ Official Clip",
+          "key": "Ap6UhCcHRC0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a0a0732274bdff7d71e7058",
+          "published_at": "2026-05-14T18:00:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "Avky8dVaqAI",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "69c2c1e7db6292d0c8ad5ad3",
+          "published_at": "2026-03-24T16:00:01.000Z"
+        }
+      ]
+    }
+  }
+}

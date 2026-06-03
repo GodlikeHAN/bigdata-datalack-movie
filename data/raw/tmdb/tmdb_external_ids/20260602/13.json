@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 13,
+  "ingestion_time_utc": "2026-06-03T16:00:53.770310+00:00",
+  "data": {
+    "id": 13,
+    "imdb_id": "tt0109830",
+    "wikidata_id": "Q134773",
+    "facebook_id": "forrestgump",
+    "instagram_id": "forrestgumpfilm",
+    "twitter_id": null
+  }
+}

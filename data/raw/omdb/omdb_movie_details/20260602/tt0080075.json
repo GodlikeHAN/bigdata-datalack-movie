@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0080075",
+  "ingestion_time_utc": "2026-06-03T16:01:31.298398+00:00",
+  "data": {
+    "Title": "Madness",
+    "Year": "1980",
+    "Rated": "Not Rated",
+    "Released": "20 Mar 1980",
+    "Runtime": "89 min",
+    "Genre": "Crime, Drama, Horror",
+    "Director": "Fernando Di Leo",
+    "Writer": "Mario Gariazzo, Fernando Di Leo",
+    "Actors": "Joe Dallesandro, Lorraine De Selle, Patrizia Behn",
+    "Plot": "An escaped convict plays the occupants of a remote home against one another for his own sadistic pleasure while searching for the loot he buried there following a previous robbery.",
+    "Language": "Italian",
+    "Country": "Italy",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjkwMDI1MjgtOWVlOS00Zjc3LWEwYzctMDdkMWUwNzMyNzI5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.3/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.3",
+    "imdbVotes": "715",
+    "imdbID": "tt0080075",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

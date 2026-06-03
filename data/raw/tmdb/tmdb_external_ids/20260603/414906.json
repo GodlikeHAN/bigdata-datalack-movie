@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 414906,
+  "ingestion_time_utc": "2026-06-03T18:32:05.954481+00:00",
+  "data": {
+    "id": 414906,
+    "imdb_id": "tt1877830",
+    "wikidata_id": "Q61117344",
+    "facebook_id": "TheBatman",
+    "instagram_id": "thebatman",
+    "twitter_id": "TheBatman"
+  }
+}

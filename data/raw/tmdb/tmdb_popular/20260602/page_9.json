@@ -1,0 +1,423 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_popular",
+  "page": 9,
+  "ingestion_time_utc": "2026-06-03T16:00:25.772249+00:00",
+  "data": {
+    "page": 9,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/1stUIsjawROZxjiCMtqqXqgfZWC.jpg",
+        "genre_ids": [
+          12,
+          14
+        ],
+        "id": 672,
+        "title": "Harry Potter and the Chamber of Secrets",
+        "original_language": "en",
+        "original_title": "Harry Potter and the Chamber of Secrets",
+        "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione's magical abilities and courage.",
+        "popularity": 30.1084,
+        "poster_path": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+        "release_date": "2002-11-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.704,
+        "vote_count": 23589
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7IGKrY1f1KfwMipx9wZC4NRgIdF.jpg",
+        "genre_ids": [
+          18,
+          10749,
+          53
+        ],
+        "id": 216015,
+        "title": "Fifty Shades of Grey",
+        "original_language": "en",
+        "original_title": "Fifty Shades of Grey",
+        "overview": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
+        "popularity": 31.7648,
+        "poster_path": "/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg",
+        "release_date": "2015-02-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.868,
+        "vote_count": 12389
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
+        "genre_ids": [
+          16,
+          10749,
+          18
+        ],
+        "id": 372058,
+        "title": "Your Name.",
+        "original_language": "ja",
+        "original_title": "君の名は。",
+        "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+        "popularity": 30.8119,
+        "poster_path": "/q719jXXEzOoYaps6babgKnONONX.jpg",
+        "release_date": "2016-08-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.48,
+        "vote_count": 12579
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 1135873,
+        "title": "GGS - Ganteng-Ganteng Sange",
+        "original_language": "hi",
+        "original_title": "GGS - Ganteng-Ganteng Sange",
+        "overview": "Kelas Bintang is back with this pack of drama called GGS - Ganteng-Ganteng Sange.",
+        "popularity": 32.6339,
+        "poster_path": "/39fFH027tOpTyZwSNOydSAsOCzb.jpg",
+        "release_date": "2023-05-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hKHX04i2zQrgZJdxS9UuFsgPUd7.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 13078,
+        "title": "The Babysitters",
+        "original_language": "en",
+        "original_title": "The Babysitters",
+        "overview": "Seventeen-year-old Shirley is a good student who works as a babysitter in order to make money for college. One night Michael, a father Shirley works for, confesses he's unhappy with married life. Shirley has a crush on Michael, and seizes this moment to kiss him. Michael is so happy he presents Shirley with a big tip, which gives her an idea. Shirley plans to make extra money by setting up her teenage friends with other unhappy fathers.",
+        "popularity": 31.7441,
+        "poster_path": "/nsrNUqGXI95unRKZEu8BJ584xWn.jpg",
+        "release_date": "2008-05-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 542
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
+        "genre_ids": [
+          35,
+          28,
+          12
+        ],
+        "id": 1084577,
+        "title": "Balls Up",
+        "original_language": "en",
+        "original_title": "Balls Up",
+        "overview": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
+        "popularity": 30.0371,
+        "poster_path": "/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
+        "release_date": "2026-04-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.877,
+        "vote_count": 243
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tId87yE7JnQsQsqOpnGXjz9PoEe.jpg",
+        "genre_ids": [
+          18,
+          35,
+          27
+        ],
+        "id": 329505,
+        "title": "Lola's Secret",
+        "original_language": "it",
+        "original_title": "Il peccato di Lola",
+        "overview": "Young man has his dreams come true when the sexy new maid seduces him. But she also has a secret that leads to trouble.",
+        "popularity": 26.2213,
+        "poster_path": "/qaJ4iQngrLbyz9OgaQkJLppDN6m.jpg",
+        "release_date": "1984-05-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 71
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          14
+        ],
+        "id": 14836,
+        "title": "Coraline",
+        "original_language": "en",
+        "original_title": "Coraline",
+        "overview": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+        "popularity": 30.443,
+        "poster_path": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+        "release_date": "2009-02-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.908,
+        "vote_count": 8982
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ecksst0Cb1AO1CZwmGjJu11bfUo.jpg",
+        "genre_ids": [
+          18,
+          10770
+        ],
+        "id": 458293,
+        "title": "Michael Jackson: Searching for Neverland",
+        "original_language": "en",
+        "original_title": "Michael Jackson: Searching for Neverland",
+        "overview": "Based on the best-selling book, Remember the Time: Protecting Michael Jackson in His Final Days, and told through the eyes of Jackson's trusted bodyguards, Bill Whitfield and Javon Beard. The movie will reveal firsthand the devotion Michael Jackson had to his children, and the hidden drama that took place during the last two years of his life.",
+        "popularity": 27.3777,
+        "poster_path": "/mRZIiG4vJiCgJh4v2EPUVVTznC8.jpg",
+        "release_date": "2017-05-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.561,
+        "vote_count": 114
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yQUTEvEb5pJi0BH3b1biQRpGvEx.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 967998,
+        "title": "Fatal Conspiracy",
+        "original_language": "pt",
+        "original_title": "Conspiração Fatal",
+        "overview": "Davi Martins, a commercial director of a financial institution, and Juliana Martins, a personal trainer, are a couple trying to recover from a crisis. At work, Davi ends up getting involved in the investigation of a financial scandal, putting himself in the crosshairs of dangerous people. Little by little, Juliana discovers that her new home may not be a new beginning, but the stage for a real nightmare. Some secrets may end her life.",
+        "popularity": 27.0914,
+        "poster_path": "/zpj3nNoc5xaUZTIdnuhwXwUcRag.jpg",
+        "release_date": "2022-05-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1yl7xmTN2iEyiD3gF8M68lBhR39.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18,
+          10751,
+          878
+        ],
+        "id": 539745,
+        "title": "Animal Farm",
+        "original_language": "en",
+        "original_title": "Animal Farm",
+        "overview": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
+        "popularity": 23.9432,
+        "poster_path": "/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
+        "release_date": "2026-04-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.07,
+        "vote_count": 50
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/m2QvGozzKz5ux74gKocn4kFTGz1.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 796,
+        "title": "Cruel Intentions",
+        "original_language": "en",
+        "original_title": "Cruel Intentions",
+        "overview": "Slaking a thirst for dangerous games, Kathryn challenges her stepbrother, Sebastian, to deflower their headmaster's daughter before the summer ends. If he succeeds, the prize is the chance to bed Kathryn. But if he loses, Kathryn will claim his most prized possession.",
+        "popularity": 28.6201,
+        "poster_path": "/76cCsRtQ5MJBAqoigojXsLXLJwh.jpg",
+        "release_date": "1999-03-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.815,
+        "vote_count": 3577
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yUiXA68FfQeA8cRBhd0Ao0jIRZt.jpg",
+        "genre_ids": [
+          12,
+          28,
+          878
+        ],
+        "id": 11,
+        "title": "Star Wars",
+        "original_language": "en",
+        "original_title": "Star Wars",
+        "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+        "popularity": 30.0613,
+        "poster_path": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+        "release_date": "1977-05-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 22347
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wfGDy0KVZsiQpGgYoxObUGgccwk.jpg",
+        "genre_ids": [
+          878,
+          27,
+          12
+        ],
+        "id": 1235192,
+        "title": "Wormtown",
+        "original_language": "en",
+        "original_title": "Wormtown",
+        "overview": "One year into a plague of flesh-eating, mind-altering worms, the nocturnal town of Ashland, Ohio, has embraced the parasites’ rule. Under cult-like Mayor Joshua, zealous Ranchers spread their gospel—by persuasion or by force. A trio of uninfected women cling to survival through scavenging, extreme hygiene, and evasion. But everyone breaks eventually, unleashing betrayal, sacrilege, and body horror.",
+        "popularity": 26.9492,
+        "poster_path": "/lE10ww38b7XA5LIagIsVQj9a8Hn.jpg",
+        "release_date": "2025-09-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.944,
+        "vote_count": 18
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg",
+        "genre_ids": [
+          16,
+          35,
+          14,
+          12,
+          10751
+        ],
+        "id": 808,
+        "title": "Shrek",
+        "original_language": "en",
+        "original_title": "Shrek",
+        "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+        "popularity": 28.8874,
+        "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+        "release_date": "2001-05-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.763,
+        "vote_count": 18766
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+        "genre_ids": [
+          28,
+          878
+        ],
+        "id": 557,
+        "title": "Spider-Man",
+        "original_language": "en",
+        "original_title": "Spider-Man",
+        "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+        "popularity": 28.3621,
+        "poster_path": "/kjdJntyBeEvqm9w97QGBdxPptzj.jpg",
+        "release_date": "2002-05-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.33,
+        "vote_count": 20672
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+        "genre_ids": [
+          10751,
+          35,
+          12,
+          14,
+          16
+        ],
+        "id": 502356,
+        "title": "The Super Mario Bros. Movie",
+        "original_language": "en",
+        "original_title": "The Super Mario Bros. Movie",
+        "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+        "popularity": 30.1204,
+        "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+        "release_date": "2023-04-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.603,
+        "vote_count": 10764
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/c4TkvRGVrghFY2qFKJ0SUwqtAiW.jpg",
+        "genre_ids": [],
+        "id": 1599191,
+        "title": "仙逆剧场版 弑仙之战",
+        "original_language": "zh",
+        "original_title": "仙逆剧场版 弑仙之战",
+        "overview": "",
+        "popularity": 28.5232,
+        "poster_path": "/m1dXI1997D7lj6Sh0Z2DI26o2nI.jpg",
+        "release_date": "",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dqmeFUrf6Hs2ejcGGGfv69vtbbR.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 226674,
+        "title": "The Adolescent",
+        "original_language": "fr",
+        "original_title": "L'Adolescente",
+        "overview": "In the summer of 1939, 13-year-old Marie goes with her parents to visit her grandparents in a small town near Avignon. Marie discovers her femininity and falls for a young Jewish doctor, but he prefers Eva, Marie's mother.",
+        "popularity": 29.0972,
+        "poster_path": "/v7yCEzF9BCF82lbp42X5ZLjIieo.jpg",
+        "release_date": "1979-01-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 15
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/akZ9jTTzvBOx3CeTVCo9WyhxL5q.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 1600771,
+        "title": "Aakhri Sawal",
+        "original_language": "hi",
+        "original_title": "आखरी सवाल",
+        "overview": "Vicky, a brilliant but volatile scholar who ignites a national firestorm when he publicly accuses his legendary mentor, Professor Gopal Nadkarni, of institutional bias. What begins as a faculty dispute is quickly hijacked by a sensationalist news anchor and an ambitious political activist, turning a private disagreement into a televised \"intellectual trial\" watched by millions.",
+        "popularity": 24.4365,
+        "poster_path": "/9CXBZH6sRJpFTMSaY3wj1jx98F4.jpg",
+        "release_date": "2026-05-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 57197,
+    "total_results": 1143921
+  }
+}

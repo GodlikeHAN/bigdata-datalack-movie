@@ -62,6 +62,11 @@ def run(run_date: str | None = None) -> str:
                 "production_countries": [
                     country.get("name") for country in movie.get("production_countries", []) if country.get("name")
                 ],
+                "production_country_codes": [
+                    country.get("iso_3166_1")
+                    for country in movie.get("production_countries", [])
+                    if country.get("iso_3166_1")
+                ],
                 "imdb_id": movie.get("imdb_id"),
                 "ingestion_time_utc": payload.get("ingestion_time_utc"),
             }
@@ -86,6 +91,7 @@ def run(run_date: str | None = None) -> str:
             StructField("vote_count", LongType(), True),
             StructField("popularity", DoubleType(), True),
             StructField("production_countries", ArrayType(StringType()), True),
+            StructField("production_country_codes", ArrayType(StringType()), True),
             StructField("imdb_id", StringType(), True),
             StructField("ingestion_time_utc", StringType(), True),
         ]

@@ -1,0 +1,107 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 43947,
+  "ingestion_time_utc": "2026-06-03T16:00:33.506661+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/f4QIQvecRkKD5t7aPclyIr3SEP.jpg",
+    "belongs_to_collection": {
+      "id": 219691,
+      "name": "I Spit on Your Grave Collection",
+      "poster_path": "/twoKFP4fjfOReWw8U13P39cj8xG.jpg",
+      "backdrop_path": "/kQrc1335b9rxW3SucyCbKnh7fF1.jpg"
+    },
+    "budget": 2000000,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "http://www.cinetelfilms.com/films/film-ispit.html",
+    "id": 43947,
+    "imdb_id": "tt1242432",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "I Spit on Your Grave",
+    "overview": "A beautiful woman from the city, Jennifer Hills, rents an isolated cabin in the country to write her latest novel. Soon, a group of local lowlifes subject her to a nightmare of degradation, rape, and violence.",
+    "popularity": 25.7657,
+    "poster_path": "/xDbNbIqsdA1D0W2gve2QRTp4z83.jpg",
+    "production_companies": [
+      {
+        "id": 5860,
+        "logo_path": null,
+        "name": "Anchor Bay Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 10399,
+        "logo_path": null,
+        "name": "CineTel Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2010-06-17",
+    "revenue": 572809,
+    "runtime": 108,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "The Revenge of Jennifer Hills.",
+    "title": "I Spit on Your Grave",
+    "video": false,
+    "vote_average": 6.509,
+    "vote_count": 2569,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "I Spit On Your Grave Trailer",
+          "key": "80112802",
+          "site": "Vimeo",
+          "size": 720,
+          "type": "Trailer",
+          "official": true,
+          "id": "5cc50cf4c3a3684677805a87",
+          "published_at": "2013-11-22T23:32:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "I SPIT ON YOUR GRAVE (2010) -- HD Teaser Trailer",
+          "key": "oOxSvFKrHew",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": false,
+          "id": "533ec6a2c3a3685448005039",
+          "published_at": "2010-05-05T19:33:32.000Z"
+        }
+      ]
+    }
+  }
+}

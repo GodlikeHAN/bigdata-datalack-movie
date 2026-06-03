@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0175142",
+  "ingestion_time_utc": "2026-06-03T18:32:38.237786+00:00",
+  "data": {
+    "Title": "Scary Movie",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "07 Jul 2000",
+    "Runtime": "88 min",
+    "Genre": "Comedy",
+    "Director": "Keenen Ivory Wayans",
+    "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+    "Actors": "Anna Faris, Jon Abrahams, Marlon Wayans",
+    "Plot": "A year after disposing of the body of a man they accidentally killed, a group of dumb teenagers are stalked by a bumbling serial killer.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "8 wins & 7 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGRmMGRhOWMtOTk3Ni00OTRjLTkyYTAtYzA1M2IzMGE3NGRkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "52%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "48/100"
+      }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.3",
+    "imdbVotes": "319,036",
+    "imdbID": "tt0175142",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$157,019,771",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

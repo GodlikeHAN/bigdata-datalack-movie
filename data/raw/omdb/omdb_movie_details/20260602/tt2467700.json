@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt2467700",
+  "ingestion_time_utc": "2026-06-03T16:01:35.245170+00:00",
+  "data": {
+    "Title": "Animal Farm",
+    "Year": "2026",
+    "Rated": "PG",
+    "Released": "01 May 2026",
+    "Runtime": "96 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Andy Serkis",
+    "Writer": "Nicholas Stoller, George Orwell",
+    "Actors": "Jim Parsons, Iman Vellani, Andy Serkis",
+    "Plot": "A satirical fable following an animal revolution as pigs seize power and the farm descends into a ruthless dictatorship-fulfilling Orwell's warning about the dangers of communism.",
+    "Language": "English",
+    "Country": "United Kingdom, Canada, United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2U5YTliZDktZWFhZS00ZDI3LTk5MWMtMDFlMjA3MDI2MGMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "27%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "33/100"
+      }
+    ],
+    "Metascore": "33",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt2467700",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

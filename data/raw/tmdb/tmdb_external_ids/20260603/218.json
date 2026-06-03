@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 218,
+  "ingestion_time_utc": "2026-06-03T18:32:07.274575+00:00",
+  "data": {
+    "id": 218,
+    "imdb_id": "tt0088247",
+    "wikidata_id": "Q162255",
+    "facebook_id": "TheTerminatorMovie",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

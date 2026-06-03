@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0304141",
+  "ingestion_time_utc": "2026-06-03T18:32:41.414500+00:00",
+  "data": {
+    "Title": "Harry Potter and the Prisoner of Azkaban",
+    "Year": "2004",
+    "Rated": "PG",
+    "Released": "04 Jun 2004",
+    "Runtime": "142 min",
+    "Genre": "Adventure, Family, Fantasy",
+    "Director": "Alfonso Cuarón",
+    "Writer": "J.K. Rowling, Steve Kloves",
+    "Actors": "Daniel Radcliffe, Emma Watson, Rupert Grint",
+    "Plot": "Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.",
+    "Language": "English, Latin, Old English",
+    "Country": "United Kingdom, United States",
+    "Awards": "Nominated for 2 Oscars. 17 wins & 56 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "82/100"
+      }
+    ],
+    "Metascore": "82",
+    "imdbRating": "7.9",
+    "imdbVotes": "761,199",
+    "imdbID": "tt0304141",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$250,657,586",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

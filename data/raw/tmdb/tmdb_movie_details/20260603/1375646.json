@@ -1,0 +1,108 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1375646,
+  "ingestion_time_utc": "2026-06-03T18:31:56.999239+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "https://wellgousa.com/films/colony",
+    "id": 1375646,
+    "imdb_id": "tt34385135",
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_title": "군체",
+    "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+    "popularity": 60.3331,
+    "poster_path": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+    "production_companies": [
+      {
+        "id": 218768,
+        "logo_path": "/elTqEtADDWEXpvwvpK6n0d3GiXo.png",
+        "name": "Wow Point",
+        "origin_country": "KR"
+      },
+      {
+        "id": 246330,
+        "logo_path": "/qpCXngTuN5OQmYV4JaWLmJA6sfA.png",
+        "name": "Smilegate Entertainment",
+        "origin_country": "KR"
+      },
+      {
+        "id": 243139,
+        "logo_path": null,
+        "name": "Midnight Studio",
+        "origin_country": "KR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "release_date": "2026-05-21",
+    "revenue": 0,
+    "runtime": 123,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Colony",
+    "video": false,
+    "vote_average": 6.468,
+    "vote_count": 31,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "COLONY - International Trailer | Directed by Yeon Sang-ho | In Theaters August 28th",
+          "key": "LW6dpj1uCK8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69ea3d6642fbdc62bc0f4fae",
+          "published_at": "2026-04-16T15:27:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser [Subtitled]",
+          "key": "D6eKZ6arMI8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69dd8262cb476f824c1da2b0",
+          "published_at": "2026-04-13T17:22:27.000Z"
+        }
+      ]
+    }
+  }
+}

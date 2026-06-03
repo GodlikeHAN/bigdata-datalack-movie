@@ -1,0 +1,193 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 337167,
+  "ingestion_time_utc": "2026-06-03T18:31:57.902443+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
+    "belongs_to_collection": {
+      "id": 344830,
+      "name": "Fifty Shades Collection",
+      "poster_path": "/29sMhnMJPHsbO2XHu35iQjk4eFR.jpg",
+      "backdrop_path": "/f7F56YyMX9G6L4ffqNpA9zlG6fm.jpg"
+    },
+    "budget": 55000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "http://www.fiftyshadesmovie.com",
+    "id": 337167,
+    "imdb_id": "tt4477536",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Fifty Shades Freed",
+    "overview": "Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.",
+    "popularity": 48.2108,
+    "poster_path": "/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11370,
+        "logo_path": null,
+        "name": "Michael De Luca Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 214539,
+        "logo_path": "/7gLb5n9flgH3aGn28Q0jNtPhlwx.png",
+        "name": "Perfect World Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2018-01-17",
+    "revenue": 371985018,
+    "runtime": 105,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Don't miss the climax.",
+    "title": "Fifty Shades Freed",
+    "video": false,
+    "vote_average": 6.675,
+    "vote_count": 8347,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"I Should Misbehave More Often\" - Extended Preview",
+          "key": "koNOzUP0nwY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67af65ddc46fb7c09e3b643d",
+          "published_at": "2025-02-13T18:00:42.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Christian Surprises Ana",
+          "key": "Aj6I54yrsF0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "5ae5e14a925141309a006d84",
+          "published_at": "2018-04-28T00:46:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ana & Christian Are Followed",
+          "key": "fHKZeHeNOTw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "5ae5e17692514102b50059eb",
+          "published_at": "2018-04-28T00:46:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ana Asks Christian",
+          "key": "S9XpznYp3H4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "5ae5e18dc3a36806460032b7",
+          "published_at": "2018-04-28T00:46:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Christian Asks Ana",
+          "key": "3jKInIOqyug",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "5ae5e1a10e0a26792e005a3c",
+          "published_at": "2018-04-28T00:46:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ana Surprises Christian",
+          "key": "OUSuHTgDSls",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "5ae5e1b69251417ca5004a32",
+          "published_at": "2018-04-28T00:46:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ana Confronts Gia",
+          "key": "p2BzY8eX2Bc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "5ae5e1cb0e0a267c54005bb2",
+          "published_at": "2018-04-28T00:46:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "nJCc5HRPxYA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "5a972f4792514128a40052ea",
+          "published_at": "2017-11-06T16:00:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Teaser",
+          "key": "GpAuCG6iUcA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "59b5e37bc3a3682b0a0049e6",
+          "published_at": "2017-09-10T18:00:07.000Z"
+        }
+      ]
+    }
+  }
+}

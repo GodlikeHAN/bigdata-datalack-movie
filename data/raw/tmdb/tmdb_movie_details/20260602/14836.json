@@ -1,0 +1,306 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 14836,
+  "ingestion_time_utc": "2026-06-03T16:00:48.307816+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+    "belongs_to_collection": null,
+    "budget": 60000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "homepage": "https://www.laika.com/our-films/coraline",
+    "id": 14836,
+    "imdb_id": "tt0327597",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Coraline",
+    "overview": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+    "popularity": 30.443,
+    "poster_path": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+    "production_companies": [
+      {
+        "id": 11537,
+        "logo_path": "/AgCkAk8EpUG9fTmK6mWcaJA2Zwh.png",
+        "name": "LAIKA",
+        "origin_country": "US"
+      },
+      {
+        "id": 8915,
+        "logo_path": null,
+        "name": "Pandemonium",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2009-02-05",
+    "revenue": 185860104,
+    "runtime": 100,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Be careful what you wish for.",
+    "title": "Coraline",
+    "video": false,
+    "vote_average": 7.908,
+    "vote_count": 8983,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Coraline Ambience: Sounds from the Other World",
+          "key": "kr-keubVdEA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "671a59471ea33928297cff4f",
+          "published_at": "2024-10-19T22:37:55.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "15th Anniversary Encore",
+          "key": "GYYRTL1MMGo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "671a5f15a4ac8a432c5c0d6d",
+          "published_at": "2024-10-04T16:23:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Henry Selick on Coraline and his love of stop-motion animation | BFI in Conversation",
+          "key": "T2UPq8Z7ffw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "66cf7cd07b697a35cba47265",
+          "published_at": "2024-08-28T10:00:34.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Coraline actor Teri Hatcher and director Henry Selick | BFI Q&A",
+          "key": "vwLwl5Bube4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "66c87af99f1d6d4b383ce037",
+          "published_at": "2024-08-23T10:01:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Unwinding the Web\" Live Action Scene",
+          "key": "84Nwahf0XME",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Featurette",
+          "official": true,
+          "id": "671a58e1769107d77b479341",
+          "published_at": "2024-08-10T16:00:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "“Caroline… er, Coraline Returns to Theaters” August 15",
+          "key": "BgKXN16_VBY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "671a58b52685cb6563c0a792",
+          "published_at": "2024-08-07T17:48:33.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "“It's Time To Go Back” - 15th Anniversary Official Trailer",
+          "key": "T6iQnnHNF50",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "667dfeb3b1abe46e0b2a5551",
+          "published_at": "2024-06-21T13:36:42.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Encores",
+          "key": "biR7qs2tQKA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "671a5fd4e833d92ef05fe126",
+          "published_at": "2023-08-25T21:12:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "2023 Encore",
+          "key": "MxNE5p-KpZY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "671a5f6bc7802cc50359d493",
+          "published_at": "2023-08-16T17:28:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Re-release Trailer",
+          "key": "txGOUJ5gegc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "64ceb9466d4c97014f4225e7",
+          "published_at": "2023-07-14T18:34:42.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Evolution of a Scene: “Call Him Mr.B”",
+          "key": "Uva51G-JsX8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6683104a98870973ae2bdd55",
+          "published_at": "2023-01-30T18:17:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Fathom Events Spot",
+          "key": "2PrgOYqHKWk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "671a5f485d0de89042d8eae2",
+          "published_at": "2022-07-15T06:00:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Coraline Explores the Pink Palace\" Clip",
+          "key": "Xtsn2j2GVQk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67ccfaa1f23e9940105bd242",
+          "published_at": "2022-02-18T17:10:23.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Jumping Mouse Circus\" Clip",
+          "key": "lWMsWXUljIg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67ccfa518230b256f4f5ca69",
+          "published_at": "2021-12-16T17:30:13.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"You’ll Never Leave\" - Coraline vs. Other Mother",
+          "key": "Sny4Rvr5Yag",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67ccf9eba4df97db964f9c60",
+          "published_at": "2021-10-31T15:25:28.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Passage to the Other World\" Clip",
+          "key": "iXdeU6vDC2k",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67ccf9a28230b256f4f5ca1a",
+          "published_at": "2021-09-07T16:05:09.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Hand-Making Coraline: Behind LAIKA’s First Feature",
+          "key": "jXqqd0ZBEMA",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "64a8dfd0b686b900cc08c10a",
+          "published_at": "2017-07-12T05:29:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Theatrical Trailer",
+          "key": "P8lfdvXkhu0",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Trailer",
+          "official": true,
+          "id": "65fed0c6459ad60131f770ee",
+          "published_at": "2016-11-04T21:10:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer",
+          "key": "vlv4yzsmwyI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6539769e24f2ce00ad7e624d",
+          "published_at": "2011-04-07T17:14:00.000Z"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 519182,
+  "ingestion_time_utc": "2026-06-03T18:32:06.600560+00:00",
+  "data": {
+    "id": 519182,
+    "imdb_id": "tt7510222",
+    "wikidata_id": "Q113373276",
+    "facebook_id": "minions",
+    "instagram_id": "minions",
+    "twitter_id": "Minions"
+  }
+}

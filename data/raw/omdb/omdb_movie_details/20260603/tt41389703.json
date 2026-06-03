@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt41389703",
+  "ingestion_time_utc": "2026-06-03T18:32:34.415374+00:00",
+  "data": {
+    "Title": "Deool Band 2",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "21 May 2026",
+    "Runtime": "182 min",
+    "Genre": "Drama",
+    "Director": "Pravin Tarde",
+    "Writer": "Pravin Tarde",
+    "Actors": "Mohan Joshi, Snehal Tarde, Mahesh Manjrekar",
+    "Plot": "A farmer questions his faith, embarking on a transformative journey. The story centers on a woman fighting tirelessly for her family through hardships, her resilience leading her to confront divine power itself.",
+    "Language": "Marathi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDRhOTFjNzAtOTI3MC00MGI3LTk4MGMtMjEyNDNhNDc1MzgwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.6",
+    "imdbVotes": "139",
+    "imdbID": "tt41389703",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

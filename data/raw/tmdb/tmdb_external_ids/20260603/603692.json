@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 603692,
+  "ingestion_time_utc": "2026-06-03T18:32:06.914956+00:00",
+  "data": {
+    "id": 603692,
+    "imdb_id": "tt10366206",
+    "wikidata_id": "Q80322358",
+    "facebook_id": "johnwickmovie",
+    "instagram_id": "johnwickmovie",
+    "twitter_id": "JohnWickMovie"
+  }
+}

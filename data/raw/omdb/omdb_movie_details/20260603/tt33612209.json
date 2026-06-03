@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt33612209",
+  "ingestion_time_utc": "2026-06-03T18:32:27.556669+00:00",
+  "data": {
+    "Title": "The Devil Wears Prada 2",
+    "Year": "2026",
+    "Rated": "PG-13",
+    "Released": "01 May 2026",
+    "Runtime": "119 min",
+    "Genre": "Comedy, Drama",
+    "Director": "David Frankel",
+    "Writer": "Aline Brosh McKenna, Lauren Weisberger",
+    "Actors": "Meryl Streep, Anne Hathaway, Emily Blunt",
+    "Plot": "Andy Sachs reunites with Miranda Priestly as they navigate their careers amid the decline of traditional magazine publishing.",
+    "Language": "English, Italian, French",
+    "Country": "United States",
+    "Awards": "1 win & 4 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmM3ZDU3ODItZmY5Yi00OTQ2LWE5OTctZTA5NDBhMWJkOGY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.6/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "63/100"
+      }
+    ],
+    "Metascore": "63",
+    "imdbRating": "6.6",
+    "imdbVotes": "53,400",
+    "imdbID": "tt33612209",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$209,323,906",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

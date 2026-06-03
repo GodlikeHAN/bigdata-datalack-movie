@@ -1,0 +1,77 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1522126,
+  "ingestion_time_utc": "2026-06-03T18:32:00.246288+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/62a8bMDftwD9aU0dkXr4eN6Q5q2.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 99,
+        "name": "Documentary"
+      },
+      {
+        "id": 10770,
+        "name": "TV Movie"
+      }
+    ],
+    "homepage": "https://www.channel4.com/programmes/1000-men-and-me-the-bonnie-blue-story",
+    "id": 1522126,
+    "imdb_id": "tt37738006",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "1000 Men and Me: The Bonnie Blue Story",
+    "overview": "Adult content creator Bonnie Blue announced that she’d slept with 1057 men in 12 hours. Exploring the polarising debate around Bonnie and the pornification of our society, the film follows her over the most eye-opening six months of her life.",
+    "popularity": 43.2721,
+    "poster_path": "/5dcgoyf8nt6Xt4VSR6Nrn6nwhuz.jpg",
+    "production_companies": [
+      {
+        "id": 269521,
+        "logo_path": null,
+        "name": "Magnificent Pictures",
+        "origin_country": ""
+      },
+      {
+        "id": 5778,
+        "logo_path": "/2loyoQweDxvotH3AknfL2zhsthg.png",
+        "name": "Channel 4 Television",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-07-29",
+    "revenue": 0,
+    "runtime": 60,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "1000 Men and Me: The Bonnie Blue Story",
+    "video": false,
+    "vote_average": 5.735,
+    "vote_count": 17,
+    "videos": {
+      "results": []
+    }
+  }
+}

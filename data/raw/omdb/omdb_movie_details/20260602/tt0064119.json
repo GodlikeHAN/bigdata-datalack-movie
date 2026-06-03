@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0064119",
+  "ingestion_time_utc": "2026-06-03T16:01:33.482660+00:00",
+  "data": {
+    "Title": "Le calde notti di Poppea",
+    "Year": "1969",
+    "Rated": "N/A",
+    "Released": "N/A",
+    "Runtime": "94 min",
+    "Genre": "Comedy",
+    "Director": "Guido Malatesta",
+    "Writer": "Gianfranco Clerici, Guido Malatesta",
+    "Actors": "Olga Schoberová, Brad Harris, Gia Sandri",
+    "Plot": "The busty and famous Poppea loves to seduce the Roman patricians to keep them firmly in hand.",
+    "Language": "Italian",
+    "Country": "Italy",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmQxN2U1MjgtYzViYS00OTcwLTk5YjAtYmI2OWIzYTM1Y2ZmXkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.6/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.6",
+    "imdbVotes": "111",
+    "imdbID": "tt0064119",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

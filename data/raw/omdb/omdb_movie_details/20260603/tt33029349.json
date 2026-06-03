@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt33029349",
+  "ingestion_time_utc": "2026-06-03T18:32:25.960408+00:00",
+  "data": {
+    "Title": "Cisza nocna",
+    "Year": "2024",
+    "Rated": "N/A",
+    "Released": "31 Oct 2024",
+    "Runtime": "112 min",
+    "Genre": "Horror",
+    "Director": "Bartosz M. Kowalski",
+    "Writer": "Bartosz M. Kowalski, Pawel Maslona, Mirella Zaradkiewicz",
+    "Actors": "Maciej Damiecki, Zdzislaw Wardejn, Wlodzimierz Press",
+    "Plot": "Lucjan is admitted to a nursing home, where he is welcomed by the residents and staff. Everything is fine, there are no dark secrets hidden in the basement, no strange, malevolent creatures. Don't worry about it. Everything - is -...",
+    "Language": "Polish",
+    "Country": "Poland",
+    "Awards": "1 win & 3 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjNkNzE3NjYtMjQ2MS00MjlmLWIzOWUtYTU1YjUwNzA1ODZlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "86",
+    "imdbID": "tt33029349",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

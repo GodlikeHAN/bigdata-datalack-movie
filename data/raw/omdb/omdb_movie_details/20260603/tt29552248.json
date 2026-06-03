@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt29552248",
+  "ingestion_time_utc": "2026-06-03T18:32:19.351188+00:00",
+  "data": {
+    "Title": "Swapped",
+    "Year": "2026",
+    "Rated": "PG",
+    "Released": "01 May 2026",
+    "Runtime": "98 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Nathan Greno",
+    "Writer": "John Whittington, Christian Magalhaes, Robert Snow",
+    "Actors": "Michael B. Jordan, Juno Temple, Tracy Morgan",
+    "Plot": "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWFlNWM2Y2YtY2VhOC00MWFiLWExNWYtYWViYzJhMDQyMTJiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "56/100"
+      }
+    ],
+    "Metascore": "56",
+    "imdbRating": "7.3",
+    "imdbVotes": "14,061",
+    "imdbID": "tt29552248",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

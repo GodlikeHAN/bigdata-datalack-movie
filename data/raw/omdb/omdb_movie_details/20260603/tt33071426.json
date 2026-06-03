@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt33071426",
+  "ingestion_time_utc": "2026-06-03T18:32:28.343171+00:00",
+  "data": {
+    "Title": "The Drama",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "03 Apr 2026",
+    "Runtime": "105 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Kristoffer Borgli",
+    "Writer": "Kristoffer Borgli",
+    "Actors": "Zendaya, Robert Pattinson, Alana Haim",
+    "Plot": "A happily-engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwOGZhYmItYTg3ZS00NjUwLWJiMmQtMjU5YjEwYWY0NmNkXkEyXkFqcGc@._V1_QL75_UX380_CR0,16,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "59/100"
+      }
+    ],
+    "Metascore": "59",
+    "imdbRating": "7.5",
+    "imdbVotes": "26,572",
+    "imdbID": "tt33071426",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$30,849,251",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

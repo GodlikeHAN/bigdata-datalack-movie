@@ -1,0 +1,300 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1156593,
+  "ingestion_time_utc": "2026-06-03T18:31:54.106356+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/k24eZq5I3jyz4htPkZCRpnUmBzE.jpg",
+    "belongs_to_collection": {
+      "id": 1156666,
+      "name": "Fault Collection",
+      "poster_path": "/fR3AsfNeAmgGCy2CMFaOjIaIuA7.jpg",
+      "backdrop_path": "/7N9p8D39MXJDfm14zlBwW7mBh7g.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "https://www.amazon.com/dp/B0DJ1L7ZN3",
+    "id": 1156593,
+    "imdb_id": "tt28510079",
+    "origin_country": [
+      "US",
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Culpa tuya",
+    "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+    "popularity": 25.1769,
+    "poster_path": "/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+    "production_companies": [
+      {
+        "id": 32485,
+        "logo_path": "/fVXreZkiJTOq1cCi6htSQlPSy7R.png",
+        "name": "Pokeepsie Films",
+        "origin_country": "ES"
+      },
+      {
+        "id": 210099,
+        "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+        "name": "Amazon MGM Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2024-12-26",
+    "revenue": 0,
+    "runtime": 117,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Divided by family. Driven by love.",
+    "title": "Your Fault",
+    "video": false,
+    "vote_average": 7.081,
+    "vote_count": 1550,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick Breaks Up with Noah [Subtitled]",
+          "key": "8kufmWJuvdg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "684c5ae28acfcc99453df350",
+          "published_at": "2025-06-12T17:00:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Unreleased Scene [Subtitled]",
+          "key": "wGIKmYLFT6g",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6847459cebd7244e6e301c4a",
+          "published_at": "2025-06-08T15:01:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ending Explained",
+          "key": "-aCPYvyQ-1M",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "67ea428e2cca6fc8fbc6e782",
+          "published_at": "2025-03-30T19:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick and Noah Race Against Ronnie [Subtitled]",
+          "key": "HiRBWAQDavw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67df4851978bda8ae24d8401",
+          "published_at": "2025-03-22T17:00:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick Doesn't Want to Be Apart From Noah [Subtitled]",
+          "key": "ZmiCk4y6oDg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67d0d0af27c3960c2d1e0963",
+          "published_at": "2025-03-11T17:00:40.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Cast Reacts to Scenes from Culpa Tuya - Roll Playback",
+          "key": "sKPF3KguKq0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "67a76ab289f05e1619f10e8e",
+          "published_at": "2025-02-07T21:00:41.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Meet the Characters",
+          "key": "iMPwiWo9S64",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "67988007a6e41283f12b598c",
+          "published_at": "2025-01-27T18:00:37.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Noah is Jealous of Sofia [Subtitled]",
+          "key": "yywlbd8pzxI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67882b4c88c55856d51d2994",
+          "published_at": "2025-01-14T18:00:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick and Noah Break Up [Subtitled]",
+          "key": "HUeHn4z8Zm0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67882b5c2ba9fb7c5ead087d",
+          "published_at": "2025-01-13T21:00:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Noah Marks Nick As Hers [Subtitled]",
+          "key": "5osAeAcFilA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6779921d2b097b15a274c3f8",
+          "published_at": "2025-01-04T18:00:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick Surprises Noah With An Apartment [Subtitled]",
+          "key": "f6RZrUiG2t4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "677992a025e0e91c5774d16b",
+          "published_at": "2025-01-03T15:03:14.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick Surprises Noah At A Romantic Dinner [Subtitled]",
+          "key": "54VR8JQF_TI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "677992af25e0e91c5774d170",
+          "published_at": "2024-12-31T19:00:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nick and Noah Meet Briar and Sofia [Subtitled]",
+          "key": "IoyJOL5WnvQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "676f975d0c4402b63192b706",
+          "published_at": "2024-12-27T20:00:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Sneak Peek: Nick and Noah are Back [Subtitled]",
+          "key": "nuPjieeswM4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "676d02f14ca2fbbfca613e69",
+          "published_at": "2024-12-25T22:00:21.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer 2 [Subtitled]",
+          "key": "QT5j0Uf-rdM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6754e4566f37f6e89adc45e8",
+          "published_at": "2024-12-07T23:02:44.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer [Subtitled]",
+          "key": "m_TWESxP_DE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "671bfe516d6b705dc8716d71",
+          "published_at": "2024-10-25T18:29:46.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser [Subtitled]",
+          "key": "Wp4S0-fWgI0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "66eba6c762c4bb18c9747320",
+          "published_at": "2024-09-18T13:59:56.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Date Announce",
+          "key": "3KTZekgTyFU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "66b3deecb304f5785ce18525",
+          "published_at": "2024-08-07T14:00:19.000Z"
+        }
+      ]
+    }
+  }
+}

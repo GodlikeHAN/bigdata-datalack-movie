@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0158510",
+  "ingestion_time_utc": "2026-06-03T18:32:34.815242+00:00",
+  "data": {
+    "Title": "Bosco d'amore",
+    "Year": "1981",
+    "Rated": "N/A",
+    "Released": "08 Sep 1981",
+    "Runtime": "113 min",
+    "Genre": "Drama, Romance",
+    "Director": "Alberto Bevilacqua",
+    "Writer": "Alberto Bevilacqua, Giovanni Boccaccio, Massimo Oldoini",
+    "Actors": "Monica Guerritore, Rodolfo Bigotti, William Berger",
+    "Plot": "14th century - the Black Death is killing millions across Europe and civil wars are adding to the turmoil and chaos. A young teenage couple is sent to live in a nearby town by the man's uncle, in an attempt to keep them safe from ...",
+    "Language": "Italian",
+    "Country": "Italy",
+    "Awards": "1 win & 3 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDFiODcwNDktMWY3Mi00MGQwLThmYTEtYTA0MTcxNGJlNmU3XkEyXkFqcGdeQXVyMTAxMDQ0ODk@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.6/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.6",
+    "imdbVotes": "15",
+    "imdbID": "tt0158510",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

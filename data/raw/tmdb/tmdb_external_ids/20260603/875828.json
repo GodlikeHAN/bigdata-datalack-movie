@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 875828,
+  "ingestion_time_utc": "2026-06-03T18:32:05.897772+00:00",
+  "data": {
+    "id": 875828,
+    "imdb_id": "tt15574124",
+    "wikidata_id": "Q124355470",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": "ThePeakyBlinder"
+  }
+}

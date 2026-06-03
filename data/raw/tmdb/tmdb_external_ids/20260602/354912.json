@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 354912,
+  "ingestion_time_utc": "2026-06-03T16:00:55.851777+00:00",
+  "data": {
+    "id": 354912,
+    "imdb_id": "tt2380307",
+    "wikidata_id": "Q5815826",
+    "facebook_id": "PixarCoco",
+    "instagram_id": "pixarcoco",
+    "twitter_id": "pixarcoco"
+  }
+}

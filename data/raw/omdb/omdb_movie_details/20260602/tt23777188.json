@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt23777188",
+  "ingestion_time_utc": "2026-06-03T16:01:16.546004+00:00",
+  "data": {
+    "Title": "Tell Me What You Want, Really",
+    "Year": "2023",
+    "Rated": "N/A",
+    "Released": "27 Jul 2023",
+    "Runtime": "103 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Bruno Ascenzo",
+    "Writer": "N/A",
+    "Actors": "Manolo Cardona, Antonio Casares, Reybelli Castellano",
+    "Plot": "Diego and Emilia are a conservative couple with 16 years of marriage who have lost their spark, until Tomas and Betina rescue and introduce them to the forbidden world, changing what they know about intimacy, relationships and sex.",
+    "Language": "N/A",
+    "Country": "Mexico",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyZmFmN2ItMjVjNy00MDJjLThkNDYtMzQxY2FlMzE4ZDQ3XkEyXkFqcGdeQXVyMjMyNjExODg@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "65",
+    "imdbID": "tt23777188",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

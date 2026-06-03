@@ -1,0 +1,63 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 233651,
+  "ingestion_time_utc": "2026-06-03T16:00:31.806113+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/6U1ASeNWCTxIPeRFHXMBHp3JBfR.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 233651,
+    "imdb_id": "tt0287685",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "セックス・ライダー　濡れたハイウェイ",
+    "overview": "On the eve of her wedding and while cheating with another man, a woman gets involved into a dangerous new world of experiences.",
+    "popularity": 24.7075,
+    "poster_path": "/jmyo0j2HMDeFvMh5y1wFYpoxH6S.jpg",
+    "production_companies": [
+      {
+        "id": 955,
+        "logo_path": "/5xnXD3PJI1HqOJceSAKZ3fDqO1V.png",
+        "name": "Nikkatsu Corporation",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "1971-12-29",
+    "revenue": 0,
+    "runtime": 68,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Sex Rider: Wet Highway",
+    "video": false,
+    "vote_average": 4.923,
+    "vote_count": 13,
+    "videos": {
+      "results": []
+    }
+  }
+}

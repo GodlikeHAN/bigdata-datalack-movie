@@ -1,0 +1,236 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1383731,
+  "ingestion_time_utc": "2026-06-03T16:00:44.230976+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/vpuPY4UziUCxv7gYYoaZQ3LX7to.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.protectorthefilm.com/",
+    "id": 1383731,
+    "imdb_id": "tt34471850",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Protector",
+    "overview": "Nikki's life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
+    "popularity": 36.9168,
+    "poster_path": "/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
+    "production_companies": [
+      {
+        "id": 262304,
+        "logo_path": null,
+        "name": "Aanaxion Studio",
+        "origin_country": ""
+      },
+      {
+        "id": 178359,
+        "logo_path": "/8Vir3jz2OMrcLFdcpRAg6LQixJp.png",
+        "name": "828 Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 121204,
+        "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+        "name": "BondIt Media Capital",
+        "origin_country": "US"
+      },
+      {
+        "id": 231386,
+        "logo_path": "/4WS75ndvhPMm7Rj2RFZnFYwBS2o.png",
+        "name": "Magenta Light Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 296687,
+        "logo_path": null,
+        "name": "Blossom Studio",
+        "origin_country": ""
+      },
+      {
+        "id": 296688,
+        "logo_path": null,
+        "name": "Allbarun Company",
+        "origin_country": ""
+      },
+      {
+        "id": 65649,
+        "logo_path": "/tXTuZTEcYYB1hIyAAwDyhZE0f7c.png",
+        "name": "SSS Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 274597,
+        "logo_path": "/1lQEAVqHhBzlRQJ1XwFKhX8YYpz.png",
+        "name": "American Picture House Corporation",
+        "origin_country": "US"
+      },
+      {
+        "id": 137373,
+        "logo_path": "/4OzujMDSLnAm7I0BCPL1D6RIoJ4.png",
+        "name": "CaliWood Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-02-20",
+    "revenue": 1969113,
+    "runtime": 90,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Mother. Savior. Killer...",
+    "title": "Protector",
+    "video": false,
+    "vote_average": 7.583,
+    "vote_count": 121,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Get Tickets Now\"",
+          "key": "b3Etl5ctZ58",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69af657bcd7faf36ab0b2cd2",
+          "published_at": "2026-03-06T04:00:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"The Legend Of Nikki Halstead\"",
+          "key": "EZItiMosGXQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69af65100aa591940ec1eacd",
+          "published_at": "2026-03-05T01:00:13.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Monologue\"",
+          "key": "rzrn9x9Zpb0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69af67502419a16750450be2",
+          "published_at": "2026-03-01T01:01:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "15 16x9 ALT",
+          "key": "0Tb3Bun4uz0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69aefa30d39f23855d7949b2",
+          "published_at": "2026-02-28T02:53:25.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "15 16x9",
+          "key": "p0BHUTFdEms",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69aefa8a0aa591940ec1e870",
+          "published_at": "2026-02-27T21:45:26.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "08",
+          "key": "0DtlqmyXXEI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69aef9ddeeeab37b8f4508eb",
+          "published_at": "2026-02-27T21:41:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Punch to Reveal\"",
+          "key": "9VX4sK4NZl0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69af67ab3a395b7335c1d025",
+          "published_at": "2026-02-27T16:00:13.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Only In Theatres March 6",
+          "key": "Kd1Cth3epko",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69aefa5ce37647254ec1cbae",
+          "published_at": "2026-02-21T01:15:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "International Trailer",
+          "key": "IRKGIuL3728",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69776e72ff9d26e701a3779d",
+          "published_at": "2026-01-23T20:36:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "MJm_msj9BDU",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "697766f8ddf0ebe1a4694ef6",
+          "published_at": "2025-12-05T15:03:36.000Z"
+        }
+      ]
+    }
+  }
+}
