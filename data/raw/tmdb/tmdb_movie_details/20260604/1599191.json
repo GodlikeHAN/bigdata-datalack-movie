@@ -1,0 +1,40 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1599191,
+  "ingestion_time_utc": "2026-06-05T12:33:51.417997+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/c4TkvRGVrghFY2qFKJ0SUwqtAiW.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 1599191,
+    "imdb_id": null,
+    "origin_country": [
+      "CN"
+    ],
+    "original_language": "zh",
+    "original_title": "仙逆剧场版 弑仙之战",
+    "overview": "",
+    "popularity": 44.0721,
+    "poster_path": "/m1dXI1997D7lj6Sh0Z2DI26o2nI.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "",
+    "revenue": 0,
+    "runtime": 0,
+    "softcore": false,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "仙逆剧场版 弑仙之战",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "videos": {
+      "results": []
+    }
+  }
+}

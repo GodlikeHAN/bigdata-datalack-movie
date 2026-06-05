@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt27543632",
-  "ingestion_time_utc": "2026-06-03T18:32:29.262276+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:07.139094+00:00",
   "data": {
     "Title": "The Housemaid",
     "Year": "2025",

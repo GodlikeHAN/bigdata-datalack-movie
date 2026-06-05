@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt6751668",
-  "ingestion_time_utc": "2026-06-03T18:32:39.563391+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:17.607563+00:00",
   "data": {
     "Title": "Parasite",
     "Year": "2019",

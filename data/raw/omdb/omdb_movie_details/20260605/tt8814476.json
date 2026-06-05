@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt8814476",
+  "ingestion_time_utc": "2026-06-05T14:08:03.967040+00:00",
+  "data": {
+    "Title": "Supergirl",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "26 Jun 2026",
+    "Runtime": "N/A",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Craig Gillespie",
+    "Writer": "Otto Binder, Bilquis Evely, Tom King",
+    "Actors": "Milly Alcock, Eve Ridley, Matthias Schoenaerts",
+    "Plot": "Kara Zor-El, aka Supergirl, joins forces with an unlikely companion on an interstellar journey of vengeance and justice when an unexpected adversary strikes too close to home.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjlhMTdmODYtOGE0ZC00YzAwLWI1NDMtMTIzZDQzZGVkNDMwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt8814476",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

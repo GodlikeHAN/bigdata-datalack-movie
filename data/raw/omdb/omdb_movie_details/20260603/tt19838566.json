@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt19838566",
-  "ingestion_time_utc": "2026-06-03T18:32:21.211259+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:59.056919+00:00",
   "data": {
     "Title": "Kraken",
     "Year": "2026",

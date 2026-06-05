@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt22898462",
+  "ingestion_time_utc": "2026-06-05T12:34:22.147893+00:00",
+  "data": {
+    "Title": "The Conjuring: Last Rites",
+    "Year": "2025",
+    "Rated": "R",
+    "Released": "05 Sep 2025",
+    "Runtime": "135 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Michael Chaves",
+    "Writer": "Ian Goldberg, Richard Naing, David Leslie Johnson-McGoldrick",
+    "Actors": "Patrick Wilson, Vera Farmiga, Mia Tomlinson",
+    "Plot": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
+    "Language": "English, Latin",
+    "Country": "Canada, United States",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2VmMzRkYzgtMzg2ZC00OTFkLTkwMTYtNTMxNjM2YzI1MjgyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "54/100"
+      }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.2",
+    "imdbVotes": "98,159",
+    "imdbID": "tt22898462",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$177,756,445",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

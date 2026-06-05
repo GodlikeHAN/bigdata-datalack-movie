@@ -2,10 +2,10 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 634649,
-  "ingestion_time_utc": "2026-06-03T18:31:58.889364+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.904816+00:00",
   "data": {
     "adult": false,
-    "backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
+    "backdrop_path": "/tyQo080tijexyUHBvWPwQt26bZa.jpg",
     "belongs_to_collection": {
       "id": 531241,
       "name": "Spider-Man (MCU) Collection",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "Spider-Man: No Way Home",
     "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-    "popularity": 42.5235,
+    "popularity": 40.3503,
     "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
     "production_companies": [
       {
@@ -85,7 +85,7 @@
     "title": "Spider-Man: No Way Home",
     "video": false,
     "vote_average": 7.934,
-    "vote_count": 22008,
+    "vote_count": 22010,
     "videos": {
       "results": [
         {

@@ -1,0 +1,176 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1380291,
+  "ingestion_time_utc": "2026-06-05T14:07:39.067185+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.amazon.com/dp/B0GVB3LYDT",
+    "id": 1380291,
+    "imdb_id": "tt34378301",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Tom Clancy's Jack Ryan: Ghost War",
+    "overview": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
+    "popularity": 259.5,
+    "poster_path": "/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
+    "production_companies": [
+      {
+        "id": 29312,
+        "logo_path": "/6yOnS9H3msf0cz0E5REbfX4Ehdz.png",
+        "name": "Sunday Night Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 6831,
+        "logo_path": "/fWSI4EjIDEEzCNJC8OTPX9Pdbxv.png",
+        "name": "Big Indie Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-05-20",
+    "revenue": 0,
+    "runtime": 107,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "No operation stays dark forever.",
+    "title": "Tom Clancy's Jack Ryan: Ghost War",
+    "video": false,
+    "vote_average": 7.104,
+    "vote_count": 471,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Jack Ryan Gets Into a Firefight - Clip",
+          "key": "VZ9ABh81jtI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a110cb77d339c40c64b44cc",
+          "published_at": "2026-05-22T19:00:38.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Jump In Featurette",
+          "key": "XTjRcw5UCmM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a110caf226f8c7795081b35",
+          "published_at": "2026-05-22T18:32:29.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Action Featurette",
+          "key": "nWVGqvlz_OM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a110ca4158d788522081c2c",
+          "published_at": "2026-05-20T22:34:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Police Raid Turns Deadly - Clip",
+          "key": "D-TIqWKUg7k",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a0eb38123f5023423970b02",
+          "published_at": "2026-05-20T19:00:10.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Sneak Peek",
+          "key": "dnVvVBNwqbo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a0d4caf262d5cc505a67dd0",
+          "published_at": "2026-05-19T17:00:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Reunited",
+          "key": "-CCX6zeD7C8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a0168e3bc5ad1cd2079a211",
+          "published_at": "2026-05-08T15:14:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "-4ZVFspRn3M",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69e1307e6a76ae58851e14cf",
+          "published_at": "2026-04-16T13:59:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser",
+          "key": "MNeoJI82BHI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69b98324074fc8b34696081f",
+          "published_at": "2026-03-17T13:59:46.000Z"
+        }
+      ]
+    }
+  }
+}

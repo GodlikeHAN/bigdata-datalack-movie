@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt29218808",
+  "ingestion_time_utc": "2026-06-05T14:08:14.855979+00:00",
+  "data": {
+    "Title": "Infiltrate",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "27 Mar 2026",
+    "Runtime": "93 min",
+    "Genre": "Action",
+    "Director": "James Mark",
+    "Writer": "James Mark",
+    "Actors": "Orphée Ladouceur-Nguyen, Alain Moussi, Lisa Berry",
+    "Plot": "A mysterious voice compels an ordinary woman to delve into the dark underbelly of organized crime, determined to rescue her kidnapped husband from its clutches.",
+    "Language": "English",
+    "Country": "Canada",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzQ5NjlmMTktMjJlYy00NmQxLWIxNWEtYzhmZGMxMDBlZDE5XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "3.9/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "3.9",
+    "imdbVotes": "276",
+    "imdbID": "tt29218808",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

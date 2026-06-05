@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt33046197",
-  "ingestion_time_utc": "2026-06-03T18:32:22.138733+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:59.850701+00:00",
   "data": {
     "Title": "The Wrecking Crew",
     "Year": "2026",

@@ -1,0 +1,324 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1081003,
+  "ingestion_time_utc": "2026-06-05T14:07:39.930267+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/z4nSdlQYIHcgaqqCnz1hRSGpEhy.jpg",
+    "belongs_to_collection": null,
+    "budget": 175000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "homepage": "https://www.supergirlmovie.com",
+    "id": 1081003,
+    "imdb_id": "tt8814476",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Supergirl",
+    "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+    "popularity": 28.9503,
+    "poster_path": "/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
+    "production_companies": [
+      {
+        "id": 184898,
+        "logo_path": "/iNTsbEgntSUwHmsZ9whiLhm60WB.png",
+        "name": "DC Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 94218,
+        "logo_path": "/kxuhS8wyKtVprOn5nckdHyNuSg1.png",
+        "name": "Troll Court Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 11565,
+        "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
+        "name": "The Safran Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-06-24",
+    "revenue": 0,
+    "runtime": 108,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Post Production",
+    "tagline": "Truth. Justice. Whatever.",
+    "title": "Supergirl",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Tickets on Sale Now",
+          "key": "tzlY8XD1CGg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6a2056ee14935a6352b02301",
+          "published_at": "2026-06-03T16:06:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "KFC | Supergirl Super Break :30",
+          "key": "SZ_HvxFXIVA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": false,
+          "id": "6a1f9e770b91e9b4a30fd805",
+          "published_at": "2026-06-02T14:41:10.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Origins",
+          "key": "deMaEZoe8DU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a18a9b81c14f2f3e650661d",
+          "published_at": "2026-05-28T19:00:13.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Krem",
+          "key": "lZDZpB9NBNI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a1886946f053312091b785c",
+          "published_at": "2026-05-28T18:00:38.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas on June 26",
+          "key": "AnMsy27IXmA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a196a601c3a7c8df96a0726",
+          "published_at": "2026-05-28T05:30:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas on June 26",
+          "key": "EzRXRvpjtFU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a196a76ea50592b26c89c64",
+          "published_at": "2026-05-25T05:30:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas on June 26",
+          "key": "K-RgxBDQ8JY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a196a8e05c1efa62d92a657",
+          "published_at": "2026-05-24T05:30:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas on June 26",
+          "key": "R0TB33DHmmI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a196ab418038664d4744de6",
+          "published_at": "2026-05-23T05:30:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas on June 26",
+          "key": "l4bG-mafMpE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a196acece8982ff76babb1a",
+          "published_at": "2026-05-22T05:35:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas on June 26",
+          "key": "Bd8GiTtW4SA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a196adf5ffc221db8985ee6",
+          "published_at": "2026-05-19T05:30:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Behind The Scenes",
+          "key": "BWOShfuJqYE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "69cfed8488afbca77a9a190c",
+          "published_at": "2026-04-03T16:00:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "s1-pfiVMKAs",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "69cbefd7f4cdeed5fcca3ff5",
+          "published_at": "2026-03-31T16:00:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer Tomorrow",
+          "key": "1Q-mpnZbqGk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69caa441c5593a88e544ebad",
+          "published_at": "2026-03-30T16:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "You had me at woof.",
+          "key": "-ypVQhWBgv0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6990d18d80f30a36946f6251",
+          "published_at": "2026-02-14T18:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Home",
+          "key": "VoqjnU_wGJM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6988ee32200929f9ccc1cd61",
+          "published_at": "2026-02-08T19:59:10.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Dreaming Of Lobo",
+          "key": "bugcgtezASA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6973c571b6d9ddc4a3894074",
+          "published_at": "2026-01-23T17:53:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Blast Off :30",
+          "key": "Et4clt5xdI4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6973b37e285587d52413d307",
+          "published_at": "2026-01-23T17:30:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Watch the Official Teaser Trailer",
+          "key": "67wlPl4ChnQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "695c26eb56f08bbf5417be6c",
+          "published_at": "2025-12-11T17:00:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser Trailer",
+          "key": "YqdAEdkHrwo",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "693afc77aad698fb84f6232b",
+          "published_at": "2025-12-11T16:59:07.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Teaser Trailer Tomorrow",
+          "key": "0LR2U78MW8A",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "693a5ffaac61652a2c1d285a",
+          "published_at": "2025-12-10T18:00:00.000Z"
+        }
+      ]
+    }
+  }
+}

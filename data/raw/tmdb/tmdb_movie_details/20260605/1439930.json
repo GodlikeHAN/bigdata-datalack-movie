@@ -1,0 +1,258 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1439930,
+  "ingestion_time_utc": "2026-06-05T14:07:39.082256+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "homepage": "https://www.disneyplus.com/browse/entity-c5b69f75-f159-4749-873d-9a1d1a4eb878",
+    "id": 1439930,
+    "imdb_id": "tt36042156",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Punisher: One Last Kill",
+    "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
+    "popularity": 258.8412,
+    "poster_path": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
+    "production_companies": [
+      {
+        "id": 420,
+        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 176762,
+        "logo_path": null,
+        "name": "Kevin Feige Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-05-12",
+    "revenue": 0,
+    "runtime": 51,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Hey Frank.",
+    "title": "The Punisher: One Last Kill",
+    "video": false,
+    "vote_average": 8.373,
+    "vote_count": 1452,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Jon Bernthal dives into the comics that inspired The Punisher: One Last Kill.",
+          "key": "7uxM6cDjBfk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a11e459d6d1269c16b5abce",
+          "published_at": "2026-05-23T17:00:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "From behind-the-scenes to the final cut.",
+          "key": "gsmsCTBNcco",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a0f9532585b43d3fede1a04",
+          "published_at": "2026-05-21T20:30:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "“I’m the one who’s doing the punishing now.”",
+          "key": "3YbEW12GpAs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0f6615a390391b4742692c",
+          "published_at": "2026-05-21T18:00:15.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ma Gnucci Official Clip",
+          "key": "quytmUVGIds",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a0b49e5da63b9ab7c998de7",
+          "published_at": "2026-05-18T17:00:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "“It was her favorite book.”",
+          "key": "-8St86vegOM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0a5fb6438760279bd6089c",
+          "published_at": "2026-05-17T22:29:56.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip",
+          "key": "eKYiPka3-E4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a08aa917d67970200679651",
+          "published_at": "2026-05-16T16:00:28.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Jon Bernthal is The Punisher",
+          "key": "pn83GV8Rwa8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a075077e673c6f8df90d7ed",
+          "published_at": "2026-05-15T16:00:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Practical Stunts",
+          "key": "IiZZjTmijc8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a062136b3667008c92dd56d",
+          "published_at": "2026-05-14T17:00:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"What's your purpose now, Marine?\"",
+          "key": "CCdHPd-m9g8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a04ba33f55789fcb25cc18a",
+          "published_at": "2026-05-13T17:00:18.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Punisher: One Last Kill is “an unrelenting masterpiece.”",
+          "key": "g5tF31-Dgrs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a03d2b9f23bbb4dd82d05d0",
+          "published_at": "2026-05-13T01:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip",
+          "key": "afpsah__n9g",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a03847d79d5625d5dcca1e2",
+          "published_at": "2026-05-12T19:00:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "NYC Screening Event",
+          "key": "j1uSxG1cFg4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a034fbffd97d5f149fb86de",
+          "published_at": "2026-05-12T15:25:22.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "One batch, two batch, penny and dime.",
+          "key": "NJTcWM6QLKg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a028ba3169ba8e850421369",
+          "published_at": "2026-05-11T20:51:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"That's all you got?\"",
+          "key": "QlN-zC722c0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69fa6f685d11f6b8b064cf45",
+          "published_at": "2026-05-05T21:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "oSeqs_xeqv4",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "69d7cd8668fa783b6fdae7a9",
+          "published_at": "2026-04-09T16:00:01.000Z"
+        }
+      ]
+    }
+  }
+}

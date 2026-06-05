@@ -1,0 +1,63 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1266990,
+  "ingestion_time_utc": "2026-06-04T09:30:44.174174+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/mBc6RB7VajfykLqGx0ue7qatXky.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1266990,
+    "imdb_id": "tt32164798",
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_title": "Kulong",
+    "overview": "Three friends retreat to a resort to collaborate on a daring screenplay for a contest. Faced with the challenge of writing about passion despite their own dry spells, their journey soon blurs the line between imagination and experience.",
+    "popularity": 30.3516,
+    "poster_path": "/AnzrE2WHg3DtZrtmB9AnEbAh17m.jpg",
+    "production_companies": [
+      {
+        "id": 149142,
+        "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+        "name": "Vivamax",
+        "origin_country": "PH"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PH",
+        "name": "Philippines"
+      }
+    ],
+    "release_date": "2024-05-24",
+    "revenue": 0,
+    "runtime": 48,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Tagalog",
+        "iso_639_1": "tl",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Kulong",
+    "video": false,
+    "vote_average": 6.417,
+    "vote_count": 18,
+    "videos": {
+      "results": []
+    }
+  }
+}

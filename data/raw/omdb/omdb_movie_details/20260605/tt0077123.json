@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0077123",
+  "ingestion_time_utc": "2026-06-05T14:08:18.988088+00:00",
+  "data": {
+    "Title": "The Adolescent",
+    "Year": "1979",
+    "Rated": "PG",
+    "Released": "24 Jan 1979",
+    "Runtime": "90 min",
+    "Genre": "Drama",
+    "Director": "Jeanne Moreau",
+    "Writer": "Henriette Jelinek, Jeanne Moreau",
+    "Actors": "Edith Clever, Francis Huster, Jacques Weber",
+    "Plot": "In 1939, a 13-year-old girl develops a crush on the town's Jewish doctor while visiting her grandmother. Her parents have an affair with the doctor. When her father returns, tensions arise regarding the relationships and the impen...",
+    "Language": "French",
+    "Country": "France, West Germany",
+    "Awards": "2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDgxMWQ3MjMtMWI2OC00YjExLWE5YWEtYjVkY2RiZGY4OWE3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.2",
+    "imdbVotes": "460",
+    "imdbID": "tt0077123",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

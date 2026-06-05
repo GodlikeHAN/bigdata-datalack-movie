@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 496243,
+  "ingestion_time_utc": "2026-06-05T14:07:56.438948+00:00",
+  "data": {
+    "id": 496243,
+    "imdb_id": "tt6751668",
+    "wikidata_id": "Q61448040",
+    "facebook_id": "ParasiteMovie",
+    "instagram_id": "parasitemovie",
+    "twitter_id": "ParasiteMovie"
+  }
+}

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1084244,
-  "ingestion_time_utc": "2026-06-03T18:31:57.266069+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.508970+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/wENlYOyR10DZzkICmrGUQQX4Ih5.jpg",
@@ -40,7 +40,7 @@
     "original_language": "en",
     "original_title": "Toy Story 5",
     "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-    "popularity": 55.9036,
+    "popularity": 54.0553,
     "poster_path": "/7BuN6lQCAq1tLz2l3g6sHVSFGib.jpg",
     "production_companies": [
       {
@@ -67,7 +67,7 @@
         "name": "English"
       }
     ],
-    "status": "Post Production",
+    "status": "Released",
     "tagline": "It's on.",
     "title": "Toy Story 5",
     "video": false,
@@ -75,6 +75,18 @@
     "vote_count": 0,
     "videos": {
       "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Disney - AT&T",
+          "key": "jfcLLZIj2aE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": false,
+          "id": "6a20e41b2706e683f5ad56fa",
+          "published_at": "2026-06-03T22:39:03.000Z"
+        },
         {
           "iso_639_1": "en",
           "iso_3166_1": "US",

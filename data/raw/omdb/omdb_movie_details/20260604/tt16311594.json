@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt16311594",
+  "ingestion_time_utc": "2026-06-05T12:34:47.548614+00:00",
+  "data": {
+    "Title": "F1: The Movie",
+    "Year": "2025",
+    "Rated": "PG-13",
+    "Released": "27 Jun 2025",
+    "Runtime": "155 min",
+    "Genre": "Action, Drama, Sport",
+    "Director": "Joseph Kosinski",
+    "Writer": "Joseph Kosinski, Ehren Kruger",
+    "Actors": "Brad Pitt, Damson Idris, Javier Bardem",
+    "Plot": "A Formula One driver comes out of retirement to mentor and team up with a younger driver.",
+    "Language": "English, Spanish, German, Italian",
+    "Country": "United States",
+    "Awards": "Won 1 Oscar. 31 wins & 129 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGI0MDI4NjEtOWU3ZS00ODQyLWFhYTgtNGYxM2ZkM2Q2YjE3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "82%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "68/100"
+      }
+    ],
+    "Metascore": "68",
+    "imdbRating": "7.6",
+    "imdbVotes": "353,753",
+    "imdbID": "tt16311594",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$189,642,436",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

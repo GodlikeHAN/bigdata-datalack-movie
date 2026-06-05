@@ -1,0 +1,691 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1368166,
+  "ingestion_time_utc": "2026-06-05T12:33:44.398563+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
+    "belongs_to_collection": {
+      "id": 1611146,
+      "name": "The Housemaid Collection",
+      "poster_path": "/nzfd4GSmANTyJVVryteFU3Xjuje.jpg",
+      "backdrop_path": "/lu7VARBXX1B5XjwYh3KhcV7WlGW.jpg"
+    },
+    "budget": 35000000,
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Mystery"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://thehousemaid.movie",
+    "id": 1368166,
+    "imdb_id": "tt27543632",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Housemaid",
+    "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+    "popularity": 64.5926,
+    "poster_path": "/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+    "production_companies": [
+      {
+        "id": 1632,
+        "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "name": "Lionsgate",
+        "origin_country": "US"
+      },
+      {
+        "id": 221429,
+        "logo_path": "/rWqW00ts1tZ0efwyacZlGnVd6PB.png",
+        "name": "Media Capital Technologies",
+        "origin_country": "US"
+      },
+      {
+        "id": 198785,
+        "logo_path": "/oBnMrmwnlAKcACe5h7Vwmk8m1CC.png",
+        "name": "Hidden Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 284257,
+        "logo_path": null,
+        "name": "Pretty Dangerous Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-12-18",
+    "revenue": 399644671,
+    "runtime": 131,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Discover what lies behind closed doors.",
+    "title": "The Housemaid",
+    "video": false,
+    "vote_average": 7.248,
+    "vote_count": 2314,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "peak \"roses are red\" just dropped",
+          "key": "M_HwDp-zKBI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "698a15f502a66bc973c1d3d7",
+          "published_at": "2026-02-09T15:02:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Housemaid is.... deliciously unhinged",
+          "key": "TGdKFCVn6G0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "695a3c38cc4c9e73274afcee",
+          "published_at": "2026-01-04T10:01:23.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"bat s*** crazy brilliant\"",
+          "key": "w9P13gMJCCo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6956a472f9bca077e24ae90b",
+          "published_at": "2026-01-01T15:02:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "christmas done right",
+          "key": "e67WZM-Nkn4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "694db1d7a6e675fa5a2fb5b2",
+          "published_at": "2025-12-25T19:00:48.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "MATCH REVIEW NOW PLAYING",
+          "key": "R4SFrHQbDdQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6972f17fad72a9a5d1e3d635",
+          "published_at": "2025-12-23T19:58:34.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "don't worry, we won't spoil the tea... yet",
+          "key": "T3V4RO74jfk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69483d1377daef1d782fbfcc",
+          "published_at": "2025-12-21T17:01:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The cast and director of The Housemaid pick their favorite rooms based on Lionsgate franchises.",
+          "key": "V-m9MnIL440",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69466b79debf5529e78eb156",
+          "published_at": "2025-12-19T19:41:49.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Housemaid is…NOW PLAYING only in theaters!",
+          "key": "qhmFqrhTha8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6945ab22f9efd0381e07275b",
+          "published_at": "2025-12-19T19:08:28.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The cast of The Housemaid and Director Paul Feig share their favorite theatrical experiences.",
+          "key": "a45v3jZDB_I",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "694524adbe4fe572397ab486",
+          "published_at": "2025-12-18T18:23:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "you might want to warm up your face muscles before Boxing Day...",
+          "key": "Jjy0CdK1KoM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69443fdc2b766fea75dec543",
+          "published_at": "2025-12-18T17:05:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "we’re passing the phone to someone who can keep a secret.",
+          "key": "pGzHUvhNylo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69443ffce9f94f2b208bcaed",
+          "published_at": "2025-12-18T17:05:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "feeling cold this winter? you won't when you're watching The Housemaid",
+          "key": "OBHlHCmdDaI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6942ab36275073b812d73a18",
+          "published_at": "2025-12-17T09:49:44.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Look at those smiles.",
+          "key": "DYpJdfeW2U8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6942b38ed3876ea5147a2c84",
+          "published_at": "2025-12-17T00:29:45.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "remember your deep breathing (you'll need it)",
+          "key": "GnPHPA1QXyw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69413482ba51fde224cfecbe",
+          "published_at": "2025-12-15T16:33:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Final Trailer",
+          "key": "BqWH0KDqm3U",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "694136f03275cb055dcfed09",
+          "published_at": "2025-12-15T16:00:10.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "you'd think all these words would prepare you for The Housemaid, but you'd be wrong",
+          "key": "z3p75a4m-Y0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "693c44a191c096a8060c197b",
+          "published_at": "2025-12-12T15:03:21.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "side effects may vary.",
+          "key": "h4kao2f2cww",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "693be95529c2921ae3e0bb16",
+          "published_at": "2025-12-11T19:44:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "brace yourself, all the tea is getting spilled",
+          "key": "Wyx5nk5Y3DQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "693b17aae20cf69182fc4573",
+          "published_at": "2025-12-11T18:01:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "all in a day’s work.",
+          "key": "hWxDGmckbbk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6938949879b1f575bf63875d",
+          "published_at": "2025-12-09T19:29:40.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "the more the merrier.",
+          "key": "ydpk6q15S2k",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "693875b17c53c9e550f7d007",
+          "published_at": "2025-12-09T19:01:41.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "you think it's safe here? cute...",
+          "key": "hnlyRAMR258",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69336bc22e35466b1ed1f5e9",
+          "published_at": "2025-12-05T19:02:07.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "We know you’re not afraid of a little mess. Available to order.",
+          "key": "bIimyPqgN5Q",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "693321620c5db1fc33d1f564",
+          "published_at": "2025-12-04T19:37:54.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "About last night at The Housemaid New York premiere…",
+          "key": "OUdnV2Bcr6A",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6930d14f7ce0d28f3713985c",
+          "published_at": "2025-12-03T23:15:48.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "AITA? we let the cast of the housemaid be the judge.",
+          "key": "Yos5rT0KX2c",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6930a49a3b5a21ef5457300b",
+          "published_at": "2025-12-03T20:55:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "no bc that was a RIDE",
+          "key": "rI6hXQKPJ-A",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "692f51d04299c0dab8399485",
+          "published_at": "2025-12-02T19:23:33.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "unwrap all the secrets.",
+          "key": "VzILnIyANo4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "692dde43bc0b2878d5dc34ac",
+          "published_at": "2025-12-01T17:06:36.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "what’s a holiday without a little drama?",
+          "key": "lXbq7HIkqVo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6929cc2773b53cbe1f26c83c",
+          "published_at": "2025-11-28T16:11:34.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "there's no place like home ... right?",
+          "key": "VTS6TxpacAU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6928a19e77cc5b7167245db0",
+          "published_at": "2025-11-27T17:03:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "this thanksgiving make sure you keep the carving knife sharp",
+          "key": "A5gv5i0yLOw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6928664ae0c4caff91a75e66",
+          "published_at": "2025-11-27T14:27:58.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "See why audiences are loving The Housemaid.",
+          "key": "wH1iA89-cNA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "692748910121e4bcb5248bf9",
+          "published_at": "2025-11-26T17:32:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Mansion. Attic. Shed. Hotel. Find out where you’ll end up – scan now to play on Snapchat.",
+          "key": "5pwElG9d4kI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6920f4c917c4c5b81feb7039",
+          "published_at": "2025-11-21T01:32:15.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "we’ve got your plans december 19.",
+          "key": "W-JcStBovx4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6920f4706c8d02ba0021aff7",
+          "published_at": "2025-11-20T20:00:34.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "call it a woman’s intuition.",
+          "key": "-NaKFYOVvjg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "691f42cda51566d4b6c2cf74",
+          "published_at": "2025-11-20T12:11:42.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Housemaid arrives in theaters in ONE MONTH.",
+          "key": "_Ruivtz2VEo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "691e59048f59c2684a2e2860",
+          "published_at": "2025-11-19T20:50:26.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip ‘Meeting The Family’",
+          "key": "tTMTb23Fl-A",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "691e58b9946d7e788c4a27bd",
+          "published_at": "2025-11-19T20:30:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "there's no place like home.",
+          "key": "WRT2Ut6j99c",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "691e5932b2c32a1b952e2839",
+          "published_at": "2025-11-17T23:00:39.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip ‘Feel Safe Here’",
+          "key": "QKobn67zOu8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "691729fb567ac822129c5674",
+          "published_at": "2025-11-14T02:06:55.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer 2",
+          "key": "ZvFmElCcKVg",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "6914e302e24e363ff9875fee",
+          "published_at": "2025-11-12T18:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "can you keep a secret?",
+          "key": "NFTgsMKZtLc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6914e736a07ed93f07dd3225",
+          "published_at": "2025-11-12T17:00:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "a haunted house? we know a place",
+          "key": "u9iuOUXF5iY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6908fe027351fd02b7598bad",
+          "published_at": "2025-10-31T16:01:56.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "'A Peek Inside' Special Feature",
+          "key": "W5U7SWGeShg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6900c6d5f1e8924a339fba92",
+          "published_at": "2025-10-27T20:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "and just like that…",
+          "key": "rW62xuUVKG8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6900c6b9276cc8ddf2c3e136",
+          "published_at": "2025-10-24T18:01:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "This is Millie. She’s going to be living with us.",
+          "key": "P2_H_A4NBjY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68f258eea6af399fde77dbf1",
+          "published_at": "2025-10-10T18:18:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "You keep such an immaculate home, Nina.",
+          "key": "ZoPjZtEi430",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68f2590a6da44d4d0274f833",
+          "published_at": "2025-10-10T18:18:40.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "you haven’t seen anything yet. trailer out now.",
+          "key": "MI1mAwzifwU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68ce8333c9beb2ffcbd410d0",
+          "published_at": "2025-09-19T18:00:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "so, um... are you coming in or what?",
+          "key": "Qu_uRSjYuIM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68cc566b1cea957a865e8f09",
+          "published_at": "2025-09-18T14:20:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "48CtX6OgU3s",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "68c994817a95a3384bc13d72",
+          "published_at": "2025-09-16T16:00:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "don’t mind the mess.",
+          "key": "WyaP2vTvlfc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68c995f6a7a1a0ab1ce51c87",
+          "published_at": "2025-09-15T16:03:50.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "we have a feeling.",
+          "key": "dtPj4lmgr1g",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68c9954b5ae1f33a53dcd4a1",
+          "published_at": "2025-09-14T16:00:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "we have a really good feeling about this.",
+          "key": "cJX3hTppPII",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68c995810fa2b356045d657f",
+          "published_at": "2025-09-11T21:00:16.000Z"
+        }
+      ]
+    }
+  }
+}

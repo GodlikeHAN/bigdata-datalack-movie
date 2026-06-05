@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1226293,
-  "ingestion_time_utc": "2026-06-03T18:31:59.463457+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.878418+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/emK2hOB6ACiExT0lNLog9lAmMFL.jpg",
@@ -27,7 +27,7 @@
     "original_language": "tl",
     "original_title": "Salitan",
     "overview": "A suspicious wife follows her husband in Bali. She meets a dashing man who captures her heart. She soon wants her husband to really have an affair to alleviate the guilt she is feeling.",
-    "popularity": 43.1142,
+    "popularity": 40.7898,
     "poster_path": "/rMgG7cWuq9O6zhhLs2CbqIKVA8V.jpg",
     "production_companies": [
       {

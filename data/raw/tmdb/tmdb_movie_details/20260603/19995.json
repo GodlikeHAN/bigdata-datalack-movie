@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 19995,
-  "ingestion_time_utc": "2026-06-03T18:31:57.587461+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.641194+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "Avatar",
     "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
-    "popularity": 48.9647,
+    "popularity": 42.988,
     "poster_path": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
     "production_companies": [
       {
@@ -95,7 +95,7 @@
     "title": "Avatar",
     "video": false,
     "vote_average": 7.605,
-    "vote_count": 34000,
+    "vote_count": 34003,
     "videos": {
       "results": [
         {

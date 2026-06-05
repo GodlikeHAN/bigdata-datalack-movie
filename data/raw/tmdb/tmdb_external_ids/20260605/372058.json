@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 372058,
+  "ingestion_time_utc": "2026-06-05T14:07:59.598146+00:00",
+  "data": {
+    "id": 372058,
+    "imdb_id": "tt5311514",
+    "wikidata_id": "Q21697406",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": "kiminona_movie"
+  }
+}

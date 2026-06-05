@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0245429",
+  "ingestion_time_utc": "2026-06-05T12:34:28.630966+00:00",
+  "data": {
+    "Title": "Spirited Away",
+    "Year": "2003",
+    "Rated": "PG",
+    "Released": "28 Mar 2003",
+    "Runtime": "124 min",
+    "Genre": "Animation, Adventure, Family",
+    "Director": "Hayao Miyazaki",
+    "Writer": "Hayao Miyazaki",
+    "Actors": "Miyu Irino, Rumi Hiiragi, Mari Natsuki",
+    "Plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, and where humans are changed into beasts.",
+    "Language": "Japanese, English",
+    "Country": "Japan, United States",
+    "Awards": "Won 1 Oscar. 58 wins & 31 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "96/100"
+      }
+    ],
+    "Metascore": "96",
+    "imdbRating": "8.6",
+    "imdbVotes": "964,088",
+    "imdbID": "tt0245429",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$14,821,254",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

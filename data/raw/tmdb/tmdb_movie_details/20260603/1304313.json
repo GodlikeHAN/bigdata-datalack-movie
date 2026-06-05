@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1304313,
-  "ingestion_time_utc": "2026-06-03T18:31:51.128740+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:43.622019+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
@@ -28,7 +28,7 @@
     "original_language": "en",
     "original_title": "Lee Cronin's The Mummy",
     "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
-    "popularity": 493.1318,
+    "popularity": 452.0792,
     "poster_path": "/1q308iixueCU4pFtSYugNOevtNx.jpg",
     "production_companies": [
       {
@@ -97,8 +97,8 @@
     "tagline": "What happened to Katie?",
     "title": "Lee Cronin's The Mummy",
     "video": false,
-    "vote_average": 8.057,
-    "vote_count": 1534,
+    "vote_average": 8.059,
+    "vote_count": 1553,
     "videos": {
       "results": [
         {

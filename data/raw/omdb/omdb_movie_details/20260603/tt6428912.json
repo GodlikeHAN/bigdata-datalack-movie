@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt6428912",
-  "ingestion_time_utc": "2026-06-03T18:32:39.031970+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:17.073385+00:00",
   "data": {
     "Title": "Michael Jackson: Searching for Neverland",
     "Year": "2017",

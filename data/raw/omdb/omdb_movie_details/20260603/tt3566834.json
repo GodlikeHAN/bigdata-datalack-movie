@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt3566834",
-  "ingestion_time_utc": "2026-06-03T18:32:44.474624+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:22.681792+00:00",
   "data": {
     "Title": "A Minecraft Movie",
     "Year": "2025",

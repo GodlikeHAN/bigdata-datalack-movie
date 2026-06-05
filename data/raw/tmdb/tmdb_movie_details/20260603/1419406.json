@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1419406,
-  "ingestion_time_utc": "2026-06-03T18:31:51.620937+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:43.793393+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
@@ -36,7 +36,7 @@
     "original_language": "zh",
     "original_title": "捕风追影",
     "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
-    "popularity": 168.6485,
+    "popularity": 174.0368,
     "poster_path": "/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg",
     "production_companies": [
       {
@@ -89,8 +89,8 @@
     "tagline": "He's training a new generation of law enforcers for a dangerous mission to save the world from ruthless criminals.",
     "title": "The Shadow's Edge",
     "video": false,
-    "vote_average": 7.526,
-    "vote_count": 743,
+    "vote_average": 7.569,
+    "vote_count": 759,
     "videos": {
       "results": [
         {

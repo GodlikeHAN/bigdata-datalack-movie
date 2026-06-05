@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt30825738",
+  "ingestion_time_utc": "2026-06-05T14:08:07.344513+00:00",
+  "data": {
+    "Title": "Star Wars: The Mandalorian and Grogu",
+    "Year": "2026",
+    "Rated": "PG-13",
+    "Released": "22 May 2026",
+    "Runtime": "132 min",
+    "Genre": "Action, Adventure, Family",
+    "Director": "Jon Favreau",
+    "Writer": "Jon Favreau, Dave Filoni, Noah Kloor",
+    "Actors": "Pedro Pascal, Martin Scorsese, Sigourney Weaver",
+    "Plot": "Once a lone bounty hunter, Mandalorian Din Djarin and his apprentice Grogu embark on an exciting new Star Wars adventure.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "3 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzVkMmJhNTgtNjYwOS00YjM0LThlNWEtNGExNmIxZjVkMmJhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "60%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "55/100"
+      }
+    ],
+    "Metascore": "55",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt30825738",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

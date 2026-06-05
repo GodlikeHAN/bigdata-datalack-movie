@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 329505,
-  "ingestion_time_utc": "2026-06-03T18:31:53.064157+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.475506+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/tId87yE7JnQsQsqOpnGXjz9PoEe.jpg",
@@ -31,7 +31,7 @@
     "original_language": "it",
     "original_title": "Il peccato di Lola",
     "overview": "Young man has his dreams come true when the sexy new maid seduces him. But she also has a secret that leads to trouble.",
-    "popularity": 26.2213,
+    "popularity": 23.2666,
     "poster_path": "/qaJ4iQngrLbyz9OgaQkJLppDN6m.jpg",
     "production_companies": [
       {

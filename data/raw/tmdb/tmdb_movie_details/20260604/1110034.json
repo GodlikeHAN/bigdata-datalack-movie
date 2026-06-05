@@ -1,0 +1,112 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1110034,
+  "ingestion_time_utc": "2026-06-05T12:33:49.057735+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/oV472EbPedkc5QzqolGc7sCgCnn.jpg",
+    "belongs_to_collection": null,
+    "budget": 1000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.handmadefilms.no/nye-prosjekter",
+    "id": 1110034,
+    "imdb_id": "tt19838566",
+    "origin_country": [
+      "NO"
+    ],
+    "original_language": "no",
+    "original_title": "Kraken",
+    "overview": "A marine biologist is doing research on a fish farm when she encounters several strange occurrences. Along with the brutal deaths of two teenagers, all signs point to the deep fjord; can there be more to the depths than the eye can see?",
+    "popularity": 43.4515,
+    "poster_path": "/xdZ8k5s8DTwWyPBMIcflrYLgcAK.jpg",
+    "production_companies": [
+      {
+        "id": 119141,
+        "logo_path": "/bTHtOUdHmlzZdMDaCwXbERngUId.png",
+        "name": "Handmade films in Norwegian Woods",
+        "origin_country": "NO"
+      },
+      {
+        "id": 38072,
+        "logo_path": "/obOynoztBEhDNfHsDXBqOuQLAZk.png",
+        "name": "Nordisk Film Norway",
+        "origin_country": "NO"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NO",
+        "name": "Norway"
+      }
+    ],
+    "release_date": "2026-02-06",
+    "revenue": 14329678,
+    "runtime": 94,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "english_name": "Norwegian",
+        "iso_639_1": "no",
+        "name": "Norsk"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Only 5% of the ocean has been explored for a reason…",
+    "title": "Kraken",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 55,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Unleashing the Kraken June 1",
+          "key": "__dCTj-q84k",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0f287ed705d421280464ed",
+          "published_at": "2026-05-19T23:20:55.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer [Subtitled]",
+          "key": "EUTatY1-oBI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69276b8de92f3841ada75928",
+          "published_at": "2025-11-26T17:00:06.000Z"
+        }
+      ]
+    }
+  }
+}

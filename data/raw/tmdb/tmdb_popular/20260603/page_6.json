@@ -2,70 +2,69 @@
   "source": "tmdb",
   "entity": "tmdb_popular",
   "page": 6,
-  "ingestion_time_utc": "2026-06-03T18:31:47.924292+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:40.790112+00:00",
   "data": {
     "page": 6,
     "results": [
       {
         "adult": false,
-        "backdrop_path": "/mFDQ8f2lPHorGwtuE0fjnUIbKLF.jpg",
+        "backdrop_path": "/w4bjx5qCKG6SjhnqLi2aj1GUsxe.jpg",
         "genre_ids": [
-          35
+          28,
+          36,
+          18
         ],
-        "id": 62029,
-        "title": "Bingo Bongo",
-        "original_language": "it",
-        "original_title": "Bingo Bongo",
-        "overview": "The ape-man, found somewhere in the jungles of Congo, transferred to Milan and named Bingo Bongo. The only one who believes in the human qualities of him is Laura, a woman anthropologist , so their affection for each other even grows to love.",
-        "popularity": 38.1948,
-        "poster_path": "/5ve4VuCwi7Xas5s50ynEB7uFjM2.jpg",
-        "release_date": "1982-12-23",
+        "id": 1247165,
+        "title": "Raja Shivaji",
+        "original_language": "mr",
+        "original_title": "राजा शिवाजी",
+        "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
+        "popularity": 43.466,
+        "poster_path": "/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
+        "release_date": "2026-05-01",
         "softcore": false,
         "video": false,
-        "vote_average": 5.707,
-        "vote_count": 176
+        "vote_average": 9.0,
+        "vote_count": 1
       },
       {
         "adult": false,
-        "backdrop_path": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
+        "backdrop_path": "/a2PyqyjREwjnrjdJyJtHfSQOxyf.jpg",
         "genre_ids": [
-          28,
-          35,
-          27
+          18
         ],
-        "id": 1292695,
-        "title": "They Will Kill You",
-        "original_language": "en",
-        "original_title": "They Will Kill You",
-        "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
-        "popularity": 44.6487,
-        "poster_path": "/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
-        "release_date": "2026-03-23",
+        "id": 1669051,
+        "title": "Kesong Puti",
+        "original_language": "tl",
+        "original_title": "Kesong Puti",
+        "overview": "Have a taste of VMX Newest Temptation Apphle Celso. Lena, a Kesong Puti vendor, meets a charming dairy supplier Manny. Their chemistry sparks a daring secret that transforms her humble cheese into their town’s obsession.",
+        "popularity": 50.3072,
+        "poster_path": "/8zYU8hlKR5111IToxXvv5575tZG.jpg",
+        "release_date": "2026-04-24",
         "softcore": false,
         "video": false,
-        "vote_average": 7.002,
-        "vote_count": 649
+        "vote_average": 5.5,
+        "vote_count": 2
       },
       {
         "adult": false,
-        "backdrop_path": "/nnmbJvYyDS1VkMOCbxSpdBi3WbJ.jpg",
+        "backdrop_path": "/rZWkXnIyTLzUJpHSUpOb7vgB0BL.jpg",
         "genre_ids": [
           28,
-          18,
-          36
+          18
         ],
-        "id": 1579,
-        "title": "Apocalypto",
+        "id": 911430,
+        "title": "F1",
         "original_language": "en",
-        "original_title": "Apocalypto",
-        "overview": "Set in the Mayan civilization, when a man's idyllic presence is brutally disrupted by a violent invading force, he is taken on a perilous journey to a world ruled by fear and oppression where a harrowing end awaits him. Through a twist of fate and spurred by the power of his love for his woman and his family he will make a desperate break to return home and to ultimately save his way of life.",
-        "popularity": 44.3378,
-        "poster_path": "/cRY25Q32kDNPFDkFkxAs6bgCq3L.jpg",
-        "release_date": "2006-12-07",
+        "original_title": "F1",
+        "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
+        "popularity": 43.0505,
+        "poster_path": "/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg",
+        "release_date": "2025-06-25",
         "softcore": false,
         "video": false,
-        "vote_average": 7.629,
-        "vote_count": 6361
+        "vote_average": 7.788,
+        "vote_count": 4004
       },
       {
         "adult": false,
@@ -80,113 +79,13 @@
         "original_language": "en",
         "original_title": "War Machine",
         "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-        "popularity": 45.3613,
+        "popularity": 44.5659,
         "poster_path": "/ril8yx5SOmj0KjNlftsdfIp00fr.jpg",
         "release_date": "2026-02-12",
         "softcore": false,
         "video": false,
-        "vote_average": 7.349,
-        "vote_count": 1820
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/a2PyqyjREwjnrjdJyJtHfSQOxyf.jpg",
-        "genre_ids": [
-          18
-        ],
-        "id": 1669051,
-        "title": "Kesong Puti",
-        "original_language": "tl",
-        "original_title": "Kesong Puti",
-        "overview": "Have a taste of VMX Newest Temptation Apphle Celso. Lena, a Kesong Puti vendor, meets a charming dairy supplier Manny. Their chemistry sparks a daring secret that transforms her humble cheese into their town’s obsession.",
-        "popularity": 45.7064,
-        "poster_path": "/8zYU8hlKR5111IToxXvv5575tZG.jpg",
-        "release_date": "2026-04-24",
-        "softcore": false,
-        "video": false,
-        "vote_average": 5.5,
-        "vote_count": 2
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/30TgnSvXiL7NQoQ5WWwHqw0FRhA.jpg",
-        "genre_ids": [
-          18,
-          10749
-        ],
-        "id": 48650,
-        "title": "Room in Rome",
-        "original_language": "es",
-        "original_title": "Habitación en Roma",
-        "overview": "A hotel room in the center of Rome serves as the setting for Alba and Natasha, two sexy and recently acquainted women, to have a physical adventure that touches their very souls.",
-        "popularity": 44.9691,
-        "poster_path": "/w90ItYf9qagQKVEBr1uFxPomAtf.jpg",
-        "release_date": "2010-05-07",
-        "softcore": false,
-        "video": false,
-        "vote_average": 6.41,
-        "vote_count": 826
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/t9J2HXaDuJR7bvIG9XF7mttn4VY.jpg",
-        "genre_ids": [
-          27,
-          9648,
-          80
-        ],
-        "id": 1159559,
-        "title": "Scream 7",
-        "original_language": "en",
-        "original_title": "Scream 7",
-        "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
-        "popularity": 41.5539,
-        "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-        "release_date": "2026-02-25",
-        "softcore": false,
-        "video": false,
-        "vote_average": 6.141,
-        "vote_count": 961
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
-        "genre_ids": [
-          18,
-          80
-        ],
-        "id": 238,
-        "title": "The Godfather",
-        "original_language": "en",
-        "original_title": "The Godfather",
-        "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
-        "popularity": 44.7992,
-        "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-        "release_date": "1972-03-14",
-        "softcore": false,
-        "video": false,
-        "vote_average": 8.687,
-        "vote_count": 22978
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/rZWkXnIyTLzUJpHSUpOb7vgB0BL.jpg",
-        "genre_ids": [
-          28,
-          18
-        ],
-        "id": 911430,
-        "title": "F1",
-        "original_language": "en",
-        "original_title": "F1",
-        "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
-        "popularity": 45.7015,
-        "poster_path": "/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg",
-        "release_date": "2025-06-25",
-        "softcore": false,
-        "video": false,
-        "vote_average": 7.789,
-        "vote_count": 4000
+        "vote_average": 7.35,
+        "vote_count": 1822
       },
       {
         "adult": false,
@@ -201,33 +100,95 @@
         "original_language": "en",
         "original_title": "The Dark Knight",
         "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
-        "popularity": 45.1293,
+        "popularity": 40.8406,
         "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
         "release_date": "2008-07-16",
         "softcore": false,
         "video": false,
         "vote_average": 8.531,
-        "vote_count": 35823
+        "vote_count": 35829
       },
       {
         "adult": false,
-        "backdrop_path": "/xyW8rJO3rwG2EGcTO6eaUEa8b9d.jpg",
+        "backdrop_path": "/30TgnSvXiL7NQoQ5WWwHqw0FRhA.jpg",
         "genre_ids": [
-          28,
-          53
+          18,
+          10749
         ],
-        "id": 1613798,
-        "title": "Vengeance",
+        "id": 48650,
+        "title": "Room in Rome",
         "original_language": "es",
-        "original_title": "Venganza",
-        "overview": "The brutal murder of the wife of “Toro,” a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible.",
-        "popularity": 42.5117,
-        "poster_path": "/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
-        "release_date": "2026-02-26",
+        "original_title": "Habitación en Roma",
+        "overview": "A hotel room in the center of Rome serves as the setting for Alba and Natasha, two sexy and recently acquainted women, to have a physical adventure that touches their very souls.",
+        "popularity": 50.8859,
+        "poster_path": "/w90ItYf9qagQKVEBr1uFxPomAtf.jpg",
+        "release_date": "2010-05-07",
         "softcore": false,
         "video": false,
-        "vote_average": 7.453,
-        "vote_count": 234
+        "vote_average": 6.41,
+        "vote_count": 828
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 238,
+        "title": "The Godfather",
+        "original_language": "en",
+        "original_title": "The Godfather",
+        "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+        "popularity": 43.1833,
+        "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "release_date": "1972-03-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.7,
+        "vote_count": 22980
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
+        "genre_ids": [
+          28,
+          35,
+          27
+        ],
+        "id": 1292695,
+        "title": "They Will Kill You",
+        "original_language": "en",
+        "original_title": "They Will Kill You",
+        "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+        "popularity": 44.0572,
+        "poster_path": "/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+        "release_date": "2026-03-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.003,
+        "vote_count": 655
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nnmbJvYyDS1VkMOCbxSpdBi3WbJ.jpg",
+        "genre_ids": [
+          28,
+          18,
+          36
+        ],
+        "id": 1579,
+        "title": "Apocalypto",
+        "original_language": "en",
+        "original_title": "Apocalypto",
+        "overview": "Set in the Mayan civilization, when a man's idyllic presence is brutally disrupted by a violent invading force, he is taken on a perilous journey to a world ruled by fear and oppression where a harrowing end awaits him. Through a twist of fate and spurred by the power of his love for his woman and his family he will make a desperate break to return home and to ultimately save his way of life.",
+        "popularity": 44.1204,
+        "poster_path": "/cRY25Q32kDNPFDkFkxAs6bgCq3L.jpg",
+        "release_date": "2006-12-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.629,
+        "vote_count": 6364
       },
       {
         "adult": false,
@@ -241,13 +202,33 @@
         "original_language": "en",
         "original_title": "Crime 101",
         "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
-        "popularity": 43.5449,
+        "popularity": 42.5611,
         "poster_path": "/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
         "release_date": "2026-02-11",
         "softcore": false,
         "video": false,
-        "vote_average": 7.0,
-        "vote_count": 1031
+        "vote_average": 6.988,
+        "vote_count": 1035
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/62a8bMDftwD9aU0dkXr4eN6Q5q2.jpg",
+        "genre_ids": [
+          99,
+          10770
+        ],
+        "id": 1522126,
+        "title": "1000 Men and Me: The Bonnie Blue Story",
+        "original_language": "en",
+        "original_title": "1000 Men and Me: The Bonnie Blue Story",
+        "overview": "Adult content creator Bonnie Blue announced that she’d slept with 1057 men in 12 hours. Exploring the polarising debate around Bonnie and the pornification of our society, the film follows her over the most eye-opening six months of her life.",
+        "popularity": 50.1655,
+        "poster_path": "/5dcgoyf8nt6Xt4VSR6Nrn6nwhuz.jpg",
+        "release_date": "2025-07-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.735,
+        "vote_count": 17
       },
       {
         "adult": false,
@@ -262,13 +243,33 @@
         "original_language": "en",
         "original_title": "The Lord of the Rings: The Return of the King",
         "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
-        "popularity": 43.1726,
+        "popularity": 40.9947,
         "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
         "release_date": "2003-12-17",
         "softcore": false,
         "video": false,
         "vote_average": 8.5,
-        "vote_count": 26577
+        "vote_count": 26583
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/emK2hOB6ACiExT0lNLog9lAmMFL.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 1226293,
+        "title": "Salitan",
+        "original_language": "tl",
+        "original_title": "Salitan",
+        "overview": "A suspicious wife follows her husband in Bali. She meets a dashing man who captures her heart. She soon wants her husband to really have an affair to alleviate the guilt she is feeling.",
+        "popularity": 40.7898,
+        "poster_path": "/rMgG7cWuq9O6zhhLs2CbqIKVA8V.jpg",
+        "release_date": "2024-02-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.714,
+        "vote_count": 7
       },
       {
         "adult": false,
@@ -283,7 +284,7 @@
         "original_language": "no",
         "original_title": "Kraken",
         "overview": "A marine biologist is doing research on a fish farm when she encounters several strange occurrences. Along with the brutal deaths of two teenagers, all signs point to the deep fjord; can there be more to the depths than the eye can see?",
-        "popularity": 42.8258,
+        "popularity": 44.3714,
         "poster_path": "/xdZ8k5s8DTwWyPBMIcflrYLgcAK.jpg",
         "release_date": "2026-02-06",
         "softcore": false,
@@ -293,7 +294,7 @@
       },
       {
         "adult": false,
-        "backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
+        "backdrop_path": "/tyQo080tijexyUHBvWPwQt26bZa.jpg",
         "genre_ids": [
           28,
           12,
@@ -304,13 +305,33 @@
         "original_language": "en",
         "original_title": "Spider-Man: No Way Home",
         "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-        "popularity": 42.5235,
+        "popularity": 40.3503,
         "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
         "release_date": "2021-12-15",
         "softcore": false,
         "video": false,
         "vote_average": 7.934,
-        "vote_count": 22007
+        "vote_count": 22012
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xyW8rJO3rwG2EGcTO6eaUEa8b9d.jpg",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "id": 1613798,
+        "title": "Vengeance",
+        "original_language": "es",
+        "original_title": "Venganza",
+        "overview": "The brutal murder of the wife of “Toro,” a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible.",
+        "popularity": 42.5161,
+        "poster_path": "/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
+        "release_date": "2026-02-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.464,
+        "vote_count": 235
       },
       {
         "adult": false,
@@ -325,7 +346,7 @@
         "original_language": "en",
         "original_title": "火遮眼",
         "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
-        "popularity": 42.1086,
+        "popularity": 40.6985,
         "poster_path": "/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "release_date": "2026-06-10",
         "softcore": false,
@@ -335,23 +356,24 @@
       },
       {
         "adult": false,
-        "backdrop_path": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+        "backdrop_path": "/t9J2HXaDuJR7bvIG9XF7mttn4VY.jpg",
         "genre_ids": [
+          27,
           9648,
-          53
+          80
         ],
-        "id": 77,
-        "title": "Memento",
+        "id": 1159559,
+        "title": "Scream 7",
         "original_language": "en",
-        "original_title": "Memento",
-        "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
-        "popularity": 39.5581,
-        "poster_path": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
-        "release_date": "2000-10-11",
+        "original_title": "Scream 7",
+        "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
+        "popularity": 40.1086,
+        "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+        "release_date": "2026-02-25",
         "softcore": false,
         "video": false,
-        "vote_average": 8.177,
-        "vote_count": 16249
+        "vote_average": 6.2,
+        "vote_count": 966
       },
       {
         "adult": false,
@@ -366,13 +388,13 @@
         "original_language": "en",
         "original_title": "The Lord of the Rings: The Fellowship of the Ring",
         "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
-        "popularity": 41.2906,
+        "popularity": 38.9361,
         "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
         "release_date": "2001-12-18",
         "softcore": false,
         "video": false,
-        "vote_average": 8.4,
-        "vote_count": 27585
+        "vote_average": 8.434,
+        "vote_count": 27587
       },
       {
         "adult": false,
@@ -387,36 +409,16 @@
         "original_language": "es",
         "original_title": "Salvaje despertar",
         "overview": "Toni and Emma are brother and sister who owns a stable farm. Ramon and his son, Aaron works for them. Toni is openly gay and loves to party, Emma has a crush on Aaron who is a closeted gay who is afraid that his father might find out, but his father also has a secret.",
-        "popularity": 40.1561,
+        "popularity": 35.213,
         "poster_path": "/jD9MILmkIeBBoFJbOjHAaCQ3sEA.jpg",
         "release_date": "2016-10-23",
         "softcore": false,
         "video": false,
         "vote_average": 5.295,
         "vote_count": 22
-      },
-      {
-        "adult": false,
-        "backdrop_path": "/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
-        "genre_ids": [
-          18,
-          10749
-        ],
-        "id": 597,
-        "title": "Titanic",
-        "original_language": "en",
-        "original_title": "Titanic",
-        "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
-        "popularity": 37.7182,
-        "poster_path": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
-        "release_date": "1997-12-18",
-        "softcore": false,
-        "video": false,
-        "vote_average": 7.903,
-        "vote_count": 27175
       }
     ],
-    "total_pages": 57195,
-    "total_results": 1143896
+    "total_pages": 57213,
+    "total_results": 1144246
   }
 }

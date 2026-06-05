@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt2322441",
+  "ingestion_time_utc": "2026-06-05T14:08:18.849744+00:00",
+  "data": {
+    "Title": "Fifty Shades of Grey",
+    "Year": "2015",
+    "Rated": "R",
+    "Released": "13 Feb 2015",
+    "Runtime": "125 min",
+    "Genre": "Drama, Romance, Thriller",
+    "Director": "Sam Taylor-Johnson",
+    "Writer": "Kelly Marcel, E.L. James",
+    "Actors": "Dakota Johnson, Jamie Dornan, Jennifer Ehle",
+    "Plot": "Literature student Anastasia Steele's life changes forever when she meets handsome, yet tormented, billionaire Christian Grey.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 1 Oscar. 9 wins & 30 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MTM4NDAzOF5BMl5BanBnXkFtZTgwNTMwNjI0MzE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "25%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "46/100"
+      }
+    ],
+    "Metascore": "46",
+    "imdbRating": "4.2",
+    "imdbVotes": "354,203",
+    "imdbID": "tt2322441",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$166,167,230",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt15047880",
+  "ingestion_time_utc": "2026-06-05T14:08:09.500239+00:00",
+  "data": {
+    "Title": "Disclosure Day",
+    "Year": "2026",
+    "Rated": "PG-13",
+    "Released": "12 Jun 2026",
+    "Runtime": "145 min",
+    "Genre": "Drama, Sci-Fi, Thriller",
+    "Director": "Steven Spielberg",
+    "Writer": "David Koepp, Steven Spielberg",
+    "Actors": "Emily Blunt, Josh O&apos;Connor, Colin Firth",
+    "Plot": "If you found out we weren't alone, if someone showed you, proved it to you, would that frighten you?",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "3 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgwNDI1ZjctYWNmMS00MTJhLTg1ZWItMzI1Yjk5NjZkYWFkXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt15047880",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1533735,
+  "ingestion_time_utc": "2026-06-05T12:33:38.842325+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/lC9pnCMf3cWWOwWSPsZGV9sYWzw.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1533735,
+    "imdb_id": "tt37996604",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "te",
+    "original_title": "Nawab Cafe",
+    "overview": "A family grapples with communication barriers as a father and son circle around conversations they desperately need but cannot bring themselves to have.",
+    "popularity": 26.8011,
+    "poster_path": "/mZ3By7MbNzMx2ANQ9MdYnwMYlQ3.jpg",
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "2026-03-12",
+    "revenue": 0,
+    "runtime": 131,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Telugu",
+        "iso_639_1": "te",
+        "name": "తెలుగు"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Nawab Cafe",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Nawab’s Cafe Official Trailer | Shiva Kandukuri | Rajeev Kanakala | Teju Ashwini | ETV WIN",
+          "key": "954CLpj3sFQ",
+          "site": "YouTube",
+          "size": 360,
+          "type": "Trailer",
+          "official": true,
+          "id": "69b2c8ea908e33d3d2685d2e",
+          "published_at": "2026-03-11T07:30:03.000Z"
+        }
+      ]
+    }
+  }
+}

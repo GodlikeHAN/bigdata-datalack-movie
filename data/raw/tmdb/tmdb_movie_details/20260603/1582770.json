@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1582770,
-  "ingestion_time_utc": "2026-06-03T18:31:51.338995+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:43.717447+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/gRoZG3Z0zJxgElmTsVHOl2dNYXe.jpg",
@@ -36,7 +36,7 @@
     "original_language": "hi",
     "original_title": "धुरंधर: द रिवेंज",
     "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
-    "popularity": 242.624,
+    "popularity": 232.3277,
     "poster_path": "/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
     "production_companies": [
       {
@@ -79,7 +79,7 @@
     "title": "Dhurandhar: The Revenge",
     "video": false,
     "vote_average": 7.3,
-    "vote_count": 105,
+    "vote_count": 106,
     "videos": {
       "results": [
         {

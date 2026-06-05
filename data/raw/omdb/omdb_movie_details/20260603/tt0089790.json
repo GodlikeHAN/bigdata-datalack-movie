@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0089790",
-  "ingestion_time_utc": "2026-06-03T18:32:36.802918+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:14.929641+00:00",
   "data": {
     "Title": "Lola's Secret",
     "Year": "1984",

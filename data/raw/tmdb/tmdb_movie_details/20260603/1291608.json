@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1291608,
-  "ingestion_time_utc": "2026-06-03T18:31:55.800644+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.845615+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
@@ -36,7 +36,7 @@
     "original_language": "hi",
     "original_title": "धुरंधर",
     "overview": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
-    "popularity": 85.242,
+    "popularity": 84.3862,
     "poster_path": "/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
     "production_companies": [
       {
@@ -83,7 +83,7 @@
     "tagline": "",
     "title": "Dhurandhar",
     "video": false,
-    "vote_average": 7.155,
+    "vote_average": 7.2,
     "vote_count": 291,
     "videos": {
       "results": [

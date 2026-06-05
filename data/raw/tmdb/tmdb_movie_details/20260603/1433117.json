@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1433117,
-  "ingestion_time_utc": "2026-06-03T18:31:51.143375+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:43.633906+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
@@ -31,7 +31,7 @@
     "original_language": "ta",
     "original_title": "கர",
     "overview": "A thief tries to go straight, but when predatory banks trap his father in debt, he returns to crime — with a determined cop closing in on his trail.",
-    "popularity": 412.1843,
+    "popularity": 451.6465,
     "poster_path": "/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
     "production_companies": [
       {
@@ -68,7 +68,7 @@
     "tagline": "Sometimes, staying dangerous is the only way to stay alive.",
     "title": "Kara",
     "video": false,
-    "vote_average": 5.786,
+    "vote_average": 5.8,
     "vote_count": 14,
     "videos": {
       "results": []

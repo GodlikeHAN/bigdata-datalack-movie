@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1325734,
-  "ingestion_time_utc": "2026-06-03T18:31:57.294815+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.494602+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "The Drama",
     "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-    "popularity": 54.4453,
+    "popularity": 57.8066,
     "poster_path": "/89Dw1ujPlIPRLddhzNuJM4F401D.jpg",
     "production_companies": [
       {
@@ -74,8 +74,8 @@
     "tagline": "Witness the wedding of the year.",
     "title": "The Drama",
     "video": false,
-    "vote_average": 6.945,
-    "vote_count": 913,
+    "vote_average": 6.951,
+    "vote_count": 920,
     "videos": {
       "results": [
         {

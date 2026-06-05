@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 454639,
-  "ingestion_time_utc": "2026-06-03T18:31:56.378165+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.176127+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Masters of the Universe",
     "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-    "popularity": 67.9524,
+    "popularity": 91.1325,
     "poster_path": "/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
     "production_companies": [
       {
@@ -74,10 +74,58 @@
     "tagline": "Witness how he became He-Man.",
     "title": "Masters of the Universe",
     "video": false,
-    "vote_average": 7.5,
-    "vote_count": 11,
+    "vote_average": 7.6,
+    "vote_count": 20,
     "videos": {
       "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Power of Grayskull",
+          "key": "6xV_QA0GlzY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a20673c3e300aba5c0bf862",
+          "published_at": "2026-06-03T10:00:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Now in cinemas",
+          "key": "9e6Dac_kCeQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a20a4f1c1b95268b0d6887a",
+          "published_at": "2026-06-03T09:30:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Tickets On Sale",
+          "key": "dRTsew8RBgc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a20a15289c726227934909f",
+          "published_at": "2026-06-03T02:00:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Now In Cinemas",
+          "key": "dowlEjkjygk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a20a17fb84209898195e07e",
+          "published_at": "2026-06-03T01:00:15.000Z"
+        },
         {
           "iso_639_1": "en",
           "iso_3166_1": "US",
@@ -301,7 +349,7 @@
           "key": "ai3N1HJqXHU",
           "site": "YouTube",
           "size": 1080,
-          "type": "Behind the Scenes",
+          "type": "Featurette",
           "official": true,
           "id": "6a0f439b821460773f4267d9",
           "published_at": "2026-05-21T17:15:13.000Z"

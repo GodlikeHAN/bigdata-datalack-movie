@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 424711,
-  "ingestion_time_utc": "2026-06-03T18:31:52.146676+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:46.143077+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/kI7JBjvZkqYsLJRhcqTQU1MMdQA.jpg",
@@ -23,7 +23,7 @@
     "original_language": "it",
     "original_title": "Le calde notti di Poppea",
     "overview": "Poppea's Hot Nights (Italian: Le calde notti di Poppea) is a 1969 Italian comedy film set in Ancient Rome. It was written and directed by Guido Malatesta and stars Olga Schoberová (credited as Olinka Berova) and Brad Harris in the main roles.",
-    "popularity": 39.2029,
+    "popularity": 43.3125,
     "poster_path": "/zNfqugt7ZPFpWeXAQsF5IqDCDft.jpg",
     "production_companies": [
       {

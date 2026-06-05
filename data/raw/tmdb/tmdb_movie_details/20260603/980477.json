@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 980477,
-  "ingestion_time_utc": "2026-06-03T18:31:56.256145+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.521503+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/zxi6WQPVc0uQAG5TtLsKvxYHApC.jpg",
@@ -40,7 +40,7 @@
     "original_language": "zh",
     "original_title": "哪吒之魔童闹海",
     "overview": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
-    "popularity": 53.8302,
+    "popularity": 52.3726,
     "poster_path": "/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",
     "production_companies": [
       {
@@ -95,8 +95,8 @@
     "tagline": "Witness a hero reborn.",
     "title": "Ne Zha 2",
     "video": false,
-    "vote_average": 8.162,
-    "vote_count": 697,
+    "vote_average": 8.165,
+    "vote_count": 698,
     "videos": {
       "results": [
         {

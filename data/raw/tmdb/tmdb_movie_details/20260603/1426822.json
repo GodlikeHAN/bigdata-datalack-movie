@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1426822,
-  "ingestion_time_utc": "2026-06-03T18:31:56.009409+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.032585+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/hdLsZ3dCjKt5A6xDpoo3UFgcTSm.jpg",
@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Mortal Game",
     "overview": "A group of hunters travel to a mysterious island to track down a legendary forest creature. They soon realize their guide has set them up as bait, forcing them to confront a highly intelligent predator that terrorizes them one by one.",
-    "popularity": 72.6178,
+    "popularity": 66.1833,
     "poster_path": "/iCvucorbs3hFqWshDbLe0fHzB71.jpg",
     "production_companies": [
       {

@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0468569",
-  "ingestion_time_utc": "2026-06-03T18:32:32.163375+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:10.227076+00:00",
   "data": {
     "Title": "The Dark Knight",
     "Year": "2008",

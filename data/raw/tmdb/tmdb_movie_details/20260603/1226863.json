@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1226863,
-  "ingestion_time_utc": "2026-06-03T18:31:51.308850+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:43.704015+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
@@ -44,7 +44,7 @@
     "original_language": "en",
     "original_title": "The Super Mario Galaxy Movie",
     "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
-    "popularity": 245.9191,
+    "popularity": 239.9882,
     "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
     "production_companies": [
       {
@@ -91,8 +91,8 @@
     "tagline": "The galaxy awaits.",
     "title": "The Super Mario Galaxy Movie",
     "video": false,
-    "vote_average": 8.106,
-    "vote_count": 2277,
+    "vote_average": 8.116,
+    "vote_count": 2301,
     "videos": {
       "results": [
         {

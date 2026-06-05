@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1233413,
-  "ingestion_time_utc": "2026-06-03T18:31:59.835191+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:46.398176+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Sinners",
     "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-    "popularity": 33.4924,
+    "popularity": 34.8026,
     "poster_path": "/oucvKATkCI77ngtPjxAI9SAZW42.jpg",
     "production_companies": [
       {
@@ -85,7 +85,7 @@
     "title": "Sinners",
     "video": false,
     "vote_average": 7.496,
-    "vote_count": 4575,
+    "vote_count": 4581,
     "videos": {
       "results": [
         {

@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0158510",
-  "ingestion_time_utc": "2026-06-03T18:32:34.815242+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:12.781726+00:00",
   "data": {
     "Title": "Bosco d'amore",
     "Year": "1981",

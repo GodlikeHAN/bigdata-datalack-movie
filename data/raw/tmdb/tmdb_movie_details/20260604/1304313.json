@@ -1,0 +1,479 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1304313,
+  "ingestion_time_utc": "2026-06-05T12:33:33.880941+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
+    "belongs_to_collection": null,
+    "budget": 22000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      },
+      {
+        "id": 9648,
+        "name": "Mystery"
+      }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/lee-cronins-mummy",
+    "id": 1304313,
+    "imdb_id": "tt32612507",
+    "origin_country": [
+      "IE",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Lee Cronin's The Mummy",
+    "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+    "popularity": 430.9474,
+    "poster_path": "/1q308iixueCU4pFtSYugNOevtNx.jpg",
+    "production_companies": [
+      {
+        "id": 76907,
+        "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+        "name": "Atomic Monster",
+        "origin_country": "US"
+      },
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 12,
+        "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 285968,
+        "logo_path": null,
+        "name": "Wicked/Good",
+        "origin_country": "IE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "IE",
+        "name": "Ireland"
+      }
+    ],
+    "release_date": "2026-04-15",
+    "revenue": 90152113,
+    "runtime": 133,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Arabic",
+        "iso_639_1": "ar",
+        "name": "العربية"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "What happened to Katie?",
+    "title": "Lee Cronin's The Mummy",
+    "video": false,
+    "vote_average": 8.053,
+    "vote_count": 1575,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "She Ate a Scorpion…",
+          "key": "ocftVARq8qI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a1c3f7f58573fc60e0025da",
+          "published_at": "2026-05-31T12:00:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Katie Eats a Scorpion - Movie Clip",
+          "key": "TptW3LPiyho",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a1adb4a4d8447d590ee62ae",
+          "published_at": "2026-05-30T12:00:28.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Making Of - Behind the Scenes",
+          "key": "p0Dk1_AccxQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a198154011d3984a3c89dbe",
+          "published_at": "2026-05-29T12:00:36.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Hospital Reunion with Katie - Movie Clip",
+          "key": "IYVT9Iggaj0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a107d3a219cdfd301eb4516",
+          "published_at": "2026-05-22T12:00:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "First Look at the Mummy - Full Movie Preview",
+          "key": "Lk1b3URzJKc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a0c7cadc1d67876a94ad337",
+          "published_at": "2026-05-19T12:00:34.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "We're way past creepy...",
+          "key": "x-W69KDGDRE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69ef59cb58ebaacdf428e4ac",
+          "published_at": "2026-04-27T11:05:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "That shouldn't happen…",
+          "key": "PIv1-QUyxlo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69e78e42346fc91e81a1cc95",
+          "published_at": "2026-04-20T11:00:44.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "You're not ready for what’s behind that door.",
+          "key": "qRqnd4Ol1mw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69e5e9346f2e2947ac84f6ab",
+          "published_at": "2026-04-18T09:01:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "don't open it don't open it",
+          "key": "ltRQLZycMuY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69e5eb87eaaaec4de50642e8",
+          "published_at": "2026-04-17T22:00:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "A new chapter of fear begins in Lee Cronin's The Mummy, in cinemas now!",
+          "key": "XEGyXRq48Yc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69e281784b41dc622c818cb9",
+          "published_at": "2026-04-17T17:28:54.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Only in cinemas April 15",
+          "key": "ePeicllrZ30",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69e5ea1303a0653b62520d69",
+          "published_at": "2026-04-17T02:52:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas April 15",
+          "key": "a0_LdoX5GsQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69e5ea3eadb62896a0c708a3",
+          "published_at": "2026-04-17T02:52:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Now Showing In Cinemas",
+          "key": "1dumuYJT9h8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69e5ea797923e483ba520d25",
+          "published_at": "2026-04-17T02:51:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Now Showing In Cinemas",
+          "key": "6FPt9zSwCwE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69e5ea8ceb47472aad802baf",
+          "published_at": "2026-04-17T02:51:48.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Now Showing In Cinemas",
+          "key": "KLXiKGUGa1o",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69e5eacc9eb1579d5d520c88",
+          "published_at": "2026-04-17T02:51:45.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Don’t look away…",
+          "key": "WQSLx45QtPw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69e1fb8ed864e00cea11a197",
+          "published_at": "2026-04-16T11:00:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Lee Cronin, James Wan & Jason Blum teamed up for LEE CRONIN'S THE MUMMY.",
+          "key": "QRsyhDEnowg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69e1fbcc105886da8f7858f1",
+          "published_at": "2026-04-15T16:53:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "this will give me nightmares for WEEKS",
+          "key": "AVBCJmY2YRE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69e5eb9a4c2d543e3a520d6c",
+          "published_at": "2026-04-15T16:00:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "There’s no escaping the darkness…",
+          "key": "zReB-pftpxc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69df5799fe4dfbf463211aa5",
+          "published_at": "2026-04-13T11:05:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "We warned you…",
+          "key": "zmUaYPr3Bv8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69da60d7df404bbd11c72fed",
+          "published_at": "2026-04-10T11:01:48.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Get ready for LEE CRONINS THE MUMMY in cinemas April 17.",
+          "key": "BXH8zWC1-1g",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69d7ed6b0aa88e6537bfecac",
+          "published_at": "2026-04-07T11:00:28.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Prepare for the terror that refuses to stay buried in LEE CRONIN’S THE MUMMY in cinemas April 17.",
+          "key": "RDLX8Ym8YlM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69d13f42fff74f2db64b6435",
+          "published_at": "2026-04-04T09:05:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In Cinemas 17 April",
+          "key": "5dyN8FYNEaI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69da6153c30846db04709df9",
+          "published_at": "2026-04-02T15:57:56.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Tickets On Sale",
+          "key": "6wbMsDmJLCs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69cd46059d7d7eae7e27f450",
+          "published_at": "2026-04-01T16:00:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Only in Cinemas April 15",
+          "key": "GlRtAYfQ6_0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69c7cd3ca408c0938f9d4b04",
+          "published_at": "2026-03-27T03:55:42.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Evil unearthed in IMAX.",
+          "key": "vPQARuS0U5s",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69c43d1196213643d362ede1",
+          "published_at": "2026-03-25T17:30:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"The Sarcophagus” Clip",
+          "key": "JFkX27ob1d8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69a1e815c1d08622aaccc841",
+          "published_at": "2026-02-26T13:06:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "She went missing as Katie. She returned as something else.",
+          "key": "ZiX352UizEI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6998c7a521c5a6390bab96dd",
+          "published_at": "2026-02-20T20:30:07.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Be careful what you pray for.",
+          "key": "NhcLa-5gavg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6998a7c60833903eb6d2cda5",
+          "published_at": "2026-02-20T18:04:45.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "XJ0uv-phsDk",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "6995f15f1e836ba8eec84fdd",
+          "published_at": "2026-02-18T17:00:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser",
+          "key": "Pbn1yz2p0CU",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Teaser",
+          "official": true,
+          "id": "6965297b63a2e70e427b1b4c",
+          "published_at": "2026-01-12T17:00:44.000Z"
+        }
+      ]
+    }
+  }
+}

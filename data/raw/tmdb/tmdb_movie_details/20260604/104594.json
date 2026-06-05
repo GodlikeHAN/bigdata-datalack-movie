@@ -1,0 +1,80 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 104594,
+  "ingestion_time_utc": "2026-06-05T12:33:35.531352+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/g8jcF5MhO5o5W7XYli4Zuc7LGGW.jpg",
+    "belongs_to_collection": {
+      "id": 384642,
+      "name": "Journey to the West Collection (Shaw Brothers)",
+      "poster_path": "/edduRszFaF9hDla1WOiBcbcXhN3.jpg",
+      "backdrop_path": "/tm4YFns4GBWMOToANtQOHNx86r1.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 10402,
+        "name": "Music"
+      }
+    ],
+    "homepage": "",
+    "id": 104594,
+    "imdb_id": "tt0405250",
+    "origin_country": [
+      "HK"
+    ],
+    "original_language": "zh",
+    "original_title": "盤絲洞",
+    "overview": "Monkey King, Pig and Friar Sand must rescue his master Buddhist monk from seven witches / spiders who believe themselves to be immortal if they eat the monk's flesh. The third part of the Shaw Brothers film series about Monkey King after the novel \"Journey to the West.\"",
+    "popularity": 94.8315,
+    "poster_path": "/lEvNC9J2UzWc3PkptXMGcGVxSNq.jpg",
+    "production_companies": [
+      {
+        "id": 5798,
+        "logo_path": "/tmuI9BGXgpWLmokhlxpnG3IGNQB.png",
+        "name": "Shaw Brothers",
+        "origin_country": "HK"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      }
+    ],
+    "release_date": "1967-07-31",
+    "revenue": 0,
+    "runtime": 82,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Cave of the Silken Web",
+    "video": false,
+    "vote_average": 5.727,
+    "vote_count": 11,
+    "videos": {
+      "results": []
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt34385135",
-  "ingestion_time_utc": "2026-06-03T18:32:29.659097+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:07.812361+00:00",
   "data": {
     "Title": "Colony",
     "Year": "2026",

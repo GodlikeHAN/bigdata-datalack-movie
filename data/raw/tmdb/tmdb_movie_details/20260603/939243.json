@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 939243,
-  "ingestion_time_utc": "2026-06-03T18:31:52.959430+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.461432+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
@@ -40,7 +40,7 @@
     "original_language": "en",
     "original_title": "Sonic the Hedgehog 3",
     "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
-    "popularity": 26.3386,
+    "popularity": 24.8124,
     "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
     "production_companies": [
       {
@@ -120,8 +120,8 @@
     "tagline": "New adventure. New rival.",
     "title": "Sonic the Hedgehog 3",
     "video": false,
-    "vote_average": 7.617,
-    "vote_count": 3288,
+    "vote_average": 7.616,
+    "vote_count": 3289,
     "videos": {
       "results": [
         {

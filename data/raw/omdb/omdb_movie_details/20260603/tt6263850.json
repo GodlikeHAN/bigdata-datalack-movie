@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt6263850",
-  "ingestion_time_utc": "2026-06-03T18:32:39.960521+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:17.873386+00:00",
   "data": {
     "Title": "Deadpool & Wolverine",
     "Year": "2024",

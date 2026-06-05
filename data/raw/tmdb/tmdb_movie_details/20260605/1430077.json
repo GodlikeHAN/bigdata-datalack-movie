@@ -1,0 +1,298 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1430077,
+  "ingestion_time_utc": "2026-06-05T14:07:39.502316+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
+    "belongs_to_collection": null,
+    "budget": 5000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "https://www.neonrated.com/film/hokum",
+    "id": 1430077,
+    "imdb_id": "tt35672862",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Hokum",
+    "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+    "popularity": 179.2776,
+    "poster_path": "/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+    "production_companies": [
+      {
+        "id": 169906,
+        "logo_path": "/zcjActhEXaYww1JSvx2OtCd8jTG.png",
+        "name": "Spooky Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 6736,
+        "logo_path": "/cdCAYeb3K3Ajhn1tfXHPSfT1KzB.png",
+        "name": "Image Nation Abu Dhabi",
+        "origin_country": "AE"
+      },
+      {
+        "id": 272588,
+        "logo_path": null,
+        "name": "Cweature Features",
+        "origin_country": "US"
+      },
+      {
+        "id": 272589,
+        "logo_path": null,
+        "name": "Team Thrives",
+        "origin_country": "HK"
+      },
+      {
+        "id": 23459,
+        "logo_path": "/41KbJFe2xc1jQHyZCDFTyFbKInM.png",
+        "name": "Tailored Films",
+        "origin_country": "IE"
+      },
+      {
+        "id": 1898,
+        "logo_path": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
+        "name": "Fís Éireann/Screen Ireland",
+        "origin_country": "IE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "IE",
+        "name": "Ireland"
+      },
+      {
+        "iso_3166_1": "AE",
+        "name": "United Arab Emirates"
+      },
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      }
+    ],
+    "release_date": "2026-04-29",
+    "revenue": 23563104,
+    "runtime": 107,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "We've been expecting you.",
+    "title": "Hokum",
+    "video": false,
+    "vote_average": 6.979,
+    "vote_count": 120,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Dictaphone",
+          "key": "uiMPkzJ-iJU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a007373288ec13c2fa8d314",
+          "published_at": "2026-05-08T14:00:58.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "CAILLEACH",
+          "key": "xtZZcolHyy8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0073f70ea5737e6eec1fbb",
+          "published_at": "2026-05-08T14:00:40.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Adam Scott stars in a new twisted nightmare from horror mastermind Damian McCarthy.",
+          "key": "mns3X9EUEsY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a00749447a05f5cc2799f3f",
+          "published_at": "2026-05-06T11:00:25.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "IN CINEMAS NOW.",
+          "key": "UmIs2xkgX2g",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69f4ed5878a93d03f023f4be",
+          "published_at": "2026-05-01T06:51:40.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "First reactions from HOKUM London special screening at Prince Charles Cinema",
+          "key": "ClOWuSGBZ_c",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69f4f01f7064801b9bc4ab5e",
+          "published_at": "2026-04-29T12:43:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "“Pure nightmare fuel” (Bloody Disgusting).",
+          "key": "dUZmnpdsTXo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69ef89c37c5cca7bf217df33",
+          "published_at": "2026-04-24T12:08:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "They've been waiting.",
+          "key": "PaJVjCJamVo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69ef9d39595e85b4262e632c",
+          "published_at": "2026-04-22T14:27:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Open your eyes.",
+          "key": "gQ_yXwax50Q",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69ef9d4ef624770bd2a164fb",
+          "published_at": "2026-04-21T13:31:23.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Final Trailer",
+          "key": "qU_i5e48KzQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69e69244c26e305627521224",
+          "published_at": "2026-04-20T16:01:22.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Clip",
+          "key": "k9nlCox-lsY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69ef9dc0b9d3270bb5d466c2",
+          "published_at": "2026-04-20T14:05:13.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Tale",
+          "key": "k0_n2UPFpSQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69ef88fd8b2fab3447dc8ba5",
+          "published_at": "2026-04-20T13:49:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Hotel",
+          "key": "3QDg8gLXow8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69ef89393094b4133db4f854",
+          "published_at": "2026-04-20T13:49:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Fado",
+          "key": "_fbbMMj-95M",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69ef8978918b03bfdc17e311",
+          "published_at": "2026-04-20T12:35:34.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "UK Trailer",
+          "key": "x94TNKhMN94",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69df55adc5851579a22d954c",
+          "published_at": "2026-04-09T10:13:28.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "jP2nDyQWBOU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69b1a921946c2b314aeba5e1",
+          "published_at": "2026-03-11T16:01:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser Trailer",
+          "key": "OFmbY2o4tt0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69405bb98d703d6b028c7990",
+          "published_at": "2025-12-15T17:00:50.000Z"
+        }
+      ]
+    }
+  }
+}

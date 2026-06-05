@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1301421,
-  "ingestion_time_utc": "2026-06-03T18:31:57.105903+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.306717+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
@@ -32,7 +32,7 @@
     "original_language": "en",
     "original_title": "The Sheep Detectives",
     "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
-    "popularity": 59.9913,
+    "popularity": 54.2259,
     "poster_path": "/hTirV44jiLh6NqdiB6jtxPsDIoG.jpg",
     "production_companies": [
       {
@@ -85,8 +85,8 @@
     "tagline": "A new breed of mystery.",
     "title": "The Sheep Detectives",
     "video": false,
-    "vote_average": 7.7,
-    "vote_count": 145,
+    "vote_average": 7.658,
+    "vote_count": 146,
     "videos": {
       "results": [
         {

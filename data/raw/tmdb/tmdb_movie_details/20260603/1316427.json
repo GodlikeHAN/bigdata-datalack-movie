@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1316427,
-  "ingestion_time_utc": "2026-06-03T18:31:56.273757+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.189011+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
@@ -28,7 +28,7 @@
     "original_language": "ar",
     "original_title": "7 كلاب",
     "overview": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
-    "popularity": 67.5942,
+    "popularity": 63.4525,
     "poster_path": "/66n5bB6iYTWsWMz0mh3Qv7qmzIJ.jpg",
     "production_companies": [
       {
@@ -74,8 +74,8 @@
     "tagline": "Not all dogs stay loyal.",
     "title": "7 Dogs",
     "video": false,
-    "vote_average": 4.333,
-    "vote_count": 3,
+    "vote_average": 2.0,
+    "vote_count": 2,
     "videos": {
       "results": [
         {

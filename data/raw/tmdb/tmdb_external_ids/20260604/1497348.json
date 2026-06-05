@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1497348,
+  "ingestion_time_utc": "2026-06-05T12:34:03.665053+00:00",
+  "data": {
+    "id": 1497348,
+    "imdb_id": "tt39018552",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "filmalasroban",
+    "twitter_id": null
+  }
+}

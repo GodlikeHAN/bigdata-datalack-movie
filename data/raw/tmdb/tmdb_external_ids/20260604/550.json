@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 550,
+  "ingestion_time_utc": "2026-06-05T12:33:59.934678+00:00",
+  "data": {
+    "id": 550,
+    "imdb_id": "tt0137523",
+    "wikidata_id": "Q190050",
+    "facebook_id": "FightClub",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

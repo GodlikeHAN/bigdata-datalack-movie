@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 773543,
-  "ingestion_time_utc": "2026-06-03T18:31:59.985701+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:46.508584+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/9Er1TPFQg2N4yBJQnkJAwoiiE6A.jpg",
@@ -27,7 +27,7 @@
     "original_language": "ru",
     "original_title": "Соври мне правду",
     "overview": "A couple in love spends time away from civilization, but the sudden arrivals of the younger sister and then the girl's ex-boyfriend violate the country idyll.",
-    "popularity": 32.5689,
+    "popularity": 32.2752,
     "poster_path": "/fPUI4KHQKggOdJg9YIBCFEecuU5.jpg",
     "production_companies": [
       {

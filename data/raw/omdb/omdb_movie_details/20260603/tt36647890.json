@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt36647890",
-  "ingestion_time_utc": "2026-06-03T18:32:31.106274+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:09.430057+00:00",
   "data": {
     "Title": "The Mortuary Assistant,",
     "Year": "2026",

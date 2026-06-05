@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt21909764",
-  "ingestion_time_utc": "2026-06-03T18:32:19.480887+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:57.443565+00:00",
   "data": {
     "Title": "Culpa Mía",
     "Year": "2023",

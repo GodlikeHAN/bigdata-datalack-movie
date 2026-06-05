@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1383731,
-  "ingestion_time_utc": "2026-06-03T18:31:59.353845+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:46.276535+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/vpuPY4UziUCxv7gYYoaZQ3LX7to.jpg",
@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Protector",
     "overview": "Nikki's life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
-    "popularity": 36.9168,
+    "popularity": 35.8827,
     "poster_path": "/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
     "production_companies": [
       {
@@ -106,8 +106,8 @@
     "tagline": "Mother. Savior. Killer...",
     "title": "Protector",
     "video": false,
-    "vote_average": 7.583,
-    "vote_count": 121,
+    "vote_average": 7.634,
+    "vote_count": 127,
     "videos": {
       "results": [
         {

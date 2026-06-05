@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt34437490",
+  "ingestion_time_utc": "2026-06-05T12:34:35.422926+00:00",
+  "data": {
+    "Title": "La Fotógrafa",
+    "Year": "2025",
+    "Rated": "N/A",
+    "Released": "N/A",
+    "Runtime": "N/A",
+    "Genre": "Horror",
+    "Director": "Carlos Marbán",
+    "Writer": "N/A",
+    "Actors": "Leyre Azpiri, Daniela Casas, Noah Casas",
+    "Plot": "Inna, a young post-mortem photographer, arrives at a remote orphanage in northern Spain to capture the final image of Alejandra, a girl found dead under mysterious circumstances. But as her lens lingers on the tragedy, Inna begins...",
+    "Language": "Spanish",
+    "Country": "Spain",
+    "Awards": "2 wins total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjAxM2ExNzctYjg0Ni00YmM0LTk5NmUtOTBkZGJlYmNhYzk5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt34437490",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

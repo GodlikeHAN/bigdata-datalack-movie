@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1280738,
-  "ingestion_time_utc": "2026-06-03T18:31:58.907649+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.930455+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
@@ -32,7 +32,7 @@
     "original_language": "en",
     "original_title": "火遮眼",
     "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
-    "popularity": 42.1086,
+    "popularity": 40.6985,
     "poster_path": "/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
     "production_companies": [
       {

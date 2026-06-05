@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1002398,
-  "ingestion_time_utc": "2026-06-03T18:31:57.280761+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.481917+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/7B72d6f09eIifSgkpCkzwkv8fle.jpg",
@@ -27,7 +27,7 @@
     "original_language": "tl",
     "original_title": "Donselya",
     "overview": "Iris, an 18-year old virgin marries Joaquin, a rich widower, because of money. However, when he learns that Iris is not really a virgin, their honeymoon turns to a bloodbath.",
-    "popularity": 54.6653,
+    "popularity": 55.7634,
     "poster_path": "/iVS3ZiPsKy8Hhc5Dipqgrjmoj2b.jpg",
     "production_companies": [
       {

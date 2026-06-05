@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt31728330",
-  "ingestion_time_utc": "2026-06-03T18:32:26.621699+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:04.823153+00:00",
   "data": {
     "Title": "They Will Kill You",
     "Year": "2026",

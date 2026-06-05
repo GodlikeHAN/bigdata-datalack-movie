@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt32430579",
-  "ingestion_time_utc": "2026-06-03T18:32:22.268019+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:59.983038+00:00",
   "data": {
     "Title": "Crime 101",
     "Year": "2026",

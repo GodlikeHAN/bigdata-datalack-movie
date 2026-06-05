@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 497,
-  "ingestion_time_utc": "2026-06-03T18:31:52.776776+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.254752+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/b6HWTOxn1xevvyHU2K9ICvaRU6g.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "The Green Mile",
     "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
-    "popularity": 27.3754,
+    "popularity": 25.7306,
     "poster_path": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
     "production_companies": [
       {
@@ -74,7 +74,7 @@
     "title": "The Green Mile",
     "video": false,
     "vote_average": 8.507,
-    "vote_count": 19281,
+    "vote_count": 19285,
     "videos": {
       "results": [
         {

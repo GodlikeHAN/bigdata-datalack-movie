@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt31193180",
-  "ingestion_time_utc": "2026-06-03T18:32:23.842920+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:01.451536+00:00",
   "data": {
     "Title": "Sinners",
     "Year": "2025",

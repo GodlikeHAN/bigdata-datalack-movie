@@ -1,0 +1,91 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 44980,
+  "ingestion_time_utc": "2026-06-05T14:07:40.351830+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/vP7YFt9pP8NPCg4PMBAHO5ILdrQ.jpg",
+    "belongs_to_collection": {
+      "id": 256374,
+      "name": "Zero Woman Collection",
+      "poster_path": "/5cMurF48jK1kiuVqTO9QA8XKyVI.jpg",
+      "backdrop_path": null
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 44980,
+    "imdb_id": "tt0167508",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "Zero WOMAN ＩＩ　警視庁０課の女",
+    "overview": "When a valuable suitcase is stolen, the mob, petty criminals, and a beautiful agent from the Elite Zero division are pulled into a battle to settle the score.",
+    "popularity": 133.5137,
+    "poster_path": "/sQHeDjwmBQba8E51Mkp5dvgkzeZ.jpg",
+    "production_companies": [
+      {
+        "id": 42614,
+        "logo_path": null,
+        "name": "Vision Sugimoto",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3656,
+        "logo_path": "/mY6L0bHRp8fNWfICPqLjxp3khvq.png",
+        "name": "GAGA Communications",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "1995-09-05",
+    "revenue": 0,
+    "runtime": 99,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Zero Woman 2",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 8,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Zero Woman 2 1995 (Trailer)",
+          "key": "38-RBNi1ev0",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Trailer",
+          "official": false,
+          "id": "5e7a319ec8a2d40017245354",
+          "published_at": "2013-05-09T12:19:00.000Z"
+        }
+      ]
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt3303730",
-  "ingestion_time_utc": "2026-06-03T18:32:35.864740+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:13.724457+00:00",
   "data": {
     "Title": "Obsessed",
     "Year": "2014",

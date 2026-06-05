@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1241982,
-  "ingestion_time_utc": "2026-06-03T18:31:53.214294+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.528633+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
@@ -44,7 +44,7 @@
     "original_language": "en",
     "original_title": "Moana 2",
     "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
-    "popularity": 25.8951,
+    "popularity": 25.1797,
     "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
     "production_companies": [
       {
@@ -86,7 +86,7 @@
     "title": "Moana 2",
     "video": false,
     "vote_average": 7.001,
-    "vote_count": 3078,
+    "vote_count": 3079,
     "videos": {
       "results": [
         {

@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt32205214",
-  "ingestion_time_utc": "2026-06-03T18:32:33.618957+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:11.720929+00:00",
   "data": {
     "Title": "Mexican Psycho",
     "Year": "2026",

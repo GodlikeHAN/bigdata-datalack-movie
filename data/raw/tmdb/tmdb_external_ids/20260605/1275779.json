@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1275779,
+  "ingestion_time_utc": "2026-06-05T14:07:53.364729+00:00",
+  "data": {
+    "id": 1275779,
+    "imdb_id": "tt15047880",
+    "wikidata_id": "Q126683577",
+    "facebook_id": "disclosuredayfilm",
+    "instagram_id": "disclosureday",
+    "twitter_id": "disclosureday"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1368337,
+  "ingestion_time_utc": "2026-06-05T12:33:37.962492+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
+    "belongs_to_collection": null,
+    "budget": 250000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "homepage": "https://www.universalpictures.com/movies/the-odyssey",
+    "id": 1368337,
+    "imdb_id": "tt33764258",
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Odyssey",
+    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "popularity": 36.3588,
+    "poster_path": "/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 9996,
+        "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+        "name": "Syncopy",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-07-15",
+    "revenue": 0,
+    "runtime": 172,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Post Production",
+    "tagline": "Defy the gods.",
+    "title": "The Odyssey",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Matt Damon on IMAX 70MM",
+          "key": "C99aF-ojPaM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a21c616bb8bb8af85392e02",
+          "published_at": "2026-06-04T16:15:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Anne Hathaway on IMAX",
+          "key": "9pPe6Jx2gjo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a21c5f67d40a0fc82ce2305",
+          "published_at": "2026-06-04T16:15:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Lupita Nyong'o on 70MM",
+          "key": "m4FqzBhmlj8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a21c5da81a1297e3e8b8c98",
+          "published_at": "2026-06-04T16:15:15.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Robert Pattinson on 35MM",
+          "key": "36leCRzkprQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a21c5bff516cecb278b8c95",
+          "published_at": "2026-06-04T16:15:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Zendaya on Dolby Cinema",
+          "key": "MM146mBw5dY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a21c58fb21ed30116ff5128",
+          "published_at": "2026-06-04T16:15:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Tom Holland on Premium Large Formats",
+          "key": "2ixBwVUxFDU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a21c5a28858554552825631",
+          "published_at": "2026-06-04T16:15:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "On The Set of The Odyssey Featurette",
+          "key": "q2MJjJmj-Q4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a1efa451078e3d1d5ca6369",
+          "published_at": "2026-06-02T15:00:42.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official New Trailer",
+          "key": "f_bKjZeJBBI",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "69f9766982eea8b6d2795d6c",
+          "published_at": "2026-05-05T04:10:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "LeBron & Bronny James",
+          "key": "GGIriClDwkk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69e3de6a97fed8c9cd22f10d",
+          "published_at": "2026-04-18T16:00:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "Mzw2ttJD2qQ",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "69496e01f159144b35fb1604",
+          "published_at": "2025-12-22T14:00:04.000Z"
+        }
+      ]
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt36042156",
-  "ingestion_time_utc": "2026-06-03T18:32:30.975802+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:09.293981+00:00",
   "data": {
     "Title": "The Punisher: One Last Kill",
     "Year": "2026",

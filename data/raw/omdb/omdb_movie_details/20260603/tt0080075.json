@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0080075",
-  "ingestion_time_utc": "2026-06-03T18:32:36.390162+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:14.261563+00:00",
   "data": {
     "Title": "Madness",
     "Year": "1980",

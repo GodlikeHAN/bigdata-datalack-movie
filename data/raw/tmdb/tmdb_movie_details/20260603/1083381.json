@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1083381,
-  "ingestion_time_utc": "2026-06-03T18:31:51.174142+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:43.657644+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "Backrooms",
     "overview": "A strange doorway appears in the basement of a furniture showroom.",
-    "popularity": 299.9356,
+    "popularity": 295.566,
     "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
     "production_companies": [
       {
@@ -81,7 +81,7 @@
       }
     ],
     "release_date": "2026-05-27",
-    "revenue": 126181301,
+    "revenue": 134957843,
     "runtime": 111,
     "softcore": false,
     "spoken_languages": [
@@ -95,8 +95,8 @@
     "tagline": "You are not supposed to be here.",
     "title": "Backrooms",
     "video": false,
-    "vote_average": 6.7,
-    "vote_count": 258,
+    "vote_average": 6.757,
+    "vote_count": 276,
     "videos": {
       "results": [
         {

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1242898,
-  "ingestion_time_utc": "2026-06-03T18:31:56.984763+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.267472+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/gaKFXcB5J1gz0QqYj8bWIfrPc04.jpg",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "Predator: Badlands",
     "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-    "popularity": 61.4801,
+    "popularity": 57.2817,
     "poster_path": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
     "production_companies": [
       {
@@ -96,8 +96,8 @@
     "tagline": "First hunt. Last chance.",
     "title": "Predator: Badlands",
     "video": false,
-    "vote_average": 7.759,
-    "vote_count": 2991,
+    "vote_average": 7.761,
+    "vote_count": 2996,
     "videos": {
       "results": [
         {

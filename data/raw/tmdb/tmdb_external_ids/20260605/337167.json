@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 337167,
+  "ingestion_time_utc": "2026-06-05T14:07:54.674824+00:00",
+  "data": {
+    "id": 337167,
+    "imdb_id": "tt4477536",
+    "wikidata_id": "Q22712210",
+    "facebook_id": "FiftyShadesMovies",
+    "instagram_id": "FiftyShadesMovie",
+    "twitter_id": "FiftyShades"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1439930,
+  "ingestion_time_utc": "2026-06-05T14:07:49.276367+00:00",
+  "data": {
+    "id": 1439930,
+    "imdb_id": "tt36042156",
+    "wikidata_id": "Q135411818",
+    "facebook_id": "MarvelsPunisher",
+    "instagram_id": "thepunisher",
+    "twitter_id": "ThePunisher"
+  }
+}

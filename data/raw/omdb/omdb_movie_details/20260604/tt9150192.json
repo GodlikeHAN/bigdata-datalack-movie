@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt9150192",
+  "ingestion_time_utc": "2026-06-05T12:34:24.921749+00:00",
+  "data": {
+    "Title": "A Working Man",
+    "Year": "2025",
+    "Rated": "R",
+    "Released": "28 Mar 2025",
+    "Runtime": "116 min",
+    "Genre": "Action, Thriller",
+    "Director": "David Ayer",
+    "Writer": "Chuck Dixon, Sylvester Stallone, David Ayer",
+    "Actors": "Jason Statham, Jason Flemyng, Merab Ninidze",
+    "Plot": "Levon Cade left his profession behind to work construction and be a good dad to his daughter. But when a local girl vanishes, he's asked to return to the skills that made him a mythic figure in the shadowy world of counter-terrorism.",
+    "Language": "English, Russian, Spanish",
+    "Country": "United Kingdom, United States",
+    "Awards": "1 win total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmQxZGIxNTYtYTQwMy00ODdkLWI0MmQtM2E0ZmIyNmYzMGMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "47%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "52/100"
+      }
+    ],
+    "Metascore": "52",
+    "imdbRating": "5.7",
+    "imdbVotes": "76,249",
+    "imdbID": "tt9150192",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$37,000,711",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

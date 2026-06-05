@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt28650488",
-  "ingestion_time_utc": "2026-06-03T18:32:23.580014+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:01.189925+00:00",
   "data": {
     "Title": "The Super Mario Galaxy Movie",
     "Year": "2026",

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1663082,
-  "ingestion_time_utc": "2026-06-03T18:31:56.942689+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.392346+00:00",
   "data": {
     "adult": false,
     "backdrop_path": null,
@@ -23,7 +23,7 @@
     "original_language": "en",
     "original_title": "The Last Supper",
     "overview": "In a deserted house, a mysterious man savors an exquisite menu in the company of an unseen guest. From this eerie dinner table, a succession of terrifying stories is revealed-each probing primal fears of hunger, flesh, and survival.",
-    "popularity": 57.1736,
+    "popularity": 55.3117,
     "poster_path": "/6rGa9huzhmG1i2iu2Vcyv5HI02t.jpg",
     "production_companies": [],
     "production_countries": [],

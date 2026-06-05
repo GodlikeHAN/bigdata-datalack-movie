@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1628367,
-  "ingestion_time_utc": "2026-06-03T18:31:56.956464+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.417312+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/mHm73HhpvGWfRkXNErcwc15Czrv.jpg",
@@ -31,7 +31,7 @@
     "original_language": "hi",
     "original_title": "कर्त्तव्य",
     "overview": "With his family's safety at stake and menacing threats closing in, a police officer must decide how far he'll go to uphold his duty.",
-    "popularity": 56.4318,
+    "popularity": 49.8368,
     "poster_path": "/doTwMyAphlDL5Z8WqE3elWWvj8M.jpg",
     "production_companies": [
       {

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1198994,
-  "ingestion_time_utc": "2026-06-03T18:31:57.426824+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.574932+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/hO2jx1H3XafR7Y8QbFgVH1sHTY9.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Send Help",
     "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-    "popularity": 51.8299,
+    "popularity": 50.6231,
     "poster_path": "/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg",
     "production_companies": [
       {
@@ -74,8 +74,8 @@
     "tagline": "Meet Linda Liddle... She's from strategy and planning. She's the boss now.",
     "title": "Send Help",
     "video": false,
-    "vote_average": 7.043,
-    "vote_count": 1670,
+    "vote_average": 7.046,
+    "vote_count": 1673,
     "videos": {
       "results": [
         {

@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt32897959",
-  "ingestion_time_utc": "2026-06-03T18:32:27.689158+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:05.760433+00:00",
   "data": {
     "Title": "Wuthering Heights",
     "Year": "2026",

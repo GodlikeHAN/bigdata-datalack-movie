@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1380291,
-  "ingestion_time_utc": "2026-06-03T18:31:51.158142+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:43.645426+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Tom Clancy's Jack Ryan: Ghost War",
     "overview": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
-    "popularity": 301.4835,
+    "popularity": 269.0824,
     "poster_path": "/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
     "production_companies": [
       {
@@ -70,8 +70,8 @@
     "tagline": "No operation stays dark forever.",
     "title": "Tom Clancy's Jack Ryan: Ghost War",
     "video": false,
-    "vote_average": 7.134,
-    "vote_count": 449,
+    "vote_average": 7.111,
+    "vote_count": 458,
     "videos": {
       "results": [
         {

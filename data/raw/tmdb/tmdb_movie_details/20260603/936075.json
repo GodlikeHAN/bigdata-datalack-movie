@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 936075,
-  "ingestion_time_utc": "2026-06-03T18:31:55.672523+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.806916+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
@@ -32,8 +32,8 @@
     "original_language": "en",
     "original_title": "Michael",
     "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-    "popularity": 100.8609,
-    "poster_path": "/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+    "popularity": 102.044,
+    "poster_path": "/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
     "production_companies": [
       {
         "id": 1632,
@@ -75,8 +75,8 @@
     "tagline": "Discover the making of a king.",
     "title": "Michael",
     "video": false,
-    "vote_average": 7.57,
-    "vote_count": 896,
+    "vote_average": 7.581,
+    "vote_count": 899,
     "videos": {
       "results": [
         {

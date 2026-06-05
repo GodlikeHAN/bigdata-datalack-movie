@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt32601650",
+  "ingestion_time_utc": "2026-06-05T14:08:08.702364+00:00",
+  "data": {
+    "Title": "Disforia",
+    "Year": "2025",
+    "Rated": "N/A",
+    "Released": "20 Sep 2025",
+    "Runtime": "N/A",
+    "Genre": "Horror",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "N/A",
+    "Plot": "Esther and Tomás, a young couple fleeing with eight-year-old daughter Say from the looting of their town, head to the rural house they bought in better times. They plan to sell it and flee to France. Tomás, however, hides other in...",
+    "Language": "Spanish",
+    "Country": "Spain",
+    "Awards": "2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTA5NTJlMDMtMDk3Ny00NjJlLTg4NTEtM2Q1YTlmMmYyN2NlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "23",
+    "imdbID": "tt32601650",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

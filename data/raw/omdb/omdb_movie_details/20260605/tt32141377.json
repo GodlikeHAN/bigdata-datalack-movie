@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt32141377",
+  "ingestion_time_utc": "2026-06-05T14:08:09.234484+00:00",
+  "data": {
+    "Title": "28 Years Later: The Bone Temple",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "16 Jan 2026",
+    "Runtime": "109 min",
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Director": "Nia DaCosta",
+    "Writer": "Alex Garland",
+    "Actors": "Jack O'Connell, Alfie Williams, Connor Newall",
+    "Plot": "As Spike is inducted into Jimmy Crystal's gang on the mainland, Dr. Kelson makes a discovery that could alter the world.",
+    "Language": "English",
+    "Country": "United Kingdom, United States, Canada",
+    "Awards": "3 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGU2M2Y1YTItMWYxNS00NDYxLThhOTYtNjNhOWUzNjA3MTYwXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "81/100"
+      }
+    ],
+    "Metascore": "81",
+    "imdbRating": "7.3",
+    "imdbVotes": "84,391",
+    "imdbID": "tt32141377",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$25,147,583",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

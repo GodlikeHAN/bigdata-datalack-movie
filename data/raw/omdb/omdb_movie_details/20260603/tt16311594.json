@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt16311594",
-  "ingestion_time_utc": "2026-06-03T18:32:43.813862+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:22.139203+00:00",
   "data": {
     "Title": "F1: The Movie",
     "Year": "2025",

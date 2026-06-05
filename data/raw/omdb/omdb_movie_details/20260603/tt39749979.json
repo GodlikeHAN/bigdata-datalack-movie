@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt39749979",
-  "ingestion_time_utc": "2026-06-03T18:32:33.214960+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:11.310480+00:00",
   "data": {
     "Title": "My Dearest Assassin",
     "Year": "2026",

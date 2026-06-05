@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 875828,
-  "ingestion_time_utc": "2026-06-03T18:31:53.082515+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.489496+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/aouxo2EaR7QSGBBUNTITuW0lj4z.jpg",
@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Peaky Blinders: The Immortal Man",
     "overview": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.",
-    "popularity": 26.1613,
+    "popularity": 25.031,
     "poster_path": "/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
     "production_companies": [
       {
@@ -70,8 +70,8 @@
     "tagline": "It will all come to this.",
     "title": "Peaky Blinders: The Immortal Man",
     "video": false,
-    "vote_average": 7.254,
-    "vote_count": 984,
+    "vote_average": 7.252,
+    "vote_count": 985,
     "videos": {
       "results": [
         {

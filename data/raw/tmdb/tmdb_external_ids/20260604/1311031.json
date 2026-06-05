@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1311031,
+  "ingestion_time_utc": "2026-06-05T12:34:05.839156+00:00",
+  "data": {
+    "id": 1311031,
+    "imdb_id": "tt32820897",
+    "wikidata_id": "Q126948105",
+    "facebook_id": "DemonSlayer.anime",
+    "instagram_id": null,
+    "twitter_id": "kimetsu_off"
+  }
+}

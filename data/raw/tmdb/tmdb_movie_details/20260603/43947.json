@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 43947,
-  "ingestion_time_utc": "2026-06-03T18:31:53.344211+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.578814+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/f4QIQvecRkKD5t7aPclyIr3SEP.jpg",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "I Spit on Your Grave",
     "overview": "A beautiful woman from the city, Jennifer Hills, rents an isolated cabin in the country to write her latest novel. Soon, a group of local lowlifes subject her to a nightmare of degradation, rape, and violence.",
-    "popularity": 25.7657,
+    "popularity": 25.2277,
     "poster_path": "/xDbNbIqsdA1D0W2gve2QRTp4z83.jpg",
     "production_companies": [
       {
@@ -73,8 +73,8 @@
     "tagline": "The Revenge of Jennifer Hills.",
     "title": "I Spit on Your Grave",
     "video": false,
-    "vote_average": 6.509,
-    "vote_count": 2569,
+    "vote_average": 6.508,
+    "vote_count": 2570,
     "videos": {
       "results": [
         {

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1371023,
-  "ingestion_time_utc": "2026-06-03T18:31:51.592030+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:43.781915+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/kkRpcauZoBFKnH0Qsy7J5qtwBF5.jpg",
@@ -27,7 +27,7 @@
     "original_language": "hi",
     "original_title": "चाँद मेरा दिल",
     "overview": "Aarav and Chandni's passionate college romance is struck by adulthood far too soon, forcing the two young lovers to balance their ambitions with responsibility and realize the evolved meaning of love.",
-    "popularity": 168.7179,
+    "popularity": 162.5339,
     "poster_path": "/9LPkXJustudEBgPZEm9tgDx5KtC.jpg",
     "production_companies": [
       {

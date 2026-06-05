@@ -1,0 +1,87 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1320660,
+  "ingestion_time_utc": "2026-06-05T14:07:40.859123+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
+    "belongs_to_collection": {
+      "id": 1687356,
+      "name": "Pati Patni Aur Woh Collection",
+      "poster_path": null,
+      "backdrop_path": null
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 1320660,
+    "imdb_id": "tt33054858",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_title": "पति पत्नी और वो दो",
+    "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+    "popularity": 105.0713,
+    "poster_path": "/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+    "production_companies": [
+      {
+        "id": 3522,
+        "logo_path": "/d3u51JgEP5KwPfxS13ocqvtzZeX.png",
+        "name": "T-Series",
+        "origin_country": "IN"
+      },
+      {
+        "id": 101341,
+        "logo_path": null,
+        "name": "B.R. Studios",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-05-15",
+    "revenue": 0,
+    "runtime": 117,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Pati Patni Aur Woh Do",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 4,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "PATI PATNI AUR WOH DO (Teaser) | Ayushmann, Wamiqa, Sara, Rakul | Mudassar, Bhushan K, Juno | 15 May",
+          "key": "Os4JVfZp4jg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69e5bd1cd87eb9b7d084f67e",
+          "published_at": "2026-04-20T05:30:02.000Z"
+        }
+      ]
+    }
+  }
+}

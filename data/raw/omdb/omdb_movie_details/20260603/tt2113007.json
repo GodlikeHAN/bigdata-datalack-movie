@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt2113007",
-  "ingestion_time_utc": "2026-06-03T18:32:42.346030+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:20.401705+00:00",
   "data": {
     "Title": "Michael Jackson: The Life of an Icon",
     "Year": "2011",

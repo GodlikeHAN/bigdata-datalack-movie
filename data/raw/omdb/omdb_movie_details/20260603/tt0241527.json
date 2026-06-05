@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0241527",
-  "ingestion_time_utc": "2026-06-03T18:32:41.281335+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:19.328351+00:00",
   "data": {
     "Title": "Harry Potter and the Sorcerer's Stone",
     "Year": "2001",

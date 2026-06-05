@@ -1,0 +1,197 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1539104,
+  "ingestion_time_utc": "2026-06-05T14:07:46.199080+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/gtKglOSEq3d4MgQE4VsrT1sRkd0.jpg",
+    "belongs_to_collection": {
+      "id": 1529614,
+      "name": "Jujutsu Kaisen Collection",
+      "poster_path": "/8IddvFXm6Txk3YAEIcgPm0ukY6K.jpg",
+      "backdrop_path": "/2HRyeMLdUvn3l9DqjPU3hWn3SiX.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "homepage": "https://gkids.com/films/jujutsu-kaisen-execution",
+    "id": 1539104,
+    "imdb_id": "tt38121182",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」",
+    "overview": "A veil abruptly descends over the busy Shibuya area amid the bustling Halloween crowds, trapping countless civilians inside. Satoru Gojo, the strongest jujutsu sorcerer, steps into the chaos. But lying in wait are curse users and spirits scheming to seal him away. Yuji Itadori, accompanied by his classmates and other top-tier jujutsu sorcerers, enters the fray in an unprecedented clash of curses — the Shibuya Incident. In the aftermath, ten colonies across Japan are transformed into dens of curses in a plan orchestrated by Noritoshi Kamo. As the deadly Culling Game starts, Special Grade sorcerer Yuta Okkotsu is assigned to carry out Yuji's execution for his perceived crimes. A compilation movie of Shibuya Incident including the first two episodes of the Culling Games arc.",
+    "popularity": 25.5242,
+    "poster_path": "/v0s3dx6am0RzfsuK3KdEy8ZoCDs.jpg",
+    "production_companies": [
+      {
+        "id": 21444,
+        "logo_path": "/wSejGn3lAZdQ5muByxvzigwyDY6.png",
+        "name": "MAPPA",
+        "origin_country": "JP"
+      },
+      {
+        "id": 882,
+        "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+        "name": "TOHO",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3363,
+        "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png",
+        "name": "MBS",
+        "origin_country": "JP"
+      },
+      {
+        "id": 2918,
+        "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+        "name": "Shueisha",
+        "origin_country": "JP"
+      },
+      {
+        "id": 158200,
+        "logo_path": "/rf4ZArxPuqx5hdeU7rPIU8IQlYx.png",
+        "name": "Sumzap",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2025-11-07",
+    "revenue": 44457030,
+    "runtime": 88,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "JUJUTSU KAISEN: Execution",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 99,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official English Trailer",
+          "key": "XeoQg5PVOLI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69276bff7485f78501a75a80",
+          "published_at": "2025-11-26T17:00:48.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "A fantastic evening at the special screening of JUJUTSU KAISEN: Execution!",
+          "key": "9W7d7hxUBb8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69174fc74ef72b612e31cd00",
+          "published_at": "2025-11-13T16:38:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Tickets On Sale Now in North America [Subtitled]",
+          "key": "C7P9ueuQ6FU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69172386dfa0d7807687683c",
+          "published_at": "2025-11-12T18:00:28.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "New Trailer [Subtitled]",
+          "key": "ZZoU154ooOE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69172359e07d80bcbbac2954",
+          "published_at": "2025-11-12T16:03:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Tickets are out now!",
+          "key": "qd7YxbqtDkE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69095437f072266a59f5fbfb",
+          "published_at": "2025-10-31T16:19:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer Cut [Subtitled]",
+          "key": "6j_jMy4F37I",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69013ab30a458563e5da081a",
+          "published_at": "2025-10-28T16:00:23.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser [Subtitled]",
+          "key": "fYLIydmO6ow",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68f52014cd82fd0588f99eb8",
+          "published_at": "2025-10-17T11:00:49.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer [Subtitled]",
+          "key": "Vo7G5Y212Gg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "68cce4cdf80c14220e4dbbce",
+          "published_at": "2025-09-19T01:00:30.000Z"
+        }
+      ]
+    }
+  }
+}

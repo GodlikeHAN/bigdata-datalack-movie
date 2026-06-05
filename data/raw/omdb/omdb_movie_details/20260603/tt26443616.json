@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt26443616",
-  "ingestion_time_utc": "2026-06-03T18:32:28.474464+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:06.456046+00:00",
   "data": {
     "Title": "Hoppers",
     "Year": "2026",

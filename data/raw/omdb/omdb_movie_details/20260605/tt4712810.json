@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt4712810",
+  "ingestion_time_utc": "2026-06-05T14:08:22.358864+00:00",
+  "data": {
+    "Title": "Now You See Me: Now You Don't",
+    "Year": "2025",
+    "Rated": "PG-13",
+    "Released": "14 Nov 2025",
+    "Runtime": "113 min",
+    "Genre": "Crime, Thriller",
+    "Director": "Ruben Fleischer",
+    "Writer": "Michael Lesslie, Paul Wernick, Rhett Reese",
+    "Actors": "Jesse Eisenberg, Woody Harrelson, Dave Franco",
+    "Plot": "The Four Horsemen reunite and team up with a new generation of young illusionists to expose a diamond heiress's global money laundering scheme for criminals.",
+    "Language": "English, French",
+    "Country": "United States, United Arab Emirates, Canada, Hungary",
+    "Awards": "2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.9/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "50/100"
+      }
+    ],
+    "Metascore": "50",
+    "imdbRating": "5.9",
+    "imdbVotes": "65,532",
+    "imdbID": "tt4712810",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$61,882,396",
+    "Production": "Lionsgate",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

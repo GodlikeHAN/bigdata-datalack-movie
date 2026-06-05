@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0288235",
+  "ingestion_time_utc": "2026-06-05T12:34:43.994379+00:00",
+  "data": {
+    "Title": "Flight Attendant: Scandal",
+    "Year": "1984",
+    "Rated": "AO",
+    "Released": "16 Mar 1984",
+    "Runtime": "67 min",
+    "Genre": "Comedy",
+    "Director": "Masaru Konuma",
+    "Writer": "N/A",
+    "Actors": "Tomoko Ai, Keito Asabuki, Shigeru Muroi",
+    "Plot": "The sexual escapades of four flight attendants.",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI4ODgxZTAtNTdjNC00MDNhLWE1MzAtYWM5M2EyNmRhMjc2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.7/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.7",
+    "imdbVotes": "38",
+    "imdbID": "tt0288235",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

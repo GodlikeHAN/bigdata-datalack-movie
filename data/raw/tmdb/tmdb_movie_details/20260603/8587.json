@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 8587,
-  "ingestion_time_utc": "2026-06-03T18:31:52.386942+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.159803+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/q00H8EqULYSK74lgevMkhmGGLHn.jpg",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "The Lion King",
     "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
-    "popularity": 27.584,
+    "popularity": 28.1624,
     "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
     "production_companies": [
       {
@@ -73,8 +73,8 @@
     "tagline": "The greatest adventure of all is finding our place in the Circle of Life.",
     "title": "The Lion King",
     "video": false,
-    "vote_average": 8.254,
-    "vote_count": 19694,
+    "vote_average": 8.3,
+    "vote_count": 19695,
     "videos": {
       "results": [
         {

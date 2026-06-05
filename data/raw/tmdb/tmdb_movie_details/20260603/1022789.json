@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1022789,
-  "ingestion_time_utc": "2026-06-03T18:31:52.162994+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:43.912929+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
@@ -40,7 +40,7 @@
     "original_language": "en",
     "original_title": "Inside Out 2",
     "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
-    "popularity": 28.568,
+    "popularity": 26.7341,
     "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
     "production_companies": [
       {
@@ -72,7 +72,7 @@
     "title": "Inside Out 2",
     "video": false,
     "vote_average": 7.546,
-    "vote_count": 6694,
+    "vote_count": 6695,
     "videos": {
       "results": [
         {

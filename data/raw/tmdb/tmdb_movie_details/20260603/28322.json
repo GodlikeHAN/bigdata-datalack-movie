@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 28322,
-  "ingestion_time_utc": "2026-06-03T18:31:56.022533+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.894686+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/7TJjD2X9GTEqyLVIJKLS85J2V47.jpg",
@@ -31,7 +31,7 @@
     "original_language": "it",
     "original_title": "Vacanze per un massacro",
     "overview": "An escaped convicted murderer invades the cottage of a man, his wife and the wife's sister, whereupon he proceeds to torment this already dysfunctional trio with rape and violence.",
-    "popularity": 80.3941,
+    "popularity": 78.6819,
     "poster_path": "/gV0J0Fqw2mYMtQbzb0ruxv9MAeZ.jpg",
     "production_companies": [
       {

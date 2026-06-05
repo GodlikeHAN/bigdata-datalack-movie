@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1116201,
-  "ingestion_time_utc": "2026-06-03T18:31:51.743390+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:43.833504+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/gqGQ0zADV5FIcgMWtWX8FcGQjFp.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Iron Lung",
     "overview": "In a post-apocalyptic future where an event known as \"The Quiet Rapture\" caused all known stars and habitable planets in the universe to disappear, a convict is sent to search an ocean of blood discovered on a desolate moon, using a small submarine nicknamed the \"Iron Lung\".",
-    "popularity": 150.7604,
+    "popularity": 154.12,
     "poster_path": "/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
     "production_companies": [
       {
@@ -62,8 +62,8 @@
     "tagline": "This is not an expedition. It's an execution.",
     "title": "Iron Lung",
     "video": false,
-    "vote_average": 7.165,
-    "vote_count": 191,
+    "vote_average": 7.172,
+    "vote_count": 195,
     "videos": {
       "results": [
         {

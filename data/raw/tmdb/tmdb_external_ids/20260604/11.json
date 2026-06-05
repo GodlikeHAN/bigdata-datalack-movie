@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 11,
+  "ingestion_time_utc": "2026-06-05T12:34:01.249294+00:00",
+  "data": {
+    "id": 11,
+    "imdb_id": "tt0076759",
+    "wikidata_id": "Q17738",
+    "facebook_id": "StarWars",
+    "instagram_id": "starwars",
+    "twitter_id": "starwars"
+  }
+}

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1368166,
-  "ingestion_time_utc": "2026-06-03T18:31:56.396229+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.201810+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
@@ -32,7 +32,7 @@
     "original_language": "en",
     "original_title": "The Housemaid",
     "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
-    "popularity": 66.6006,
+    "popularity": 64.2183,
     "poster_path": "/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
     "production_companies": [
       {
@@ -81,8 +81,8 @@
     "tagline": "Discover what lies behind closed doors.",
     "title": "The Housemaid",
     "video": false,
-    "vote_average": 7.248,
-    "vote_count": 2296,
+    "vote_average": 7.247,
+    "vote_count": 2299,
     "videos": {
       "results": [
         {

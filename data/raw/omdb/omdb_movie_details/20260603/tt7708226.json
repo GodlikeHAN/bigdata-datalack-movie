@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt7708226",
-  "ingestion_time_utc": "2026-06-03T18:32:26.482802+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:04.692026+00:00",
   "data": {
     "Title": "Beast",
     "Year": "2026",

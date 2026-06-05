@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt27681354",
-  "ingestion_time_utc": "2026-06-03T18:32:21.480896+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:59.319427+00:00",
   "data": {
     "Title": "In the Grey",
     "Year": "2026",

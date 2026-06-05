@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt25868520",
-  "ingestion_time_utc": "2026-06-03T18:32:22.920446+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:00.658861+00:00",
   "data": {
     "Title": "Tamerlane: Rise of the Last Conqueror",
     "Year": "2026",

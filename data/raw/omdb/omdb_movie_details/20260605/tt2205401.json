@@ -1,0 +1,46 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt2205401",
+  "ingestion_time_utc": "2026-06-05T14:08:19.125408+00:00",
+  "data": {
+    "Title": "Addicted",
+    "Year": "2014",
+    "Rated": "R",
+    "Released": "10 Oct 2014",
+    "Runtime": "106 min",
+    "Genre": "Drama, Romance, Thriller",
+    "Director": "Bille Woodruff",
+    "Writer": "Christina Welsh, Ernie Barbarash, Zane",
+    "Actors": "Sharon Leal, Boris Kodjoe, John Newberg",
+    "Plot": "A gallerist risks her family and flourishing career when she enters into an affair with a talented painter and slowly loses control of her life.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjMzMTUyNzU3Nl5BMl5BanBnXkFtZTgwNjM5MjAwMjE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "7%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "32/100"
+      }
+    ],
+    "Metascore": "32",
+    "imdbRating": "5.0",
+    "imdbVotes": "12,753",
+    "imdbID": "tt2205401",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$17,390,770",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1234731,
-  "ingestion_time_utc": "2026-06-03T18:31:52.528295+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.105754+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Anaconda",
     "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
-    "popularity": 28.1141,
+    "popularity": 26.9556,
     "poster_path": "/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
     "production_companies": [
       {
@@ -74,8 +74,8 @@
     "tagline": "A comedy so big it'll leave you breathless.",
     "title": "Anaconda",
     "video": false,
-    "vote_average": 5.897,
-    "vote_count": 1190,
+    "vote_average": 5.894,
+    "vote_count": 1191,
     "videos": {
       "results": [
         {

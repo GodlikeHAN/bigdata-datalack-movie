@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt14113634",
-  "ingestion_time_utc": "2026-06-03T18:32:43.016245+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:21.336067+00:00",
   "data": {
     "Title": "Drishyam 3",
     "Year": "2026",

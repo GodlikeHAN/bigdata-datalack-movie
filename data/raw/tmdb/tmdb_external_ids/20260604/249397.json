@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 249397,
+  "ingestion_time_utc": "2026-06-05T12:34:04.715847+00:00",
+  "data": {
+    "id": 249397,
+    "imdb_id": "tt2382009",
+    "wikidata_id": "Q21468405",
+    "facebook_id": "NymphomaniacTheMovie",
+    "instagram_id": null,
+    "twitter_id": ""
+  }
+}

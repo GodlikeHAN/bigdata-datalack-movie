@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt37971394",
+  "ingestion_time_utc": "2026-06-05T14:08:15.261052+00:00",
+  "data": {
+    "Title": "Blast",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "28 May 2026",
+    "Runtime": "142 min",
+    "Genre": "Action, Drama",
+    "Director": "Subash K. Raj",
+    "Writer": "Subash K. Raj",
+    "Actors": "Arjun Sarja, Preity Mukhundhan, Abhirami",
+    "Plot": "Follows a family trained to protect the powerless who become the most dangerous obstacle of all.",
+    "Language": "Tamil",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2IxMWY4NmMtY2NjNC00YmNkLWJhMDYtZjcyOTE5Njc0NjJmXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt37971394",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

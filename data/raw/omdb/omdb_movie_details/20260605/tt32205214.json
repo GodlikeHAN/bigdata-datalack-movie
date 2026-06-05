@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt32205214",
+  "ingestion_time_utc": "2026-06-05T14:08:17.428577+00:00",
+  "data": {
+    "Title": "Mexican Psycho",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "19 Mar 2026",
+    "Runtime": "N/A",
+    "Genre": "Crime, Horror, Thriller",
+    "Director": "J. Xavier Velasco",
+    "Writer": "N/A",
+    "Actors": "Adriana Llabres, Hoze Meléndez, Andrés Almeida",
+    "Plot": "N/A",
+    "Language": "Spanish",
+    "Country": "Mexico",
+    "Awards": "N/A",
+    "Poster": "N/A",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt32205214",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

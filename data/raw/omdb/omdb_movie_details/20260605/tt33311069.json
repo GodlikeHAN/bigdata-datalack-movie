@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt33311069",
+  "ingestion_time_utc": "2026-06-05T14:08:09.634087+00:00",
+  "data": {
+    "Title": "The Furious",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "12 Jun 2026",
+    "Runtime": "113 min",
+    "Genre": "Action, Crime, Thriller",
+    "Director": "Kenji Tanigaki",
+    "Writer": "Frank Hui, Zhilong Lei, Tin Shu Mak",
+    "Actors": "Miao Xie, Joe Taslim, Sahajak Boonthanakit",
+    "Plot": "A father fights fiercely against ruthless kidnappers to save his abducted daughter.",
+    "Language": "Chinese, English, Thai",
+    "Country": "Hong Kong, China",
+    "Awards": "1 win & 2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODUyZjg2YzctNGE3Yi00YjhhLTkyZTItZTAwZTNhNDA1ODQzXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "100%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.8",
+    "imdbVotes": "281",
+    "imdbID": "tt33311069",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

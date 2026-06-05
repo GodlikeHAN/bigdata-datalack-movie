@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1197306,
+  "ingestion_time_utc": "2026-06-05T12:34:01.854829+00:00",
+  "data": {
+    "id": 1197306,
+    "imdb_id": "tt9150192",
+    "wikidata_id": "Q125495342",
+    "facebook_id": "aworkingmanmovie",
+    "instagram_id": "aworkingmanmovie",
+    "twitter_id": null
+  }
+}

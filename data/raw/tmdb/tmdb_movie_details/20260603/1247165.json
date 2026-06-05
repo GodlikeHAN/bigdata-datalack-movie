@@ -1,0 +1,101 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1247165,
+  "ingestion_time_utc": "2026-06-04T09:30:45.723480+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/w4bjx5qCKG6SjhnqLi2aj1GUsxe.jpg",
+    "belongs_to_collection": null,
+    "budget": 11000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 36,
+        "name": "History"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1247165,
+    "imdb_id": "tt31390893",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "mr",
+    "original_title": "राजा शिवाजी",
+    "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
+    "popularity": 43.466,
+    "poster_path": "/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
+    "production_companies": [
+      {
+        "id": 115477,
+        "logo_path": "/6CkBjiSlfAJFaMjwB44ILbOhFuV.png",
+        "name": "Jio Studios",
+        "origin_country": "IN"
+      },
+      {
+        "id": 96781,
+        "logo_path": null,
+        "name": "Mumbai Film Company",
+        "origin_country": "IN"
+      },
+      {
+        "id": 7294,
+        "logo_path": "/kK4PRgceWp9KNrycD8xx8seWxYU.png",
+        "name": "Reliance Entertainment",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-05-01",
+    "revenue": 4600000,
+    "runtime": 195,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      },
+      {
+        "english_name": "Marathi",
+        "iso_639_1": "mr",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Raja Shivaji",
+    "video": false,
+    "vote_average": 9.0,
+    "vote_count": 1,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "3CXt4GtjLmc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69f1ca0ba3191241dbdcdd4c",
+          "published_at": "2026-04-20T09:49:22.000Z"
+        }
+      ]
+    }
+  }
+}

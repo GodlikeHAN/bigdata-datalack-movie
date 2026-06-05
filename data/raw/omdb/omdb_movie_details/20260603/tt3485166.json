@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt3485166",
-  "ingestion_time_utc": "2026-06-03T18:32:36.519746+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:14.395269+00:00",
   "data": {
     "Title": "The Pirates",
     "Year": "2014",

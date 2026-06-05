@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt23865918",
+  "ingestion_time_utc": "2026-06-05T14:08:03.421614+00:00",
+  "data": {
+    "Title": "Peddi",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "04 Jun 2026",
+    "Runtime": "182 min",
+    "Genre": "Action, Drama, Sport",
+    "Director": "Buchi Babu Sana",
+    "Writer": "Buchi Babu Sana",
+    "Actors": "Ram Charan, Janhvi Kapoor, Shivarajkumar",
+    "Plot": "In 1980s rural Andhra Pradesh, A spirited villager unites his community through sports to defend their pride against a powerful rival.",
+    "Language": "Telugu, Tamil",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjQxNWVmODUtNjY3NC00ODE2LWFhNTItZGY2YzlmYTgzYzJkXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt23865918",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

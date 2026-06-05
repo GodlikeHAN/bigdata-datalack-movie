@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1522496,
-  "ingestion_time_utc": "2026-06-03T18:32:00.468794+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:46.455447+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/hyl6es0MyJ1tEmziR293GxdIQKZ.jpg",
@@ -27,7 +27,7 @@
     "original_language": "th",
     "original_title": "ฟู้ดทรัค ลัก (รัก) หมูเด้ง",
     "overview": "When a child sneaks onto their food truck looking for his father, three friends go on a wild road trip, running into police, monks — and a famous hippo.",
-    "popularity": 32.9939,
+    "popularity": 31.0792,
     "poster_path": "/fOhSmHSEm0iVQ2AdG5SkjXnsvUM.jpg",
     "production_companies": [
       {

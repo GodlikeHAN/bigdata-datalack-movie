@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1110034,
-  "ingestion_time_utc": "2026-06-03T18:31:58.786288+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.890382+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/oV472EbPedkc5QzqolGc7sCgCnn.jpg",
@@ -31,7 +31,7 @@
     "original_language": "no",
     "original_title": "Kraken",
     "overview": "A marine biologist is doing research on a fish farm when she encounters several strange occurrences. Along with the brutal deaths of two teenagers, all signs point to the deep fjord; can there be more to the depths than the eye can see?",
-    "popularity": 42.8258,
+    "popularity": 44.3714,
     "poster_path": "/xdZ8k5s8DTwWyPBMIcflrYLgcAK.jpg",
     "production_companies": [
       {

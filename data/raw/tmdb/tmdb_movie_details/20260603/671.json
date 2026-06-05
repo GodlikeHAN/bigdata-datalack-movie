@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 671,
-  "ingestion_time_utc": "2026-06-03T18:31:59.159163+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:46.226201+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg",
@@ -32,7 +32,7 @@
     "original_language": "en",
     "original_title": "Harry Potter and the Philosopher's Stone",
     "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
-    "popularity": 37.531,
+    "popularity": 36.1764,
     "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
     "production_companies": [
       {
@@ -80,7 +80,7 @@
     "title": "Harry Potter and the Philosopher's Stone",
     "video": false,
     "vote_average": 7.899,
-    "vote_count": 29585,
+    "vote_count": 29589,
     "videos": {
       "results": [
         {

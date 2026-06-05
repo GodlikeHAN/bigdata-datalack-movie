@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 848116,
-  "ingestion_time_utc": "2026-06-03T18:31:55.980450+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.820767+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/61RYedFgX1K07xgVIvdJzukSR4g.jpg",
@@ -35,7 +35,7 @@
     "original_language": "hi",
     "original_title": "रॉकी और रानी की प्रेम कहानी",
     "overview": "Gym-freak brat Rocky falls in love with Rani, who comes from a well-educated Bengali family. Being from polar opposite worlds, the two decide to switch their families to adjust to each other's cultures and backgrounds and to know if their marriage will survive. Rocky and Rani are trapped in a world where they are united by love but divided by families and the ultimate question is will they fit in?",
-    "popularity": 90.3712,
+    "popularity": 73.7499,
     "poster_path": "/vTQIqlxUkOuyf2UKhlM2OUaFGKz.jpg",
     "production_companies": [
       {
@@ -63,11 +63,6 @@
     "softcore": false,
     "spoken_languages": [
       {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      },
-      {
         "english_name": "Bengali",
         "iso_639_1": "bn",
         "name": "বাংলা"
@@ -76,14 +71,19 @@
         "english_name": "Hindi",
         "iso_639_1": "hi",
         "name": "हिन्दी"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
       }
     ],
     "status": "Released",
     "tagline": "The power of family will decide the fate of love",
     "title": "Rocky Aur Rani Kii Prem Kahaani",
     "video": false,
-    "vote_average": 6.201,
-    "vote_count": 87,
+    "vote_average": 6.142,
+    "vote_count": 88,
     "videos": {
       "results": [
         {

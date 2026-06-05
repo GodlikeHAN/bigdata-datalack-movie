@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt34956443",
-  "ingestion_time_utc": "2026-06-03T18:32:45.275402+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:23.350535+00:00",
   "data": {
     "Title": "Ne Zha 2",
     "Year": "2025",

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 496243,
-  "ingestion_time_utc": "2026-06-03T18:31:59.593843+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:46.253041+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
@@ -31,7 +31,7 @@
     "original_language": "ko",
     "original_title": "기생충",
     "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
-    "popularity": 37.2738,
+    "popularity": 35.2787,
     "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
     "production_companies": [
       {
@@ -72,8 +72,8 @@
     "tagline": "Act like you own the place.",
     "title": "Parasite",
     "video": false,
-    "vote_average": 8.495,
-    "vote_count": 20667,
+    "vote_average": 8.494,
+    "vote_count": 20669,
     "videos": {
       "results": [
         {

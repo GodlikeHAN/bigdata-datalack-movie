@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt29218808",
-  "ingestion_time_utc": "2026-06-03T18:32:31.237668+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:09.563973+00:00",
   "data": {
     "Title": "Infiltrate",
     "Year": "2026",

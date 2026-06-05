@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1375646,
-  "ingestion_time_utc": "2026-06-03T18:31:56.999239+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.294093+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
@@ -31,7 +31,7 @@
     "original_language": "ko",
     "original_title": "군체",
     "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-    "popularity": 60.3331,
+    "popularity": 56.9405,
     "poster_path": "/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
     "production_companies": [
       {
@@ -74,8 +74,8 @@
     "tagline": "",
     "title": "Colony",
     "video": false,
-    "vote_average": 6.468,
-    "vote_count": 31,
+    "vote_average": 6.485,
+    "vote_count": 34,
     "videos": {
       "results": [
         {

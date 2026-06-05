@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt34385135",
+  "ingestion_time_utc": "2026-06-05T14:08:13.255426+00:00",
+  "data": {
+    "Title": "Colony",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "21 May 2026",
+    "Runtime": "122 min",
+    "Genre": "Action, Adventure, Crime",
+    "Director": "Yeon Sang-ho",
+    "Writer": "Kyu-Seok Choi, Yeon Sang-ho",
+    "Actors": "Jun Ji-hyun, Koo Kyo-hwan, Ji Chang-wook",
+    "Plot": "Professor Se Jeong, attends a biotech conference-only to witness it spiral into catastrophe when a rapidly mutating virus is unleashed. As the outbreak spreads and the infected begin to transform, authorities seal off the entire f...",
+    "Language": "Korean",
+    "Country": "South Korea",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDgwNzhmMjItMDhlYi00ODdlLWI1NjUtZDgxZGMzMGU5MmM4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "52/100"
+      }
+    ],
+    "Metascore": "52",
+    "imdbRating": "7.3",
+    "imdbVotes": "357",
+    "imdbID": "tt34385135",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

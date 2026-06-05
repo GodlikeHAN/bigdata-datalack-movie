@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt1263750",
+  "ingestion_time_utc": "2026-06-05T14:08:23.173785+00:00",
+  "data": {
+    "Title": "Room in Rome",
+    "Year": "2010",
+    "Rated": "Not Rated",
+    "Released": "07 May 2010",
+    "Runtime": "107 min",
+    "Genre": "Drama, Romance",
+    "Director": "Julio Medem",
+    "Writer": "Julio Rojas, Julio Medem, Katherine Fugate",
+    "Actors": "Elena Anaya, Natasha Yarovenko, Enrico Lo Verso",
+    "Plot": "A hotel room in the center of Rome serves as the setting for two young and recently acquainted women to have a physical and romantic one-night-stand adventure that touches their very souls.",
+    "Language": "English, Spanish, Italian, Russian, Basque, Arabic",
+    "Country": "Spain",
+    "Awards": "3 wins & 7 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDA1YTYxZWMtMjM0Mi00OTE0LWI1MzAtYmRkODk1YjZhMzZiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "40%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.0",
+    "imdbVotes": "27,407",
+    "imdbID": "tt1263750",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

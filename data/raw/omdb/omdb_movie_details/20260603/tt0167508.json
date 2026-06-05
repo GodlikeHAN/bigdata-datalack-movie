@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0167508",
-  "ingestion_time_utc": "2026-06-03T18:32:38.768092+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:16.802969+00:00",
   "data": {
     "Title": "Zero Woman",
     "Year": "1995",

@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0405250",
+  "ingestion_time_utc": "2026-06-05T14:08:03.284895+00:00",
+  "data": {
+    "Title": "The Cave of the Silken Web",
+    "Year": "1967",
+    "Rated": "N/A",
+    "Released": "21 Aug 1967",
+    "Runtime": "82 min",
+    "Genre": "Adventure, Comedy, Fantasy",
+    "Director": "Meng-Hua Ho",
+    "Writer": "Kang Cheng",
+    "Actors": "Angela Yu Chien, Liang Hua Liu, Meng Tien",
+    "Plot": "Cave of Silken Web is the third installment in Shaw Brothers series from the Chinese classic tale Journey to the West. The monk Tripitaka and his three protector/companions, Monkey, Pigsy, and Sandy are trapped in the Cave of the ...",
+    "Language": "Mandarin",
+    "Country": "Hong Kong",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTQ4ZjkxOTAtOWM1MS00YTZmLWI3ZGUtYzg3NDY5NzZhZDUwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.3/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.3",
+    "imdbVotes": "202",
+    "imdbID": "tt0405250",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

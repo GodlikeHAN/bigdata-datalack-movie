@@ -1,0 +1,655 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 425274,
+  "ingestion_time_utc": "2026-06-04T09:30:46.580487+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
+    "belongs_to_collection": {
+      "id": 382685,
+      "name": "Now You See Me Collection",
+      "poster_path": "/n2B51uCX5r960pFbEl9jMbTMuvq.jpg",
+      "backdrop_path": "/scBzORmLqP00h8hPKS19TLtyRQm.jpg"
+    },
+    "budget": 90000000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://nowyouseeme.movie",
+    "id": 425274,
+    "imdb_id": "tt4712810",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Now You See Me: Now You Don't",
+    "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
+    "popularity": 30.6687,
+    "poster_path": "/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+    "production_companies": [
+      {
+        "id": 1632,
+        "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "name": "Lionsgate",
+        "origin_country": "US"
+      },
+      {
+        "id": 281285,
+        "logo_path": null,
+        "name": "Cohen Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 221429,
+        "logo_path": "/rWqW00ts1tZ0efwyacZlGnVd6PB.png",
+        "name": "Media Capital Technologies",
+        "origin_country": "US"
+      },
+      {
+        "id": 491,
+        "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+        "name": "Summit Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-11-12",
+    "revenue": 242431024,
+    "runtime": 113,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Unlock the illusion.",
+    "title": "Now You See Me: Now You Don't",
+    "video": false,
+    "vote_average": 6.501,
+    "vote_count": 1534,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Isla, Rosamund and Ariana answering the BIG questions (new or OG Horsemen ofc)",
+          "key": "LWuZc-oaeYo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "692450abbb30f70ae076920e",
+          "published_at": "2025-11-23T16:01:43.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip 'We Made The Fifth Horseman Reappear'",
+          "key": "ulrI4mQQH8w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "691f71b55bf05e1a9a05870a",
+          "published_at": "2025-11-20T18:29:53.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "don't miss the #1 film in the WORLD.",
+          "key": "KEnmKJK386c",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "691e5a0c0e90f9d26e21a306",
+          "published_at": "2025-11-17T15:29:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "pov: you've only got a 1 min to chat with Ariana Greenblatt",
+          "key": "GW5tPR4wi2s",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "691a0d380cbb5899053a5540",
+          "published_at": "2025-11-16T15:01:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Critics agree - Now You See Me: Now You Don’t delivers the fun.",
+          "key": "68TG5EycuAQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "691a0c6757e51d6fe73a6290",
+          "published_at": "2025-11-14T20:00:14.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "There’s still a few more tricks up our sleeves.",
+          "key": "tPBDA8H90J4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "691a0cd3ef8e97fa7640f4ec",
+          "published_at": "2025-11-14T19:12:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "It’s good to be back.",
+          "key": "_aafiClfl1s",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "691a0cedcecfcf4c7e9ae75c",
+          "published_at": "2025-11-14T17:07:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "okay, but why hasn't this magic trick happened yet???",
+          "key": "cSuyrDR1dXk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6917403c119eef2e209adea4",
+          "published_at": "2025-11-14T10:03:45.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer Reactions",
+          "key": "RljplAfwFf4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69173ff3bf95473d1aa0e370",
+          "published_at": "2025-11-13T18:02:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "is this the world's biggest ever magic trick???",
+          "key": "sBzGJyR44Rs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6917432e2c2055c6bf31cd7b",
+          "published_at": "2025-11-13T15:27:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "get yourself down to the cinema today to see what you're missing out on",
+          "key": "MNlGPyL6ezQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "691e5d2b9afeb8d0ad058242",
+          "published_at": "2025-11-13T12:16:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Horsemen are BACK.",
+          "key": "8eMejHfJWho",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "691e5ac00a21a9a565fa285a",
+          "published_at": "2025-11-12T12:00:45.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "they say you should learn something new every day",
+          "key": "x1IXsc4qKtw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "690f7116a04bfc56e49ab8d3",
+          "published_at": "2025-11-08T16:01:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "David Blaine joins Woody Harrelson on Hot Ones",
+          "key": "dsdE17u-Ebk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "690f15a49d938a061f9ab759",
+          "published_at": "2025-11-07T01:52:37.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "You know you want to see a magic trick.",
+          "key": "uA_lyP75w1U",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "690e2f55e9a0e1527cd24cd9",
+          "published_at": "2025-11-06T18:01:09.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "This next trick is bigger and better than anything you’ve seen before.",
+          "key": "ifxjtfl-nno",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "690e2f92a473cfb67d31a65d",
+          "published_at": "2025-11-06T17:01:21.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Reneé Rapp – “Lucky” with Cast from Now You See Me: Now You Don’t (2025)",
+          "key": "Z0aCv-cj5ho",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "690b8b9803347e7a510710c0",
+          "published_at": "2025-11-05T17:00:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Special Feature ‘Real Magic’",
+          "key": "89n_hlN-K5k",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "690b8ba675e429fae4934dc0",
+          "published_at": "2025-11-05T16:00:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "and for our next trick: making Jesse Eisenberg appear",
+          "key": "Sbpa7Dm04fw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "690f716fc14a37294e4c779d",
+          "published_at": "2025-11-05T13:14:41.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "When the Horsemen call, you answer.",
+          "key": "Jk_0J8zyAaI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "690b8bd238fce763d0934e3c",
+          "published_at": "2025-11-04T18:03:36.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Final Trailer",
+          "key": "lLWESUfW-0A",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "6908e138af08241413dd8ad3",
+          "published_at": "2025-11-03T17:00:50.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The cinema is the only place you're going to want to be on November 14",
+          "key": "U6zMai9D-EU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69064348b33884716f463897",
+          "published_at": "2025-11-01T15:01:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Zach King Teams Up With Now You See Me: Now You Don't Cast",
+          "key": "kScfUIoH40E",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6904884d08f8da6b684c7a07",
+          "published_at": "2025-10-29T17:01:19.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Cast Heist Interrogation",
+          "key": "gziPy5e_m00",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6900f8cecc3ec15da59fbb60",
+          "published_at": "2025-10-28T16:48:44.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The dream team.",
+          "key": "yfM9D4VdLWs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6900c722ef26b30f944e9156",
+          "published_at": "2025-10-23T22:56:44.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Always meet your heroes.",
+          "key": "VtG7cl-aWFE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6900c77872ac3c7401da0829",
+          "published_at": "2025-10-23T20:19:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip 'Diamonds Are Forever'",
+          "key": "lCYmQRathSQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "68f9c385db5462c9104178e1",
+          "published_at": "2025-10-22T16:00:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "dug into the camera roll for y’all",
+          "key": "KVuAlqO_ARI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6900c7ef49e491ef97a6382e",
+          "published_at": "2025-10-21T16:13:22.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "This next trick is bigger and better than you’ve ever seen.",
+          "key": "A-Xb4nVXunM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6900c8c19927659bc3bbfb7d",
+          "published_at": "2025-10-20T19:00:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Time for a (very) rapid fire Q&A with the cast",
+          "key": "hIpxmGuDhOU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6900c8888aec7a0bb1939233",
+          "published_at": "2025-10-20T16:24:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Special Feature 'Jesse Interviews the Apprentices'",
+          "key": "Q1Qdy7I4ffs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68f14e5de27b477f41e2bccc",
+          "published_at": "2025-10-16T17:43:43.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ready to see some magic?",
+          "key": "1sB3XfMfVl0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68f257a5e584ff8c95ec5a28",
+          "published_at": "2025-10-15T16:00:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip 'A Lock You Solve'",
+          "key": "3JCNP8ABWH4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "68ef4e3ce3ddd25e27096147",
+          "published_at": "2025-10-14T17:00:07.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Now You See… his trailer.",
+          "key": "sbCgzQa1FdY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "68f258108b857e95c5ec59f1",
+          "published_at": "2025-10-13T17:03:43.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Clip 'Magic Showdown'",
+          "key": "lTf_hkEt4Ys",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "68f0595faefe322b69502f34",
+          "published_at": "2025-10-09T18:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Optical Illusion",
+          "key": "qfJ1NuMv4t4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68f25865de6c9fd842ec5a5c",
+          "published_at": "2025-10-01T17:01:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer #2",
+          "key": "uogrgIasYcA",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "68cc361385630fc9564db965",
+          "published_at": "2025-09-18T15:00:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Back on the map. Trailer 2 TOMORROW.",
+          "key": "3yzKdOESYNQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68cb69100ee5f1d4e5073775",
+          "published_at": "2025-09-17T18:16:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Mother knows best. Trailer 2 in TWO days.",
+          "key": "aWLlyrWtkX0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68c9d0541336cfb4e1805101",
+          "published_at": "2025-09-16T18:16:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "You know you missed Merritt. Trailer 2 in THREE days.",
+          "key": "9EDqqhTIK3o",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68c8588deb186e167af2228d",
+          "published_at": "2025-09-15T18:16:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "It’s about to get Wilder. Trailer in FOUR days.",
+          "key": "9mdNOeXX_uE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "68c7fc3db9f9e2439fe302be",
+          "published_at": "2025-09-14T18:16:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Treat yourself.",
+          "key": "zR7ApJF7BfE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68c68776e44fdae999f21b93",
+          "published_at": "2025-09-12T18:25:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Look closer. Which way does the diamond turn?",
+          "key": "s239xPGDous",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68c6885765d6a7958dc8fdf2",
+          "published_at": "2025-09-11T22:06:25.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "It’s called self care.",
+          "key": "nG52I31izy4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "68bb2ad9835743b3c7069513",
+          "published_at": "2025-09-05T17:09:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "We stole the show. You kept the change.",
+          "key": "QjgPT1-DYAs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "681581f750c68c5be2968685",
+          "published_at": "2025-05-02T17:36:49.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "-E3lMRx7HRQ",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "681108cf19292f098880d8f7",
+          "published_at": "2025-04-29T16:54:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "In theaters November 14, 2025.",
+          "key": "5KV2Clkym9s",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "67ec365c426f4d9b442fbc87",
+          "published_at": "2025-04-01T18:29:07.000Z"
+        }
+      ]
+    }
+  }
+}

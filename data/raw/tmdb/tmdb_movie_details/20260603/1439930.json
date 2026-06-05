@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1439930,
-  "ingestion_time_utc": "2026-06-03T18:31:51.190160+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:43.668857+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "The Punisher: One Last Kill",
     "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
-    "popularity": 275.098,
+    "popularity": 259.0049,
     "poster_path": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
     "production_companies": [
       {
@@ -68,8 +68,8 @@
     "tagline": "Hey Frank.",
     "title": "The Punisher: One Last Kill",
     "video": false,
-    "vote_average": 8.374,
-    "vote_count": 1413,
+    "vote_average": 8.366,
+    "vote_count": 1430,
     "videos": {
       "results": [
         {

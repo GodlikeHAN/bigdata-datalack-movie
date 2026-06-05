@@ -1,0 +1,428 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_popular",
+  "page": 3,
+  "ingestion_time_utc": "2026-06-05T12:33:29.683675+00:00",
+  "data": {
+    "page": 3,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+        "genre_ids": [
+          10402,
+          18
+        ],
+        "id": 936075,
+        "title": "Michael",
+        "original_language": "en",
+        "original_title": "Michael",
+        "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+        "popularity": 94.9554,
+        "poster_path": "/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+        "release_date": "2026-04-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.585,
+        "vote_count": 905
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "id": 1297842,
+        "title": "GOAT",
+        "original_language": "en",
+        "original_title": "GOAT",
+        "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+        "popularity": 91.6365,
+        "poster_path": "/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+        "release_date": "2026-02-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.118,
+        "vote_count": 729
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oTE4lNs4PSG5iIWjqaTdCIFJ4Bs.jpg",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "id": 1318447,
+        "title": "Apex",
+        "original_language": "en",
+        "original_title": "Apex",
+        "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+        "popularity": 91.9659,
+        "poster_path": "/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+        "release_date": "2026-04-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.747,
+        "vote_count": 1357
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+        "genre_ids": [
+          27,
+          35
+        ],
+        "id": 1239134,
+        "title": "Bhooth Bangla",
+        "original_language": "hi",
+        "original_title": "भूत बंगला",
+        "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+        "popularity": 83.297,
+        "poster_path": "/79RBp8afL4u4z3nVGR78z6eIvBB.jpg",
+        "release_date": "2026-04-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 1291608,
+        "title": "Dhurandhar",
+        "original_language": "hi",
+        "original_title": "धुरंधर",
+        "overview": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
+        "popularity": 86.0541,
+        "poster_path": "/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
+        "release_date": "2025-12-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.176,
+        "vote_count": 295
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aqqoDJs8vYp2EZ74aQ1UMY0sjM7.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 235271,
+        "title": "Addicted",
+        "original_language": "en",
+        "original_title": "Addicted",
+        "overview": "A gallerist risks her family and flourishing career when she enters into an affair with a talented painter and slowly loses control of her life.",
+        "popularity": 86.2684,
+        "poster_path": "/fAERrD6vvmznDoL99wlgjhSfPcH.jpg",
+        "release_date": "2014-10-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.918,
+        "vote_count": 446
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9qYPmrdpGT58hd3wSam82pmPIoW.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 1571594,
+        "title": "The Photographer",
+        "original_language": "es",
+        "original_title": "La fotógrafa",
+        "overview": "Inna, a young post-mortem photographer, arrives at a remote orphanage in northern Spain to capture the final image of Alejandra, a girl found dead under mysterious circumstances. But as her lens lingers on the tragedy, Inna begins to sense a dark presence within the orphanage's walls-an evil that refuses to remain hidden and threatens to make her its next subject.",
+        "popularity": 79.2263,
+        "poster_path": "/95pZ9yB5SABddzaINITvZd7SvER.jpg",
+        "release_date": "2025-10-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+        "genre_ids": [
+          12,
+          16,
+          35,
+          10751,
+          9648
+        ],
+        "id": 1084242,
+        "title": "Zootopia 2",
+        "original_language": "en",
+        "original_title": "Zootopia 2",
+        "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+        "popularity": 79.3173,
+        "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "release_date": "2025-11-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.653,
+        "vote_count": 2875
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hlZGaey4lR9hc4rGxZRAmIEsZOc.jpg",
+        "genre_ids": [
+          28,
+          18
+        ],
+        "id": 1292415,
+        "title": "Beast",
+        "original_language": "en",
+        "original_title": "Beast",
+        "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
+        "popularity": 73.2817,
+        "poster_path": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+        "release_date": "2026-04-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.223,
+        "vote_count": 47
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7TJjD2X9GTEqyLVIJKLS85J2V47.jpg",
+        "genre_ids": [
+          53,
+          28,
+          80
+        ],
+        "id": 28322,
+        "title": "Madness",
+        "original_language": "it",
+        "original_title": "Vacanze per un massacro",
+        "overview": "An escaped convicted murderer invades the cottage of a man, his wife and the wife's sister, whereupon he proceeds to torment this already dysfunctional trio with rape and violence.",
+        "popularity": 111.692,
+        "poster_path": "/gV0J0Fqw2mYMtQbzb0ruxv9MAeZ.jpg",
+        "release_date": "1980-03-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.969,
+        "vote_count": 32
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pjlxrd646cBYznHoPBWTzz6FujX.jpg",
+        "genre_ids": [
+          28,
+          878,
+          18
+        ],
+        "id": 39254,
+        "title": "Real Steel",
+        "original_language": "en",
+        "original_title": "Real Steel",
+        "overview": "Charlie Kenton is a washed-up fighter who retired from the ring when robots took over the sport. After his robot is trashed, he reluctantly teams up with his estranged son to rebuild and train an unlikely contender.",
+        "popularity": 78.628,
+        "poster_path": "/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg",
+        "release_date": "2011-09-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.097,
+        "vote_count": 9171
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/l1nekhf05HS5OpBr0vRqcD3NxoS.jpg",
+        "genre_ids": [
+          36,
+          80,
+          28,
+          14
+        ],
+        "id": 1103473,
+        "title": "KD – The Devil",
+        "original_language": "kn",
+        "original_title": "ಕೆಡಿ - ದಿ ಡೆವಿಲ್",
+        "overview": "In the early 1970s, a petty criminal Kaali unwittingly involves himself with underworld thugs, catalyzing events beyond his control.",
+        "popularity": 94.0511,
+        "poster_path": "/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
+        "release_date": "2026-04-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mxdiaM2tsx8M6W3zLgiPwAkhQfq.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 744275,
+        "title": "After We Fell",
+        "original_language": "en",
+        "original_title": "After We Fell",
+        "overview": "Just as Tessa's life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she's been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.",
+        "popularity": 74.1802,
+        "poster_path": "/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg",
+        "release_date": "2021-09-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 2743
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 1699574,
+        "title": "Deool Band 2",
+        "original_language": "mr",
+        "original_title": "देऊळ बँड 2",
+        "overview": "The story follows a farmer who decides to question and test his faith, setting off a journey filled with emotional and life-altering moments. At its core, the narrative centers on a woman who tirelessly struggles for her family, facing hardships with resilience, as her path ultimately leads her to confront the very idea of divine power",
+        "popularity": 78.2393,
+        "poster_path": "/89n9cfc5dm0kdkABmDJalzveEwU.jpg",
+        "release_date": "2026-05-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/61RYedFgX1K07xgVIvdJzukSR4g.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10751,
+          10749
+        ],
+        "id": 848116,
+        "title": "Rocky Aur Rani Kii Prem Kahaani",
+        "original_language": "hi",
+        "original_title": "रॉकी और रानी की प्रेम कहानी",
+        "overview": "Gym-freak brat Rocky falls in love with Rani, who comes from a well-educated Bengali family. Being from polar opposite worlds, the two decide to switch their families to adjust to each other's cultures and backgrounds and to know if their marriage will survive. Rocky and Rani are trapped in a world where they are united by love but divided by families and the ultimate question is will they fit in?",
+        "popularity": 58.8569,
+        "poster_path": "/vTQIqlxUkOuyf2UKhlM2OUaFGKz.jpg",
+        "release_date": "2023-07-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.142,
+        "vote_count": 88
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gYumbUCWyUI6Mutgd7oILOCunk8.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 1252051,
+        "title": "Disforia",
+        "original_language": "es",
+        "original_title": "Disforia",
+        "overview": "Set in the near future against the backdrop of widespread looting and societal collapse, the couple formed by Esther and Tomás and their daughter Say move to their summer house so they can promptly sell it and then flee from their country to France, drawing attention from a ring of voyeurs of real-life torture streamed on the dark web.",
+        "popularity": 66.4728,
+        "poster_path": "/49pzxbf1Eftz7wQZdVDVl8OM9bg.jpg",
+        "release_date": "2025-09-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.833,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg",
+        "genre_ids": [
+          28,
+          12,
+          16,
+          14
+        ],
+        "id": 980431,
+        "title": "Avatar Aang: The Last Airbender",
+        "original_language": "en",
+        "original_title": "Avatar Aang: The Last Airbender",
+        "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+        "popularity": 69.6195,
+        "poster_path": "/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
+        "release_date": "2026-10-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2ssWTSVklAEc98frZUQhgtGHx7s.jpg",
+        "genre_ids": [
+          12,
+          18,
+          878
+        ],
+        "id": 157336,
+        "title": "Interstellar",
+        "original_language": "en",
+        "original_title": "Interstellar",
+        "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+        "popularity": 71.8885,
+        "poster_path": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+        "release_date": "2014-11-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.476,
+        "vote_count": 39908
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6muIb4lmdF2uJmrAY4zyH11wYxW.jpg",
+        "genre_ids": [
+          10749,
+          18,
+          35
+        ],
+        "id": 1157008,
+        "title": "Dime lo que quieres (de verdad)",
+        "original_language": "es",
+        "original_title": "Dime lo que quieres (de verdad)",
+        "overview": "Diego and Emilia are a conservative couple with 16 years of marriage who have lost the spark, until Tomás and Betina rescue them and introduce them to the forbidden world, changing what they know about intimacy, relationships, and sex.",
+        "popularity": 67.4072,
+        "poster_path": "/2ynUMfrwnEdGmkZmpiiJmTdTi4w.jpg",
+        "release_date": "2023-07-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.629,
+        "vote_count": 31
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 278,
+        "title": "The Shawshank Redemption",
+        "original_language": "en",
+        "original_title": "The Shawshank Redemption",
+        "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+        "popularity": 67.7713,
+        "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+        "release_date": "1994-09-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.722,
+        "vote_count": 30477
+      }
+    ],
+    "total_pages": 57237,
+    "total_results": 1144738
+  }
+}

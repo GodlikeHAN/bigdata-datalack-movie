@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 533535,
-  "ingestion_time_utc": "2026-06-03T18:31:59.174414+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.985898+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/ufpeVEM64uZHPpzzeiDNIAdaeOD.jpg",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "Deadpool & Wolverine",
     "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
-    "popularity": 39.6585,
+    "popularity": 40.6947,
     "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
     "production_companies": [
       {
@@ -97,8 +97,8 @@
     "tagline": "Come together.",
     "title": "Deadpool & Wolverine",
     "video": false,
-    "vote_average": 7.57,
-    "vote_count": 8689,
+    "vote_average": 7.571,
+    "vote_count": 8695,
     "videos": {
       "results": [
         {

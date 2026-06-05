@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt32394984",
-  "ingestion_time_utc": "2026-06-03T18:32:30.318266+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:08.490386+00:00",
   "data": {
     "Title": "Brothers Under Fire",
     "Year": "2026",

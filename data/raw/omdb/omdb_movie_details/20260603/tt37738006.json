@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt37738006",
-  "ingestion_time_utc": "2026-06-03T18:32:31.633768+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:09.831220+00:00",
   "data": {
     "Title": "1000 Men and Me: The Bonnie Blue Story",
     "Year": "2025",

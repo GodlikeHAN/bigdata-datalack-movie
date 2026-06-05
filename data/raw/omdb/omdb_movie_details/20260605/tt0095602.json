@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0095602",
+  "ingestion_time_utc": "2026-06-05T14:08:12.989376+00:00",
+  "data": {
+    "Title": "Matinee",
+    "Year": "1989",
+    "Rated": "Not Rated",
+    "Released": "02 Feb 1990",
+    "Runtime": "90 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Richard Martin",
+    "Writer": "Richard Martin",
+    "Actors": "Ron White, Gillian Barber, Jeff Schultz",
+    "Plot": "A small, depressed Canadian town is about to relive its tragic past when a popular movie director comes back to town - but who is the killer?",
+    "Language": "English",
+    "Country": "Canada",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjE1YWU4Y2EtOTQzMS00YmFkLWIwYjItYWI5NmZmZjY1NjNhXkEyXkFqcGdeQXVyMjM2ODYwMQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.1/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.1",
+    "imdbVotes": "244",
+    "imdbID": "tt0095602",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

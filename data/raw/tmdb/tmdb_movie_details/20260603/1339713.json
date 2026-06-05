@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1339713,
-  "ingestion_time_utc": "2026-06-03T18:31:51.114889+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:43.609440+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
@@ -12,6 +12,10 @@
       {
         "id": 27,
         "name": "Horror"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
       }
     ],
     "homepage": "http://www.focusfeatures.com/obsession",
@@ -23,7 +27,7 @@
     "original_language": "en",
     "original_title": "Obsession",
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "popularity": 592.6272,
+    "popularity": 653.5424,
     "poster_path": "/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
     "production_companies": [
       {
@@ -62,7 +66,7 @@
       }
     ],
     "release_date": "2026-05-13",
-    "revenue": 155781315,
+    "revenue": 161534055,
     "runtime": 108,
     "softcore": false,
     "spoken_languages": [
@@ -76,10 +80,22 @@
     "tagline": "Be careful who you wish for…",
     "title": "Obsession",
     "video": false,
-    "vote_average": 7.922,
-    "vote_count": 481,
+    "vote_average": 7.9,
+    "vote_count": 497,
     "videos": {
       "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "What's On The Menu? - The Cast of Obsession Reveals Their Perfect Secret Sandwich Ingredients",
+          "key": "l4YERhbntis",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a20d8f4c4f6416bdaa691ee",
+          "published_at": "2026-06-03T17:00:04.000Z"
+        },
         {
           "iso_639_1": "en",
           "iso_3166_1": "US",

@@ -1,0 +1,183 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1265609,
+  "ingestion_time_utc": "2026-06-05T12:33:48.956909+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+    "belongs_to_collection": {
+      "id": 1707178,
+      "name": "War Machine - Collection",
+      "poster_path": null,
+      "backdrop_path": null
+    },
+    "budget": 73000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/81768525",
+    "id": 1265609,
+    "imdb_id": "tt15940132",
+    "origin_country": [
+      "AU"
+    ],
+    "original_language": "en",
+    "original_title": "War Machine",
+    "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+    "popularity": 43.7679,
+    "poster_path": "/ril8yx5SOmj0KjNlftsdfIp00fr.jpg",
+    "production_companies": [
+      {
+        "id": 1632,
+        "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "name": "Lionsgate",
+        "origin_country": "US"
+      },
+      {
+        "id": 198785,
+        "logo_path": "/oBnMrmwnlAKcACe5h7Vwmk8m1CC.png",
+        "name": "Hidden Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 224643,
+        "logo_path": null,
+        "name": "Huge Film",
+        "origin_country": "AU"
+      },
+      {
+        "id": 167684,
+        "logo_path": "/kzQwU2H6woBFti9cqjr9BrVXrst.png",
+        "name": "Range Media Partners",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-02-12",
+    "revenue": 0,
+    "runtime": 110,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "All grit. No quit.",
+    "title": "War Machine",
+    "video": false,
+    "vote_average": 7.353,
+    "vote_count": 1829,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Behind Alan Ritchson’s Biggest Stunts",
+          "key": "11zb_AwWsZ4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "69c3e26bbffcd46a6aa254d2",
+          "published_at": "2026-03-20T22:30:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Patrick Hughes Challenges Alan Ritchson to Beat the Machines",
+          "key": "BDD9VA0F24U",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69c3e291bc4149caaeb60e12",
+          "published_at": "2026-03-16T19:30:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Alan Ritchson & Patrick Hughes Break Down the River Crossing Scene",
+          "key": "p7nNJfyNgGY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69c3e2a6d721fef1c8a254bb",
+          "published_at": "2026-03-14T15:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Alan Ritchson Full Underwater Take",
+          "key": "8NJ7_R3RNFk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "69c3e2ce48fae06e24b60db6",
+          "published_at": "2026-03-08T15:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Alan Ritchson's Military Squad Awakens A Mech",
+          "key": "VZrrOaFxASg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": false,
+          "id": "69c5c6f10e7175987989bd6c",
+          "published_at": "2026-03-03T20:15:53.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Alan Ritchson, Built Different - Inside Look",
+          "key": "otIl-aAm4lI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6984d57cfeeee2a47b9130a0",
+          "published_at": "2026-02-05T17:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "AFuE1LRxm80",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69838d774557db8a436ee688",
+          "published_at": "2026-02-04T18:00:00.000Z"
+        }
+      ]
+    }
+  }
+}

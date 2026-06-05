@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt37738006",
+  "ingestion_time_utc": "2026-06-05T14:08:15.397557+00:00",
+  "data": {
+    "Title": "1000 Men and Me: The Bonnie Blue Story",
+    "Year": "2025",
+    "Rated": "N/A",
+    "Released": "29 Jul 2025",
+    "Runtime": "60 min",
+    "Genre": "Documentary",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "Bonnie Blue, Annie Knight, Lily Phillips",
+    "Plot": "When adult content creator Bonnie Blue announced that she'd slept with 1057 men in 12 hours, was she dangerously pandering to male fantasies or being an empowered sex-positive entrepreneur?",
+    "Language": "N/A",
+    "Country": "United Kingdom",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmEwNTI0N2YtYTMxOC00NDA4LThmMTQtMjAzNGFhNmFjNTJhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.1/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.1",
+    "imdbVotes": "837",
+    "imdbID": "tt37738006",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

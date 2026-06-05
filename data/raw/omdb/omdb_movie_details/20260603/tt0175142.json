@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0175142",
-  "ingestion_time_utc": "2026-06-03T18:32:38.237786+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:16.139649+00:00",
   "data": {
     "Title": "Scary Movie",
     "Year": "2000",

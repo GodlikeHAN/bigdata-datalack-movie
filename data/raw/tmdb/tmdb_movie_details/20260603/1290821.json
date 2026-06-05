@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1290821,
-  "ingestion_time_utc": "2026-06-03T18:31:56.797768+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.227849+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
@@ -32,7 +32,7 @@
     "original_language": "en",
     "original_title": "Shelter",
     "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
-    "popularity": 64.6299,
+    "popularity": 63.1725,
     "poster_path": "/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
     "production_companies": [
       {
@@ -90,8 +90,8 @@
     "tagline": "Her safety. His mission.",
     "title": "Shelter",
     "video": false,
-    "vote_average": 7.623,
-    "vote_count": 1097,
+    "vote_average": 7.626,
+    "vote_count": 1103,
     "videos": {
       "results": [
         {

@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt13452544",
+  "ingestion_time_utc": "2026-06-05T12:34:48.342411+00:00",
+  "data": {
+    "Title": "Graphic Desires",
+    "Year": "2022",
+    "Rated": "N/A",
+    "Released": "15 Aug 2022",
+    "Runtime": "90 min",
+    "Genre": "Thriller",
+    "Director": "Andy Edwards",
+    "Writer": "Andy Edwards",
+    "Actors": "David Wayman, Sian Altman, May Kelly",
+    "Plot": "When reclusive Franklin cheats on his partner with a mysterious girl he meets on a dating app, it becomes the start of a deadly obsession.",
+    "Language": "English",
+    "Country": "United Kingdom",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjgwZTNkOTQtNGRiYS00ZTI5LWE3NWYtZmUxYzc2ZDZjM2QxXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.2/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.2",
+    "imdbVotes": "536",
+    "imdbID": "tt13452544",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 808,
+  "ingestion_time_utc": "2026-06-05T14:07:50.442737+00:00",
+  "data": {
+    "id": 808,
+    "imdb_id": "tt0126029",
+    "wikidata_id": "Q483815",
+    "facebook_id": "Shrek",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

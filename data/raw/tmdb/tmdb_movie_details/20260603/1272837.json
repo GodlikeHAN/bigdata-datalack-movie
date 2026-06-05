@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1272837,
-  "ingestion_time_utc": "2026-06-03T18:32:00.572179+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:46.438848+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "28 Years Later: The Bone Temple",
     "overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
-    "popularity": 33.0701,
+    "popularity": 31.8441,
     "poster_path": "/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
     "production_companies": [
       {
@@ -83,8 +83,8 @@
     "tagline": "Fear is the new faith.",
     "title": "28 Years Later: The Bone Temple",
     "video": false,
-    "vote_average": 7.13,
-    "vote_count": 1254,
+    "vote_average": 7.134,
+    "vote_count": 1256,
     "videos": {
       "results": [
         {

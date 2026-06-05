@@ -1,0 +1,90 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1673393,
+  "ingestion_time_utc": "2026-06-05T14:07:40.100862+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/quMadsmJAFKGd6UpCFwxtlrVxPF.jpg",
+    "belongs_to_collection": null,
+    "budget": 16000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1673393,
+    "imdb_id": "tt41804839",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_title": "कृष्णावतरम भाग 1: हृदय (हृदयम्)",
+    "overview": "An epic devotional narrative that reimagines the journey of Lord Krishna, tracing his path from Dwarka to Kurukshetra after parting ways with Radha. As his journey unfolds, it explores his connection with people, his layered personality, and the lessons he imparts about love and life.",
+    "popularity": 25.1025,
+    "poster_path": "/7AxJYvPWLlNiGH52A9eenDxQzu8.jpg",
+    "production_companies": [
+      {
+        "id": 298192,
+        "logo_path": null,
+        "name": "Creativeland",
+        "origin_country": ""
+      },
+      {
+        "id": 298193,
+        "logo_path": null,
+        "name": "Athasrikatha",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-05-07",
+    "revenue": 1000000,
+    "runtime": 149,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Krishnavataram Part 1: The Heart (Hridayam)",
+    "video": false,
+    "vote_average": 8.8,
+    "vote_count": 5,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Krishnavataram Part 1: The Heart (Hridayam) | Official Trailer",
+          "key": "KIwC1m7etLE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "69fd8fbc99685556054c6d3c",
+          "published_at": "2026-04-15T05:30:21.000Z"
+        }
+      ]
+    }
+  }
+}

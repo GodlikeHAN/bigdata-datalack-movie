@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1630423,
-  "ingestion_time_utc": "2026-06-03T18:31:57.149516+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.533509+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/xA6AM5MvEkieZKlv1Tn3sN23I7i.jpg",
@@ -31,7 +31,7 @@
     "original_language": "th",
     "original_title": "Lueat Rak Nakkha",
     "overview": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces.",
-    "popularity": 53.2773,
+    "popularity": 51.0209,
     "poster_path": "/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
     "production_companies": [
       {

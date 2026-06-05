@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1275779,
-  "ingestion_time_utc": "2026-06-03T18:31:57.164533+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.377847+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/5p6BsJtnPbglYN15MuiUEppPl0f.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Disclosure Day",
     "overview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
-    "popularity": 58.475,
+    "popularity": 58.2234,
     "poster_path": "/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
     "production_companies": [
       {
@@ -68,8 +68,8 @@
     "tagline": "We deserve to know.",
     "title": "Disclosure Day",
     "video": false,
-    "vote_average": 0.0,
-    "vote_count": 0,
+    "vote_average": 8.0,
+    "vote_count": 1,
     "videos": {
       "results": [
         {

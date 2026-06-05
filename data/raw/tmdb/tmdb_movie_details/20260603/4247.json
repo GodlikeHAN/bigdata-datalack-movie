@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 4247,
-  "ingestion_time_utc": "2026-06-03T18:31:52.929106+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.420416+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/m5dA4JZsj78EBTa2D6imWOAebwB.jpg",
@@ -28,7 +28,7 @@
     "original_language": "en",
     "original_title": "Scary Movie",
     "overview": "A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!",
-    "popularity": 26.9365,
+    "popularity": 28.8794,
     "poster_path": "/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
     "production_companies": [
       {
@@ -77,8 +77,8 @@
     "tagline": "No mercy. No shame. No sequel.",
     "title": "Scary Movie",
     "video": false,
-    "vote_average": 6.396,
-    "vote_count": 7771,
+    "vote_average": 6.4,
+    "vote_count": 7774,
     "videos": {
       "results": [
         {

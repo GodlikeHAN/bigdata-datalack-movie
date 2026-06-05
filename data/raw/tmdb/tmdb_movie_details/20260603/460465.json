@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 460465,
-  "ingestion_time_utc": "2026-06-03T18:31:55.313151+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.680006+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
@@ -38,7 +38,7 @@
     "original_language": "en",
     "original_title": "Mortal Kombat",
     "overview": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.",
-    "popularity": 125.3647,
+    "popularity": 122.3292,
     "poster_path": "/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg",
     "production_companies": [
       {
@@ -91,8 +91,8 @@
     "tagline": "Get over here!",
     "title": "Mortal Kombat",
     "video": false,
-    "vote_average": 7.036,
-    "vote_count": 6683,
+    "vote_average": 7.037,
+    "vote_count": 6689,
     "videos": {
       "results": [
         {

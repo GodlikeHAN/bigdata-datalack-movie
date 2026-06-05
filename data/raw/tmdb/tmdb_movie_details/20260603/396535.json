@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 396535,
-  "ingestion_time_utc": "2026-06-03T18:31:52.179241+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.281470+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/fVpFOcQyHJM2di9upgSIwWD5wac.jpg",
@@ -40,7 +40,7 @@
     "original_language": "ko",
     "original_title": "부산행",
     "overview": "When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.",
-    "popularity": 27.2877,
+    "popularity": 24.3672,
     "poster_path": "/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
     "production_companies": [
       {
@@ -96,7 +96,7 @@
     "title": "Train to Busan",
     "video": false,
     "vote_average": 7.75,
-    "vote_count": 8384,
+    "vote_count": 8387,
     "videos": {
       "results": [
         {

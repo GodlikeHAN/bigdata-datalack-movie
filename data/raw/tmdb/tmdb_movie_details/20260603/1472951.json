@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1472951,
-  "ingestion_time_utc": "2026-06-03T18:31:55.624803+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.768296+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/cfDHxkco8RrslL0Vk2XPTwTVFCe.jpg",
@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Infiltrate",
     "overview": "In a city overrun by crime, government Agent Lily Chen is forced to choose between her duty and her family when her husband is kidnapped, and she’s blackmailed into assassinating high-level criminals to save him. As she delves deeper into the criminal underworld, Lily’s relentless pursuit of justice unravels a web of corruption, leading to a final, life-altering decision that will change her world forever.",
-    "popularity": 106.7725,
+    "popularity": 110.1585,
     "poster_path": "/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
     "production_companies": [
       {

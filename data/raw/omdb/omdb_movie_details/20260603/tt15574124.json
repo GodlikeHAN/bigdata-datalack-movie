@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt15574124",
-  "ingestion_time_utc": "2026-06-03T18:32:43.546525+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:21.875933+00:00",
   "data": {
     "Title": "Peaky Blinders: The Immortal Man",
     "Year": "2026",

@@ -1,0 +1,424 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_popular",
+  "page": 6,
+  "ingestion_time_utc": "2026-06-05T14:07:36.799426+00:00",
+  "data": {
+    "page": 6,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/mFDQ8f2lPHorGwtuE0fjnUIbKLF.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 62029,
+        "title": "Bingo Bongo",
+        "original_language": "it",
+        "original_title": "Bingo Bongo",
+        "overview": "The ape-man, found somewhere in the jungles of Congo, transferred to Milan and named Bingo Bongo. The only one who believes in the human qualities of him is Laura, a woman anthropologist , so their affection for each other even grows to love.",
+        "popularity": 40.3803,
+        "poster_path": "/5ve4VuCwi7Xas5s50ynEB7uFjM2.jpg",
+        "release_date": "1982-12-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 176
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fjcX01h7VNUhhNjhFBthH7sTp2z.jpg",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "id": 204407,
+        "title": "Bosco d'amore",
+        "original_language": "en",
+        "original_title": "Bosco d'amore",
+        "overview": "The time is the mid-14th century --- the Pope is now residing at Avignon, the Black Death is killing millions across Europe, and civil wars are adding to the turmoil and chaos. In this story adapted from Giovanni Boccaccio's Decameron, a young teenage couple is sent to live in a nearby town by the man's uncle, in an attempt to keep them safe from harm. She is from the lower classes, and he comes from a noble family -- a family that opposes his choice of a future bride. While en route to the town, the couple's horses are stolen and they are forced to continue through the forest on foot -- at a pace that introduces them to a kaleidoscope of Boccaccio's characters, from masters of mysticism, to soldiers of the warring Papal armies. Somehow, the couple manage to get through this gauntlet of sorts, and they do marry. Just as they are ready to go back to Rome, they hear that there is an insurrection in the offing, and suddenly, their brief spate of stability is threatened again.",
+        "popularity": 39.0603,
+        "poster_path": "/jNV46xSIONTEvIAWon6NnveH7eG.jpg",
+        "release_date": "1981-09-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.667,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gfRm3ITRJuFm8n6gRJ0L2VLrL5w.jpg",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "id": 847742,
+        "title": "Drishyam 3",
+        "original_language": "ml",
+        "original_title": "ദൃശ്യം 3",
+        "overview": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice ?",
+        "popularity": 45.4876,
+        "poster_path": "/iSBVjFjxvG94ypIi13Mdomz4j52.jpg",
+        "release_date": "2026-05-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3QEwa9vZFC8PyZgFOKYPZx55nv8.jpg",
+        "genre_ids": [
+          35,
+          53,
+          18
+        ],
+        "id": 1628448,
+        "title": "Maa Behen",
+        "original_language": "hi",
+        "original_title": "Maa Behen",
+        "overview": "In this dark comedy, a woman calls her estranged daughters in the middle of the night with chilling news — there's a dead body in her kitchen.",
+        "popularity": 45.8648,
+        "poster_path": "/dpQIeEunpgj0C4rngb6OFb4zSd1.jpg",
+        "release_date": "2026-06-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ldUVeDfA5ID2vchHGejrEltoBSN.jpg",
+        "genre_ids": [
+          12,
+          18,
+          10751
+        ],
+        "id": 1662414,
+        "title": "Propeller One-Way Night Coach",
+        "original_language": "en",
+        "original_title": "Propeller One-Way Night Coach",
+        "overview": "During the golden age of aviation, a young airplane enthusiast and his mother embark on a cross-country journey to Hollywood—and their simple flight transforms into the trip of a lifetime.",
+        "popularity": 41.4372,
+        "poster_path": "/joal4OSVC4T1yFb3kph91tkNNFf.jpg",
+        "release_date": "2026-05-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.381,
+        "vote_count": 21
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+        "genre_ids": [
+          28,
+          878,
+          53
+        ],
+        "id": 1265609,
+        "title": "War Machine",
+        "original_language": "en",
+        "original_title": "War Machine",
+        "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+        "popularity": 43.7679,
+        "poster_path": "/ril8yx5SOmj0KjNlftsdfIp00fr.jpg",
+        "release_date": "2026-02-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.353,
+        "vote_count": 1829
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oV472EbPedkc5QzqolGc7sCgCnn.jpg",
+        "genre_ids": [
+          27,
+          28,
+          53
+        ],
+        "id": 1110034,
+        "title": "Kraken",
+        "original_language": "no",
+        "original_title": "Kraken",
+        "overview": "A marine biologist is doing research on a fish farm when she encounters several strange occurrences. Along with the brutal deaths of two teenagers, all signs point to the deep fjord; can there be more to the depths than the eye can see?",
+        "popularity": 43.4515,
+        "poster_path": "/xdZ8k5s8DTwWyPBMIcflrYLgcAK.jpg",
+        "release_date": "2026-02-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.898,
+        "vote_count": 54
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nnmbJvYyDS1VkMOCbxSpdBi3WbJ.jpg",
+        "genre_ids": [
+          28,
+          18,
+          36
+        ],
+        "id": 1579,
+        "title": "Apocalypto",
+        "original_language": "en",
+        "original_title": "Apocalypto",
+        "overview": "Set in the Mayan civilization, when a man's idyllic presence is brutally disrupted by a violent invading force, he is taken on a perilous journey to a world ruled by fear and oppression where a harrowing end awaits him. Through a twist of fate and spurred by the power of his love for his woman and his family he will make a desperate break to return home and to ultimately save his way of life.",
+        "popularity": 44.8586,
+        "poster_path": "/cRY25Q32kDNPFDkFkxAs6bgCq3L.jpg",
+        "release_date": "2006-12-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.631,
+        "vote_count": 6371
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
+        "genre_ids": [
+          28,
+          35,
+          27
+        ],
+        "id": 1292695,
+        "title": "They Will Kill You",
+        "original_language": "en",
+        "original_title": "They Will Kill You",
+        "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+        "popularity": 40.9212,
+        "poster_path": "/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+        "release_date": "2026-03-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.012,
+        "vote_count": 659
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w4bjx5qCKG6SjhnqLi2aj1GUsxe.jpg",
+        "genre_ids": [
+          28,
+          36,
+          18
+        ],
+        "id": 1247165,
+        "title": "Raja Shivaji",
+        "original_language": "mr",
+        "original_title": "राजा शिवाजी",
+        "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
+        "popularity": 39.6734,
+        "poster_path": "/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
+        "release_date": "2026-05-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kI7JBjvZkqYsLJRhcqTQU1MMdQA.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 424711,
+        "title": "Poppea's Hot Nights",
+        "original_language": "it",
+        "original_title": "Le calde notti di Poppea",
+        "overview": "Poppea's Hot Nights (Italian: Le calde notti di Poppea) is a 1969 Italian comedy film set in Ancient Rome. It was written and directed by Guido Malatesta and stars Olga Schoberová (credited as Olinka Berova) and Brad Harris in the main roles.",
+        "popularity": 55.8188,
+        "poster_path": "/zNfqugt7ZPFpWeXAQsF5IqDCDft.jpg",
+        "release_date": "1969-01-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 3.6,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 238,
+        "title": "The Godfather",
+        "original_language": "en",
+        "original_title": "The Godfather",
+        "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+        "popularity": 43.1905,
+        "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "release_date": "1972-03-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.7,
+        "vote_count": 22984
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rZWkXnIyTLzUJpHSUpOb7vgB0BL.jpg",
+        "genre_ids": [
+          28,
+          18
+        ],
+        "id": 911430,
+        "title": "F1",
+        "original_language": "en",
+        "original_title": "F1",
+        "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
+        "popularity": 41.0124,
+        "poster_path": "/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg",
+        "release_date": "2025-06-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.789,
+        "vote_count": 4007
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "id": 19995,
+        "title": "Avatar",
+        "original_language": "en",
+        "original_title": "Avatar",
+        "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+        "popularity": 46.9802,
+        "poster_path": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+        "release_date": "2009-12-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.606,
+        "vote_count": 34010
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/52AkwEfQiJl2HuTPMZ2yC5Bdr9I.jpg",
+        "genre_ids": [
+          80,
+          53
+        ],
+        "id": 1171145,
+        "title": "Crime 101",
+        "original_language": "en",
+        "original_title": "Crime 101",
+        "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
+        "popularity": 41.7477,
+        "poster_path": "/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
+        "release_date": "2026-02-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.989,
+        "vote_count": 1037
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xyW8rJO3rwG2EGcTO6eaUEa8b9d.jpg",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "id": 1613798,
+        "title": "Vengeance",
+        "original_language": "es",
+        "original_title": "Venganza",
+        "overview": "The brutal murder of the wife of “Toro,” a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible.",
+        "popularity": 43.5858,
+        "poster_path": "/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
+        "release_date": "2026-02-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.485,
+        "vote_count": 237
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "id": 24428,
+        "title": "The Avengers",
+        "original_language": "en",
+        "original_title": "The Avengers",
+        "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+        "popularity": 47.9429,
+        "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+        "release_date": "2012-04-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.036,
+        "vote_count": 38154
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1Xi0FNU0uj82GfUw2vWHsVCiRv5.jpg",
+        "genre_ids": [
+          27,
+          18,
+          9648
+        ],
+        "id": 1281425,
+        "title": "Night Silence",
+        "original_language": "pl",
+        "original_title": "Cisza nocna",
+        "overview": "A theatre actor whose health is failing gets admitted to a nursing home. Soon, he starts having nightmares that seemingly become deceptively real. The so-called nightmares were able to make him live in two parallel dimensions.",
+        "popularity": 37.4402,
+        "poster_path": "/gBYhjuq0ZEDN710C5sKVq45y1pA.jpg",
+        "release_date": "2024-10-31",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "id": 122,
+        "title": "The Lord of the Rings: The Return of the King",
+        "original_language": "en",
+        "original_title": "The Lord of the Rings: The Return of the King",
+        "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
+        "popularity": 41.7725,
+        "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+        "release_date": "2003-12-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 26590
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "id": 155,
+        "title": "The Dark Knight",
+        "original_language": "en",
+        "original_title": "The Dark Knight",
+        "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+        "popularity": 40.2733,
+        "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "release_date": "2008-07-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.531,
+        "vote_count": 35834
+      }
+    ],
+    "total_pages": 57237,
+    "total_results": 1144735
+  }
+}

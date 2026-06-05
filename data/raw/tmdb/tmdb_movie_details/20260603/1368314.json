@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1368314,
-  "ingestion_time_utc": "2026-06-03T18:31:52.196900+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.434063+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/hl7FEzMqgpsD0RfwMzskzQoiD1M.jpg",
@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Passenger",
     "overview": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
-    "popularity": 26.7122,
+    "popularity": 25.8112,
     "poster_path": "/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
     "production_companies": [
       {
@@ -76,8 +76,8 @@
     "tagline": "130 million people take road trips every year. 15,400 of them are never seen again.",
     "title": "Passenger",
     "video": false,
-    "vote_average": 6.112,
-    "vote_count": 58,
+    "vote_average": 6.139,
+    "vote_count": 61,
     "videos": {
       "results": [
         {

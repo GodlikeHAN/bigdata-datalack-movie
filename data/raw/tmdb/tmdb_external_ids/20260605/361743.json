@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 361743,
+  "ingestion_time_utc": "2026-06-05T14:07:57.651025+00:00",
+  "data": {
+    "id": 361743,
+    "imdb_id": "tt1745960",
+    "wikidata_id": "Q31202708",
+    "facebook_id": "TopGunMovie",
+    "instagram_id": "topgunmovie",
+    "twitter_id": "TopGunMovie"
+  }
+}

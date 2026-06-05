@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt31227572",
-  "ingestion_time_utc": "2026-06-03T18:32:24.773286+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:02.649671+00:00",
   "data": {
     "Title": "Predator: Badlands",
     "Year": "2025",

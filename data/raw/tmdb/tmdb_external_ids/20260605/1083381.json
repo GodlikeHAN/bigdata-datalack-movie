@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1083381,
+  "ingestion_time_utc": "2026-06-05T14:07:49.157274+00:00",
+  "data": {
+    "id": 1083381,
+    "imdb_id": "tt26657236",
+    "wikidata_id": "Q125131076",
+    "facebook_id": "backroomsmovie",
+    "instagram_id": "backroomsmovie",
+    "twitter_id": "BackroomsMov"
+  }
+}

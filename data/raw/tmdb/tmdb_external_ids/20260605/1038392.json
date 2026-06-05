@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1038392,
+  "ingestion_time_utc": "2026-06-05T14:07:56.193517+00:00",
+  "data": {
+    "id": 1038392,
+    "imdb_id": "tt22898462",
+    "wikidata_id": "Q114802043",
+    "facebook_id": "@TheConjuringMovie",
+    "instagram_id": "theconjuring",
+    "twitter_id": "TheConjuring"
+  }
+}

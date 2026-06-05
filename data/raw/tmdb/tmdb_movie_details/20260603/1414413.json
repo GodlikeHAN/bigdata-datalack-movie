@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1414413,
-  "ingestion_time_utc": "2026-06-03T18:31:59.293580+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:46.265786+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/6D2NsU3FIQVthPgjT6RAsX58qZ6.jpg",
@@ -35,7 +35,7 @@
     "original_language": "en",
     "original_title": "Brothers Under Fire",
     "overview": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
-    "popularity": 36.9348,
+    "popularity": 35.2108,
     "poster_path": "/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
     "production_companies": [
       {

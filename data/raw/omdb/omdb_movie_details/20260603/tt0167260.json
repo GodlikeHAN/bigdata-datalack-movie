@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0167260",
-  "ingestion_time_utc": "2026-06-03T18:32:23.313804+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:00.927625+00:00",
   "data": {
     "Title": "The Lord of the Rings: The Return of the King",
     "Year": "2003",

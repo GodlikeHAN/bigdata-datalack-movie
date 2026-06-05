@@ -1,0 +1,96 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1628448,
+  "ingestion_time_utc": "2026-06-05T14:07:42.898452+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/3QEwa9vZFC8PyZgFOKYPZx55nv8.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "https://www.netflix.com/in/title/81702997",
+    "id": 1628448,
+    "imdb_id": "tt33538438",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_title": "Maa Behen",
+    "overview": "In this dark comedy, a woman calls her estranged daughters in the middle of the night with chilling news — there's a dead body in her kitchen.",
+    "popularity": 45.8648,
+    "poster_path": "/dpQIeEunpgj0C4rngb6OFb4zSd1.jpg",
+    "production_companies": [
+      {
+        "id": 86581,
+        "logo_path": "/k6YH6rQLtNAgI5dQ7LIzBBvIgtx.png",
+        "name": "Abundantia Entertainment",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-06-04",
+    "revenue": 0,
+    "runtime": 127,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Maa Behen",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Maa Behen Trailer | Madhuri Dixit, Triptii Dimri, Ravi Kishan, Dharna Durga| Maa Behen Movie Trailer",
+          "key": "NRGrE-GxWxo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": false,
+          "id": "6a222310c30d610f929433df",
+          "published_at": "2026-02-04T13:32:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser",
+          "key": "rSTk9KgrJ3w",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6982259e93ad53870e3144ef",
+          "published_at": "2026-02-03T15:01:38.000Z"
+        }
+      ]
+    }
+  }
+}

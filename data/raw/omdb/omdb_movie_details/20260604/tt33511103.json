@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt33511103",
+  "ingestion_time_utc": "2026-06-05T12:34:21.615697+00:00",
+  "data": {
+    "Title": "Donselya",
+    "Year": "2024",
+    "Rated": "N/A",
+    "Released": "29 Oct 2024",
+    "Runtime": "100 min",
+    "Genre": "Drama",
+    "Director": "Christopher Novabos",
+    "Writer": "Byron Bryant",
+    "Actors": "Dyessa Garcia, Arnold Reyes, Alan Paule",
+    "Plot": "An 18-year-old virgin, Iris, enters a marriage of convenience with wealthy widower Joaquin for financial gain. However, the discovery of her deceit regarding her purity leads to a disastrous honeymoon.",
+    "Language": "Tagalog, Filipino",
+    "Country": "Philippines",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjk1ZjM4N2QtNTI2ZC00ZDdjLWJhYmEtMTBkM2IxNDJlY2JkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "101",
+    "imdbID": "tt33511103",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

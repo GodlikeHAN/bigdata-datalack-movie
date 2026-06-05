@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1235192,
-  "ingestion_time_utc": "2026-06-03T18:31:52.821485+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.316696+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/wfGDy0KVZsiQpGgYoxObUGgccwk.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Wormtown",
     "overview": "One year into a plague of flesh-eating, mind-altering worms, the nocturnal town of Ashland, Ohio, has embraced the parasites’ rule. Under cult-like Mayor Joshua, zealous Ranchers spread their gospel—by persuasion or by force. A trio of uninfected women cling to survival through scavenging, extreme hygiene, and evasion. But everyone breaks eventually, unleashing betrayal, sacrilege, and body horror.",
-    "popularity": 26.9492,
+    "popularity": 25.1058,
     "poster_path": "/lE10ww38b7XA5LIagIsVQj9a8Hn.jpg",
     "production_companies": [],
     "production_countries": [],

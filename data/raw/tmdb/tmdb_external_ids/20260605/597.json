@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 597,
+  "ingestion_time_utc": "2026-06-05T14:07:56.409066+00:00",
+  "data": {
+    "id": 597,
+    "imdb_id": "tt0120338",
+    "wikidata_id": "Q44578",
+    "facebook_id": "TitanicMovie",
+    "instagram_id": "titanicmovie",
+    "twitter_id": "TitanicMovie"
+  }
+}

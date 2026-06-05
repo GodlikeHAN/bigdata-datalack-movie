@@ -1,0 +1,435 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 672,
+  "ingestion_time_utc": "2026-06-05T14:07:46.731743+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/1stUIsjawROZxjiCMtqqXqgfZWC.jpg",
+    "belongs_to_collection": {
+      "id": 1241,
+      "name": "Harry Potter Collection",
+      "poster_path": "/eVPs2Y0LyvTLZn6AP5Z6O2rtiGB.jpg",
+      "backdrop_path": "/kmEsQL2vOTA0jnM28fXS45Ky8kX.jpg"
+    },
+    "budget": 100000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/harry-potter-and-chamber-secrets",
+    "id": 672,
+    "imdb_id": "tt0295297",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Harry Potter and the Chamber of Secrets",
+    "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione's magical abilities and courage.",
+    "popularity": 26.5298,
+    "poster_path": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 437,
+        "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+        "name": "Heyday Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 436,
+        "logo_path": "/A7WCkG3F0NFvjGCwUnclpGdIu9E.png",
+        "name": "1492 Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 19094,
+        "logo_path": null,
+        "name": "MIRACLE Productions",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "2002-11-13",
+    "revenue": 876688482,
+    "runtime": 161,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Something evil has returned to Hogwarts!",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "video": false,
+    "vote_average": 7.704,
+    "vote_count": 23594,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "I am Lord Voldemort - Full Scene",
+          "key": "mq8UkrubOnQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a1847bef5e16af3ca1bea6d",
+          "published_at": "2026-04-16T20:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Harry Meets Dobby - Full Scene",
+          "key": "Q3u8sp8I5x0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69b304e3fe525f5e02817aad",
+          "published_at": "2026-03-12T18:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Dobby's Rogue Bludger",
+          "key": "jItomdPekBQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69f65ab0608391435f60aa28",
+          "published_at": "2025-12-12T15:01:29.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "nE11U5iBnH0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "66358c9b0f52650125bb114c",
+          "published_at": "2024-04-10T18:00:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Harry Potter & The Chamber of Secrets in 5 Minutes",
+          "key": "6v5EbKIZSsQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "663779250c1255012c7d7a96",
+          "published_at": "2022-11-19T13:59:48.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Into the Chamber | Harry Potter Magical Movie Moments",
+          "key": "lEsgnThPqEA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "663779ab2faf4d012dc5a28c",
+          "published_at": "2022-09-12T12:59:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "HBO First Look",
+          "key": "KEEY5wxzUOU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "66377a45c616ac012a1b11b0",
+          "published_at": "2020-04-30T21:59:48.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Full Movie Preview",
+          "key": "VjN5_mB7KFs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "615f9aabc8a2d4008c818b1a",
+          "published_at": "2020-04-29T17:59:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Wizard Duel: Severus Snape vs Gilderoy Lockhart",
+          "key": "MBO4haWlOFQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "663778c1c3926601266f5f0b",
+          "published_at": "2019-08-28T16:13:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Kids React to Harry Potter and the Chamber of Secrets",
+          "key": "jdXEp1yPTxg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "663779d194d8a8012333169f",
+          "published_at": "2019-07-17T17:08:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Gilderoy Lockhart Loses His Memory",
+          "key": "0gLcQUvlcsw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6637785566565a012c15d715",
+          "published_at": "2018-05-09T19:44:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ron receives a Howler",
+          "key": "fBziSx7RtqY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "663778470c125501237d740f",
+          "published_at": "2018-03-22T19:45:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Dobby is a Free Elf",
+          "key": "8DTb-lseCdQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "663778d8c9054f0130909236",
+          "published_at": "2018-02-20T17:21:12.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Battle of the Seekers",
+          "key": "2dsR11BvPw8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "663779786611b4012d685e0d",
+          "published_at": "2018-01-08T17:19:43.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Cornish Pixies",
+          "key": "82AEiT1ER_4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "663778908de0ae0129f68536",
+          "published_at": "2018-01-01T15:56:29.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Tom Riddle introduces himself to Harry Potter",
+          "key": "eh4b5zC0sB4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6637786135d1bc01290a9fe3",
+          "published_at": "2017-12-31T11:45:51.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Gilderoy Lockhart",
+          "key": "0L8fs156Y4E",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "663778f56611b4012d685dd6",
+          "published_at": "2017-11-16T18:07:41.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Follow the Spiders",
+          "key": "FRtrlAAf_y0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "66377944470ead012512f6de",
+          "published_at": "2017-10-26T21:43:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Mandrake Potting",
+          "key": "G17jQg_pUJg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6637787f470ead012812f128",
+          "published_at": "2017-09-08T13:16:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Moaning Myrtle",
+          "key": "f7jX2tWjU7Y",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "663778726611b4012d685daa",
+          "published_at": "2017-08-29T17:24:56.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ron's Slug Spell Backfires",
+          "key": "nbxnO-Drp1E",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "66377903c616ac01221b0aec",
+          "published_at": "2017-08-28T16:00:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "A Magical Escape",
+          "key": "T-Yi49pHlEo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6637781cc3926601296f566b",
+          "published_at": "2017-08-24T16:11:54.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Flying Ford",
+          "key": "byEHjIpVt2A",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6637789a0c125501237d742c",
+          "published_at": "2017-07-17T15:59:25.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Wizard Duel: Draco Malfoy vs Harry Potter",
+          "key": "0Dj2kq5Neus",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "663778e8e92d830127d3aaa0",
+          "published_at": "2016-08-05T16:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Original 2002 Theatrical Trailer",
+          "key": "s4Fh2WQ2Xbk",
+          "site": "YouTube",
+          "size": 360,
+          "type": "Trailer",
+          "official": true,
+          "id": "66377b53813cb601248902a8",
+          "published_at": "2014-07-21T20:59:46.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Harry battles the Basilisk",
+          "key": "NPHa_AL3cLU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "63afa4f41d1bf400a71ba23f",
+          "published_at": "2014-02-19T18:10:37.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Dobby the House-Elf",
+          "key": "oZjk_gtkbd0",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Clip",
+          "official": true,
+          "id": "66377956c616ac01251b0c67",
+          "published_at": "2012-05-17T22:51:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Polyjuice Potion",
+          "key": "JdTrxqeQuvw",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Clip",
+          "official": true,
+          "id": "663779100f52650128bbc14b",
+          "published_at": "2012-05-04T16:26:42.000Z"
+        }
+      ]
+    }
+  }
+}

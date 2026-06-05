@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1639398,
-  "ingestion_time_utc": "2026-06-03T18:31:56.841532+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.429745+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/82hjEm0x5Val6nCwExwlawdfwLJ.jpg",
@@ -27,7 +27,7 @@
     "original_language": "es",
     "original_title": "Psicópata: El Asesino del Conejo Blanco",
     "overview": "Follows an \"ultra-violent and intelligent\" psychopath who challenges the police by leaving a white paper rabbit at each crime scene, connecting them all.",
-    "popularity": 56.3331,
+    "popularity": 51.2059,
     "poster_path": "/7tIgfsTWuzXKR2kLRUPrLRTbcuo.jpg",
     "production_companies": [],
     "production_countries": [],

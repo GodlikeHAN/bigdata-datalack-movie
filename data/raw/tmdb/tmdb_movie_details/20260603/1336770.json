@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1336770,
-  "ingestion_time_utc": "2026-06-03T18:31:52.572896+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.305290+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/uNA0OVk09Hbwflye3eBoOiGIKGc.jpg",
@@ -32,7 +32,7 @@
     "original_language": "ml",
     "original_title": "വാഴ II",
     "overview": "Four friends – Hashir, Alan, Ajin and Vinayak – are considered losers and troublemakers by parents, family and the school management. They face immense social pressure as they reach adulthood, embarking them on an emotional journey of self discovery and acceptance, where they finally learn to take up their responsibilities and find success.",
-    "popularity": 27.0779,
+    "popularity": 26.3358,
     "poster_path": "/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
     "production_companies": [
       {
@@ -87,8 +87,8 @@
     "tagline": "Biopic of a Billion Bros.",
     "title": "Vaazha II",
     "video": false,
-    "vote_average": 7.4,
-    "vote_count": 9,
+    "vote_average": 7.35,
+    "vote_count": 10,
     "videos": {
       "results": []
     }

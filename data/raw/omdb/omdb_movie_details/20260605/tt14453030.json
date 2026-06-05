@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt14453030",
+  "ingestion_time_utc": "2026-06-05T14:08:26.129896+00:00",
+  "data": {
+    "Title": "Lie to Me the Truth",
+    "Year": "2021",
+    "Rated": "N/A",
+    "Released": "09 Sep 2021",
+    "Runtime": "87 min",
+    "Genre": "Drama, Thriller",
+    "Director": "Olga Akatieva",
+    "Writer": "Elena Gudkova, Dmitriy Magonov, Viktoriya Ostrovskaya",
+    "Actors": "Evgeniy Romantsov, Darya Melnikova, Elizaveta Kononova",
+    "Plot": "A couple in love spends time away from civilization, but the sudden arrivals of the younger sister and then the girl's ex-boyfriend violate the country idyll.",
+    "Language": "Russian",
+    "Country": "Russia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTNjYzViYTktMjQ2My00NDgyLWI0YTEtNzg0YTE5MzA1MWZkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.0",
+    "imdbVotes": "491",
+    "imdbID": "tt14453030",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

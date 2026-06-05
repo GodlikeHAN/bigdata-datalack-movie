@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1662414,
-  "ingestion_time_utc": "2026-06-03T18:31:57.920215+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.694148+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/ldUVeDfA5ID2vchHGejrEltoBSN.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Propeller One-Way Night Coach",
     "overview": "During the golden age of aviation, a young airplane enthusiast and his mother embark on a cross-country journey to Hollywood—and their simple flight transforms into the trip of a lifetime.",
-    "popularity": 46.685,
+    "popularity": 45.522,
     "poster_path": "/joal4OSVC4T1yFb3kph91tkNNFf.jpg",
     "production_companies": [
       {
@@ -68,8 +68,8 @@
     "tagline": "All aboard, please.",
     "title": "Propeller One-Way Night Coach",
     "video": false,
-    "vote_average": 6.421,
-    "vote_count": 19,
+    "vote_average": 6.4,
+    "vote_count": 20,
     "videos": {
       "results": [
         {

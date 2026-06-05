@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 976912,
-  "ingestion_time_utc": "2026-06-03T18:31:51.846412+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:43.845869+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/rHnANzYUmV3WZw3n0yWOLiR3pen.jpg",
@@ -27,7 +27,7 @@
     "original_language": "en",
     "original_title": "Graphic Desires",
     "overview": "When reclusive Franklin cheats on his partner with a mysterious girl he meets on a dating app, it becomes the start of a deadly obsession.",
-    "popularity": 146.527,
+    "popularity": 144.0315,
     "poster_path": "/3BjLdTWRiHc1ISIZMFvToOmghOM.jpg",
     "production_companies": [
       {

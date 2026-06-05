@@ -1,0 +1,102 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1057265,
+  "ingestion_time_utc": "2026-06-04T09:30:46.469247+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
+    "belongs_to_collection": null,
+    "budget": 36500000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "homepage": "",
+    "id": 1057265,
+    "imdb_id": "tt23865918",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "te",
+    "original_title": "పెద్ది",
+    "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
+    "popularity": 60.1767,
+    "poster_path": "/kydPBzuU4TSmDOXCkgAdVFF8sgU.jpg",
+    "production_companies": [
+      {
+        "id": 93335,
+        "logo_path": null,
+        "name": "Sukumar Writings",
+        "origin_country": "IN"
+      },
+      {
+        "id": 187703,
+        "logo_path": "/tIMfcL48a2d2Hhg3mldmEVmhVgu.png",
+        "name": "Vriddhi Cinemas",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-06-03",
+    "revenue": 0,
+    "runtime": 192,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Telugu",
+        "iso_639_1": "te",
+        "name": "తెలుగు"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Hurt. Bruised. But not beaten.",
+    "title": "Peddi",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Rai Rai Raa Raa Song (Telugu) | Peddi | Ram Charan | Janhvi | Buchi Babu Sana | AR Rahman",
+          "key": "g5oUluD9ScA",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "69f709ff29d2e81408780307",
+          "published_at": "2026-03-02T16:21:43.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Chikiri Chikiri Video Song | Peddi | Ram Charan | Janhvi | Buchi Babu Sana | AR Rahman|Mohit Chauhan",
+          "key": "vVDp1ulBKIk",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "69f70a1c50a2aefc9b60ad78",
+          "published_at": "2025-11-07T05:37:04.000Z"
+        }
+      ]
+    }
+  }
+}

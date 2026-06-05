@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt33988385",
-  "ingestion_time_utc": "2026-06-03T18:32:29.130599+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:07.006104+00:00",
   "data": {
     "Title": "Karuppu",
     "Year": "2026",

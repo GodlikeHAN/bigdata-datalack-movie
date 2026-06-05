@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1281425,
-  "ingestion_time_utc": "2026-06-03T18:31:58.023203+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.709698+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/1Xi0FNU0uj82GfUw2vWHsVCiRv5.jpg",
@@ -31,7 +31,7 @@
     "original_language": "pl",
     "original_title": "Cisza nocna",
     "overview": "A theatre actor whose health is failing gets admitted to a nursing home. Soon, he starts having nightmares that seemingly become deceptively real. The so-called nightmares were able to make him live in two parallel dimensions.",
-    "popularity": 46.5538,
+    "popularity": 41.1888,
     "poster_path": "/gBYhjuq0ZEDN710C5sKVq45y1pA.jpg",
     "production_companies": [
       {

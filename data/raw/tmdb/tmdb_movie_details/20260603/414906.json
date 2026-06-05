@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 414906,
-  "ingestion_time_utc": "2026-06-03T18:31:53.227330+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.541380+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "The Batman",
     "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
-    "popularity": 25.8417,
+    "popularity": 25.4549,
     "poster_path": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
     "production_companies": [
       {
@@ -86,7 +86,7 @@
     "title": "The Batman",
     "video": false,
     "vote_average": 7.659,
-    "vote_count": 11948,
+    "vote_count": 11950,
     "videos": {
       "results": [
         {

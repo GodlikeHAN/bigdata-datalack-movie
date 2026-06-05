@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1632181,
-  "ingestion_time_utc": "2026-06-03T18:31:56.784323+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.363465+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/iCML6fBe3X0y06P33bM7dyYXPKZ.jpg",
@@ -27,7 +27,7 @@
     "original_language": "es",
     "original_title": "Socias por accidente",
     "overview": "Two women discover they were both scammed by the same man (who also got them pregnant). They form an alliance to take revenge.",
-    "popularity": 58.6116,
+    "popularity": 55.2887,
     "poster_path": "/sr1Yoj6XLPTWYcbDoBy67xivW4I.jpg",
     "production_companies": [
       {
@@ -70,8 +70,8 @@
     "tagline": "",
     "title": "Accidental Partners",
     "video": false,
-    "vote_average": 9.095,
-    "vote_count": 211,
+    "vote_average": 9.078,
+    "vote_count": 218,
     "videos": {
       "results": [
         {

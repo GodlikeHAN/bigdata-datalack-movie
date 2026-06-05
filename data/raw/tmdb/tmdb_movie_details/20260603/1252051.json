@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1252051,
-  "ingestion_time_utc": "2026-06-03T18:31:55.782191+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.859040+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/gYumbUCWyUI6Mutgd7oILOCunk8.jpg",
@@ -27,7 +27,7 @@
     "original_language": "es",
     "original_title": "Disforia",
     "overview": "Set in the near future against the backdrop of widespread looting and societal collapse, the couple formed by Esther and Tomás and their daughter Say move to their summer house so they can promptly sell it and then flee from their country to France, drawing attention from a ring of voyeurs of real-life torture streamed on the dark web.",
-    "popularity": 81.3641,
+    "popularity": 73.0197,
     "poster_path": "/49pzxbf1Eftz7wQZdVDVl8OM9bg.jpg",
     "production_companies": [
       {

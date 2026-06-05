@@ -1,0 +1,267 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1197306,
+  "ingestion_time_utc": "2026-06-05T12:33:37.852960+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
+    "belongs_to_collection": null,
+    "budget": 40000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.amazon.com/salp/aworkingman?hhf",
+    "id": 1197306,
+    "imdb_id": "tt9150192",
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "A Working Man",
+    "overview": "Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.",
+    "popularity": 28.4966,
+    "poster_path": "/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
+    "production_companies": [
+      {
+        "id": 118475,
+        "logo_path": "/x8mwqWGZK2gQvrp5QlYQho1VgXj.png",
+        "name": "Cedar Park Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 219295,
+        "logo_path": null,
+        "name": "BlockFilm",
+        "origin_country": "US"
+      },
+      {
+        "id": 218150,
+        "logo_path": null,
+        "name": "Punch Palace Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 166120,
+        "logo_path": "/otEUziHlND4he9VvTtQU2gdULSS.png",
+        "name": "Balboa Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 22146,
+        "logo_path": "/v37N1mFeXNQfvPankg3feBhVvM7.png",
+        "name": "Black Bear Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 181874,
+        "logo_path": "/crrgXvLhDO9c57HYrbO4H58Vxmb.png",
+        "name": "Fifth Season",
+        "origin_country": "US"
+      },
+      {
+        "id": 253169,
+        "logo_path": null,
+        "name": "CAT5",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2025-03-26",
+    "revenue": 89400711,
+    "runtime": 116,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Human traffickers beware.",
+    "title": "A Working Man",
+    "video": false,
+    "vote_average": 6.685,
+    "vote_count": 1926,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Construction Site Battle – Official Clip",
+          "key": "hyEVX-4uK_4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67e49f83b8fc398996109b2b",
+          "published_at": "2025-03-26T18:00:38.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "A Promise – Official Clip",
+          "key": "P9FgCTMK0BM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67e49fbc2074b0ee5600220a",
+          "published_at": "2025-03-26T16:00:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Rematch with Dutch – Official Clip",
+          "key": "JsZWg4NZoQ8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67e49fc72074b0ee5600220c",
+          "published_at": "2025-03-26T16:00:23.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Final Trailer",
+          "key": "mdfrG2cLK58",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "67e1d251ec98bf0a0d75cabc",
+          "published_at": "2025-03-24T15:59:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "What’s Her Name – Official Clip",
+          "key": "sVnCrKUsQg0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67df479cf6a0fcbd004d83ab",
+          "published_at": "2025-03-21T16:01:09.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Snitches Get Stitches – Official Clip",
+          "key": "J-EyIUzIzGU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67df47a935bd26a7d94d7816",
+          "published_at": "2025-03-21T16:00:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "A Different Person – Official Clip",
+          "key": "5BLUnxBkG0E",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67df47b1ce605a1ed1c6ff0c",
+          "published_at": "2025-03-21T16:00:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "See It In Theaters Featurette",
+          "key": "PWQTKZP9F2s",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "67d574c90525f3d74f012e46",
+          "published_at": "2025-03-14T17:00:34.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "First Look Featurette",
+          "key": "0Bj9MuHRiqA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "67cb41cb9ef0acdb8b5b8263",
+          "published_at": "2025-03-07T16:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Dutch’s Lair – Official Clip",
+          "key": "SFfClHfc3Oc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "67c22e08c153ece2e2a281bc",
+          "published_at": "2025-02-28T21:30:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Red Band Trailer",
+          "key": "f84Le2NWt3A",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "67c0a5908c386c4e5bc8e3d7",
+          "published_at": "2025-02-27T16:59:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "zTbgNC42Ops",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "67800d03ee84fa4def7af250",
+          "published_at": "2025-01-09T17:00:02.000Z"
+        }
+      ]
+    }
+  }
+}

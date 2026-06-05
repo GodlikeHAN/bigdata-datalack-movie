@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1159559,
-  "ingestion_time_utc": "2026-06-03T18:31:58.580445+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.943468+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/t9J2HXaDuJR7bvIG9XF7mttn4VY.jpg",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "Scream 7",
     "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
-    "popularity": 41.5539,
+    "popularity": 40.1086,
     "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
     "production_companies": [
       {
@@ -79,8 +79,8 @@
     "tagline": "Burn it all down.",
     "title": "Scream 7",
     "video": false,
-    "vote_average": 6.141,
-    "vote_count": 962,
+    "vote_average": 6.2,
+    "vote_count": 966,
     "videos": {
       "results": [
         {

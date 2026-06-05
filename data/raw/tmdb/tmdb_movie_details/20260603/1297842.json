@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1297842,
-  "ingestion_time_utc": "2026-06-03T18:31:55.652998+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.793040+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "GOAT",
     "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
-    "popularity": 102.61,
+    "popularity": 97.3138,
     "poster_path": "/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
     "production_companies": [
       {
@@ -92,8 +92,8 @@
     "tagline": "You're never too small to dream big.",
     "title": "GOAT",
     "video": false,
-    "vote_average": 8.12,
-    "vote_count": 718,
+    "vote_average": 8.124,
+    "vote_count": 723,
     "videos": {
       "results": [
         {

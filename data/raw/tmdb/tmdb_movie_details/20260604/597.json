@@ -1,0 +1,465 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 597,
+  "ingestion_time_utc": "2026-06-05T12:33:52.332634+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
+    "belongs_to_collection": null,
+    "budget": 200000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "https://www.paramountmovies.com/movies/titanic",
+    "id": 597,
+    "imdb_id": "tt0120338",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Titanic",
+    "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+    "popularity": 36.0421,
+    "poster_path": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 574,
+        "logo_path": "/8wdmrfGcDx3TJxYiiDksLzAW4pB.png",
+        "name": "Lightstorm Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1997-12-18",
+    "revenue": 2264162353,
+    "runtime": 194,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Swedish",
+        "iso_639_1": "sv",
+        "name": "svenska"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Nothing on earth could come between them.",
+    "title": "Titanic",
+    "video": false,
+    "vote_average": 7.903,
+    "vote_count": 27181,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "From set to the big screen, see how Titanic was brought to life!",
+          "key": "rtHJY26iXng",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a1ef4a06bdbcacbbdca6288",
+          "published_at": "2026-06-01T17:01:21.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Iceberg, Right Ahead!\"",
+          "key": "y0bBmrwU318",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6985e62b3201010fdf289d2c",
+          "published_at": "2025-12-19T14:59:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "See how they brought the flooding of the Titanic to life on the big screen!",
+          "key": "-9iHB2EU6G8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6914ed10c49fa5cfa4dd30fb",
+          "published_at": "2025-11-12T18:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Spit Like a Man\" Full Scene",
+          "key": "rDXQlnWjgEE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "680f04d3930c895e280f790a",
+          "published_at": "2025-04-26T10:59:53.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Rob Legato Best Visual Effects for 'Titanic,' 'Hugo,' & 'The Jungle Book' | Behind The Oscars Speech",
+          "key": "WL7l2fXbOHc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "65c3586796033100e5b7ef01",
+          "published_at": "2024-02-04T16:30:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Titanic: 25th Anniversary Exclusive! Behind The Scenes w/ Kate Winslet and James Cameron",
+          "key": "QV3CAvAgono",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "659f677ce24e3a01246e67a4",
+          "published_at": "2023-12-24T14:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Reflections",
+          "key": "R79Ftb1Ct4I",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "63eaefb71f3e600089ddf686",
+          "published_at": "2023-02-08T17:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Calling All Kings and Queens of the World",
+          "key": "cZUvJ37ao1k",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "63ddd0d062f33500e88f83ac",
+          "published_at": "2023-02-02T21:30:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Timeless",
+          "key": "1oyechwbCZY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "63d59e3112b10e007fdad203",
+          "published_at": "2023-01-26T23:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Greeting from James Cameron",
+          "key": "Y9AWk2PGYuA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "63d5a0da12b10e0093e7ae70",
+          "published_at": "2023-01-26T21:00:23.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trust",
+          "key": "iCPEIqqFXds",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "63d2c5a4e72fe8008e615a16",
+          "published_at": "2023-01-26T16:00:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "25th Anniversary UK Trailer [Audio Described]",
+          "key": "wO44qBPBG4c",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "63d06b1d66ae4d008426f188",
+          "published_at": "2023-01-24T16:46:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "25th Anniversary Trailer",
+          "key": "oHY7D7K58BM",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "63bd73dfae6f093c429d63a0",
+          "published_at": "2023-01-10T14:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "James Cameron on Directing Leonardo DiCaprio & Kate Winslet",
+          "key": "ScqvItKKoRw",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Featurette",
+          "official": true,
+          "id": "65c35bfa3fe7970162fe47ae",
+          "published_at": "2022-12-22T14:37:22.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Make Each Day Count Clip",
+          "key": "JYdCltjvrxg",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Clip",
+          "official": true,
+          "id": "627303bc6f53e158ec266b66",
+          "published_at": "2022-02-14T16:59:50.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Luckiest in the World Clip",
+          "key": "tEM0I3ltp7M",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Clip",
+          "official": true,
+          "id": "627303eb8741c400a76cf9d0",
+          "published_at": "2021-07-29T15:59:46.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "King of the World Clip",
+          "key": "UE5KcYjO5d8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "627303d2caaca200a7ef7103",
+          "published_at": "2021-02-26T16:59:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Won't Let Go Clip",
+          "key": "zSRvmHSgaBg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "627303f37cffda7316c4f449",
+          "published_at": "2021-02-16T18:29:46.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "You Jump, I Jump Clip",
+          "key": "_qTZRD1_ybQ",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Clip",
+          "official": true,
+          "id": "627303c8caaca20050a6ce49",
+          "published_at": "2021-02-12T21:30:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Celine Dion on recording \"My Heart Will Go On\" for TITANIC",
+          "key": "CU26O2WYCEU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "65c35be68e2e000183a63305",
+          "published_at": "2020-05-24T15:00:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Dolby Vision Trailer",
+          "key": "cIJ8ma0kKtY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "62730647c56d2d357ba3ef0e",
+          "published_at": "2017-11-15T19:39:18.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Featurette - Physical Shoot",
+          "key": "thrdkT9vE3k",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Featurette",
+          "official": false,
+          "id": "6533df2842d837010ba8997d",
+          "published_at": "2016-06-21T21:12:26.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Throwback Trailer",
+          "key": "CHekzSiZjrY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "5af145869251411eae00307d",
+          "published_at": "2015-06-25T19:41:15.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Titanic Wins Costume Design: 1998 Oscars",
+          "key": "Zx1NS4K_-PU",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "65c359a39603310184b90d6a",
+          "published_at": "2015-04-02T17:30:37.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Titanic\" winning the Oscar® for Art Direction",
+          "key": "FkCg9S51cRU",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "65c3599415794a0162550ca0",
+          "published_at": "2014-03-12T16:52:43.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Titanic\" winning the Oscar® for Cinematography",
+          "key": "PwhWkyMG-7A",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "65c359788c0a480184863096",
+          "published_at": "2014-02-23T08:49:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Titanic Wins Original Dramatic Score and Original Song: 1998 Oscars",
+          "key": "9fp3nkY9BqU",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "65c3596e8e2e000183a63116",
+          "published_at": "2013-08-13T22:11:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Daniel Stern On TITANIC",
+          "key": "gSdkWLzxZdU",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "65c35b8895acf001831cd8a6",
+          "published_at": "2009-08-11T20:18:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Titanic\" winning Best Picture Oscar®",
+          "key": "x-dPoCfk2n8",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "65c359622fe2fa01842a4ee0",
+          "published_at": "2008-03-14T22:25:37.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "James Cameron Wins Best Director: 70th Oscars (1998)",
+          "key": "xJp7Wd6Af2A",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Featurette",
+          "official": true,
+          "id": "65c35989cb75d1017c6d06cf",
+          "published_at": "2008-03-14T21:51:23.000Z"
+        }
+      ]
+    }
+  }
+}

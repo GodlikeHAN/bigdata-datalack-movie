@@ -1,0 +1,479 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 315635,
+  "ingestion_time_utc": "2026-06-04T09:30:44.071617+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/tPpYGm2mVecue7Bk3gNVoSPA5qn.jpg",
+    "belongs_to_collection": {
+      "id": 531241,
+      "name": "Spider-Man (MCU) Collection",
+      "poster_path": "/yeba3Y820OjApZO9aJevDsNeMEd.jpg",
+      "backdrop_path": "/AvnqpRwlEaYNVL6wzC4RN94EdSd.jpg"
+    },
+    "budget": 175000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "homepage": "https://www.sonypictures.com/movies/spidermanhomecoming",
+    "id": 315635,
+    "imdb_id": "tt2250912",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Spider-Man: Homecoming",
+    "overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+    "popularity": 27.6965,
+    "poster_path": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+    "production_companies": [
+      {
+        "id": 420,
+        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 84041,
+        "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+        "name": "Pascal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 34034,
+        "logo_path": null,
+        "name": "LStar Capital",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2017-07-05",
+    "revenue": 880978185,
+    "runtime": 133,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Homework can wait. The city can't.",
+    "title": "Spider-Man: Homecoming",
+    "video": false,
+    "vote_average": 7.331,
+    "vote_count": 23179,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Happy Birthday, Tom Holland! Our Friendly Neighborhood Spider-Man",
+          "key": "TH44nhetN98",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a1dcce961a1b4a1ca9c6cfe",
+          "published_at": "2026-06-01T10:59:13.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Vulture Threatens Peter",
+          "key": "WtcfIn6QuI8",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "624abe6ba9117f00647db2cf",
+          "published_at": "2022-04-02T00:00:07.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Spider-Man Tries Interrogation Mode",
+          "key": "H2jkzFYb8Ow",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "62424d2b5a99150090c74059",
+          "published_at": "2022-03-29T00:00:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The Vulture's Weapons",
+          "key": "440Ocw0SlKk",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "62158a22323eba006c625b6c",
+          "published_at": "2022-02-23T01:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Spider-Man Saves Visitors At The Washington Monument",
+          "key": "N0E53CsxPsY",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "62104faff9183a00707ee09a",
+          "published_at": "2022-02-19T01:00:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Spider-Man Drops In On The Vulture",
+          "key": "0MIlKPzl-6E",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "621006e6e0ca7f006acac310",
+          "published_at": "2022-02-16T01:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "A Night In The Suburbs",
+          "key": "4VAyYSqp_84",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "620aad4a945d3600b383feec",
+          "published_at": "2022-02-10T01:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Aunt May Finds Out Peter Is Spider-Man",
+          "key": "gslt9X5oafQ",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "61bd61ee6a300b009780774f",
+          "published_at": "2021-12-18T01:00:10.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ned Finds Out Peter Is Spider-Man",
+          "key": "jwh5iGgmNr4",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "61bd6240105611001cc82f92",
+          "published_at": "2021-12-16T01:00:18.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "End Credits Final Main on End Title Sequence",
+          "key": "1v7wmDpszJw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "6a1b8024516b395dcd88d324",
+          "published_at": "2017-11-09T18:56:41.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "First 10 Minutes",
+          "key": "rcBzXxW-aj4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "615f923e635013008d225cea",
+          "published_at": "2017-10-20T17:05:38.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Now on 4K UHD, Blu-ray & Digital!",
+          "key": "fzMFOare6_Q",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "67f3b6072f7d4370279a1962",
+          "published_at": "2017-10-17T20:22:15.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Family Movie Night\" Now on Blu-ray & Digital",
+          "key": "DtGIfEJm4l0",
+          "site": "YouTube",
+          "size": 480,
+          "type": "Teaser",
+          "official": true,
+          "id": "67f3b7f07b43bdce20ad3789",
+          "published_at": "2017-10-17T12:11:14.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Now on Digital! TV Spot \"The Suit\"",
+          "key": "-l8f-Qty3Og",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "67f3b7b8a5471a51ee9961b8",
+          "published_at": "2017-09-27T15:38:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Now on Digital! TV Spot \"Drums\"",
+          "key": "JbZ1q4yuTPY",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "67f3b7832f7d4370279a1a23",
+          "published_at": "2017-09-27T15:28:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot - \"Peter's Day / #1 Movie\"",
+          "key": "DnV7d-Sx-e8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "67f3b67e854b0538cfd937af",
+          "published_at": "2017-07-11T13:03:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Certified Fresh (In Theaters Friday)",
+          "key": "EAIvR1e3GQA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "67f3b74ca1576bf269d93ec4",
+          "published_at": "2017-07-06T16:39:29.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot - \"Prove Stop Me Twitter Revised\"",
+          "key": "rTNWddXyaXA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "67f3b6e1a1576bf269d93e91",
+          "published_at": "2017-06-22T20:13:22.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot - \"Pressure\"",
+          "key": "AlYZoLurs2I",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "67f3b5912f7d4370279a192b",
+          "published_at": "2017-06-22T20:11:54.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Prove Stop Me Kids\"",
+          "key": "GWzS7TcJBtA",
+          "site": "YouTube",
+          "size": 720,
+          "type": "Teaser",
+          "official": true,
+          "id": "67f3b6b00f20f9c45cad88e8",
+          "published_at": "2017-06-22T19:47:07.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot - \"Discover Twitter Revised\"",
+          "key": "u_n7_6UrMlE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "67f3b54c854b0538cfd93751",
+          "published_at": "2017-06-22T19:46:53.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot - \"Universe Kids Revised\"",
+          "key": "sCQClsQEFRo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "67f3b821a1576bf269d93eef",
+          "published_at": "2017-06-22T19:46:42.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot - \"Secrets\"",
+          "key": "iGeB3AVi35I",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "67f3b5c8854b0538cfd9377c",
+          "published_at": "2017-06-22T19:46:32.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "TV Spot \"Stand\"",
+          "key": "z8Ot5zNhoCw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "67f3b6452f7d4370279a198e",
+          "published_at": "2017-06-22T19:46:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "IMAX® Exclusive TV Spot",
+          "key": "S5NXSfdB9S8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "67f8931ecce7690230ad524e",
+          "published_at": "2017-06-19T20:25:49.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer #3",
+          "key": "xEvV3OsE2WM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "592540c4c3a36877bc00dacd",
+          "published_at": "2017-05-24T07:00:05.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "International Trailer #3",
+          "key": "xbQdPBiF3Co",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "5925cde9c3a36877bc014de4",
+          "published_at": "2017-05-24T07:00:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "International Trailer #2",
+          "key": "xpu9yRO_rvU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "58f1430ac3a3681a52004703",
+          "published_at": "2017-03-28T16:21:43.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer #2",
+          "key": "DiTECkLZ8HM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "58f142cd9251415556004851",
+          "published_at": "2017-03-28T13:00:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official International Trailer",
+          "key": "lCkVr1n1eCA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "58f14331c3a36819db004235",
+          "published_at": "2016-12-10T04:55:57.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "rk-dF1lIbIg",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "58f142879251415536004a66",
+          "published_at": "2016-12-10T04:55:39.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Trailer Tease",
+          "key": "NbLP_SmhtuM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "67f3b4f9e1d5c23c6ed97f5d",
+          "published_at": "2016-12-07T14:00:02.000Z"
+        }
+      ]
+    }
+  }
+}

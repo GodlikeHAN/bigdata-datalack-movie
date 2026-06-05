@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt18259086",
-  "ingestion_time_utc": "2026-06-03T18:32:44.343598+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:22.545231+00:00",
   "data": {
     "Title": "Sonic the Hedgehog 3",
     "Year": "2024",

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 840464,
-  "ingestion_time_utc": "2026-06-03T18:31:56.812511+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.281341+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/wns4x1GyxCudgOZRyhXKjXVJf3T.jpg",
@@ -36,7 +36,7 @@
     "original_language": "en",
     "original_title": "Greenland 2: Migration",
     "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
-    "popularity": 60.9098,
+    "popularity": 58.5307,
     "poster_path": "/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
     "production_companies": [
       {
@@ -106,8 +106,8 @@
     "tagline": "Hope is uncharted territory.",
     "title": "Greenland 2: Migration",
     "video": false,
-    "vote_average": 6.438,
-    "vote_count": 1145,
+    "vote_average": 6.4,
+    "vote_count": 1146,
     "videos": {
       "results": [
         {

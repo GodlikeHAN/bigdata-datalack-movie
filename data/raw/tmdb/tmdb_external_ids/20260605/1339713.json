@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1339713,
+  "ingestion_time_utc": "2026-06-05T14:07:48.942141+00:00",
+  "data": {
+    "id": 1339713,
+    "imdb_id": "tt37287335",
+    "wikidata_id": "Q136163067",
+    "facebook_id": null,
+    "instagram_id": "obsessionthemovie",
+    "twitter_id": "obsessionmovie"
+  }
+}

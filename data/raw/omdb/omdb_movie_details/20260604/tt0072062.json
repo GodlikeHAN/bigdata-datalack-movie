@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0072062",
+  "ingestion_time_utc": "2026-06-05T12:34:44.649807+00:00",
+  "data": {
+    "Title": "Monika",
+    "Year": "1974",
+    "Rated": "R",
+    "Released": "28 Feb 1974",
+    "Runtime": "101 min",
+    "Genre": "Drama",
+    "Director": "Mario Imperoli",
+    "Writer": "Mario Imperoli, Arpad DeRiso, Giovanni Scolaro",
+    "Actors": "Gloria Guida, Colette Descombes, Andrés Resino",
+    "Plot": "Monica is young, beautiful and a virgin attracted the attention of classmates and seniors. She has friendship with a boy, Leo, but she does not know what he is a pimp, who offers young innocent girl to rich businessmen.",
+    "Language": "Italian",
+    "Country": "Italy",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODI4MDA4MDctMDJjZi00NDE3LWIzNTQtNWE1MjRkNjIzMzVkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.6/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.6",
+    "imdbVotes": "347",
+    "imdbID": "tt0072062",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

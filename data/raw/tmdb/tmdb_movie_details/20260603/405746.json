@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 405746,
-  "ingestion_time_utc": "2026-06-03T18:31:59.852817+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:46.343515+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/oRzXPixvyO3zHbAXatpOwbM6u1S.jpg",
@@ -36,7 +36,7 @@
     "original_language": "ja",
     "original_title": "DOOR",
     "overview": "Yasuko, a housewife, lives in an urban high-rise apartment with her husband Satoru and her son Takuto.  Annoyed by spam calls and door-to-door salesmen, Yasuko slams the door on a salesman’s hand when he tries to squeeze a flyer through the apartment's chained front door. He leaves, but the next day, her nightmare starts.",
-    "popularity": 34.4318,
+    "popularity": 30.4648,
     "poster_path": "/uNTZ9vp32AYd6kcAcm63jVg6u44.jpg",
     "production_companies": [
       {
@@ -49,6 +49,12 @@
         "id": 51693,
         "logo_path": null,
         "name": "Agent 21",
+        "origin_country": "JP"
+      },
+      {
+        "id": 13259,
+        "logo_path": null,
+        "name": "Takahashi Productions",
         "origin_country": "JP"
       }
     ],
@@ -73,7 +79,7 @@
     "tagline": "",
     "title": "Door",
     "video": false,
-    "vote_average": 6.019,
+    "vote_average": 6.0,
     "vote_count": 26,
     "videos": {
       "results": [

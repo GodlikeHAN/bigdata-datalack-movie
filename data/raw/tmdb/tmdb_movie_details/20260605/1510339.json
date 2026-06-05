@@ -1,0 +1,86 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1510339,
+  "ingestion_time_utc": "2026-06-05T14:07:39.718374+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/6DfHl4CE88x7Rt9oyARQQm6bHXD.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 1510339,
+    "imdb_id": "tt28961625",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "kn",
+    "original_title": "ಮಾರ್ಕ್",
+    "overview": "Mark is suspended from his police duties for his unruly yet effective ways of operating, but when 18 children are abducted and found dead, races to catch the criminals. With only 18 hours left, he must confront powerful foes and use unconventional tactics to succeed.",
+    "popularity": 151.0469,
+    "poster_path": "/6LTDv6XHiHN0N77QIFg2tidVvhh.jpg",
+    "production_companies": [
+      {
+        "id": 27059,
+        "logo_path": "/7UcboVQox12kyfByXhVMgsTLg7b.png",
+        "name": "Sathya Jyothi Films",
+        "origin_country": "IN"
+      },
+      {
+        "id": 168260,
+        "logo_path": null,
+        "name": "Kiccha Creations",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2025-12-25",
+    "revenue": 0,
+    "runtime": 144,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Kannada",
+        "iso_639_1": "kn",
+        "name": "?????"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Mark",
+    "video": false,
+    "vote_average": 4.0,
+    "vote_count": 1,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Motion Poster",
+          "key": "HwYwC_40gtk",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Teaser",
+          "official": true,
+          "id": "686d013592bcc4bade6e88fb",
+          "published_at": "2025-07-05T11:53:56.000Z"
+        }
+      ]
+    }
+  }
+}

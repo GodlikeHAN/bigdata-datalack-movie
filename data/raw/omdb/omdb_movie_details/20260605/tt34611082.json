@@ -1,0 +1,42 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt34611082",
+  "ingestion_time_utc": "2026-06-05T14:08:12.854968+00:00",
+  "data": {
+    "Title": "Ladies First",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "22 May 2026",
+    "Runtime": "90 min",
+    "Genre": "Comedy",
+    "Director": "Thea Sharrock",
+    "Writer": "Natalie Krinsky, Cinco Paul, Katie Silberman",
+    "Actors": "Sacha Baron Cohen, Rosamund Pike, Tom Davis",
+    "Plot": "A male chauvinist is transported to a matriarchal society, facing challenges from a formidable female version of himself.",
+    "Language": "English",
+    "Country": "United States, United Kingdom",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjBhMjk2NmQtY2JhOC00OTIzLTkzZjItNjA2NWM3OTkzNzA5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.8/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "39/100"
+      }
+    ],
+    "Metascore": "39",
+    "imdbRating": "5.8",
+    "imdbVotes": "16,459",
+    "imdbID": "tt34611082",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

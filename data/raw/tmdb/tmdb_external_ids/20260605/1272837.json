@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1272837,
+  "ingestion_time_utc": "2026-06-05T14:07:57.207919+00:00",
+  "data": {
+    "id": 1272837,
+    "imdb_id": "tt32141377",
+    "wikidata_id": "Q129423731",
+    "facebook_id": "28yearslaterofficial",
+    "instagram_id": "28yearslaterofficial",
+    "twitter_id": "28YearsLaterMov"
+  }
+}

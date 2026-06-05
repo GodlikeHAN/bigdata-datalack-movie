@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1327819,
-  "ingestion_time_utc": "2026-06-03T18:31:55.571112+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.706021+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
@@ -39,7 +39,7 @@
     "original_language": "en",
     "original_title": "Hoppers",
     "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-    "popularity": 122.1005,
+    "popularity": 122.7852,
     "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
     "production_companies": [
       {
@@ -76,9 +76,21 @@
     "title": "Hoppers",
     "video": false,
     "vote_average": 8.2,
-    "vote_count": 1334,
+    "vote_count": 1350,
     "videos": {
       "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "CHOMP, but no teeth",
+          "key": "LjaFzxZ3TCU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a2058281072399fc03cb543",
+          "published_at": "2026-06-03T16:00:08.000Z"
+        },
         {
           "iso_639_1": "en",
           "iso_3166_1": "US",
@@ -90,6 +102,18 @@
           "official": true,
           "id": "6a1f11863fc4c8e788250e74",
           "published_at": "2026-06-02T17:18:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "What 🦎🦫🦈 would you hop into?",
+          "key": "XtDbSpvTrAk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a209eb0b75ded1a7000f177",
+          "published_at": "2026-06-01T19:30:27.000Z"
         },
         {
           "iso_639_1": "en",

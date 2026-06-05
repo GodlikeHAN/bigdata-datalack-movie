@@ -1,0 +1,183 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 4247,
+  "ingestion_time_utc": "2026-06-05T14:07:46.940965+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/m5dA4JZsj78EBTa2D6imWOAebwB.jpg",
+    "belongs_to_collection": {
+      "id": 4246,
+      "name": "Scary Movie Collection",
+      "poster_path": "/8ds74cRhyAza3WcDVT8rZycwSC9.jpg",
+      "backdrop_path": "/4YFCPV5KXWgIfQ8oTEeIJvtuxVj.jpg"
+    },
+    "budget": 19000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "homepage": "",
+    "id": 4247,
+    "imdb_id": "tt0175142",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Scary Movie",
+    "overview": "A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!",
+    "popularity": 38.8292,
+    "poster_path": "/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
+    "production_companies": [
+      {
+        "id": 10958,
+        "logo_path": null,
+        "name": "Brad Grey Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 1607,
+        "logo_path": null,
+        "name": "Gold/Miller Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 1608,
+        "logo_path": null,
+        "name": "Wayans Bros. Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 7405,
+        "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+        "name": "Dimension Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2000-07-07",
+    "revenue": 278023280,
+    "runtime": 88,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "No mercy. No shame. No sequel.",
+    "title": "Scary Movie",
+    "video": false,
+    "vote_average": 6.399,
+    "vote_count": 7783,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "WAZZZZUUUUPPP",
+          "key": "-58Fwe0btDE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69a0fe644a5608abe0eff496",
+          "published_at": "2026-02-26T23:51:04.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "HTLPULt0eJ4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "6114831d3a99370028229ee6",
+          "published_at": "2015-05-05T21:03:10.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Shakespeare in Blood",
+          "key": "1N6u4WeDggQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69ab9117721d7754b88faf3b",
+          "published_at": "2015-04-03T16:01:48.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Poopy",
+          "key": "cb2B8hiN_SI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69ab90e37239fd7b3d43ef70",
+          "published_at": "2015-04-03T16:01:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Surprise, Cindy!",
+          "key": "q35Q53G71iE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69ab90f5c0641f016843efa3",
+          "published_at": "2015-04-03T16:01:47.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Wazzup?",
+          "key": "kvURnct48mc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69ab90cb849e460ea0aa848d",
+          "published_at": "2014-11-18T23:00:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Miss Teen",
+          "key": "UowLPaLNZ8Y",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69ab915341980620a3ca9580",
+          "published_at": "2014-11-18T20:22:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "LPI47v23wo0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "533ec65ec3a3685448000e67",
+          "published_at": "2013-11-20T13:26:45.000Z"
+        }
+      ]
+    }
+  }
+}

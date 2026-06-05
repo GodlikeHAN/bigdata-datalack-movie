@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 578883,
-  "ingestion_time_utc": "2026-06-03T18:31:59.477679+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:46.128698+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/sR1K7ysoHOyFLLeAHGSSPAjw0gU.jpg",
@@ -27,7 +27,7 @@
     "original_language": "ja",
     "original_title": "スチュワーデス・スキャンダル　獣のように抱きしめて",
     "overview": "Four female flight attendants embark on some salacious misadventures: A few go to a company singles party to cavort with some pilots, while the lovely Misako embarks on an adventure all her own after meeting a street fortune teller...",
-    "popularity": 39.3038,
+    "popularity": 36.2606,
     "poster_path": "/gZuLbAy3EjHJeizXYnmDyekgCM5.jpg",
     "production_companies": [
       {

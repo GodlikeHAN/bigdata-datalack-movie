@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt27613895",
-  "ingestion_time_utc": "2026-06-03T18:32:26.767233+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:04.957390+00:00",
   "data": {
     "Title": "GOAT",
     "Year": "2026",

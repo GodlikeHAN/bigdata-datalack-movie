@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt0293429",
-  "ingestion_time_utc": "2026-06-03T18:32:39.165993+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:17.207099+00:00",
   "data": {
     "Title": "Mortal Kombat",
     "Year": "2021",

@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 157336,
-  "ingestion_time_utc": "2026-06-03T18:31:56.208063+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.020187+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/2ssWTSVklAEc98frZUQhgtGHx7s.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "Interstellar",
     "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
-    "popularity": 72.7369,
+    "popularity": 68.6696,
     "poster_path": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
     "production_companies": [
       {
@@ -79,7 +79,7 @@
     "title": "Interstellar",
     "video": false,
     "vote_average": 8.476,
-    "vote_count": 39895,
+    "vote_count": 39901,
     "videos": {
       "results": [
         {

@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt16288638",
+  "ingestion_time_utc": "2026-06-05T14:08:28.014616+00:00",
+  "data": {
+    "Title": "L'homme inconnu",
+    "Year": "2021",
+    "Rated": "N/A",
+    "Released": "16 Oct 2021",
+    "Runtime": "23 min",
+    "Genre": "Short, Drama",
+    "Director": "Anthony Schatteman",
+    "Writer": "Anthony Schatteman",
+    "Actors": "Geert Van Rampelberg, Samuel Suchod, Anna Sacuto",
+    "Plot": "N/A",
+    "Language": "Dutch, French",
+    "Country": "Belgium, France",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzQ2MDg0YzQtNDA4Ni00YjI0LWEzOWQtYjIyZTg5Zjg0ZjZjXkEyXkFqcGdeQXVyMTMwNjQxNDU1._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.0",
+    "imdbVotes": "53",
+    "imdbID": "tt16288638",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

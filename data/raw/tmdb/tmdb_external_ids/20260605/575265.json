@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 575265,
+  "ingestion_time_utc": "2026-06-05T14:07:59.290354+00:00",
+  "data": {
+    "id": 575265,
+    "imdb_id": "tt9603208",
+    "wikidata_id": "Q61876374",
+    "facebook_id": "MissionImpossible",
+    "instagram_id": "missionimpossible",
+    "twitter_id": "MissionFilm"
+  }
+}

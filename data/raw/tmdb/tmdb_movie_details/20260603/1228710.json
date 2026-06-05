@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1228710,
-  "ingestion_time_utc": "2026-06-03T18:31:55.283658+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.640406+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
@@ -31,7 +31,7 @@
     "original_language": "en",
     "original_title": "The Mandalorian and Grogu",
     "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-    "popularity": 144.93,
+    "popularity": 132.8695,
     "poster_path": "/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
     "production_companies": [
       {
@@ -68,10 +68,142 @@
     "tagline": "If you're searching for new adventure, \"this is the way.\"",
     "title": "The Mandalorian and Grogu",
     "video": false,
-    "vote_average": 6.854,
-    "vote_count": 377,
+    "vote_average": 6.858,
+    "vote_count": 379,
     "videos": {
       "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Now Playing in Theaters",
+          "key": "4C14bOV4TCA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a20eaff6d34b849c6a69353",
+          "published_at": "2026-06-03T17:30:26.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Sacrifice IMAX",
+          "key": "DwB0x0Mbp5U",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a20e820e611941d51fa4158",
+          "published_at": "2026-06-03T13:15:25.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Grogu Behind the Scenes",
+          "key": "s-NlCeKlZL0",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a20eaed6d34b849c6a6934b",
+          "published_at": "2026-06-02T21:07:16.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Treachery",
+          "key": "n5WDS9ZNEj4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a20eada5c19481b67ad5865",
+          "published_at": "2026-05-31T18:00:36.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "IMAX Mystery",
+          "key": "rgcp8db6_lM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a20e897b84209898195e299",
+          "published_at": "2026-05-31T04:00:42.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Cheering",
+          "key": "rCYQMk1aRr8",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a20eabf1e4df5e798a69405",
+          "published_at": "2026-05-30T15:00:02.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Paid - IMAX",
+          "key": "lj8iwPhVxn4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a20e8ba076f37e5ee95e37b",
+          "published_at": "2026-05-30T07:00:22.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Grogu Blue Milk",
+          "key": "7f5ZDQeAbDk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a20eaaef321518e69a691c5",
+          "published_at": "2026-05-29T21:09:22.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Mouse Droid BTS",
+          "key": "zgw2jhqBBFU",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a20ea9df497f960a4ad577b",
+          "published_at": "2026-05-29T20:31:59.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Journey",
+          "key": "ccEuN0UkCLo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a20ea89cdf391b67fad589c",
+          "published_at": "2026-05-29T19:00:25.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Tickets - In Cinemas Now",
+          "key": "xaDA_vQI5t4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a20e955e6c47b880795e3f0",
+          "published_at": "2026-05-29T04:00:38.000Z"
+        },
         {
           "iso_639_1": "en",
           "iso_3166_1": "US",
@@ -83,6 +215,66 @@
           "official": true,
           "id": "6a1d75495377bc569e480c52",
           "published_at": "2026-05-28T14:00:00.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "IMAX",
+          "key": "4B_3IN_MPfc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a20e9c060f93f3f4319a268",
+          "published_at": "2026-05-28T04:00:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Goodbye",
+          "key": "3Eyh3AIiFnI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a20e9a92706e683f5ad5765",
+          "published_at": "2026-05-27T12:00:27.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "IMAX Review",
+          "key": "DZFxFLfd2_4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a20e9722706e683f5ad575f",
+          "published_at": "2026-05-27T10:00:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "IMAX Tickets",
+          "key": "30hBaGevXDA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a20ea092a153c69ac98739f",
+          "published_at": "2026-05-27T04:00:28.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "#1 Movie",
+          "key": "lcUViCsQDrs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a20ea5ab9b49508abd4334c",
+          "published_at": "2026-05-26T10:00:33.000Z"
         },
         {
           "iso_639_1": "en",
@@ -803,6 +995,18 @@
           "official": true,
           "id": "6a064912c887ebd8e82dd830",
           "published_at": "2026-05-14T20:59:21.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Cooking with Roy Choi",
+          "key": "fwqguHvfG2Y",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a20ebbccdf391b67fad58c4",
+          "published_at": "2026-05-14T17:00:05.000Z"
         },
         {
           "iso_639_1": "en",

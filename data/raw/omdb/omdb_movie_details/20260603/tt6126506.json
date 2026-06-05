@@ -2,7 +2,7 @@
   "source": "omdb",
   "entity": "omdb_movie_details",
   "imdb_id": "tt6126506",
-  "ingestion_time_utc": "2026-06-03T18:32:39.297869+00:00",
+  "ingestion_time_utc": "2026-06-04T09:31:17.340927+00:00",
   "data": {
     "Title": "Wild Awakening",
     "Year": "2016",

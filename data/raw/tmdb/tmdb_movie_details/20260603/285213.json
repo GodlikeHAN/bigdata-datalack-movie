@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 285213,
-  "ingestion_time_utc": "2026-06-03T18:32:00.588968+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.118442+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/8UfYtyCeWGbhfyyq0u0xYwEYaZb.jpg",
@@ -40,7 +40,7 @@
     "original_language": "ko",
     "original_title": "해적: 바다로 간 산적",
     "overview": "At the cusp of the founding of Joseon Dynasty, an envoy from China is delivering Emperor’s Ming’s Royal Seal. But nature in the form of a giant whale intervenes and swallows the royal seal.  When a generous reward is offered to whomever can retrieve the royal seal from the belly of the whale, the race is on. A group of mountain bandits led by Jang Sa Jung and a group of pirates led by Yeo Wol  go after the lost treasure, but who will get to to it first?",
-    "popularity": 28.0621,
+    "popularity": 28.1791,
     "poster_path": "/4qU1SW1b2Txf3Ge9rGlddDthSgx.jpg",
     "production_companies": [
       {

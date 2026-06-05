@@ -1,0 +1,282 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1122573,
+  "ingestion_time_utc": "2026-06-05T12:33:35.738967+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/oBft4BZeoDQzTT9ZGijClr76qvK.jpg",
+    "belongs_to_collection": null,
+    "budget": 70000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.inthegrey.film",
+    "id": 1122573,
+    "imdb_id": "tt27681354",
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "In the Grey",
+    "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+    "popularity": 203.7507,
+    "poster_path": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+    "production_companies": [
+      {
+        "id": 184518,
+        "logo_path": "/lOouI8ibBzhLI4qvku74FPUVT8t.png",
+        "name": "C2 Motion Picture Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 2900,
+        "logo_path": "/9LbR5s0UDvDKvDJWXeq3zeukzEP.png",
+        "name": "Toff Guy Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 22146,
+        "logo_path": "/v37N1mFeXNQfvPankg3feBhVvM7.png",
+        "name": "Black Bear Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-05-13",
+    "revenue": 13478954,
+    "runtime": 97,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "When billions get stolen, meet the pros who steal it back.",
+    "title": "In the Grey",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 123,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Coming Home",
+          "key": "qxGDSg0atVc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a1f07cfa83e7c569f6cbdbe",
+          "published_at": "2026-06-02T16:01:11.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Motion Poster",
+          "key": "D31dl-1Tb0g",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a12017b22e9fc77556ef63b",
+          "published_at": "2026-05-23T19:00:20.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Day in the Life",
+          "key": "e_M6s0ZUWbQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0e1cc38198b4b35fd0c47d",
+          "published_at": "2026-05-20T18:30:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Scrolling Stakes",
+          "key": "IyTgwNFGMvw",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0b47885e633e99977a2daa",
+          "published_at": "2026-05-18T16:00:31.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "henry on jake",
+          "key": "Yeh9ZtsqpTk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a09fa3a8efe791da9db2e6e",
+          "published_at": "2026-05-17T16:19:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "jake on henry",
+          "key": "KE7g7W-BpHM",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a09e6716ab2ef7ee1ee4708",
+          "published_at": "2026-05-17T15:23:09.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Working In The Grey",
+          "key": "wOEB1olDKMA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a078298753f3b275e370b85",
+          "published_at": "2026-05-15T20:17:53.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "surprise screening",
+          "key": "8I1_PKl_DNI",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "6a075b76e7608c54885a735b",
+          "published_at": "2026-05-15T15:03:35.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "in the grey is",
+          "key": "az2FS-dKOos",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0076a3aae8008880222095",
+          "published_at": "2026-05-09T00:16:52.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Eiza BTS",
+          "key": "j_z2hjXdtKQ",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a007674a60df23fb4a8d55a",
+          "published_at": "2026-05-06T01:37:54.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Action",
+          "key": "qmsSxiFuyHE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "6a007626c646beecc1f883c4",
+          "published_at": "2026-05-06T01:37:49.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Riffing The Details",
+          "key": "MM08M15LvXk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a0075d7402a0f6b4aed7d90",
+          "published_at": "2026-05-05T01:19:30.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "That One Coworker",
+          "key": "dkZZoMvRjFc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a007573b691196edbec20b4",
+          "published_at": "2026-05-05T01:16:45.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Clear On The Plan",
+          "key": "MdD-8fROXhs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "6a007556c646beecc1f883a0",
+          "published_at": "2026-05-05T01:14:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "\"Steal Every Inch\" Clip",
+          "key": "v-S7YnQIB4E",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Clip",
+          "official": true,
+          "id": "69c5b6a753f6c3da9603d22a",
+          "published_at": "2026-03-18T15:00:13.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "nufP15iN4GE",
+          "site": "YouTube",
+          "size": 2160,
+          "type": "Trailer",
+          "official": true,
+          "id": "69aee92e298a782c454eb772",
+          "published_at": "2026-03-09T15:03:06.000Z"
+        }
+      ]
+    }
+  }
+}

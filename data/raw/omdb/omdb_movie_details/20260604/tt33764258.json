@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt33764258",
+  "ingestion_time_utc": "2026-06-05T12:34:31.835185+00:00",
+  "data": {
+    "Title": "The Odyssey",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "17 Jul 2026",
+    "Runtime": "N/A",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "Christopher Nolan",
+    "Writer": "Christopher Nolan, Homer",
+    "Actors": "Matt Damon, Tom Holland, Anne Hathaway",
+    "Plot": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Circe along the way.",
+    "Language": "English",
+    "Country": "United Kingdom, United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2MyYjk2MWMtODMyZS00MDUyLWE0OGQtOTQ3MGY0MDE0ZjVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt33764258",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 1368881,
+  "ingestion_time_utc": "2026-06-05T12:33:44.912681+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "homepage": "https://www.netflix.com/title/81001524",
+    "id": 1368881,
+    "imdb_id": "tt34611082",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Ladies First",
+    "overview": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
+    "popularity": 58.1079,
+    "poster_path": "/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
+    "production_companies": [
+      {
+        "id": 123420,
+        "logo_path": "/hljaOO48h8RAnB6vsVyQ65DFkGP.png",
+        "name": "3dot Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 178464,
+        "logo_path": "/tyHnxjQJLH6h4iDQKhN5iqebWmX.png",
+        "name": "Netflix",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2026-05-21",
+    "revenue": 0,
+    "runtime": 94,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Ladies First",
+    "video": false,
+    "vote_average": 6.048,
+    "vote_count": 259,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "yeetI2DfbaE",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69e0fbb871bf30ccfdb4d35b",
+          "published_at": "2026-04-16T14:30:02.000Z"
+        }
+      ]
+    }
+  }
+}

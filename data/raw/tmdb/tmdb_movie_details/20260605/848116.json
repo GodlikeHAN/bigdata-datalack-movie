@@ -1,0 +1,272 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_movie_details",
+  "tmdb_id": 848116,
+  "ingestion_time_utc": "2026-06-05T14:07:41.473523+00:00",
+  "data": {
+    "adult": false,
+    "backdrop_path": "/61RYedFgX1K07xgVIvdJzukSR4g.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "https://www.amazon.com/gp/video/detail/B0CH1Y9VX4/ref=atv_dp_share_cu_r",
+    "id": 848116,
+    "imdb_id": "tt14993250",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_title": "रॉकी और रानी की प्रेम कहानी",
+    "overview": "Gym-freak brat Rocky falls in love with Rani, who comes from a well-educated Bengali family. Being from polar opposite worlds, the two decide to switch their families to adjust to each other's cultures and backgrounds and to know if their marriage will survive. Rocky and Rani are trapped in a world where they are united by love but divided by families and the ultimate question is will they fit in?",
+    "popularity": 58.8569,
+    "poster_path": "/vTQIqlxUkOuyf2UKhlM2OUaFGKz.jpg",
+    "production_companies": [
+      {
+        "id": 19146,
+        "logo_path": "/5Ff25ornzVNhm5skuAvMAR556NB.png",
+        "name": "Dharma Productions",
+        "origin_country": "IN"
+      },
+      {
+        "id": 6808,
+        "logo_path": "/xa1Yz7B5eRC2F9oHA6mDn8NE6ci.png",
+        "name": "Viacom18 Studios",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2023-07-28",
+    "revenue": 0,
+    "runtime": 178,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Bengali",
+        "iso_639_1": "bn",
+        "name": "বাংলা"
+      },
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "The power of family will decide the fate of love",
+    "title": "Rocky Aur Rani Kii Prem Kahaani",
+    "video": false,
+    "vote_average": 6.142,
+    "vote_count": 88,
+    "videos": {
+      "results": [
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "The heated conversation",
+          "key": "exFYs3ZH00o",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "696e7e1d70e15c51f07faa1d",
+          "published_at": "2025-08-24T13:18:17.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "2 Years of Rocky Aur Rani Kii Prem Kahaani",
+          "key": "fSCoMtZb4ck",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Featurette",
+          "official": true,
+          "id": "69d8b0a1fc4186a18a0dbe4f",
+          "published_at": "2025-07-28T04:53:43.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Women celebrating women!",
+          "key": "jjAw7vY-Bwk",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69d8a9fdeec40b1f865d201c",
+          "published_at": "2025-03-07T14:21:07.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Uncle जी को Madhuri चढ़ गई है",
+          "key": "iIvoKyf1nD4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69d8aa553004b2061a0dbe3c",
+          "published_at": "2024-07-25T13:00:49.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "क्या Rocky-Rani घरवालों को समझा पाएंगे ?",
+          "key": "3oWeS-28Y9k",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69d8ae3f98cf4c9cf25d216d",
+          "published_at": "2024-07-24T13:00:03.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Rani Loves Me! Rani Loves Me Not !",
+          "key": "zYaXwHTpOdo",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69d8ae0590d10e39d187bbc3",
+          "published_at": "2024-07-23T11:33:48.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "क्या Jamini Chatter ज़िंदा है की dead होगई",
+          "key": "Zr0RSvZoDVs",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69d8add76d43e242820dc084",
+          "published_at": "2024-07-21T13:30:24.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "जब Rocky मिला Rani से !!! ❤️",
+          "key": "pwiOhaYicX4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69d8ae623f6e01833d127316",
+          "published_at": "2024-07-20T12:30:37.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ranveer Singh & Alia Bhatt switch characters",
+          "key": "DkJm1P4-rr4",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Behind the Scenes",
+          "official": true,
+          "id": "69d8aead0545841cd67f25a9",
+          "published_at": "2023-09-23T08:30:08.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "Ah_AMkoaLWA",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69d8aeeb24a72131591235cd",
+          "published_at": "2023-09-23T03:01:40.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "tKlXJUoBW40",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "69d8af3f98cf4c9cf25d2178",
+          "published_at": "2023-09-22T10:01:01.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Ranveer Singh's Monologue",
+          "key": "1h51CQwKU2k",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Clip",
+          "official": true,
+          "id": "69d8aa33e399a6c306127337",
+          "published_at": "2023-09-16T08:41:55.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Bloopers",
+          "key": "Xg_-4d07M2o",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Bloopers",
+          "official": true,
+          "id": "69d8a991736aa1d8d9bfef04",
+          "published_at": "2023-08-14T12:36:10.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Trailer",
+          "key": "LHm2RyKo0_M",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Trailer",
+          "official": true,
+          "id": "695156ba9f1660edade40fc0",
+          "published_at": "2023-07-05T17:10:06.000Z"
+        },
+        {
+          "iso_639_1": "en",
+          "iso_3166_1": "US",
+          "name": "Official Teaser",
+          "key": "WqgXEZkgHrc",
+          "site": "YouTube",
+          "size": 1080,
+          "type": "Teaser",
+          "official": true,
+          "id": "69515741678196e6c77c70ba",
+          "published_at": "2023-06-21T06:51:20.000Z"
+        }
+      ]
+    }
+  }
+}

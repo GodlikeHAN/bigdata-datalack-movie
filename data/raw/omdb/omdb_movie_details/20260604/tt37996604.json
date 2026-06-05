@@ -1,0 +1,33 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt37996604",
+  "ingestion_time_utc": "2026-06-05T12:34:35.157543+00:00",
+  "data": {
+    "Title": "Chai Wala",
+    "Year": "2025",
+    "Rated": "N/A",
+    "Released": "N/A",
+    "Runtime": "N/A",
+    "Genre": "Drama",
+    "Director": "Pramod Harsha",
+    "Writer": "N/A",
+    "Actors": "Shiva Kandukuri, Rajeev Kanakala, Teju Ashwini",
+    "Plot": "N/A",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDc5YTQ5NjQtMzgyZC00NWYzLWFjZjMtZmZmZGIyZjM3MDNkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt37996604",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

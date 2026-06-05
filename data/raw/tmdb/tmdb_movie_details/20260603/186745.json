@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 186745,
-  "ingestion_time_utc": "2026-06-03T18:31:55.611446+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:44.691894+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/xGJT18qN8lzELAnHRyfoe1vLTiI.jpg",
@@ -23,7 +23,7 @@
     "original_language": "fr",
     "original_title": "L'Amour violé",
     "overview": "Nicole, nurse in Grenoble, is raped one night by four men. Deeply scarred, emotionally and physically, she thinks she will never recover from the trauma. Following a friend's advice, she decides to file a lawsuit.",
-    "popularity": 123.8343,
+    "popularity": 144.9266,
     "poster_path": "/qVGL9xgGCzXtRwexUTmpz7z1MVg.jpg",
     "production_companies": [
       {

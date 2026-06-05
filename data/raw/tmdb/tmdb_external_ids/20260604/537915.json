@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 537915,
+  "ingestion_time_utc": "2026-06-05T12:34:02.051804+00:00",
+  "data": {
+    "id": 537915,
+    "imdb_id": "tt4126476",
+    "wikidata_id": "Q55815471",
+    "facebook_id": null,
+    "instagram_id": "aftermovie",
+    "twitter_id": null
+  }
+}

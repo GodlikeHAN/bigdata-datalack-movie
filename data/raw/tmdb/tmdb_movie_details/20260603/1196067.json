@@ -2,7 +2,7 @@
   "source": "tmdb",
   "entity": "tmdb_movie_details",
   "tmdb_id": 1196067,
-  "ingestion_time_utc": "2026-06-03T18:31:56.970159+00:00",
+  "ingestion_time_utc": "2026-06-04T09:30:45.470174+00:00",
   "data": {
     "adult": false,
     "backdrop_path": "/gMItMzDOyrfQGZsMWRM9tdxq5cV.jpg",
@@ -31,8 +31,8 @@
     "original_language": "en",
     "original_title": "Worldbreaker",
     "overview": "Five years ago, a tear in the fabric of reality brought creatures to our world from an alternate dimension bent on our destruction. A father hides his daughter on an island to keep her safe while he prepares her for survival and the battles to come. But when the world is about to break, no place is safe.",
-    "popularity": 54.768,
-    "poster_path": "/ahj1JU8r0uJv7QII5Uj7tKzbEsC.jpg",
+    "popularity": 48.387,
+    "poster_path": "/nWHx1vchbmLU3HTEJSAiBgpWPqn.jpg",
     "production_companies": [
       {
         "id": 104678,
@@ -84,8 +84,8 @@
     "tagline": "The future belongs to those who fight.",
     "title": "Worldbreaker",
     "video": false,
-    "vote_average": 6.028,
-    "vote_count": 198,
+    "vote_average": 6.0,
+    "vote_count": 199,
     "videos": {
       "results": [
         {

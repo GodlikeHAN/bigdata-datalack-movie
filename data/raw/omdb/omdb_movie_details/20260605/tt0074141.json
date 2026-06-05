@@ -1,0 +1,38 @@
+{
+  "source": "omdb",
+  "entity": "omdb_movie_details",
+  "imdb_id": "tt0074141",
+  "ingestion_time_utc": "2026-06-05T14:08:18.380437+00:00",
+  "data": {
+    "Title": "Rape of Love",
+    "Year": "1978",
+    "Rated": "N/A",
+    "Released": "11 Jan 1978",
+    "Runtime": "115 min",
+    "Genre": "Drama",
+    "Director": "Yannick Bellon",
+    "Writer": "Yannick Bellon",
+    "Actors": "Nathalie Nell, Alain Fourès, Michèle Simonnet",
+    "Plot": "Nicole, nurse in Grenoble, is raped one night by four men. Deeply scarred, emotionally and physically, she thinks she will never recover from the trauma. Following a friend's advice, she decides to file a lawsuit.",
+    "Language": "French",
+    "Country": "France, Belgium",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmJhMTVmMDQtMmVmMC00ZmFjLThlNGItNzliNDFmMGZhY2ZhXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.5",
+    "imdbVotes": "233",
+    "imdbID": "tt0074141",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}

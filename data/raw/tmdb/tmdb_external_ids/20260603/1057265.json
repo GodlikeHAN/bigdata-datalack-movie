@@ -1,0 +1,14 @@
+{
+  "source": "tmdb",
+  "entity": "tmdb_external_ids",
+  "tmdb_id": 1057265,
+  "ingestion_time_utc": "2026-06-04T09:30:52.964820+00:00",
+  "data": {
+    "id": 1057265,
+    "imdb_id": "tt23865918",
+    "wikidata_id": "Q133573186",
+    "facebook_id": null,
+    "instagram_id": "peddimovie",
+    "twitter_id": "PeddiMovieOffl"
+  }
+}
