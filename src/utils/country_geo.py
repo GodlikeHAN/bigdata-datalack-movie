@@ -1,8 +1,5 @@
 from __future__ import annotations
 
-
-# Approximate country centroids for geo_point indexing. The pipeline still keeps
-# the original TMDB country name/code; this is only for map placement.
 COUNTRY_CENTROIDS: dict[str, tuple[float, float]] = {
     "AE": (23.4241, 53.8478),
     "AR": (-38.4161, -63.6167),

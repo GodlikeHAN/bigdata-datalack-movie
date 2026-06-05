@@ -125,9 +125,6 @@ def sample_country_point(country_code: str | None, stable_key: object, sequence:
         center = country_geometry.representative_point()
     random_generator = random.Random(_seed_value(country_code, stable_key, sequence))
 
-    # Bias points toward the country interior instead of uniformly filling the
-    # whole bounding box. The radius expands gradually so small or thin countries
-    # still produce a valid in-polygon point.
     for attempt in range(1200):
         phase = 1 + attempt // 180
         lon_sigma = width * min(0.045 * phase, 0.24)
